@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Testing
 ---
 
-Hello world!
-
-Write some words here!
+I did this all from my desktop
