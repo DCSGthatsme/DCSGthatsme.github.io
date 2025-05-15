@@ -7,15 +7,13 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   //footer: Component.Footer({links: {GitHub: "https://github.com/jackyzha0/quartz", "Discord Community": "https://discord.gg/cRFFHYye7t",},}),
-  footer: Component.Footer({}),
+  footer: Component.Footer(Component.Breadcrumbs()),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-    Component.Breadcrumbs(),
-	Component.Spacer(),
     //Component.ContentMeta(),
     Component.TagList(),
   ],
