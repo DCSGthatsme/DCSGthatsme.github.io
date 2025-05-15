@@ -152,7 +152,7 @@ Novice<br>Active. With a Resolve test, the mystic steers the light towards a tar
 
 Adept<br>Active. With a successful Resolve test, the mystic can let the light pass over all enemies in sight. The burning energy deals 1D8 damage, 1D12 on abominations and undead.
 
-Master<br>Active. With a Resolve test the mystic can let his or her inner light shine over all nearby enemies, dealing 1D8 damage, increased to 1D12 if the enemies are abominations or undead. The mystic can also stun all thoroughly corrupt and undead enemies for one turn if he or she succeeds with a \[Resolve←Resolve\] test.
+Master<br>Active. With a Resolve test the mystic can let their inner light shine over all nearby enemies, dealing 1D8 damage, increased to 1D12 if the enemies are abominations or undead. The mystic can also stun all thoroughly corrupt and undead enemies for one turn if they succeed with a \[Resolve←Resolve\] test.
 
 ## Channeling
 `APG, originally a non-Mystical Ability`
@@ -165,7 +165,7 @@ Novice<br>Reaction. The character can choose to receive temporary corruption tha
 
 Adept<br>Reaction. The character gets a second chance when rolling for corruption and in situations when receiving corruption for someone else. The character may accept the higher or lower outcome depending on what is more favorable; combined with the master level in Channeling the higher outcome is better, in all other cases the lower outcome is preferable.
 
-Master<br>Reaction. The character can pass corruption on to someone else; this is true for all forms of corruption he or she suffers, no matter the source. With a successful \[Resolve←Resolve\] test, corruption suffered is transferred to a target in sight. If the test fails, the master still only suffers half of the corruption (rounded up), while the rest leaks out into the surrounding area, making plants wither and the ground darken.
+Master<br>Reaction. The character can pass corruption on to someone else; this is true for all forms of corruption they suffer, no matter the source. With a successful \[Resolve←Resolve\] test, corruption suffered is transferred to a target in sight. If the test fails, the master still only suffers half of the corruption (rounded up), while the rest leaks out into the surrounding area, making plants wither and the ground darken.
 
 ## Confusion
 Material: A couple of drops of wine.
@@ -199,7 +199,7 @@ The earth is bound by roots, while objects above ground are often covered by vin
 
 Novice<br>Active. By rolling a successful Resolve test, the mystic calls forth entangling vines or roots from out of the earth and can ensnare an enemy. The ensnared creature cannot move but can use ranged weapons and powers. The creature is ensnared until the mystic fails a \[Resolve←Might\] test, starting the following turn.
 
-Adept<br>Active. The mystic can ensnare a Chain of creatures. If the mystic manages to ensnare a target with a successful Resolve test, then he or she can attempt to snare another one, and so on until an attempt fails. Starting the following turn, a \[Resolve←Might\] test is made for each target to determine how many of them remain ensnared.
+Adept<br>Active. The mystic can ensnare a Chain of creatures. If the mystic manages to ensnare a target with a successful Resolve test, then they can attempt to snare another one, and so on until an attempt fails. Starting the following turn, a \[Resolve←Might\] test is made for each target to determine how many of them remain ensnared.
 
 Master<br>Active. The mystic creates an entangling Chain of thorns. Those ensnared with a \[Resolve←Might\] test also suffers 1D6 damage per turn from their thorny prison. The sharp thorns find gaps in the targets armor, so any Armor is ignored.
 
@@ -236,7 +236,7 @@ There is a gap between the world and the perception of it. The mystic can use th
 
 Novice<br>Reaction. The mystic can make a Resolve test once per turn to make a correction of reality – if successful the mystic may re-roll a failed Defense test.
 
-Adept<br>Reaction. Once per turn, the mystic can make a Resolve test in order to correct something that happened to him or her. This means that any test that somehow affected the mystic can be re-rolled.
+Adept<br>Reaction. Once per turn, the mystic can make a Resolve test in order to correct something that happened to them. This means that any test that somehow affected the mystic can be re-rolled.
 
 Master<br>Reaction. Once per turn, the mystic can make a Resolve test in order to correct reality for someone else. This means that any one test that affected the intended target in any way may be re-rolled.
 
@@ -284,7 +284,7 @@ The binding force of the world can be manipulated, and with that insight the mys
 
 Novice<br>Active. With a successful Resolve test the mystic can soar over the battlefield, out of reach of melee weapons. The mystic can move a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic stays floating in the air until the mystic breaks concentration or the scene ends. If concentration is broken the mystic falls to the ground and suffers 1D6 damage, ignoring any Armor the mystic might be wearing.
 
-Adept<br>Active. With a passed \[Resolve←Might\] test the mystic can levitate an ally and let him or her soar over the battlefield out of reach of the enemies' melee weapons. The mystic can move the soaring ally a distance equal to one stride per turn while it is levitating. Ranged attacks and flying enemies remain a problem. The mystic's ally stays soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken the ally falls to the ground and suffers 1D6 damage, ignoring Armor.
+Adept<br>Active. With a passed \[Resolve←Might\] test the mystic can levitate an ally and let them soar over the battlefield out of reach of the enemies' melee weapons. The mystic can move the soaring ally a distance equal to one stride per turn while it is levitating. Ranged attacks and flying enemies remain a problem. The mystic's ally stays soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken the ally falls to the ground and suffers 1D6 damage, ignoring Armor.
 
 Master<br>Active. The mystic can make itself and a Chain of allies \[Resolve←Might\] soar over the battlefield, out of reach of melee weapons. The mystic can move both itself and any soaring creature a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic and its allies stay soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken, they all float down to the ground without taking any damage.
 
@@ -324,7 +324,7 @@ Novice<br>Active. With a successful roll against Resolve the mystic can turn a t
 
 Adept<br>Active. The mystic no longer has to concentrate to keep the Maltransformation active; it is ongoing until the mystic fails a \[Resolve←Resolve\] test.
 
-Master<br>Active. The mystic can trigger a Chain of Maltransformations. If the mystic succeeds in transforming one target, he or she may attempt to transform another one, and so on until a transformation attempt fails. The Maltransformation is ongoing until the mystic fails a Resolve test, made each turn for each target.
+Master<br>Active. The mystic can trigger a Chain of Maltransformations. If the mystic succeeds in transforming one target, they may attempt to transform another one, and so on until a transformation attempt fails. The Maltransformation is ongoing until the mystic fails a Resolve test, made each turn for each target.
 
 ## Mind-throw
 Material: A glass pearl.
@@ -334,7 +334,7 @@ The mystic can use its mind to move and throw loose objects, or even enemies.
 
 Novice<br>Active/Reaction. The mystic can actively hurl objects in the surrounding area as weapons or use them reactively, to block incoming attacks. The mystic will have to make a \[Resolve←Agility\] test to attack this way and deals 1D8 damage if successful. If an object is used as a temporary shield, make a \[Resolve←Exactitude\] test to block incoming physical attacks or a \[Resolve←Resolve\] test for magic projectiles. The object is destroyed after one hit, either dealt or blocked.
 
-Adept<br>Active. The mystic is capable of using the power of his or her mind \[Resolve←Might\] to lift, and throw, an enemy. A thrown enemy lands a Movement Action away and suffers 1D8 damage. The enemy lands on its back, unless it makes a successful Agility test.
+Adept<br>Active. The mystic is capable of using the power of their mind \[Resolve←Might\] to lift, and throw, an enemy. A thrown enemy lands a Movement Action away and suffers 1D8 damage. The enemy lands on its back, unless it makes a successful Agility test.
 
 Master<br>Active. The mystic can throw a Chain of enemies if succeeding with a \[Resolve←Might\] test. The mystic starts with the first target and keeps making tests until one fails. The thrown enemies land a Movement Action away and suffer 1D8 damage. The enemies land on their back, unless they make a successful test against Agility.
 
@@ -344,7 +344,7 @@ Bond: Appreciation
 
 The deep soil of the world is a safe place for the mystic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from its enemies.
 
-Novice<br>Active. The mystic is able to sink into the earth if a successful Resolve test is made. There, the mystic is invulnerable but also unable to take any Actions. The mystic must succeed with another Resolve test each turn to remain in the safe bosom of the earth. If the mystic fails the test, then he or she is returned to the surface.
+Novice<br>Active. The mystic is able to sink into the earth if a successful Resolve test is made. There, the mystic is invulnerable but also unable to take any Actions. The mystic must succeed with another Resolve test each turn to remain in the safe bosom of the earth. If the mystic fails the test, then they are returned to the surface.
 
 Adept<br>Active. The mystic can use mystical powers on itself while in the earth and does not have to test Resolve in order to remain there.
 
@@ -368,7 +368,7 @@ Bond: Appreciation
 
 The mystic's understanding of the essence of nature makes it possible to take the form of beasts – a talent that the Shagaoia tribe is rumored to possess.
 
-Novice<br>Active. With a successful Resolve test, the mystic can take the form of a small beast (mammal or reptile); practical when wanting to escape or when scouting, but useless in combat. The mystic's Attributes remain unchanged but he or she may re-roll all Subtlety and Agility tests (including Defense). Also, enemies do not get any Free Attacks against the mystic when in beast form, even if it withdraws from melee combat or hurries past an enemy. The mystic does not have to test Resolve to remain in beast form, but has to pass a Resolve test to change back. For the duration of the transformation, the mystic counts as a beast. If the mystic becomes the victim of powers that affect beasts, then it may choose to remain in beast form – and hence suffer the effect of the power – or revert back to its original form.
+Novice<br>Active. With a successful Resolve test, the mystic can take the form of a small beast (mammal or reptile); practical when wanting to escape or when scouting, but useless in combat. The mystic's Attributes remain unchanged but they may re-roll all Subtlety and Agility tests (including Defense). Also, enemies do not get any Free Attacks against the mystic when in beast form, even if it withdraws from melee combat or hurries past an enemy. The mystic does not have to test Resolve to remain in beast form, but has to pass a Resolve test to change back. For the duration of the transformation, the mystic counts as a beast. If the mystic becomes the victim of powers that affect beasts, then it may choose to remain in beast form – and hence suffer the effect of the power – or revert back to its original form.
 
 Adept<br>Active. The mystic can assume the form of a battle beast (wild boar or wolf are most common). The beast form has the Attributes of the mystic but also gains the traits Armored (I) and Natural Weapon (I).
 
@@ -382,9 +382,9 @@ The mystic can ask the wind to lift and carry arrows towards its enemies.
 
 Novice<br>Active. The mystic enchants a handful of arrows (up to five) with a successful Resolve test. The arrows then float next to the mystic for the rest of the scene and can be fired, once per turn, as a Free Action (one arrow can be fired the same turn that the power is activated). The arrows hit their target automatically. Any quality or special ability that the arrow might have is added to the effect. The arrow normally deals 1D6 damage.
 
-Adept<br>Active. The arrows are enchanted as above, but in the hands of the adept mystic they now deal 1D8 damage. As a Combat Action, the mystic can send two arrows against either the same target or two different targets. If the mystic performs this Action, then he or she cannot fire another arrow as a Free Action.
+Adept<br>Active. The arrows are enchanted as above, but in the hands of the adept mystic they now deal 1D8 damage. As a Combat Action, the mystic can send two arrows against either the same target or two different targets. If the mystic performs this Action, then they cannot fire another arrow as a Free Action.
 
-Master<br>Active. The mystic can use a Combat Action to fire three arrows against one or separate targets. If the mystic performs this Action, then he or she cannot fire another arrow as a Free Action.
+Master<br>Active. The mystic can use a Combat Action to fire three arrows against one or separate targets. If the mystic performs this Action, then they cannot fire another arrow as a Free Action.
 
 ## True Form
 Material: A pupa.
@@ -392,7 +392,7 @@ Bond: Captivation, Exaltation
 
 The mystic has spent many long nights closely studying lies and false guises, and is capable of making the surrounding world reveal its true nature.
 
-Novice<br>Reaction. With a \[Resolve←Resolve\] test, the mystic's clarity allows him or her to see through every illusion, transformation or any other effect within sight that hides the true form of things. Revealed illusions disappear, while transformations remain intact, although the mystic can see what is behind them.
+Novice<br>Reaction. With a \[Resolve←Resolve\] test, the mystic's clarity allows them to see through every illusion, transformation or any other effect within sight that hides the true form of things. Revealed illusions disappear, while transformations remain intact, although the mystic can see what is behind them.
 
 Adept<br>Active. With a \[Resolve←Resolve\] test, the mystic can make a Chain of creatures return to their true form. If the first attempt succeeds the mystic can make another attempt for the next creature, and so on until a test is failed. Nothing stops the creatures from transforming again, though.
 

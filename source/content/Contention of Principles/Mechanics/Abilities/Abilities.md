@@ -33,7 +33,7 @@ Master<br>Passive. The armored mystic has transcended the limitations of the arm
 `APG`
 In the chaos of the battlefield, archers sometimes find themselves dragged into the melee. To handle this, techniques on how to use ranged weapons at close range have been developed. This ability may be used with any kind of bow or crossbow.
 
-Novice<br>Reaction. As a reaction to a melee attack against him or her, the character can draw an arrow and use it to stab an enemy. The character must succeed with a normal attack roll against the enemy; a successful hit deals 1D6 damage and the qualities of the projectile (if any) are counted.
+Novice<br>Reaction. As a reaction to a melee attack against them, the character can draw an arrow and use it to stab an enemy. The character must succeed with a normal attack roll against the enemy; a successful hit deals 1D6 damage and the qualities of the projectile (if any) are counted.
 
 Adept<br>Reaction. Like the novice level, but 1D8 damage.
 
@@ -80,7 +80,7 @@ Feared barbarian warriors have developed the practice of working themselves into
 
 Novice<br>Free. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 1D6 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend itself properly. The attribute on which Defense is based, is considered to be 5 when calculating Defense.
 
-Adept<br>Reaction. The rage is like armor to the character. He or she ignores 1D4 damage from each hit suffered while in a berserker rage.
+Adept<br>Reaction. The rage is like armor to the character. They ignore 1D4 damage from each hit suffered while in a berserker rage.
 
 Master<br>Free. The character has managed to harness its rage without losing any of its power. The character can utilize this capacity to both deal and ignore extra damage, while still being able to defend itself as normal.
 
@@ -88,7 +88,7 @@ Master<br>Free. The character has managed to harness its rage without losing any
 `APG`
 Most tribes have their blacksmiths, which says something about their importance.
 
-The cost of crafting objects is half of the listed price and if the blacksmith later sells the item, he or she gets the list price in payment. In other words, the profit made by the blacksmith is half the listed price.
+The cost of crafting objects is half of the listed price and if the blacksmith later sells the item, they get the list price in payment. In other words, the profit made by the blacksmith is half the listed price.
 
 This ability may be used once per adventure, preferably during a quiet interlude (or between adventures if that seems more reasonable). Should the item be of a consumable nature (like arrows or bolts), the blacksmith can forge 10 copies at a time.
 
@@ -125,7 +125,7 @@ The character knows special self-defense techniques of a more "dirty" variety.
 
 Novice<br>Active. Cheap Shots like a headbutt or nut shot come naturally to the character in stressful situations. Such an attack deals 1D6 damage, and if the opponent is damaged the character also gains a Free Attack against them.
 
-Adept<br>Reaction. The character performs a normal melee attack and if it deals damage, he or she adds a trip or a tackle. Such a maneuver knocks the opponent to the ground if the character succeeds with a \[Wit←Agility\] test.
+Adept<br>Reaction. The character performs a normal melee attack and if it deals damage, they add a trip or a tackle. Such a maneuver knocks the opponent to the ground if the character succeeds with a \[Wit←Agility\] test.
 
 Master<br>Reaction. Every enemy who engages the character in melee suffers a bloody riposte dealing 1D6 damage directly after its attack. The riposte always hits a weak spot and consequently ignores any armor.
 
@@ -170,7 +170,7 @@ Novice<br>Passive. The character can handle taking a beating and counts Toughnes
 
 Adept<br>Reaction. The character grows stronger by suffering damage. When the character's Toughness is halved, they have a second chance to pass all tests against Might, including attacks rolled against Might.
 
-Master<br>Reaction. The character grows even stronger when severely damaged. When the character's Toughness is halved, he or she deals +1D4 melee damage, in addition to the effect mentioned at the adept level.
+Master<br>Reaction. The character grows even stronger when severely damaged. When the character's Toughness is halved, they deal +1D4 melee damage, in addition to the effect mentioned at the adept level.
 
 ## Feint
 Persons and creatures that lack the will or strength to wield heavy melee weapons have instead developed techniques for feinting. This ability demands a weapon with either the Short or the Precise quality. Thanks to the skill of the character, these weapons can be handled in a both discreet and confusing manner.
@@ -396,7 +396,7 @@ Archers in Ambria and Davokar have developed techniques for rapid firing. In ess
 
 The ability requires that some kind of bow be used in combat.
 
-Novice<br>Active. The character can sacrifice his or her movement action to fire a second arrow, two in total. This may only be done if the combat action is also used for firing a bow. The arrows are rolled separately and may (but do not have to) be aimed at the same target.
+Novice<br>Active. The character can sacrifice their movement action to fire a second arrow, two in total. This may only be done if the combat action is also used for firing a bow. The arrows are rolled separately and may (but do not have to) be aimed at the same target.
 
 Adept<br>Active. The character may fire two arrows with a single combat action, at one or two different targets.
 
@@ -411,7 +411,7 @@ Novice<br>Reaction. In situations when the character suffers from an effect whic
 
 Adept<br>Reaction. The rogue avoids the enemy's melee attack and dances around to its back; with a passed Defense test, the rogue and the enemy switch places, if the player wishes. This means that the rogue gets away from being flanked without suffering a Free Attack, and also that the enemy ends up in a flanked position if there was an ally standing next to the rogue.
 
-Master<br>Free. The expert rogue's reflexes are so finely tuned that he or she ignores the usual turn order and always acts first; only others with this ability and a higher value in Agility or Vigilance gets to go before the rogue.
+Master<br>Free. The expert rogue's reflexes are so finely tuned that they ignore the usual turn order and always acts first; only others with this ability and a higher value in Agility or Vigilance gets to go before the rogue.
 
 ## Recovery
 Among both Black Cloaks and Mystics, meditative techniques that provide strange bodily capabilities have been developed. The character can use its inner power reserves with an almost magical self-discipline to rejuvenate the energy of its body, even when in the midst of combat.
@@ -424,9 +424,9 @@ Master<br>Active. Just as adept level, but the character recovers 1D8 Toughness.
 
 ## Rider
 `previously Equestrian`
-Heavy cavalry dominates the plains of Ambria, a truth proven time and again by Queen Korinthia when she sent her armored horsemen against stubborn barbarians during the first decade of her invasion. It takes training to be able to use a mount in combat, both for the rider and the mount, but if they are able to work together as one, they become a deadly combination. This ability is also efficiently used by the barbarians of the western plains, who launch raids against the settlements of western Ambria using their horse-drawn chariots.
+It takes training to be able to use a mount in combat, both for the rider and the mount, but if they are able to work together as one, they become a deadly combination.
 
-A character with the Equestrian ability also has a good hand with other kinds of farm animals and the like, and can therefore use the ability to calm agitated beasts, for instance keeping watch dogs from barking.
+A character with the Rider ability also has a good hand with other kinds of farm animals and the like, and can therefore use the ability to calm agitated beasts, for instance keeping watch dogs from barking.
 
 Novice<br>Reaction. The character is an experienced rider and used to fighting while mounted. The character knows how to use the weight of the mount in a cavalry charge and deals 1D6 additional damage with one melee attack if the mount moves prior to the attack.
 
@@ -440,9 +440,9 @@ The rune crafters of Clan Vajvod in eastern Davokar often tattoo themselves and 
 
 Rune Tattoo requires that someone uses the ritual Carve Rune Tattoo on the character. If the character has the ability from the start, the tattoo is already in place.
 
-Novice<br>Reaction. The rune tattoo provides a +1D4 bonus to armor against attacks, but only if the character chooses to activate it. Activating the effect costs one temporary corruption for each attack that hits and the character decides whether or not to use it before he or she rolls for other kinds of armor. In addition, the rune protects from weather and wind like a full set of clothes.
+Novice<br>Reaction. The rune tattoo provides a +1D4 bonus to armor against attacks, but only if the character chooses to activate it. Activating the effect costs one temporary corruption for each attack that hits and the character decides whether or not to use it before they roll for other kinds of armor. In addition, the rune protects from weather and wind like a full set of clothes.
 
-Adept<br>Reaction. The rune tattoo is attracted to injuries on the character's body and glows around the wounds. The character regenerates one point of Toughness per turn; each point healed costs one point in temporary corruption. The tattooed warrior may abort the regeneration process when he or she wishes.
+Adept<br>Reaction. The rune tattoo is attracted to injuries on the character's body and glows around the wounds. The character regenerates one point of Toughness per turn; each point healed costs one point in temporary corruption. The tattooed warrior may abort the regeneration process when they wish.
 
 Master<br>Reaction. The rune tattoo adds power to the warrior's attacks. When an enemy is hit and the character so wishes, the glowing tattoo flows over the weapon dealing +1D4 damage, at the cost of as many points in temporary corruption for the character.
 
@@ -470,13 +470,13 @@ Adept<br>Special. The character can lead the work when building and then effecti
 Master<br>Special. The character's understanding of alchemical weapons is exceptional, and they all get the quality Massive if they do not have it already.
 
 ## Sixth Sense
-When moving through dark forests and underground tunnels, one's eyes are no longer very useful. Lighting a lantern or torch may summon dangers, so the explorer had better learn to rely on his or her other senses. With dedicated training it is possible to awaken these other senses and sharpen them to the brink of eeriness. The Sixth Sense ability provides the character with unique capabilities when fighting at a distance or in situations where eyesight can no longer be trusted.
+When moving through dark forests and underground tunnels, one's eyes are no longer very useful. Lighting a lantern or torch may summon dangers, so the explorer had better learn to rely on their other senses. With dedicated training it is possible to awaken these other senses and sharpen them to the brink of eeriness. The Sixth Sense ability provides the character with unique capabilities when fighting at a distance or in situations where eyesight can no longer be trusted.
 
 A character with Sixth Sense may under calm circumstances navigate unhindered in dim light, as well as maintain a sense of direction in complete darkness, though at a pace of only a quarter of its normal, daytime speed. 
 
-Novice<br>Passive. The character has a strong intuition, which lets him or her use Vigilance instead of Exactitude when attacking with ranged weapons.
+Novice<br>Passive. The character has a strong intuition, which lets them use Vigilance instead of Exactitude when attacking with ranged weapons.
 
-Adept<br>Passive. The character's intuition has expanded and the character may now use Vigilance instead of Agility for Initiative and when calculating his or her Defense.
+Adept<br>Passive. The character's intuition has expanded and the character may now use Vigilance instead of Agility for Initiative and when calculating their Defense.
 
 Master<br>Passive. The character can move and fight unhindered when blinded or in complete darkness.
 
@@ -501,7 +501,7 @@ The reformation gave birth to the order as it is today, its members appearing as
 
 The staff mages are an elite order, placing high demands on recruits from the start; only the most promising mystics can ever hope to battle darkness as members of their order.
 
-Novice<br>Special. The staff mage binds his or her soul to a rune staff, carved with the runes of the elements. The staff absorbs all corruption the character would have gained by learning the powers of the tradition at the novice level. If the character already has permanent corruption when being bound to the staff, the level of permanent corruption is reduced by 1D6. This can only be done once; if the staff gets lost or must be replaced, no additional reduction is made. In addition, as a free action the staff mage can activate an elemental rune and then deal +1D4 damage with the staff, no matter if it is used in combination with the powers of the tradition or as a melee weapon. The character can chose between fire, lightning, cold or acid. Activating the rune gives no corruption.
+Novice<br>Special. The staff mage binds their soul to a rune staff, carved with the runes of the elements. The staff absorbs all corruption the character would have gained by learning the powers of the tradition at the novice level. If the character already has permanent corruption when being bound to the staff, the level of permanent corruption is reduced by 1D6. This can only be done once; if the staff gets lost or must be replaced, no additional reduction is made. In addition, as a free action the staff mage can activate an elemental rune and then deal +1D4 damage with the staff, no matter if it is used in combination with the powers of the tradition or as a melee weapon. The character can chose between fire, lightning, cold or acid. Activating the rune gives no corruption.
 
 Adept<br>Special. The staff absorbs all corruption the character would have gained by learning the powers of the tradition at the adept level. Also, the staff binds the corruption so well that the character gets a second chance to roll for corruption when using all powers included in the tradition; the character suffers from the lower of the two outcomes.
 
@@ -525,7 +525,7 @@ Novice<br>Passive. The character has begun to understand the riddle of steel-thr
 
 Adept<br>Active. The character can perform a double throw with one Action. The attacks are rolled separately and are either aimed at the same target, or at two different ones. The character can also use melee weapons as throwing weapons, but can only throw one such weapon per Action. The damage for this kind of attack is the base damage of the melee weapon, including any passive abilities that the thrower might have.
 
-Master<br>Active. The character can unleash a devastating triple throw and send three throwing weapons towards his or her enemies, all of them against a single target or distributed among multiple ones.
+Master<br>Active. The character can unleash a devastating triple throw and send three throwing weapons towards their enemies, all of them against a single target or distributed among multiple ones.
 
 ## Strangler
 The character has been initiated into the dirty, but sometimes necessary, art of strangulation. This fighting technique has a bad reputation among Ambrians and barbarians alike, but that does not mean that it is not widely desired by those who want enemies or their guards discreetly taken care of.
@@ -545,15 +545,15 @@ There are many myths describing the origin of mystical powers, and all establish
 
 The Strong Gift – innate or acquired through trials and practice – can still be found with some mystics. For one thing, the gift provides a singular resistance against the corruption of the world. It also endows the mystic with the ability to use improvised mystical powers, at a high cost in corruption.
 
-Novice<br>Special. The Strong Gift allows the character to choose a signature power. This power is selected from among the ones already known to the mystic, and that power then only costs one (1) temporary corruption to use. If the character has no powers or just prefers to have a tainting ability as its signature instead, this is also allowed – a gift linked to the ability Ritualist (including all individual rituals) or to Witchsight means that these never cost more than one temporary corruption to use. Also, traits such as Wisdom of the Ages may be chosen. The Strong Gift has no effect on the cost in permanent corruption for learning a power outside a mystical tradition; it only affects the amount of temporary corruption gained when using it.
+Novice<br>Special. The Strong Gift allows the character to choose a signature power. This power is selected from among the ones already known to the mystic, and that power then only costs one (1) temporary corruption to use. If the character has no powers or just prefers to have a tainting ability as its signature instead, this is also allowed – a gift linked to the ability Ritualist (including all individual rituals) or to Sublime Sight means that these never cost more than one temporary corruption to use. Also, traits such as Wisdom of the Ages may be chosen. The Strong Gift has no effect on the cost in permanent corruption for learning a power outside a mystical tradition; it only affects the amount of temporary corruption gained when using it.
 
-Adept<br>Passive. A character with the adept level in Strong Gift uses his or her whole Resolve value as the corruption threshold, instead of only half. Such an individual does not become blight born until its total corruption reaches a value of Resolve ×2
+Adept<br>Passive. A character with the adept level in Strong Gift uses their whole Resolve value as the corruption threshold, instead of only half. Such an individual does not become blight born until its total corruption reaches a value of Resolve ×2
 
 Master<br>Special. The gift of the Master lets the character cast any mystical power, albeit only at the novice level. There is a second chance to fail all success tests and using the power causes 1D8 temporary corruption. All mystical powers are available, no matter what tradition they belong to.
 
 ## Sword Saint
 `APG`
-Among Ambria's duelists, there are those who have achieved an almost mystic symbiosis with their fencing swords, who handle their weapons as if they were extensions of their body and soul. The Sword Saint techniques may only be used with a fencing sword (or other single-handed sword with the quality Balanced). A parrying dagger or the ability Mantle Dance may also be used in combination with the sword, but Sword Saint cannot be combined with the ability Twin Attack to gain additional bonuses to damage.
+Sword Saints have achieved an almost mystic symbiosis with their fencing swords, who handle their weapons as if they were extensions of their body and soul. The Sword Saint techniques may only be used with a fencing sword (or other single-handed sword with the quality Balanced). A parrying dagger or the ability Mantle Dance may also be used in combination with the sword, but Sword Saint cannot be combined with the ability Twin Attack to gain additional bonuses to damage.
 
 Novice<br>Passive. The character has learned to take full advantage of fighting with a balanced sword in one hand and a parrying dagger in the other. The damage dealt by the sword is 1D10, instead of 1D8.
 
@@ -569,9 +569,9 @@ The powers of Symbolism are created by drawing or writing. More fanciful procedu
 
 Novice<br>Special. The character has begun to grasp the power of runes. The signs must be physically represented – carved, painted, etched, tattooed – which takes time; for a novice, it takes one hour to create a power symbol. However, it only takes a combat action to activate a symbol, which is done by uttering an activation phrase. Note that the symbolist has to see or be in direct contact (melee range) with the symbol in order to activate it. The symbolist can only have one symbol per mystical power prepared in this way. When a symbol has been used it must be recharged, which takes as much time as it does to create the symbol from scratch.
 
-Adept<br>Special. With a combat action, the symbolist can quickly paint a symbol in a book or draw it in the mud or dust of the ground. These temporary symbols transcend the limitation stating that the symbolist may only have one symbol per power prepared. To the adept, activating symbols – no matter if they are prepared in a more permanent fashion (see novice) or are of a temporary nature – is a free action where he or she only has to utter a single word. However, only one symbol may be activated per turn.
+Adept<br>Special. With a combat action, the symbolist can quickly paint a symbol in a book or draw it in the mud or dust of the ground. These temporary symbols transcend the limitation stating that the symbolist may only have one symbol per power prepared. To the adept, activating symbols – no matter if they are prepared in a more permanent fashion (see novice) or are of a temporary nature – is a free action where they only have to utter a single word. However, only one symbol may be activated per turn.
 
-In addition, the adept symbolist can choose to activate symbols using a physical trigger instead of a word. The trigger is decided by the mystic when the symbol is created, and can for instance be that a living creature enters a room, that someone steps on the symbol or that a weapon is drawn within melee range. The symbolist may or may not exclude him- or herself from this equation, but the allies of the symbolist cannot be excluded: if they act in accordance with the trigger, the symbol is activated.
+In addition, the adept symbolist can choose to activate symbols using a physical trigger instead of a word. The trigger is decided by the mystic when the symbol is created, and can for instance be that a living creature enters a room, that someone steps on the symbol or that a weapon is drawn within melee range. The symbolist may or may not exclude themself from this equation, but the allies of the symbolist cannot be excluded: if they act in accordance with the trigger, the symbol is activated.
 
 The adept can erase one of his or her own symbols with a simple gesture (free action), but this requires actually touching the symbol.
 
@@ -584,7 +584,7 @@ A schooled tactician may also use this ability to analyze a tactical approach an
 
 Novice<br>Passive. The character has studied the tactics of warfare and grasped its fundamental principles. The character may use Wit instead of Agility when calculating its Initiative.
 
-Adept<br>Passive. The character has mastered the art of a good defensive posture, which allows him or her to use Wit instead of Agility when calculating Defense.
+Adept<br>Passive. The character has mastered the art of a good defensive posture, which allows them to use Wit instead of Agility when calculating Defense.
 
 Master<br>Passive. The character is a genius when it comes to offensive warfare, which allows the character to use Wit instead of Exactitude when attacking with anything but heavy weapons.
 
@@ -596,7 +596,7 @@ Trained trappers can deploy and disarm both mechanical traps and alchemical mine
 
 Novice<br>Active. With a passed Wit test, the character can use a combat action to deploy or disarm a mechanical trap. The effect depends on the level of the trap (see page 127 in the Equipment chapter). The character can also build an improvised trap, but this requires a whole turn to complete. An improvised trap made by the character deals 1D6 damage.
 
-Adept<br>Active. The character can handle alchemical mines the same way he or she handles mechanical traps. An improvised trap made by the character now deals 1D8 damage.
+Adept<br>Active. The character can handle alchemical mines the same way they handle mechanical traps. An improvised trap made by the character now deals 1D8 damage.
 
 Master<br>Active. The character is a renowned trapper who knows how to make the most of any kind of trap. Traps and mines are counted as one tier higher: weak becomes moderate, moderate becomes strong and the character gets a second chance on all rolls when using a strong device – the enemies' attempts to discover, disarm or get free become more difficult; also the damage dice is rolled twice and the highest outcome stands. For alchemical traps, the damage re-roll only pertains to the initial explosion, not the ongoing damage that follows. Improvised traps now deal 1D10 damage.
 
@@ -609,11 +609,11 @@ Trick shooting with bows and crossbows is highest fashion in Ambria, as apprecia
 
 Novice<br>Active. The character can use a full turn (combat plus movement action) to aim perfectly and then hit a very precise location on the enemy; shoot a weapon from a hand, nail a body-part to a nearby wall or tree, or aim for the eyes to blind the enemy. The attack is rolled as usual and if it hits and deals damage, the intended effect also occurs: a weapon is dropped and must be picked up, an arrow that nails the enemy to a wall must be pulled out or broken, and a hit close to the eyes leaves the enemy temporarily blinded. Whichever the case, the target loses a combat action in order to deal with the situation.
 
-Adept<br>Active. The archer can cause projectiles to ricochet off floors, walls, furniture, shields or living creatures with robust skin or armor in order to hit targets behind cover so the character does not need free line of sight before firing. He or she must have an idea of where the target is or have watched it duck into hiding, for instance into cover or an adjacent room. If the target has made a double movement action it cannot be hit. This kind of attack is made as usual, regarding both success test and damage test.
+Adept<br>Active. The archer can cause projectiles to ricochet off floors, walls, furniture, shields or living creatures with robust skin or armor in order to hit targets behind cover so the character does not need free line of sight before firing. They must have an idea of where the target is or have watched it duck into hiding, for instance into cover or an adjacent room. If the target has made a double movement action it cannot be hit. This kind of attack is made as usual, regarding both success test and damage test.
 
 Master<br>Reaction. Once per turn, the character can parry a successful attack at range. This ranged parrying maneuver can be of two types:
 
-Versus a melee attack aimed at an ally: The master archer fires a projectile that deflects an attack which otherwise would have hit one of his or her allies. This parrying maneuver requires a passed \[Exactitude←Agility\] test; if successful, the attack misses the ally without dealing any damage.
+Versus a melee attack aimed at an ally: The master archer fires a projectile that deflects an attack which otherwise would have hit one of their allies. This parrying maneuver requires a passed \[Exactitude←Agility\] test; if successful, the attack misses the ally without dealing any damage.
 
 Versus a physical projectile aimed at the archer or an ally: The parrying maneuver requires a passed \[Exactitude←Agility\] test; if successful, the incoming projectile is deflected and misses its target.
 
@@ -648,6 +648,7 @@ Adept<br>Reaction. The character has mastered the use of its weapon, so when an 
 Master<br>Active. A heavy weapon in the hands of a master is truly a tool of armor-crushing destruction. When the attacks of a master hit the target, they completely ignore the target's Armor.
 
 ## Sublime Sight
+`originally Witchsight`
 By way of the shadows surrounding creatures, locations and objects the world's deeper conflicts are observable for a character with the Sublime Sight ability. Opening up one's mind in order to examine the world of shadows can provide invaluable insights, but it also entails great risk: the more open the mind is and the deeper the insights are, the greater the risk of becoming tainted by the darkness of the world. It is for this reason that masters of this ability seldom use it to their full capacity.
 
 As previously stated, the color of the Shadows can give the character clues regarding the spiritual alliance of the inspected creature (see Shadow & Corruption, page 174). The Game
@@ -656,7 +657,7 @@ Master<br>manages the nuances and powers of the Shadows and describes what the c
 
 Novice<br>Free. As a Free Action, the character can make a roll against \[Vigilance←Subtlety\] in an attempt to see the dominant Shadow of a creature, location or object. Each such attempt forces the character to suffer 1 temporary Corruption.
 
-Adept<br>Free. The character has gained the greater insight of an adept regarding auras and mystical phenomenon. Sublime Sight now reveals all Shadows of an inspected target but not their respective strengths. The character suffers 1D4 temporary Corruption each time he or she attempts to see the Shadows of a creature, location or object.
+Adept<br>Free. The character has gained the greater insight of an adept regarding auras and mystical phenomenon. Sublime Sight now reveals all Shadows of an inspected target but not their respective strengths. The character suffers 1D4 temporary Corruption each time they attempt to see the Shadows of a creature, location or object.
 
 Master<br>Free. The character has achieved the master's superior insights and can now see all Shadows and their respective strengths clearly. The character suffers 1D6 temporary Corruption each time an attempt is made to see the Shadows of a creature, location or object.
 
@@ -666,9 +667,9 @@ Wrestling is popular among warriors, appreciated for educational purposes as wel
 
 The trait Robust adds a bonus to Might when throwing an opponent or resisting being thrown: +2 at novice level, +4 at adept level, +8 at master level. Robust gives no bonus if some other attribute besides Might is used.
 
-Novice<br>Active. The character knows the basic wrestling maneuvers and can use them against armed opponents. Also, the character can wrestle while holding weapons; they need not be dropped or put away. The attack is made as usual and if successful the wrestler gets the enemy in a firm grip. The wrestler may then try to throw the enemy or just maintain the grip; both alternatives require a \[Might←Might\] test. The throw inflicts 1D4 damage, ignoring armor, and leaves the enemy flat on its back. The alternative to a throw, maintaining the grip, inflicts no damage, but the enemy cannot act until the wrestler fails a \[Might←Might\] test. Also, all allies of the wrestler have Advantage on the gripped enemy. The wrestler is unable to do anything else while maintaining the grip, leaving him or her vulnerable: all enemies have Advantage on the wrestler.
+Novice<br>Active. The character knows the basic wrestling maneuvers and can use them against armed opponents. Also, the character can wrestle while holding weapons; they need not be dropped or put away. The attack is made as usual and if successful the wrestler gets the enemy in a firm grip. The wrestler may then try to throw the enemy or just maintain the grip; both alternatives require a \[Might←Might\] test. The throw inflicts 1D4 damage, ignoring armor, and leaves the enemy flat on its back. The alternative to a throw, maintaining the grip, inflicts no damage, but the enemy cannot act until the wrestler fails a \[Might←Might\] test. Also, all allies of the wrestler have Advantage on the gripped enemy. The wrestler is unable to do anything else while maintaining the grip, leaving them vulnerable: all enemies have Advantage on the wrestler.
 
-Adept<br>Reaction. The character has learned how to counter an opponent's strength and can use it to throw the enemy to the ground. First, the wrestler must pass a normal Defense test verses the enemy's melee attack, then he or she must pass a \[Agility←Might\] test. The throw deals 1D4 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn.
+Adept<br>Reaction. The character has learned how to counter an opponent's strength and can use it to throw the enemy to the ground. First, the wrestler must pass a normal Defense test verses the enemy's melee attack, then they must pass a \[Agility←Might\] test. The throw deals 1D4 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn.
 
 Master<br>Reaction. The reactive throw of the character (see the adept level) only requires a passed \[Agility←Might\] test, no Defense test is needed. If the throw fails, then a Defense test is rolled to avoid being hit. The master's throw deals 1D6 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn. Furthermore, the master wrestler immediately gets a Free Attack on the enemy.
 
@@ -679,7 +680,7 @@ The character has access to one or more mystical powers. These powers have eithe
 
 Each Mystical Power is its own ability and is purchased separately. For a more detailed description of the different mystical powers, see Chapter 19: Mystical Powers (page 130).
 
-The character suffers one point (1) of permanent Corruption each time he or she learns a new mystical power. The Corruption can be reduced if the power is part of a mystical tradition that the character belongs to. The character also suffers 1D4 temporary Corruption each time this power is used. Again, the Corruption suffered can be reduced if the power is considered a part of a tradition that the character belongs to (see Shadow & Corruption, page 174).
+The character suffers one point (1) of permanent Corruption each time they learn a new mystical power. The Corruption can be reduced if the power is part of a mystical tradition that the character belongs to. The character also suffers 1D4 temporary Corruption each time this power is used. Again, the Corruption suffered can be reduced if the power is considered a part of a tradition that the character belongs to (see Shadow & Corruption, page 174).
 
 Novice<br>Special. The character has mastered the power's novice level.
 
@@ -692,9 +693,9 @@ The character has learned how mystical powers can be channeled through rituals �
 
 The character suffers one (1) permanent Corruption from each ritual it learns, except if the ritual belongs to a mystical tradition practiced by the character. In the latter case the character is spared the blight of Corruption.
 
-When it comes to performing rituals, the character suffers 1D4 temporary Corruption if the ritual does not belong to a tradition he or she has mastered. Performing rituals covered by the character's tradition only gives one (1) point of temporary Corruption.
+When it comes to performing rituals, the character suffers 1D4 temporary Corruption, unless under relevant [[Principle Bond]]. Performing rituals covered by the character's tradition only gives one (1) point of temporary Corruption.
 
-The Ritualist ability makes it possible for the character to recognize what ritual has been performed by examining symbols and components remaining on the scene, and also to deduce the effects of the ritual, even if he or she has not mastered it.
+The Ritualist ability makes it possible for the character to recognize what ritual has been performed by examining symbols and components remaining on the scene, and also to deduce the effects of the ritual, even if they have not mastered it.
 
 Novice<br>Special. The character has learned to perform one (1) ritual. The ritual may belong to any mystical tradition, but the character must have access to the ritual in order to learn and memorize it. The knowledge may be gained from a tutor involved in the same organization as the character, from a codex found in the ruins of Symbaroum or from another ritualist who imparts the knowledge as a reward for services rendered.
 

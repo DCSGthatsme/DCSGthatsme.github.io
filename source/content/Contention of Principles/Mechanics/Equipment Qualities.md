@@ -12,8 +12,6 @@ The weapon has qualities that makes it even more deadly. Maybe its blade can pie
 The armor hampers any agile movements and gives a penalty to tests against Defense, sneaking and the use of mystic powers. The penalty depends on whether the armor is light (−2), medium (−3) or heavy (−4).
 ## Jointed
 The weapon is jointed, letting the head of the weapon strike past or around blocking weapons or shields, making it harder to parry. The length of the chain also makes the attacks difficult to evade. Even if a parry is successful, the attack hits if the die lands on an odd number; in which case the weapon deals 1D6 damage. This secondary damage is not affected by any abilities – it remains 1D6 regardless of the attacker’s other abilities.
-
-Example: Grumpa defends herself against an attack from an enemy armed with a flail, a Jointed weapon. Her Defense is 6 and she rolls a 5, which should have been a successful parry – but Jointed weapons still hit on an odd number. Grumpa takes damage, though less than normal and none of the enemy’s abilities can affect the damage, not even the passive ones. In the next turn, Grumpa is defending herself again and rolls 4. This defense is successful, since the result of her Defense test was an even number.
 ## Long
 The weapon has the advantage of superior length and reach, giving the wielder one Free Attack each turn against an opponent that comes into range of melee combat, as long as said opponent is not also armed with a Long weapon.
 ## Precise
