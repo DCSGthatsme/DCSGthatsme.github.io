@@ -35,6 +35,7 @@ The following statistics are calculated based on the character’s Attributes:
 | Subtlety   | Discreet   |
 | Vigilance  | Vigilant   |
 | Wit        | Cunning    |
+
 ## Notes
 * Social scenarios can use many attributes
 	* Charisma to influence

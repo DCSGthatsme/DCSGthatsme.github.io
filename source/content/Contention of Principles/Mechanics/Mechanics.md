@@ -45,10 +45,6 @@ Abilities that are compulsory or optional for certain races.
 Mystical Powers are magical abilities. To gain a mystical power requires the [[Abilities#Mystical Power|Mystical Power]] ability:
 ![[Abilities#Mystical Power]]
 
-Treat each mystical power as a different version of the Mystical Power ability which inherits its rules.
-
-> A clarification may be warranted regarding the ability Mystical Power and the actual powers presented with start on page 130. Each of the latter represent one purchase of the ability in question: if your character learns both Lay on Hands and Holy Aura, this means it learns two different versions of the ability Mystical Power. What is in common for all powers is included in the ability; what is specific is detailed in the description of the powers
-
 Additionally, the associated [[Principle Bond]] ability is highly recommended for mystics making heavy use of a school.
 ![[Principle Bond#Abilities]]
 #### [[Rituals]]
