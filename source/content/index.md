@@ -1,5 +1,4 @@
 ---
 title: Testing
 ---
-
-I did this all from my desktop
+Whoah, did I just update this from Obsidian?
