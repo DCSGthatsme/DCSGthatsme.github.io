@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Contention of Principles/Primer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Primer"
             }
           }
         ]
@@ -171,9 +171,13 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Contention of Principles/World Map.md",
+    "Contention of Principles/Primer.md",
+    "Contention of Principles/Ekkelsbraght.md",
+    "index.md",
+    "Contention of Principles",
     "category-folder/Some note.md",
     "category-folder/index.md",
-    "index.md",
     "category-folder"
   ]
 }

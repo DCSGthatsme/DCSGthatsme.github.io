@@ -1,4 +1,4 @@
 ---
-title: Testing
+title: Welcome
 ---
-Whoah, did I just update this from Obsidian?
+Enjoy your stay.
