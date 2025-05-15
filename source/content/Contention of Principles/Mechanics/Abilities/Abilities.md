@@ -58,13 +58,13 @@ The character is also knowledgeable about legendary artifacts and can discern ho
 The artifacts are described in detail in the Equipment chapter, page 123-127APG.
 
 Novice
-Once per adventure. With a passed Cunning test, the character can craft one novice level artifact.
+Once per adventure. With a passed Wit test, the character can craft one novice level artifact.
 
 Adept
-Once per adventure. As an acknowledged artifact crafter, a passed Cunning test lets the character craft one adept level artifact.
+Once per adventure. As an acknowledged artifact crafter, a passed Wit test lets the character craft one adept level artifact.
 
 Master
-Once per adventure. As a famous artifact crafter, a passed Cunning test lets the character craft one master level artifact.
+Once per adventure. As a famous artifact crafter, a passed Wit test lets the character craft one master level artifact.
 ## Axe Artist
 `APG`
 By tradition, many warriors carry axes into battle, and among these fighters special techniques have been developed – techniques which make full use of the axe's potential. In the hands of the character, the axe is an effective tool of combat.
@@ -72,7 +72,7 @@ By tradition, many warriors carry axes into battle, and among these fighters spe
 The weapon used must be an axe of either heavy or single-handed model
 
 Novice
-Active. The first thing an axe artist learns is to strike with the short-end of the axe in order to induce distracting pain before a mightier blow. The short-end thrust deals 1D6 damage and stuns the enemy if the character passes a \[Accurate←Resolute\] test, meaning that the character gets to make an immediate Free Attack.
+Active. The first thing an axe artist learns is to strike with the short-end of the axe in order to induce distracting pain before a mightier blow. The short-end thrust deals 1D6 damage and stuns the enemy if the character passes a \[Exactitude←Resolve\] test, meaning that the character gets to make an immediate Free Attack.
 
 Adept
 Active. Next up is learning the powerful double-strike: to strike with one side of the axe and then follow up by striking a blow with the other. The character makes two attacks in one combat action, both of them at one dice tier lower than normal (1D10=1D8).
@@ -441,13 +441,13 @@ Only available to Queen's Spy
 In Ambria, advances within the field of alchemy have led to the use of alchemical weapons. The secret agents of the Queen are known to employ such devices when combating the enemies of the realm or escaping from hazardous situations. The character can use special elixirs to blind or otherwise weaken the enemy. Note that the master level of the ability Sixth Sense makes it possible to act normally despite being blinded; Sixth Sense does not affect any other effects from Pyrotechnics.
 
 Novice
-Active. The character can use Flash Powder created by an alchemist to dazzle an opponent in melee combat. This requires an \[Accurate←Quick\] test; the attack deals 1D4 damage (ignoring armor) and the target is blinded for 1D4 turns. The character can also handle alchemical grenades and alchemical mines without risking a catastrophic failure.
+Active. The character can use Flash Powder created by an alchemist to dazzle an opponent in melee combat. This requires an \[Exactitude←Agility\] test; the attack deals 1D4 damage (ignoring armor) and the target is blinded for 1D4 turns. The character can also handle alchemical grenades and alchemical mines without risking a catastrophic failure.
 
 Adept
-Active. The character can use an alchemical Smoke Bomb correctly to fill an area with dense smoke. If the Smoke Bomb is thrown at a distance, an Accurate test is needed for it to land where intended. If dropped at the character's feet no test is needed, but the character is affected just like all others in the vicinity. Everyone in the area, friends and enemies, are blinded until they leave the place (two movement actions in any direction). Those remaining in the smoke must pass a Strong test each turn or suffer 1D4 damage, ignoring armor, from smoke poisoning.
+Active. The character can use an alchemical Smoke Bomb correctly to fill an area with dense smoke. If the Smoke Bomb is thrown at a distance, an Exactitude test is needed for it to land where intended. If dropped at the character's feet no test is needed, but the character is affected just like all others in the vicinity. Everyone in the area, friends and enemies, are blinded until they leave the place (two movement actions in any direction). Those remaining in the smoke must pass a Might test each turn or suffer 1D4 damage, ignoring armor, from smoke poisoning.
 
 Master
-Active. The character can effectively activate and throw an alchemical Thunder Ball at a group of enemies. All targets within a radius of five meters are hit, an \[Accurate←Quick\] test decides if they suffer whole or half damage. The damage is 1D12, ignoring armor. Furthermore, all targets suffering from the full effect are blinded for 1D4 turns.
+Active. The character can effectively activate and throw an alchemical Thunder Ball at a group of enemies. All targets within a radius of five meters are hit, an \[Exactitude←Agility\] test decides if they suffer whole or half damage. The damage is 1D12, ignoring armor. Furthermore, all targets suffering from the full effect are blinded for 1D4 turns.
 ## Quick Draw
 Dealing the first blow can decide the outcome of a battle, and with this ability the character has an advantage when an unexpected ambush happens. The character also becomes a much more dynamic warrior, able to quickly switch weapons to meet the demands of any situation – a skill particularly appreciated among barbarian skirmishers and Ambrian archers.
 
@@ -485,7 +485,7 @@ Adept
 Reaction. The rogue avoids the enemy's melee attack and dances around to its back; with a passed Defense test, the rogue and the enemy switch places, if the player wishes. This means that the rogue gets away from being flanked without suffering a Free Attack, and also that the enemy ends up in a flanked position if there was an ally standing next to the rogue.
 
 Master
-Free. The expert rogue's reflexes are so finely tuned that he or she ignores the usual turn order and always acts first; only others with this ability and a higher value in Quick or Vigilant gets to go before the rogue.
+Free. The expert rogue's reflexes are so finely tuned that he or she ignores the usual turn order and always acts first; only others with this ability and a higher value in Agility or Vigilance gets to go before the rogue.
 ## Recovery
 Among both Black Cloaks and Mystics, meditative techniques that provide strange bodily capabilities have been developed. The character can use its inner power reserves with an almost magical self-discipline to rejuvenate the energy of its body, even when in the midst of combat.
 
@@ -578,7 +578,7 @@ Adept
 Reaction. The character uses the back end of the Long weapon to gain a Free Attack if the opponent defends against the initial attack. The Free Attack is rolled separately and the damage is 1D6. If armed with a wooden staff (that is, not a spear or a halberd, but including rune staffs), this may also be done after every successful Defense against melee attacks while holding the weapon – the staff fighter makes a quick riposte after having parried.
 
 Master
-Active. The character has learned how to target the legs and then attack the fallen enemy with a single motion. The initial attack sends the enemy to the ground if the attacker succeeds with a \[Accurate←Quick\] test and the follow-up is performed as a Free Attack with Advantage on the opponent.
+Active. The character has learned how to target the legs and then attack the fallen enemy with a single motion. The initial attack sends the enemy to the ground if the attacker succeeds with a \[Exactitude←Agility\] test and the follow-up is performed as a Free Attack with Advantage on the opponent.
 ## Staff Magic
 `APG`
 Only available to Staff Mages
@@ -644,7 +644,7 @@ Novice
 Special. The Strong Gift allows the character to choose a signature power. This power is selected from among the ones already known to the mystic, and that power then only costs one (1) temporary corruption to use. If the character has no powers or just prefers to have a tainting ability as its signature instead, this is also allowed – a gift linked to the ability Ritualist (including all individual rituals) or to Witchsight means that these never cost more than one temporary corruption to use. Also, traits such as Wisdom of the Ages may be chosen. The Strong Gift has no effect on the cost in permanent corruption for learning a power outside a mystical tradition; it only affects the amount of temporary corruption gained when using it.
 
 Adept
-Passive. A character with the adept level in Strong Gift uses his or her whole Resolute value as the corruption threshold, instead of only half. Such an individual does not become blight born until its total corruption reaches a value of Resolute ×2
+Passive. A character with the adept level in Strong Gift uses his or her whole Resolve value as the corruption threshold, instead of only half. Such an individual does not become blight born until its total corruption reaches a value of Resolve ×2
 
 Master
 Special. The gift of the Master lets the character cast any mystical power, albeit only at the novice level. There is a second chance to fail all success tests and using the power causes 1D8 temporary corruption. All mystical powers are available, no matter what tradition they belong to.
@@ -698,7 +698,7 @@ Traps have been used since ancient times and in Davokar they are particularly us
 Trained trappers can deploy and disarm both mechanical traps and alchemical mines. Furthermore, when the need arises, the character can quickly manufacture improvised traps from materials at hand. See more on the rules regarding traps on page 102.
 
 Novice
-Active. With a passed Cunning test, the character can use a combat action to deploy or disarm a mechanical trap. The effect depends on the level of the trap (see page 127 in the Equipment chapter). The character can also build an improvised trap, but this requires a whole turn to complete. An improvised trap made by the character deals 1D6 damage.
+Active. With a passed Wit test, the character can use a combat action to deploy or disarm a mechanical trap. The effect depends on the level of the trap (see page 127 in the Equipment chapter). The character can also build an improvised trap, but this requires a whole turn to complete. An improvised trap made by the character deals 1D6 damage.
 
 Adept
 Active. The character can handle alchemical mines the same way he or she handles mechanical traps. An improvised trap made by the character now deals 1D8 damage.
@@ -722,15 +722,15 @@ Active. The archer can cause projectiles to ricochet off floors, walls, furnitur
 Master
 Reaction. Once per turn, the character can parry a successful attack at range. This ranged parrying maneuver can be of two types:
 
-Versus a melee attack aimed at an ally: The master archer fires a projectile that deflects an attack which otherwise would have hit one of his or her allies. This parrying maneuver requires a passed \[Accurate←Quick\] test; if successful, the attack misses the ally without dealing any damage.
+Versus a melee attack aimed at an ally: The master archer fires a projectile that deflects an attack which otherwise would have hit one of his or her allies. This parrying maneuver requires a passed \[Exactitude←Agility\] test; if successful, the attack misses the ally without dealing any damage.
 
-Versus a physical projectile aimed at the archer or an ally: The parrying maneuver requires a passed \[Accurate←Quick\] test; if successful, the incoming projectile is deflected and misses its target.
+Versus a physical projectile aimed at the archer or an ally: The parrying maneuver requires a passed \[Exactitude←Agility\] test; if successful, the incoming projectile is deflected and misses its target.
 ## Troll Singing
 `APG`
 The mystical tradition of trolls is expressed through singing, sometimes accompanied by music played on horn, flute or pipes. According to the trolls' educational songs, the tradition stems from the kauking singing style that trolls use to communicate over long distances in the Underworld.
 
 Novice
-Special. The troll singer suffers no permanent corruption from learning troll songs at the novice level, but has no protection from temporary corruption suffered when singing them. In addition, once per scene all troll singers have a second chance to succeed on a test when trying to influence or affect a target's mind (that is, situations when the adversary defends using the attribute Resolute). The re-roll may not be used to create or maintain a chain of mystical effects.
+Special. The troll singer suffers no permanent corruption from learning troll songs at the novice level, but has no protection from temporary corruption suffered when singing them. In addition, once per scene all troll singers have a second chance to succeed on a test when trying to influence or affect a target's mind (that is, situations when the adversary defends using the attribute Resolve). The re-roll may not be used to create or maintain a chain of mystical effects.
 
 Adept
 Special. The troll singer suffers no permanent corruption from learning troll songs at the adept level. Additionally, the adept may re-roll one success test when trying to influence or affect a target's mind, also when creating or maintaining a chain of such mystical effects.
@@ -781,16 +781,16 @@ Free. The character has achieved the master's superior insights and can now see 
 `APG`
 Wrestling is popular among warriors, appreciated for educational purposes as well as its entertainment value. Hence, wrestling matches can be seen in the arenas of Ambria's larger towns, in army camps among bored soldiers and on the battlefield amidst swinging swords and axes. The character is trained to wrestle, both with and without the protection of armor.
 
-The trait Robust adds a bonus to Strong when throwing an opponent or resisting being thrown: +2 at novice level, +4 at adept level, +8 at master level. Robust gives no bonus if some other attribute besides Strong is used.
+The trait Robust adds a bonus to Might when throwing an opponent or resisting being thrown: +2 at novice level, +4 at adept level, +8 at master level. Robust gives no bonus if some other attribute besides Might is used.
 
 Novice
-Active. The character knows the basic wrestling maneuvers and can use them against armed opponents. Also, the character can wrestle while holding weapons; they need not be dropped or put away. The attack is made as usual and if successful the wrestler gets the enemy in a firm grip. The wrestler may then try to throw the enemy or just maintain the grip; both alternatives require a \[Strong←Strong\] test. The throw inflicts 1D4 damage, ignoring armor, and leaves the enemy flat on its back. The alternative to a throw, maintaining the grip, inflicts no damage, but the enemy cannot act until the wrestler fails a \[Strong←Strong\] test. Also, all allies of the wrestler have Advantage on the gripped enemy. The wrestler is unable to do anything else while maintaining the grip, leaving him or her vulnerable: all enemies have Advantage on the wrestler.
+Active. The character knows the basic wrestling maneuvers and can use them against armed opponents. Also, the character can wrestle while holding weapons; they need not be dropped or put away. The attack is made as usual and if successful the wrestler gets the enemy in a firm grip. The wrestler may then try to throw the enemy or just maintain the grip; both alternatives require a \[Might←Might\] test. The throw inflicts 1D4 damage, ignoring armor, and leaves the enemy flat on its back. The alternative to a throw, maintaining the grip, inflicts no damage, but the enemy cannot act until the wrestler fails a \[Might←Might\] test. Also, all allies of the wrestler have Advantage on the gripped enemy. The wrestler is unable to do anything else while maintaining the grip, leaving him or her vulnerable: all enemies have Advantage on the wrestler.
 
 Adept
-Reaction. The character has learned how to counter an opponent's strength and can use it to throw the enemy to the ground. First, the wrestler must pass a normal Defense test verses the enemy's melee attack, then he or she must pass a \[Quick←Strong\] test. The throw deals 1D4 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn.
+Reaction. The character has learned how to counter an opponent's strength and can use it to throw the enemy to the ground. First, the wrestler must pass a normal Defense test verses the enemy's melee attack, then he or she must pass a \[Agility←Might\] test. The throw deals 1D4 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn.
 
 Master
-Reaction. The reactive throw of the character (see the adept level) only requires a passed \[Quick←Strong\] test, no Defense test is needed. If the throw fails, then a Defense test is rolled to avoid being hit. The master's throw deals 1D6 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn. Furthermore, the master wrestler immediately gets a Free Attack on the enemy.
+Reaction. The reactive throw of the character (see the adept level) only requires a passed \[Agility←Might\] test, no Defense test is needed. If the throw fails, then a Defense test is rolled to avoid being hit. The master's throw deals 1D6 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn. Furthermore, the master wrestler immediately gets a Free Attack on the enemy.
 
 ---
 
