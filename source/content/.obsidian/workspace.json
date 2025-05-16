@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Go-time.md",
+                "file": "Contention of Principles/Mechanics/Go-time.md",
                 "mode": "source",
                 "source": false
               },
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -199,9 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae4def0b273ae5b1",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Contention of Principles/Go-time.md",
+    "Contention of Principles/Mechanics/Go-time.md",
     "Contention of Principles/Mechanics/Abilities/Principle Bond.md",
     "Contention of Principles/Mechanics/Abilities/Abilities.md",
     "Contention of Principles/Mechanics/Mechanics.md",
