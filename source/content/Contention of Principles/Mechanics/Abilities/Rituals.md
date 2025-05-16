@@ -4,6 +4,8 @@ Like powers, rituals can cause [[Corruption]]; first when they are learned and t
 
 To take a ritual, you must purchase the following ability:
 ![[Abilities#Ritualist]]
+
+Note that each ritual is a free ability granted by Ritualist (under proper conditions), as opposed to a version of the Ritualist ability like the mystical powers.
 ## Blood Bond
 Bond: Appreciation
 

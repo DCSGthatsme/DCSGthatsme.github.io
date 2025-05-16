@@ -1,4 +1,4 @@
-Mystical Powers are magical [[abilities]]. To gain a mystical power requires the [[Abilities#Mystical Power|Mystical Power]] ability:
+To gain a mystical power requires the [[Abilities#Mystical Power|Mystical Power]] ability:
 ![[Abilities#Mystical Power]]
 
 Each mystical power is a variant version of the Mystical Power ability, inheriting its rules.

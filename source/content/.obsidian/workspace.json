@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Mechanics.md",
+                "file": "Contention of Principles/Go-time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Go-time"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Attributes.md",
+                "file": "Contention of Principles/Mechanics/Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attributes"
+              "title": "Mechanics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,19 +184,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "ae4def0b273ae5b1",
   "lastOpenFiles": [
     "Contention of Principles/Mechanics/Attributes.md",
+    "Contention of Principles/Go-time.md",
     "Contention of Principles/Mechanics/Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bond.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers.md",
     "Contention of Principles/Mechanics/Equipment Qualities.md",
     "Contention of Principles/Mechanics/Character Creation.md",
-    "Contention of Principles/Mechanics/Principle Bond.md",
     "Contention of Principles/Mechanics/Abilities/Burdens.md",
     "Contention of Principles/Mechanics/Abilities/Abilities.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers.md",
     "Contention of Principles/Mechanics/Abilities/Boons.md",
     "Contention of Principles/Mechanics/Abilities/Traits.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Spells.md",
     "Contention of Principles/Mechanics/Abilities/Monstrous Traits.md",
     "Contention of Principles/World Map.md",
