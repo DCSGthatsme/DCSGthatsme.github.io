@@ -1,7 +1,10 @@
 ## [[Attributes]]
-![[Attributes#Table]]
 
-Used in a "success test". 1d20 <= (tester's attribute score + modifier) to succeed.
+The attributes represent a character's basic aptitudes.
+
+Agility, Charisma, Exactitude, Resolve, Might, Subtlety, Vigilance, Wit. Also Toughness, Pain Threshold, Defense, and Corruption Threshold.
+
+Used in a "success test". 1d20 \<\= (tester's attribute score + modifier) to succeed.
 
 Difficulty Modifier: +5 (very easy) to -5 (very hard)
 Opposition Modifier: Based on the relevant attribute score of the opposition. Calculated: 10 - the opposition's attribute score.

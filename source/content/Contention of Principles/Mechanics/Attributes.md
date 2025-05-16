@@ -22,22 +22,3 @@ The following statistics are calculated based on the character’s Attributes:
 * Corruption Threshold = Resolve/2 (rounded up)
 * `?Exactitude = (Agility + Subtlety)/2 (rounded up)`
 * `?Resolve = (Might + Wit)/2 (rounded up)`
-
-## Table
-
-| New        | Old        |
-| ---------- | ---------- |
-| Agility    | Quick      |
-| Charisma   | Persuasive |
-| Exactitude | Accurate   |
-| Resolve    | Resolute   |
-| Might      | Strong     |
-| Subtlety   | Discreet   |
-| Vigilance  | Vigilant   |
-| Wit        | Cunning    |
-
-## Notes
-* Social scenarios can use many attributes
-	* Charisma to influence
-	* Subtlety to mask what is potentially visually apparent (still Charisma to lie, even in terms of body language)
-	* Vigilance to detect social cues (but still Charisma to interpret them. Think Perception vs Insight)

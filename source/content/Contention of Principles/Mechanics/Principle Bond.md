@@ -1,20 +1,4 @@
-* Witchcraft -> Appreciation
-	* appreciative mystic
-* Theurgy -> Exaltation
-	* exalting mystic
-* Sorcery -> Fear
-	* fearful mystic
-* Wizardry -> Captivation
-	* captivating mystic
-
-"having" a bond is an ability. Mystical powers "have a crux" of their bond type
-
-## Lore
 Magic in this world stems from the principles. The power is out there, and it need only be sought and its corruption withstood. Though this corruption is an unavoidable effect to men who engage with true magic, men who are guided toward the source of their power may suffer less. There are four ways a man may be bonded to principle magics: Appreciation, Captivation, Exaltation, and Fear.
-
-`Less like you're channeling a being's power, more like the being is ferrying you through a river of power to which they have a reign of their own kind. They're a middleman, a branch of the source, not a source themself`
-
-`maybe literally call the benefactor principles "guides" instead of benefactors or patrons`
 ## [[Abilities]]
 ### Appreciation
 
@@ -100,23 +84,3 @@ Fear: One who fears the principle magics acquiesces to the immensity of nature a
 The novice fearful mystic has a certain dread and diffident ambition that typifies a wont of abstruse effectiveness.
 The adept fearful mystic exudes an air of haunted restlessness, and the world itself takes advantage.
 A dense fog of boiling shadow seems to seep from the master fearful mystic; the onerous immensity of imperfection and injustice harries the world through the mystic.
-
----
-
-## Old
-
-### Appreciation
-> They who appreciate are the men closest to truly fathoming the role of men and principles in the world. Principles that recognize this bond grant power by way of mutual respect.
-### Captivation
-> Though the rationales of principles are categorically inscrutable, it can be said that men who captivate are deemed special and essential by their principle(s). Principles that recognize this bond grant power by way of affinity.
-
-### Exaltation
-> `rough given my decision on warlock-iness`One who exalts the principles inflates its myth and fuels its image. Principles are not thought to axiomatically value reverence. However, exaltation is said by some to be capable of obliging a principle to its power. Men who exalt compel their benefactor according to its nature.
-> Principles that recognize this bond grant power by way of ego.
-
-### Fear
-> Principles that recognize this bond grant power by way of majesty.
-
-The character is one of those who are arrogant or desperate enough to cling to the darkness. While other mystical traditions do everything they can to avoid the soul-eroding powers of Corruption, the fearful mystic chooses to do the opposite.
-
-The powers and rituals of Fear rely on the force of corruption and the possibilities offered by the taint. The fearful mystic must always balance between grasping the black power that is just within its reach and remaining independent of the darkness. Most fearful mystics realize that their chosen path only holds one possible end, and the most depraved among them have already come to terms with this, seeing their final and inevitable enslavement as some sort of salvation.
