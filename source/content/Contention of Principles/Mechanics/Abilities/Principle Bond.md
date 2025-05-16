@@ -58,29 +58,3 @@ Reaction. A fearful mystic who fails in an attempt to use a power may try again,
 Master
 `A dense fog of boiling shadow seems to seep from the master fearful mystic; the onerous immensity of imperfection and injustice harries the world through the mystic.`
 Special. Each time the fearful mystic attempts to affect the Resolve attribute of another creature, they may choose to roll against the creature's Shadow instead (the creatures Resolve –Total Corruption). Thoroughly corrupted creatures are strangely immune to this; it is as if they feed off the darkness of the world to carry on with their dark calling.
-
----
-
-Appreciation: One who appreciates principle magics demonstrates cognizance and understanding of the true nature of things.
-
-The novice appreciative mystic has a certain surreal wisdom, an esteem for existence and its many intricacies.
-The adept appreciative mystic nurtures the beauty inherent in life and its cycles, and the world itself attests.
-The every action of the master appreciative mystic seems a note to an ode to the tapestry of creation; their deeds and experience demonstrate a profound clarity.
-
-Captivation: One who captivates principle magics piques interest through their own actions and nature.
-
-The novice captivating mystic has a certain unmistakable peculiarity, a distinct predilection for imbroglio and spectacle.
-The adept captivating mystic has an alluring air of intricacy, and the world itself takes notice.
-An unspoken invitation of mystery surrounds the master captivating mystic; their cachet leaves a patent impression upon everything around them.
-
-Exaltation: One who exalts the principle magics regards power as zenith of being and takes pride in their influences.
-
-The novice exalting mystic has a certain zeal, the will and vigor to exact their conceits.
-The adept exalting mystic lauds their volition authoritatively, and the world itself indulges.
-An effulgence shines from the master exalting mystic with the fervency of the sun; each gesture of theirs a sublime decree of unquestionable propriety.
-
-Fear: One who fears the principle magics acquiesces to the immensity of nature and bends its purpose.
-
-The novice fearful mystic has a certain dread and diffident ambition that typifies a wont of abstruse effectiveness.
-The adept fearful mystic exudes an air of haunted restlessness, and the world itself takes advantage.
-A dense fog of boiling shadow seems to seep from the master fearful mystic; the onerous immensity of imperfection and injustice harries the world through the mystic.

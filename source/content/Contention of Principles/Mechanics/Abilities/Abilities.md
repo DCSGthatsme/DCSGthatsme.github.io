@@ -704,7 +704,3 @@ Adept<br>Special. The character has learned to perform up to two additional ritu
 Master<br>Special. The character has learned to perform up to three additional rituals (six rituals in total). Just as before, the
 
 Master<br>Ritualist is not limited to the rituals of a single mystical tradition, but must have access to the ritual to be able to learn and memorize it.
-
-## Principle Bonds
-`Originally Mystic Traditions:`
-![[Principle Bond#Abilities]]
