@@ -66,13 +66,13 @@ Re-roll for Experience (Optional Rule):
 ## [[Go-time]]
 
 Damage & Healing
-Damage lowers the victim's Toughness and an actor dies when its Toughness reaches zero – unless it is a player character, in which case they are regarded as being dying instead. Damage and wounds can be healed in a number of ways, described in this section.
+Damage lowers the victim's Toughness and an actor dies when their Toughness reaches zero – unless it is a player character, in which case they are regarded as being dying instead. Damage and wounds can be healed in a number of ways, described in this section.
 
 Toughness
 The character's `Max?` Toughness is equal to their Might, but not lower than 10.
 
 Pain Threshold
-A character's Pain Threshold is half of its Might, rounded up. When a creature suffers damage from a single that exceeds its Pain Threshold, one of the following things happens. In the case of a player character taking or inflicting the damage, that player chooses which one happens.
+A character's Pain Threshold is half of their Might, rounded up. When a creature suffers damage from a single that exceeds their Pain Threshold, one of the following things happens. In the case of a player character taking or inflicting the damage, that player chooses which one happens.
 * The affected creature is knocked down and has to get up (see Special Actions).
 * The one who deals the damage is allowed to perform an immediate Free Attack against the affected creature.
 
@@ -110,7 +110,7 @@ The conditions of the combat situation and the weapons of the combatants will af
 Note that there are many abilities that affect the character's capacity to perform Special Actions. For example, an adept in Acrobatics can get up from lying down as a Free Action, provided that he or she succeeds with a Quick test. And the master level of Sixth Sense removes any negative modifications from Blind Fighting – which can be used when attacking opponents in the dark.
 
 Blind Fighting
-To fight blinded is hard, and the same goes for fighting under bad lighting conditions such as in darkness, smoke or thick fog. If both parties in a battle are affected, then no adjustments are needed. Otherwise, the affected party gets two chances to fail its success tests – if the character is affected, the player rolls twice and picks the worst result; if only the enemy is affected the player rolls twice and picks the best result.
+To fight blinded is hard, and the same goes for fighting under bad lighting conditions such as in darkness, smoke or thick fog. If both parties in a battle are affected, then no adjustments are needed. Otherwise, the affected party gets two chances to fail their success tests – if the character is affected, the player rolls twice and picks the worst result; if only the enemy is affected the player rolls twice and picks the best result.
 
 Disengage From Melee Combat
 Disengaging from a melee combat is done on the character's Initiative and costs a Movement Action. The enemy is allowed a Free Attack against the character. This also applies to situations when the character is facing multiple opponents, in which case each opponent is allowed a Free Attack against the character when he or she chooses to disengage.
@@ -122,7 +122,7 @@ First Aid
 To perform first aid on a wounded person counts as a Combat Action and requires a herbal cure, the Medicus ability or other healing powers. The effect of first aid is described in Damage & Healing.
 
 Stand
-Fighting while lying down is possible, but not rec- ommended, because each enemy that has engaged the character in close combat gets an Advantage against a prone character. See rules for Advantage below. If the character makes a successful test against Quick it only takes a Movement Action for the character to get back on its feet. Otherwise, it takes an entire turn, meaning that the character cannot perform a Combat Action while getting up.
+Fighting while lying down is possible, but not rec- ommended, because each enemy that has engaged the character in close combat gets an Advantage against a prone character. See rules for Advantage below. If the character makes a successful test against Quick it only takes a Movement Action for the character to get back on their feet. Otherwise, it takes an entire turn, meaning that the character cannot perform a Combat Action while getting up.
 
 Line of Sight
 Ranged weapons cannot shoot past other combat- ants, meaning that the shooter (or the mystic) may need to use Movement Actions to maneuver for them to have line of sight. A rule of thumb is that if a shooter or a mystic stands behind an ally so that the targeted enemy is forced to trigger a Free Attack to reach the shooter, then the target is obscured from view by the shooter's ally.
@@ -131,13 +131,13 @@ Shield
 Anyone can defend themselves with a shield, pro- viding +1 to Defense. The use of a shield makes it impossible to use ranged and Heavy weapons and neutralizes the reach advantage gained from a Long weapon, since the wielder must use it in one hand. The buckler is an exception to this, allowing the use of both hands, as well as giving the user +1 to Defense.
 
 Flank
-To surround the enemy is an effective combat strategy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of its allies retreats or goes down. Terrain and the movement of the combatant decide what is possible to achieve. Doors, corridors and narrow passages can be used to prevent enemies from flanking. Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade its Combat Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee.
+To surround the enemy is an effective combat strategy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of their allies retreats or goes down. Terrain and the movement of the combatant decide what is possible to achieve. Doors, corridors and narrow passages can be used to prevent enemies from flanking. Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade their Combat Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee.
 
 Surprised
 To sneak up on an enemy or prepare an ambush is an active Action and requires a successful \[Subtlety←Vigilance\] test. Attacking an enemy that is unaware of the incoming attack allows the attacker to make a Free Attack in the first turn of combat. Then the combat follows the usual turn order, based on the combatants Quick.
 
 Advantage
-Sometimes one side of a melee combat gets an advantage over the other. A character sneaking up on an enemy to attack it from behind has the Advantage. Another situation where you are at an Advantage is when you attack a target lying on the ground or a target that is climbing towards you. To create advantages when fighting on plain and even ground requires the use of Actions, attacks or movements. If your character has the Advantage in a combat situation, it receives a +2 modification to the relevant Attribute when making a Success test, and its attacks deal 1D4 extra damage. The following situations provide advantages:
+Sometimes one side of a melee combat gets an advantage over the other. A character sneaking up on an enemy to attack it from behind has the Advantage. Another situation where you are at an Advantage is when you attack a target lying on the ground or a target that is climbing towards you. To create advantages when fighting on plain and even ground requires the use of Actions, attacks or movements. If your character has the Advantage in a combat situation, it receives a +2 modification to the relevant Attribute when making a Success test, and their attacks deal 1D4 extra damage. The following situations provide advantages:
 * Attacking an enemy that is unaware of the pending attack. For this situation to occur, a successful \[Subtlety←Vigilance\] test is normally required by the attacker.
 * All melee attacks against a flanked enemy counts as providing an Advantage. A target is considered flanked if two enemies stand on opposite sides of it. It usually takes a Movement Action to get around an enemy and flank it. In the same way a character can use a Movement Action to get away from a flanked position – but with the consequence of receiving a Free attack from each enemy.
 * All melee attacks against an enemy lying down. Note that ranged attacks do not get any advantage from this.

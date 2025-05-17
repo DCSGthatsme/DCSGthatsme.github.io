@@ -3,7 +3,7 @@ The character has learned the art of acrobatic maneuvering. The nimbleness of th
 
 Novice<br>Reaction. The character may roll against Agility to avoid Free Attacks from enemies in melee combat, either when trying to slip past an enemy or when attempting to withdraw from melee. Should the test fail, the player must choose for their character to either remain in their original place or to move anyway and suffer a Free Attack from the opponent.
 
-Adept<br>Free. If the character is knocked down they may attempt to jump back up again as a Free Action by making a Agility test. If the test fails the character has to spend a Movement Action to get back on its feet, as usual.
+Adept<br>Free. If the character is knocked down they may attempt to jump back up again as a Free Action by making a Agility test. If the test fails the character has to spend a Movement Action to get back on their feet, as usual.
 
 Master<br>Reaction. The character can utilize their enemies as shields in battle. In combat with more than one opponent, the character may once per turn use an enemy as a shield and have that enemy suffer a successful hit instead of the character. That opponent cannot defend against the attack, but the master acrobat has to make a successful roll against Agility for the enemy to take the hit.
 
@@ -14,7 +14,7 @@ During combat in wooded areas and hilly terrain the distance between opponents c
 
 Novice<br>Passive. The character can split their movement and perform one part of the movement action before the combat action, and the other part after. This is done in order to make maximum use of the terrain and cover. The character still suffers Free Attacks from enemies if the movement leads into or through melee combat distance.
 
-Adept<br>Passive. As a part of their combat action, the character may freely switch between weapons. This only pertains to changing weapons; it does not provide an extra action to be used for anything else. For instance, the character may start holding two weapons, move a part of its movement range, and as a combat action switch to a bow, fire it, and then switch back to two weapons. Finally, the rest of the movement is made.
+Adept<br>Passive. As a part of their combat action, the character may freely switch between weapons. This only pertains to changing weapons; it does not provide an extra action to be used for anything else. For instance, the character may start holding two weapons, move a part of their movement range, and as a combat action switch to a bow, fire it, and then switch back to two weapons. Finally, the rest of the movement is made.
 
 Master<br>Reaction. The character gains a second chance to pass all Defense tests against Free Attacks provoked by withdrawing from melee. In addition, every such Free Attack against the character lets the Iron Sworn make their own Free Attack against the enemy. The character may freely switch weapons for these counter-strikes and choose the tool that fits the situation best.).
 
@@ -78,11 +78,11 @@ Master<br>Reaction. The character's Backstab deals 1D8 extra damage and causes a
 ## Berserker
 Feared barbarian warriors have developed the practice of working themselves into a berserker frenzy before battle. By letting the repressed anger of the heart strengthen their limbs, the character can unleash a fuming rage that, if channeled correctly, might determine which side will emerge victorious from the battle.
 
-Novice<br>Free. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 1D6 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend itself properly. The attribute on which Defense is based, is considered to be 5 when calculating Defense.
+Novice<br>Free. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 1D6 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend themself properly. The attribute on which Defense is based, is considered to be 5 when calculating Defense.
 
 Adept<br>Reaction. The rage is like armor to the character. They ignore 1D4 damage from each hit suffered while in a berserker rage.
 
-Master<br>Free. The character has managed to harness its rage without losing any of its power. The character can utilize this capacity to both deal and ignore extra damage, while still being able to defend itself as normal.
+Master<br>Free. The character has managed to harness their rage without losing any of their power. The character can utilize this capacity to both deal and ignore extra damage, while still being able to defend themself as normal.
 
 ## Blacksmith
 `APG`
@@ -111,13 +111,13 @@ Adept<br>Reaction. The character's hits grow more powerful the more damaged they
 Master<br>Reaction. The warrior is healed by the blood spilled by the enemy; half of the damage that the character deals in melee combat is added to their Toughness, rounded down.
 
 ## Bodyguard
-The character is trained to place itself in the way of painful strikes and lethal blows aimed at a protected person.
+The character is trained to place themself in the way of painful strikes and lethal blows aimed at a protected person.
 
 Novice<br>Reaction. With a successful Resolve test, the character may take blows directed against an ally. They may not defend against attacks redirected upon themself; they hit automatically.
 
 Adept<br>Reaction. As Novice, but the character's capacity as a guardian allows them to defend themself against all attacks aimed at the person they are protecting.
 
-Master<br>Reaction. As Adept, but the character is a veritable patron. As a Reaction, the master Bodyguard also gets to make a Free Attack against anyone making a melee attack aimed at the person under its protection.
+Master<br>Reaction. As Adept, but the character is a veritable patron. As a Reaction, the master Bodyguard also gets to make a Free Attack against anyone making a melee attack aimed at the person under their protection.
 
 ## Cheap Shot
 `APG`
@@ -127,14 +127,14 @@ Novice<br>Active. Cheap Shots like a headbutt or nut shot come naturally to the 
 
 Adept<br>Reaction. The character performs a normal melee attack and if it deals damage, they add a trip or a tackle. Such a maneuver knocks the opponent to the ground if the character succeeds with a \[Wit←Agility\] test.
 
-Master<br>Reaction. Every enemy who engages the character in melee suffers a bloody riposte dealing 1D6 damage directly after its attack. The riposte always hits a weak spot and consequently ignores any armor.
+Master<br>Reaction. Every enemy who engages the character in melee suffers a bloody riposte dealing 1D6 damage directly after their attack. The riposte always hits a weak spot and consequently ignores any armor.
 
 ## Dominate
 With nothing but presence, gaze and voice, strong personalities can force weaker minds to bend in the midst of a raging battle. The character is trained in this art of subduing combat.
 
 In social situations, this ability can also be used to scare someone into obedience and force secrets out of them.
 
-Novice<br>Passive. The character can dominate and outmaneuver an enemy combatant by using its convincing personality. The character may use Charisma instead of Exactitude in melee combat.
+Novice<br>Passive. The character can dominate and outmaneuver an enemy combatant by using their convincing personality. The character may use Charisma instead of Exactitude in melee combat.
 
 Adept<br>Free. The character can, as a Free Action and with a successful \[Charisma←Resolve\] test, force an enemy to hesitate in melee combat. A hesitating enemy will not attack the character this turn. If possible, it attacks one of the character's allies instead.
 
@@ -151,7 +151,7 @@ Adept<br>Active. In addition to the novice effect, the character gains a second 
 Master<br>Reaction. The character's skill with ensnaring weapons is such that every ensnaring attack is assumed to hit the target's neck and have a strangling effect; besides the ensnaring effect and the chance to bring down the enemy, the target suffers 1D6 damage, ignoring armor. If the target reaches 0 Toughness, the character can choose to make it unconscious instead of dying.
 
 ## Exceptional Attribute
-All the character's senses, as well as its physical and mental capacity, can be improved. By practicing a little bit each day, the muscles can grow stronger, the eyes sharper and intellect vaster. This ability enhances the character's basic survival capability.
+All the character's senses, as well as their physical and mental capacity, can be improved. By practicing a little bit each day, the muscles can grow stronger, the eyes sharper and intellect vaster. This ability enhances the character's basic survival capability.
 
 A version of this Ability may be chosen for each primary Attribute. (ie Exceptional Resolve, Exceptional Wit)
 
@@ -177,9 +177,9 @@ Persons and creatures that lack the will or strength to wield heavy melee weapon
 
 Novice<br>Passive. The character can choose to attack with Subtlety instead of Exactitude when the attack is made with a melee weapon which is either Short or Precise. Also, every such attack gains the same Advantage as if the opponent was surprised.
 
-Adept<br>Reaction. The character presents a false weakness in its defense and tricks the opponent into attacking that weakness. The character can choose to defend itself with Subtlety instead of Agility.
+Adept<br>Reaction. The character presents a false weakness in their defense and tricks the opponent into attacking that weakness. The character can choose to defend themself with Subtlety instead of Agility.
 
-Master<br>Active. With a successful roll against \[Subtlety←Vigilance\] the character can surprise an enemy in the middle of an ongoing fight. A successful test gives the character a Free Attack against that enemy in addition to its ordinary attack. The character may still perform an ordinary attack even if the attempted Feint fails.
+Master<br>Active. With a successful roll against \[Subtlety←Vigilance\] the character can surprise an enemy in the middle of an ongoing fight. A successful test gives the character a Free Attack against that enemy in addition to their ordinary attack. The character may still perform an ordinary attack even if the attempted Feint fails.
 
 ## Flailer
 `APG`
@@ -217,7 +217,7 @@ Master<br>Reaction. The master hunter lets no prey escape. The character gets a 
 ## Iron Fist
 The character is trained to use their strength for maximum effect on a target in melee combat.
 
-Novice<br>Passive. The character can fully utilize its strength and therefore uses Might instead of Exactitude when making melee attacks.
+Novice<br>Passive. The character can fully utilize their strength and therefore uses Might instead of Exactitude when making melee attacks.
 
 Adept<br>Passive. The character's melee attacks now deal 1D4 additional damage.
 
@@ -237,7 +237,7 @@ Master<br>Reaction. The character can fight effectively with a knife at very sho
 
 … win the initiative next turn (see Quick Strike on page 99 or Take the Initiative on page 104) and then continue attacking until the knife-fighter hits again.
 
-… use a movement action to withdraw from melee, and then suffer a Free Attack from the knife-fighter. If the Free Attack deals damage, the enemy once again finds itself at too short of a distance to attack effectively.
+… use a movement action to withdraw from melee, and then suffer a Free Attack from the knife-fighter. If the Free Attack deals damage, the enemy once again finds themself at too short of a distance to attack effectively.
 
 ## Leader
 There are many who fight their way to a position of leadership, but there are few who are recognized as true leaders by the people they are meant to lead. If equipped with this ability the character is an inspiring, charismatic, and eloquent person whom others listen to and follow, sometimes to their death.
@@ -288,12 +288,12 @@ The character can inflict serious damage on their enemies with a bow or crossbow
 
 Novice<br>Passive. Thanks to the character's skill, their damage dealt with bows and crossbows is increased to 1D10 and 1D12 respectively, from the usual 1D8 and 1D10.
 
-Adept<br>Active. The character's precision grants their projectiles a crippling effect. The attack deals damage as usual and if the target is wounded the character may make an \[Exactitude←Might\] test every time the target attempts to move. A successful test means that the target cannot move and its Movement Action is forfeit. As soon as the target manages to move (the character fails the test), the crippling effect is gone.
+Adept<br>Active. The character's precision grants their projectiles a crippling effect. The attack deals damage as usual and if the target is wounded the character may make an \[Exactitude←Might\] test every time the target attempts to move. A successful test means that the target cannot move and their Movement Action is forfeit. As soon as the target manages to move (the character fails the test), the crippling effect is gone.
 
 Master<br>Active. The master marksman's projectiles become piercing. The shot hits a weak spot and completely ignores the target's Armor.
 
 ## Medicus
-The character is schooled in the art of healing and therefore is a great asset in its society, whether they keep diseases from spreading, takes care of wounded warriors or tends to the ruling elite.
+The character is schooled in the art of healing and therefore is a great asset in their society, whether they keep diseases from spreading, takes care of wounded warriors or tends to the ruling elite.
 
 A character with the Medicus ability can diagnose and cure diseases and identify a poison by its symptoms. Medicus also gives the character a coroner's point of view, which might come in handy when examining a crime scene or a dead body.
 
@@ -306,7 +306,7 @@ Master<br>Active. The master Medicus has a vast medical knowledge. A successful 
 ## Natural Warrior
 Weapons are not always available or practical. Through long and hard training, the character has become a dangerous opponent even when unarmed.
 
-Novice<br>Passive. The character has learned to use its natural-born warrior capabilities with great efficiency. The character's unarmed attacks now deal 1D6 damage. If the creature has the Natural Weapons trait as well, then the damage is further increased according to the level of that monstrous trait.
+Novice<br>Passive. The character has learned to use their natural-born warrior capabilities with great efficiency. The character's unarmed attacks now deal 1D6 damage. If the creature has the Natural Weapons trait as well, then the damage is further increased according to the level of that monstrous trait.
 
 Adept<br>Active. With the speed of an adept, the character may now perform a double attack against a single target. The two attacks are rolled separately.
 
@@ -388,7 +388,7 @@ Novice<br>Free. With a successful test against Agility, the character may unshea
 
 Adept<br>Free. With a successful Agility test, the character may switch weapons as a Free Action, meaning that the character can sheathe one weapon and draw another in one fluid motion.
 
-Master<br>Free. The character handles elixirs swiftly and may with a successful Agility test pour one dose down its own or someone else's throat as a Free Action.
+Master<br>Free. The character handles elixirs swiftly and may with a successful Agility test pour one dose down their own or someone else's throat as a Free Action.
 
 ## Rapid Fire
 `APG`
@@ -409,12 +409,12 @@ Rogues do not have much in common, besides that they all are survivalists – ei
 
 Novice<br>Reaction. In situations when the character suffers from an effect which may result in full or half damage (for instance from alchemical grenades and Brimstone Cascade), the character suffers half damage instead of full, and no damage instead of half. As an example, if hit by a Brimstone Cascade that normally deals 1D12 with a hit and 1D6 with a miss, this is transformed into 1D6 with a hit and no damage at all with a miss.
 
-Adept<br>Reaction. The rogue avoids the enemy's melee attack and dances around to its back; with a passed Defense test, the rogue and the enemy switch places, if the player wishes. This means that the rogue gets away from being flanked without suffering a Free Attack, and also that the enemy ends up in a flanked position if there was an ally standing next to the rogue.
+Adept<br>Reaction. The rogue avoids the enemy's melee attack and dances around to their back; with a passed Defense test, the rogue and the enemy switch places, if the player wishes. This means that the rogue gets away from being flanked without suffering a Free Attack, and also that the enemy ends up in a flanked position if there was an ally standing next to the rogue.
 
 Master<br>Free. The expert rogue's reflexes are so finely tuned that they ignore the usual turn order and always acts first; only others with this ability and a higher value in Agility or Vigilance gets to go before the rogue.
 
 ## Recovery
-Among both Black Cloaks and Mystics, meditative techniques that provide strange bodily capabilities have been developed. The character can use its inner power reserves with an almost magical self-discipline to rejuvenate the energy of its body, even when in the midst of combat.
+Among both Black Cloaks and Mystics, meditative techniques that provide strange bodily capabilities have been developed. The character can use their inner power reserves with an almost magical self-discipline to rejuvenate the energy of their body, even when in the midst of combat.
 
 Novice<br>Active. With a successful die roll against Resolve, the character regains 1D4 Toughness. Multiple attempts can be made, but only one successful attempt is allowed per day.
 
@@ -430,7 +430,7 @@ A character with the Rider ability also has a good hand with other kinds of farm
 
 Novice<br>Reaction. The character is an experienced rider and used to fighting while mounted. The character knows how to use the weight of the mount in a cavalry charge and deals 1D6 additional damage with one melee attack if the mount moves prior to the attack.
 
-Adept<br>Active. The bond between a mount and its rider makes it possible for them to make sweeping attacks, meaning that they use parts of their Move Action before an attack, and the rest afterwards. This way, they are able to perform a melee attack without being locked into melee combat. The enemy can only retaliate by using Reactions, or by spending their Movement Action trying to catch up with the rider.
+Adept<br>Active. The bond between a mount and their rider makes it possible for them to make sweeping attacks, meaning that they use parts of their Move Action before an attack, and the rest afterwards. This way, they are able to perform a melee attack without being locked into melee combat. The enemy can only retaliate by using Reactions, or by spending their Movement Action trying to catch up with the rider.
 
 Master<br>Reaction. The master rider can use a cavalry charge even more effectively and therefore deals +1D10 damage with one melee attack if the mount moves prior to the attack.
 
@@ -447,11 +447,11 @@ Adept<br>Reaction. The rune tattoo is attracted to injuries on the character's b
 Master<br>Reaction. The rune tattoo adds power to the warrior's attacks. When an enemy is hit and the character so wishes, the glowing tattoo flows over the weapon dealing +1D4 damage, at the cost of as many points in temporary corruption for the character.
 
 ## Shield Fighter
-The character is trained in how to make good use of a shield, and how to actively fight using the shield as a weapon. Behind the protection of the shield, the character can generate a great momentum to fuel its attacks, as well as strike with the shield itself. This is an effective combination which probably explains why it is so common among both barbarian and Ambrian warriors.
+The character is trained in how to make good use of a shield, and how to actively fight using the shield as a weapon. Behind the protection of the shield, the character can generate a great momentum to fuel their attacks, as well as strike with the shield itself. This is an effective combination which probably explains why it is so common among both barbarian and Ambrian warriors.
 
 The buckler, the light shield usually utilized by archers, is too light to be used with the Shield Fighter ability. The warrior has to carry a sturdy shield made of either wood or steel to generate the required amount of force.
 
-Novice<br>Passive. The damage dealt by weapons held in the character's sword arm is increased by one step; to 1D10 if the character fights with a single-handed weapon or to 1D8 if using a Short weapon. The novice Shield Fighter also wields its shield as an instrument of protection with greater efficiency and therefore receives a +2 Defense bonus instead of the usual +1 when using a shield.
+Novice<br>Passive. The damage dealt by weapons held in the character's sword arm is increased by one step; to 1D10 if the character fights with a single-handed weapon or to 1D8 if using a Short weapon. The novice Shield Fighter also wields their shield as an instrument of protection with greater efficiency and therefore receives a +2 Defense bonus instead of the usual +1 when using a shield.
 
 Adept<br>Reaction. The character has learned how to combine weapon and shield so well that every successful attack may be followed up by a shield bash against the same target (separate attack roll). If it hits, the damage of the shield bash is 1D4, and should the shield fighter make a successful test against \[Might←Might\] the target is also knocked to the ground.
 
@@ -472,7 +472,7 @@ Master<br>Special. The character's understanding of alchemical weapons is except
 ## Sixth Sense
 When moving through dark forests and underground tunnels, one's eyes are no longer very useful. Lighting a lantern or torch may summon dangers, so the explorer had better learn to rely on their other senses. With dedicated training it is possible to awaken these other senses and sharpen them to the brink of eeriness. The Sixth Sense ability provides the character with unique capabilities when fighting at a distance or in situations where eyesight can no longer be trusted.
 
-A character with Sixth Sense may under calm circumstances navigate unhindered in dim light, as well as maintain a sense of direction in complete darkness, though at a pace of only a quarter of its normal, daytime speed. 
+A character with Sixth Sense may under calm circumstances navigate unhindered in dim light, as well as maintain a sense of direction in complete darkness, though at a pace of only a quarter of their normal, daytime speed. 
 
 Novice<br>Passive. The character has a strong intuition, which lets them use Vigilance instead of Exactitude when attacking with ranged weapons.
 
@@ -510,11 +510,11 @@ Master<br>Special. The staff absorbs all corruption the character would have gai
 ## Steadfast
 Mental disciplines and stratagems for resisting improper influences have been developed among the ranks of the Templars and Black Cloaks. Also among Mystics there are individuals who study the art of resistance.
 
-The character has a mind as hard as steel, inspiring it to fight on even against insurmountable odds. Mystics rarely succeed when trying to hurt or seize control of the character's senses, and sometimes a truly steadfast character manages to defend itself mentally and even turn the magic back on the hostile mystic.
+The character has a mind as hard as steel, inspiring it to fight on even against insurmountable odds. Mystics rarely succeed when trying to hurt or seize control of the character's senses, and sometimes a truly steadfast character manages to defend themself mentally and even turn the magic back on the hostile mystic.
 
 Novice<br>Reaction. The character can make a second attempt to succeed with a Might or Resolve test when trying to break an ongoing physical effect from, for instance, traps or alchemical elixirs. This includes energies from mystical powers, as long as these are manifested physically in the forms of fire, acid or similar.
 
-Adept<br>Reaction. The character is unshakable, and can make a second attempt to shrug off ongoing powers that affects either its will or its senses.
+Adept<br>Reaction. The character is unshakable, and can make a second attempt to shrug off ongoing powers that affects either their will or their senses.
 
 Master<br>Reaction. The psyche of the character strikes back against anyone who tries to affect it. Whenever the character is the victim of a mental attack (in other words, those attacks that are modified by Resolve) that fails, the attacker suffers 1D6 damage that ignores Armor.
 
@@ -545,9 +545,9 @@ There are many myths describing the origin of mystical powers, and all establish
 
 The Strong Gift – innate or acquired through trials and practice – can still be found with some mystics. For one thing, the gift provides a singular resistance against the corruption of the world. It also endows the mystic with the ability to use improvised mystical powers, at a high cost in corruption.
 
-Novice<br>Special. The Strong Gift allows the character to choose a signature power. This power is selected from among the ones already known to the mystic, and that power then only costs one (1) temporary corruption to use. If the character has no powers or just prefers to have a tainting ability as its signature instead, this is also allowed – a gift linked to the ability Ritualist (including all individual rituals) or to Sublime Sight means that these never cost more than one temporary corruption to use. Also, traits such as Wisdom of the Ages may be chosen. The Strong Gift has no effect on the cost in permanent corruption for learning a power outside a mystical tradition; it only affects the amount of temporary corruption gained when using it.
+Novice<br>Special. The Strong Gift allows the character to choose a signature power. This power is selected from among the ones already known to the mystic, and that power then only costs one (1) temporary corruption to use. If the character has no powers or just prefers to have a tainting ability as their signature instead, this is also allowed – a gift linked to the ability Ritualist (including all individual rituals) or to Sublime Sight means that these never cost more than one temporary corruption to use. Also, traits such as Wisdom of the Ages may be chosen. The Strong Gift has no effect on the cost in permanent corruption for learning a power outside a mystical tradition; it only affects the amount of temporary corruption gained when using it.
 
-Adept<br>Passive. A character with the adept level in Strong Gift uses their whole Resolve value as the corruption threshold, instead of only half. Such an individual does not become blight born until its total corruption reaches a value of Resolve ×2
+Adept<br>Passive. A character with the adept level in Strong Gift uses their whole Resolve value as the corruption threshold, instead of only half. Such an individual does not become blight born until their total corruption reaches a value of Resolve ×2
 
 Master<br>Special. The gift of the Master lets the character cast any mystical power, albeit only at the novice level. There is a second chance to fail all success tests and using the power causes 1D8 temporary corruption. All mystical powers are available, no matter what tradition they belong to.
 
@@ -582,7 +582,7 @@ According to Ambrians, scholarly knowledge is counted as one of the highest virt
 
 A schooled tactician may also use this ability to analyze a tactical approach and find both its strengths and weaknesses. This can be done for offensive purposes when facing a hostile group or defensively, to establish a strong defense.
 
-Novice<br>Passive. The character has studied the tactics of warfare and grasped its fundamental principles. The character may use Wit instead of Agility when calculating its Initiative.
+Novice<br>Passive. The character has studied the tactics of warfare and grasped its fundamental principles. The character may use Wit instead of Agility when calculating their Initiative.
 
 Adept<br>Passive. The character has mastered the art of a good defensive posture, which allows them to use Wit instead of Agility when calculating Defense.
 
@@ -630,7 +630,7 @@ Master<br>Special. The troll singer suffers no permanent corruption from learnin
 ## Twin Attack
 Barbarians, Ambrians and goblins all have fighting techniques involving the use of more than one weapon. The character has learned how to fight with two weapons, an advanced but effective technique that gives the warrior an offensive advantage. Twin Attack is especially effective against lightly armored targets.
 
-Novice<br>Active. The character can safely wield two weapons, one in each hand. The novice can fight with a single-handed weapon in its primary hand and a Short weapon in the other. The character can make two attacks against the same target, dealing 1D8 and 1D6 damage respectively. The enemy must defend itself separately against the attacks. The novice also receives a +1 bonus to its Defense as a Passive ability, but only when wielding a weapon in each hand.
+Novice<br>Active. The character can safely wield two weapons, one in each hand. The novice can fight with a single-handed weapon in their primary hand and a Short weapon in the other. The character can make two attacks against the same target, dealing 1D8 and 1D6 damage respectively. The enemy must defend themself separately against the attacks. The novice also receives a +1 bonus to their Defense as a Passive ability, but only when wielding a weapon in each hand.
 
 Adept<br>Active. The adept can use two singlehanded weapons, each attack dealing 1D8 damage.
 
@@ -643,7 +643,7 @@ Heavy two-handed weapons rest comfortably in the character's callused hands and 
 
 Novice<br>Passive. The damage dealt by heavy weapons is increased to 1D12.
 
-Adept<br>Reaction. The character has mastered the use of its weapon, so when an attack misses a target the character may instead use the returning swing in an attempt to hit the target again. The character makes a new attack roll, which deals 1D8 damage if it hits.
+Adept<br>Reaction. The character has mastered the use of their weapon, so when an attack misses a target the character may instead use the returning swing in an attempt to hit the target again. The character makes a new attack roll, which deals 1D8 damage if it hits.
 
 Master<br>Active. A heavy weapon in the hands of a master is truly a tool of armor-crushing destruction. When the attacks of a master hit the target, they completely ignore the target's Armor.
 
@@ -653,7 +653,7 @@ By way of the shadows surrounding creatures, locations and objects the world's d
 
 As previously stated, the color of the Shadows can give the character clues regarding the spiritual alliance of the inspected creature (see Shadow & Corruption, page 174). The Game
 
-Master<br>manages the nuances and powers of the Shadows and describes what the character sees with its Sublime Sight.
+Master<br>manages the nuances and powers of the Shadows and describes what the character sees with their Sublime Sight.
 
 Novice<br>Free. As a Free Action, the character can make a roll against \[Vigilance←Subtlety\] in an attempt to see the dominant Shadow of a creature, location or object. Each such attempt forces the character to suffer 1 temporary Corruption.
 
@@ -667,16 +667,16 @@ Wrestling is popular among warriors, appreciated for educational purposes as wel
 
 The trait Robust adds a bonus to Might when throwing an opponent or resisting being thrown: +2 at novice level, +4 at adept level, +8 at master level. Robust gives no bonus if some other attribute besides Might is used.
 
-Novice<br>Active. The character knows the basic wrestling maneuvers and can use them against armed opponents. Also, the character can wrestle while holding weapons; they need not be dropped or put away. The attack is made as usual and if successful the wrestler gets the enemy in a firm grip. The wrestler may then try to throw the enemy or just maintain the grip; both alternatives require a \[Might←Might\] test. The throw inflicts 1D4 damage, ignoring armor, and leaves the enemy flat on its back. The alternative to a throw, maintaining the grip, inflicts no damage, but the enemy cannot act until the wrestler fails a \[Might←Might\] test. Also, all allies of the wrestler have Advantage on the gripped enemy. The wrestler is unable to do anything else while maintaining the grip, leaving them vulnerable: all enemies have Advantage on the wrestler.
+Novice<br>Active. The character knows the basic wrestling maneuvers and can use them against armed opponents. Also, the character can wrestle while holding weapons; they need not be dropped or put away. The attack is made as usual and if successful the wrestler gets the enemy in a firm grip. The wrestler may then try to throw the enemy or just maintain the grip; both alternatives require a \[Might←Might\] test. The throw inflicts 1D4 damage, ignoring armor, and leaves the enemy flat on their back. The alternative to a throw, maintaining the grip, inflicts no damage, but the enemy cannot act until the wrestler fails a \[Might←Might\] test. Also, all allies of the wrestler have Advantage on the gripped enemy. The wrestler is unable to do anything else while maintaining the grip, leaving them vulnerable: all enemies have Advantage on the wrestler.
 
-Adept<br>Reaction. The character has learned how to counter an opponent's strength and can use it to throw the enemy to the ground. First, the wrestler must pass a normal Defense test verses the enemy's melee attack, then they must pass a \[Agility←Might\] test. The throw deals 1D4 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn.
+Adept<br>Reaction. The character has learned how to counter an opponent's strength and can use it to throw the enemy to the ground. First, the wrestler must pass a normal Defense test verses the enemy's melee attack, then they must pass a \[Agility←Might\] test. The throw deals 1D4 damage, ignoring armor, and the thrown enemy ends up flat on their back, loses their breath and is unable to perform any active actions during the following turn.
 
-Master<br>Reaction. The reactive throw of the character (see the adept level) only requires a passed \[Agility←Might\] test, no Defense test is needed. If the throw fails, then a Defense test is rolled to avoid being hit. The master's throw deals 1D6 damage, ignoring armor, and the thrown enemy ends up flat on its back, loses its breath and is unable to perform any active actions during the following turn. Furthermore, the master wrestler immediately gets a Free Attack on the enemy.
+Master<br>Reaction. The reactive throw of the character (see the adept level) only requires a passed \[Agility←Might\] test, no Defense test is needed. If the throw fails, then a Defense test is rolled to avoid being hit. The master's throw deals 1D6 damage, ignoring armor, and the thrown enemy ends up flat on their back, loses their breath and is unable to perform any active actions during the following turn. Furthermore, the master wrestler immediately gets a Free Attack on the enemy.
 
 ---
 
 ## Mystical Power
-The character has access to one or more mystical powers. These powers have either been obtained as a gift, a curse, through assiduous studies or as a consequence of a deep and dedicated faith. The character's power may belong to a mystical tradition (Wizardry, Sorcery, Theurgy or Witchcraft), which all have their benefits and disadvantages. The character may also be a Mystic without a tradition, with a homebrewed theory as to where these powers come from and what they are meant for. For more information see Chapter 18: Mystical Traditions (page 126).
+The character has access to one or more mystical powers. These powers have either been obtained as a gift, a curse, through assiduous studies or as a consequence of a deep and dedicated faith. The character's power may have a crux of a [[Principle Bond]] (Appreciation, Captivation, Exaltation, Fear), which all have their benefits and disadvantages. The character may also be a Mystic without a bond, with a homebrewed theory as to where these powers come from and what they are meant for. For more information see Chapter 18: Mystical Traditions (page 126).
 
 Each Mystical Power is its own ability and is purchased separately. For a more detailed description of the different mystical powers, see Chapter 19: Mystical Powers (page 130).
 

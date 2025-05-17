@@ -3,7 +3,7 @@ To gain a mystical power requires the [[Abilities#Mystical Power|Mystical Power]
 
 Each mystical power is a variant version of the Mystical Power ability, inheriting its rules.
 
-> A clarification may be warranted regarding the ability Mystical Power and the actual powers presented with start on page 130. Each of the latter represent one purchase of the ability in question: if your character learns both Lay on Hands and Holy Aura, this means it learns two different versions of the ability Mystical Power. What is in common for all powers is included in the ability; what is specific is detailed in the description of the powers
+> A clarification may be warranted regarding the ability Mystical Power and the actual powers presented with start on page 130. Each of the latter represent one purchase of the ability in question: if your character learns both Lay on Hands and Lustrous Aura, this means it learns two different versions of the ability Mystical Power. What is in common for all powers is included in the ability; what is specific is detailed in the description of the powers
 
 ## Alchemy
 `originally a non-Mystical Ability`
@@ -121,7 +121,7 @@ Master<br>Active. The mystic can seize control of a creature's will by making a 
 Material: A melee weapon anointed with Predilection.
 Bond: Exaltation
 
-The mystic has learned to shroud its melee weapon with blight-hating fire.
+The mystic has learned to shroud their melee weapon with blight-hating fire.
 
 Novice<br>Free. Arcane fire encircles the novice's melee weapon and deals 1D4 additional damage, or 1D6 additional damage if the target is an abomination or an undead. This effect is active for the remainder of the scene.
 
@@ -133,7 +133,7 @@ Master<br>Free. As novice, but the melee weapon now deals 1D4 additional damage 
 Material: A fistful of pure brimstone.
 Bond: Captivation
 
-The mystic can unleash the rampaging spirit of fire and burn its enemies to cinders, or at least scorch them severely.
+The mystic can unleash the rampaging spirit of fire and burn their enemies to cinders, or at least scorch them severely.
 
 Novice<br>Active. The mystic lashes out with fire and brimstone against a target. If the mystic succeeds with a \[Resolve←Agility\] test, the cascade deals 1D12 points of damage. If the mystic fails the test the cascade deals only 1D6 damage.
 
@@ -146,7 +146,7 @@ Master<br>Active. The mystic unleashes a veritable storm of flaming and smoking 
 Material: A glass shard.
 Bond: Exaltation
 
-The mystic can focus the light of its soul into a burning ray, which damages most beings and destroys the loathsome.
+The mystic can focus the light of their soul into a burning ray, which damages most beings and destroys the loathsome.
 
 Novice<br>Active. With a Resolve test, the mystic steers the light towards a target, dealing 1D6 damage. The damage increases to 1D8 if the target is an abomination or undead.
 
@@ -171,9 +171,9 @@ Master<br>Reaction. The character can pass corruption on to someone else; this i
 Material: A couple of drops of wine.
 Bond: Captivation
 
-The mystic's understanding of the labyrinth of the senses can cause an enemy to lose itself inside its own mind. Confused enemies become paralyzed or lose their ability to separate friend from foe.
+The mystic's understanding of the labyrinth of the senses can cause an enemy to lose themself inside their own mind. Confused enemies become paralyzed or lose their ability to separate friend from foe.
 
-Novice<br>Active. The mystic can confuse an enemy with a successful \[Resolve←Resolve\] test, making the enemy unaware of its actions. Roll 1D6 each turn until the mystic breaks concentration or fails a \[Resolve←Resolve\] test: 1–2, the target stands still, blinking stupidly; 3–4, the target attacks whichever of its allies is closest; 5–6, the target attacks whichever of its enemies is closest. If there is any uncertainty regarding who is closest to the target, roll a die to decide.
+Novice<br>Active. The mystic can confuse an enemy with a successful \[Resolve←Resolve\] test, making the enemy unaware of their actions. Roll 1D6 each turn until the mystic breaks concentration or fails a \[Resolve←Resolve\] test: 1–2, the target stands still, blinking stupidly; 3–4, the target attacks whichever of their allies is closest; 5–6, the target attacks whichever of their enemies is closest. If there is any uncertainty regarding who is closest to the target, roll a die to decide.
 
 Adept<br>Active. The mystic can confuse an enemy without having to concentrate. The Confusion is ongoing until the mystic fails a \[Resolve←Resolve\] test. A new test must be made each turn.
 
@@ -187,7 +187,7 @@ The mystic masters the stare of the Evil Eye and can curse enemies on the battle
 
 Novice<br>Free. Once per turn, the mystic's dark glare automatically gives an enemy a second chance to fail all success tests meant to affect the mystic (roll twice, the action fails if one of the tests is a failure). This effect is ongoing until the mystic fails a Resolve test.
 
-Adept<br>Free. Like novice, but the enemy has a second chance to fail all its success tests regardless of target. The effect is ongoing until the mystic fails a Resolve test.
+Adept<br>Free. Like novice, but the enemy has a second chance to fail all their success tests regardless of target. The effect is ongoing until the mystic fails a Resolve test.
 
 Master<br>Active. The mystic puts a curse of death upon an enemy. The enemy suffers 1D6 damage, ignoring Armor, for all actions it tries to perform. The target suffers no damage if it remains still and passive. This effect is active until the mystic fails a Resolve test.
 
@@ -208,9 +208,9 @@ Master<br>Active. The mystic creates an entangling Chain of thorns. Those ensnar
 Material: A shard of glass.
 Bond: Exaltation
 
-The mystic raises an ethereal shield against the weapons of its enemies. The shield is invisible until attacked, at which time it glitters as if struck by sunlight.
+The mystic raises an ethereal shield against the weapons of their enemies. The shield is invisible until attacked, at which time it glitters as if struck by sunlight.
 
-Novice<br>Active. With a successful roll against Resolve the mystic surrounds itself with a warm glow. This glow provides an additional 1D4 Armor. Also, any abomination or undead who attacks the mystic with melee attacks suffers 1D4 damage from the glow, ignoring Armor. The blessed shield lasts until the end of the scene.
+Novice<br>Active. With a successful roll against Resolve the mystic surrounds themself with a warm glow. This glow provides an additional 1D4 Armor. Also, any abomination or undead who attacks the mystic with melee attacks suffers 1D4 damage from the glow, ignoring Armor. The blessed shield lasts until the end of the scene.
 
 Adept<br>Active. As at the novice level, but the extra Armor and the damage dealt is rolled with 1D6. Also, an ally within sight can be included in the effect of the blessed shield.
 
@@ -224,9 +224,9 @@ The mystic has gained insights into the mysteries of fire and can summon fire to
 
 Novice<br>Active. By making a successful Resolve test the mystic calls forth a wall of whirling flames just in front of it (melee combat distance). The wall is wide enough to cover most corridors and divide most rooms. When in larger rooms and when outside, one can get around the wall of flames by using two Movement Actions, but it can also be flown over with only one Movement Action. It is possible to pass through the wall with an ordinary Movement Action, but all who do suffer 1D12 points of fire damage. Smaller flammable objects such as arrows and bolts are burned to cinder if shot through the burning wall. The wall can also be summoned directly on a group of enemies who are then automatically wounded, provided that the targets form a line in front of the mystic. The Flame Wall is sustained until the mystic fails a Resolve test, made once each turn after the first.
 
-Adept<br>Active. The Flame Wall curves and closes into a burning circle around the mystic and its allies, as well as any enemy combatants within range of melee combat when this power is activated. The wall of flames can either be flown over or passed through, both with a Movement Action, but all who pass through the wall suffer 1D12 points of fire damage. The Flame Wall is sustained until the mystic fails a Resolve test, made once each turn after the first.
+Adept<br>Active. The Flame Wall curves and closes into a burning circle around the mystic and their allies, as well as any enemy combatants within range of melee combat when this power is activated. The wall of flames can either be flown over or passed through, both with a Movement Action, but all who pass through the wall suffer 1D12 points of fire damage. The Flame Wall is sustained until the mystic fails a Resolve test, made once each turn after the first.
 
-Master<br>Active. The Flame Wall curves and bends until it forms a burning dome that covers the mystic and its allies, as well as any enemy combatants within range of melee combat when this power is activated. It is possible to pass through the burning wall with a Movement Action, but all who do so suffer 1D12 points of fire damage. The wall of fire is sustained until the mystic fails a Resolve test, made once each turn after the first.
+Master<br>Active. The Flame Wall curves and bends until it forms a burning dome that covers the mystic and their allies, as well as any enemy combatants within range of melee combat when this power is activated. It is possible to pass through the burning wall with a Movement Action, but all who do so suffer 1D12 points of fire damage. The wall of fire is sustained until the mystic fails a Resolve test, made once each turn after the first.
 
 ## Illusory Correction
 Material: A shard of a mirror.
@@ -244,13 +244,13 @@ Master<br>Reaction. Once per turn, the mystic can make a Resolve test in order t
 Material: A splash of blood.
 Bond: Exaltation, Appreciation
 
-The mystic has closely studied the spirits of creation and death, and can use this knowledge to redistribute damage between itself, its allies and its enemies.
+The mystic has closely studied the spirits of creation and death, and can use this knowledge to redistribute damage between themself, their allies, and their enemies.
 
 Novice<br>Free. By making a successful die roll against Resolve the mystic can attract the spirits of damage from another creature. The target heals 1D6 points of Toughness while the mystic suffers an equal amount of damage.
 
 Adept<br>Free. As novice, but the effect heals 1D8 points of Toughness and also draws any ongoing effects of poison and bleeding to the mystic. The mystic suffers half the damage (rounded up), both from wounds and any poison/bleeding.
 
-Master<br>Active. The target heals 1D8 points of Toughness while the mystic suffers half as much damage. The mystic may also pass the other half of the damage on to another creature in sight. The chosen target's armor is ignored and it cannot defend itself in any way.
+Master<br>Active. The target heals 1D8 points of Toughness while the mystic suffers half as much damage. The mystic may also pass the other half of the damage on to another creature in sight. The chosen target's armor is ignored and it cannot defend themself in any way.
 
 ## Larvae Boil
 Material: A handful of larvae.
@@ -258,7 +258,7 @@ Bond: Fear, Appreciation
 
 Drawing from the force of wrath the mystic can infuse an enemy's body with larvae that then start to eat their way out. Although it is loudly refuted by members of the court, persistent rumors say that this is how the hero king Ynedar met his demise.
 
-Novice<br>Active. The mystic plants larvae inside the body of its enemy, which then start to eat their way out. The poor target suffers 1D4 damage each turn, ignoring Armor. The effect is automatic the first turn and continues until the mystic fails a \[Resolve←Might\] test.
+Novice<br>Active. The mystic plants larvae inside the body of their enemy, which then start to eat their way out. The poor target suffers 1D4 damage each turn, ignoring Armor. The effect is automatic the first turn and continues until the mystic fails a \[Resolve←Might\] test.
 
 Adept<br>Active. The larval growth inside the body deals 1D6 damage each turn, ignoring Armor. The effect continues until the mystic fails a \[Resolve←Might\] test.
 
@@ -270,7 +270,7 @@ Bond: Exaltation, Appreciation
 
 The secrets of life lay bare for the mystic and with them follows the coveted power of healing.
 
-Novice<br>Active. The mystic can through touch, and by passing a Resolve test, heal 1D6 points of a target's Toughness. This power also works on the mystic itself.
+Novice<br>Active. The mystic can through touch, and by passing a Resolve test, heal 1D6 points of a target's Toughness. This power also works on the mystic themself.
 
 Adept<br>Active. The mystic's healing hands now heal 1D8 points of Toughness and stop the ongoing effect of poisons and bleeding.
 
@@ -286,14 +286,14 @@ Novice<br>Active. With a successful Resolve test the mystic can soar over the ba
 
 Adept<br>Active. With a passed \[Resolve←Might\] test the mystic can levitate an ally and let them soar over the battlefield out of reach of the enemies' melee weapons. The mystic can move the soaring ally a distance equal to one stride per turn while it is levitating. Ranged attacks and flying enemies remain a problem. The mystic's ally stays soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken the ally falls to the ground and suffers 1D6 damage, ignoring Armor.
 
-Master<br>Active. The mystic can make itself and a Chain of allies \[Resolve←Might\] soar over the battlefield, out of reach of melee weapons. The mystic can move both itself and any soaring creature a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic and its allies stay soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken, they all float down to the ground without taking any damage.
+Master<br>Active. The mystic can make themself and a Chain of allies \[Resolve←Might\] soar over the battlefield, out of reach of melee weapons. The mystic can move both themself and any soaring creature a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic and their allies stay soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken, they all float down to the ground without taking any damage.
 
 ## Loathsome Aura
 `originally Unholy Aura`
 Material: Ill-gotten treasure.
 Bond: Fear
 
-The mystic can surround itself with an aura of energy that harms living enemies but heals abominations and undead.
+The mystic can surround themself with an aura of energy that harms living enemies but heals abominations and undead.
 
 Novice<br>Active. With a successful Resolve test the mystic can send out an aura of energy that harms both cultural beings and beasts. It deals 1D6 damage, ignoring Armor. The aura affects all cultural beings and beasts within sight of the mystic, whether they are friend or foe, and remains active until the mystic fails a Resolve test or breaks concentration.
 
@@ -308,7 +308,7 @@ Bond: Exaltation
 
 The mystic can send out a life-affirming aura that harms abominations and the undead. At higher levels, this aura can also provide healing powers for living creatures.
 
-Novice<br>Active. With a successful Resolve test the mystic envelops itself in an aura of energies that is harmful to abominations and undead. The target suffers 1D6 points of damage, ignoring Armor. This power affects all abominations and undead within sight of the mystic and is ongoing until the mystic fails a Resolve test or breaks concentration. The mystic can exclude allied abominations or undead from the effect of the Lustrous Aura.
+Novice<br>Active. With a successful Resolve test the mystic envelops themself in an aura of energies that is harmful to abominations and undead. The target suffers 1D6 points of damage, ignoring Armor. This power affects all abominations and undead within sight of the mystic and is ongoing until the mystic fails a Resolve test or breaks concentration. The mystic can exclude allied abominations or undead from the effect of the Lustrous Aura.
 
 Adept<br>Active. The aura now deals 1D8 damage to abominations and undead, while living creatures heal 1D4 points of Toughness each turn.
 
@@ -318,9 +318,9 @@ Master<br>Active. Same effect as at adept level, but the effect against abominat
 Material: A pupa or an egg.
 Bond: Appreciation
 
-The mystic has grasped that physical appearance is a dynamic concept, and knows how to use that insight to transform its enemies into weaker forms.
+The mystic has grasped that physical appearance is a dynamic concept, and knows how to use that insight to transform their enemies into weaker forms.
 
-Novice<br>Active. With a successful roll against Resolve the mystic can turn a target into a harmless beast (mammal or reptile, the mystic decides which). The target stays in that form until the mystic breaks concentration or fails a \[Resolve←Resolve\] test. This test is made each turn on the mystic's Initiative. The harmless animal keeps the target's original Attributes but none of its abilities or powers and can neither attack nor use items.
+Novice<br>Active. With a successful roll against Resolve the mystic can turn a target into a harmless beast (mammal or reptile, the mystic decides which). The target stays in that form until the mystic breaks concentration or fails a \[Resolve←Resolve\] test. This test is made each turn on the mystic's Initiative. The harmless animal keeps the target's original Attributes but none of their abilities or powers and can neither attack nor use items.
 
 Adept<br>Active. The mystic no longer has to concentrate to keep the Maltransformation active; it is ongoing until the mystic fails a \[Resolve←Resolve\] test.
 
@@ -330,11 +330,11 @@ Master<br>Active. The mystic can trigger a Chain of Maltransformations. If the m
 Material: A glass pearl.
 Bond: Captivation
 
-The mystic can use its mind to move and throw loose objects, or even enemies.
+The mystic can use their mind to move and throw loose objects, or even enemies.
 
 Novice<br>Active/Reaction. The mystic can actively hurl objects in the surrounding area as weapons or use them reactively, to block incoming attacks. The mystic will have to make a \[Resolve←Agility\] test to attack this way and deals 1D8 damage if successful. If an object is used as a temporary shield, make a \[Resolve←Exactitude\] test to block incoming physical attacks or a \[Resolve←Resolve\] test for magic projectiles. The object is destroyed after one hit, either dealt or blocked.
 
-Adept<br>Active. The mystic is capable of using the power of their mind \[Resolve←Might\] to lift, and throw, an enemy. A thrown enemy lands a Movement Action away and suffers 1D8 damage. The enemy lands on its back, unless it makes a successful Agility test.
+Adept<br>Active. The mystic is capable of using the power of their mind \[Resolve←Might\] to lift, and throw, an enemy. A thrown enemy lands a Movement Action away and suffers 1D8 damage. The enemy lands on their back, unless it makes a successful Agility test.
 
 Master<br>Active. The mystic can throw a Chain of enemies if succeeding with a \[Resolve←Might\] test. The mystic starts with the first target and keeps making tests until one fails. The thrown enemies land a Movement Action away and suffer 1D8 damage. The enemies land on their back, unless they make a successful test against Agility.
 
@@ -342,13 +342,13 @@ Master<br>Active. The mystic can throw a Chain of enemies if succeeding with a \
 Material: A fistful of soil.
 Bond: Appreciation
 
-The deep soil of the world is a safe place for the mystic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from its enemies.
+The deep soil of the world is a safe place for the mystic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from their enemies.
 
 Novice<br>Active. The mystic is able to sink into the earth if a successful Resolve test is made. There, the mystic is invulnerable but also unable to take any Actions. The mystic must succeed with another Resolve test each turn to remain in the safe bosom of the earth. If the mystic fails the test, then they are returned to the surface.
 
-Adept<br>Active. The mystic can use mystical powers on itself while in the earth and does not have to test Resolve in order to remain there.
+Adept<br>Active. The mystic can use mystical powers on themself while in the earth and does not have to test Resolve in order to remain there.
 
-Master<br>Active. The mystic can move by using its Movement Action to appear in a different spot than where it first sank into the ground. The mystic can also use powers on its allies while in the earth, as well as see the allies through the protective layers of soil.
+Master<br>Active. The mystic can move by using their Movement Action to appear in a different spot than where it first sank into the ground. The mystic can also use powers on their allies while in the earth, as well as see the allies through the protective layers of soil.
 
 ## Revenant Strike
 Material: A weapon tainted by a Desecrating Rite.
@@ -356,7 +356,7 @@ Bond: Fear
 
 The mystic's weapon is touched by dark energies, which increases the damage dealt against living creatures. Worse, those slain will rise again, as walking corpses controlled by the sorcerer. Undead created by revenant strikes have the same statistics as the dragoul (see page 230). The undead returns to its state of true death at the end of the scene.
 
-Novice<br>Active. The sorcerer ignites a malicious flame around its melee weapon, which then deals 1D4 additional damage till the scene ends.
+Novice<br>Active. The sorcerer ignites a malicious flame around their melee weapon, which then deals 1D4 additional damage till the scene ends.
 
 Adept<br>Reaction. As novice, and creatures slain by the Revenant Strike rise again the following turn, loyal to the sorcerer.
 
@@ -368,7 +368,7 @@ Bond: Appreciation
 
 The mystic's understanding of the essence of nature makes it possible to take the form of beasts – a talent that the Shagaoia tribe is rumored to possess.
 
-Novice<br>Active. With a successful Resolve test, the mystic can take the form of a small beast (mammal or reptile); practical when wanting to escape or when scouting, but useless in combat. The mystic's Attributes remain unchanged but they may re-roll all Subtlety and Agility tests (including Defense). Also, enemies do not get any Free Attacks against the mystic when in beast form, even if it withdraws from melee combat or hurries past an enemy. The mystic does not have to test Resolve to remain in beast form, but has to pass a Resolve test to change back. For the duration of the transformation, the mystic counts as a beast. If the mystic becomes the victim of powers that affect beasts, then it may choose to remain in beast form – and hence suffer the effect of the power – or revert back to its original form.
+Novice<br>Active. With a successful Resolve test, the mystic can take the form of a small beast (mammal or reptile); practical when wanting to escape or when scouting, but useless in combat. The mystic's Attributes remain unchanged but they may re-roll all Subtlety and Agility tests (including Defense). Also, enemies do not get any Free Attacks against the mystic when in beast form, even if it withdraws from melee combat or hurries past an enemy. The mystic does not have to test Resolve to remain in beast form, but has to pass a Resolve test to change back. For the duration of the transformation, the mystic counts as a beast. If the mystic becomes the victim of powers that affect beasts, then it may choose to remain in beast form – and hence suffer the effect of the power – or revert back to their original form.
 
 Adept<br>Active. The mystic can assume the form of a battle beast (wild boar or wolf are most common). The beast form has the Attributes of the mystic but also gains the traits Armored (I) and Natural Weapon (I).
 
@@ -378,7 +378,7 @@ Master<br>Active. The mystic can now assume the form of a truly imposing battle 
 Material: Arrows or crossbow bolts.
 Bond: Appreciation
 
-The mystic can ask the wind to lift and carry arrows towards its enemies.
+The mystic can ask the wind to lift and carry arrows towards their enemies.
 
 Novice<br>Active. The mystic enchants a handful of arrows (up to five) with a successful Resolve test. The arrows then float next to the mystic for the rest of the scene and can be fired, once per turn, as a Free Action (one arrow can be fired the same turn that the power is activated). The arrows hit their target automatically. Any quality or special ability that the arrow might have is added to the effect. The arrow normally deals 1D6 damage.
 
@@ -396,7 +396,7 @@ Novice<br>Reaction. With a \[Resolve←Resolve\] test, the mystic's clarity allo
 
 Adept<br>Active. With a \[Resolve←Resolve\] test, the mystic can make a Chain of creatures return to their true form. If the first attempt succeeds the mystic can make another attempt for the next creature, and so on until a test is failed. Nothing stops the creatures from transforming again, though.
 
-Master<br>Active. As adept, but the mystic can make transformed creatures reveal their true form and then force them to maintain their original form. A Resolve test is required to make a target maintain its original form. The test is made on the targets' Initiative when/if they try to transform again.
+Master<br>Active. As adept, but the mystic can make transformed creatures reveal their true form and then force them to maintain their original form. A Resolve test is required to make a target maintain their original form. The test is made on the targets' Initiative when/if they try to transform again.
 
 ## Unnoticeable
 Material: A strip from a thin veil.
@@ -408,4 +408,4 @@ Novice<br>Active. With a successful \[Resolve← Resolve\] test, the mystic can 
 
 Adept<br>Active. With a successful Resolve test, the mystic can fade from the perception of all nearby enemies and remain invisible until the mystic makes an attack or takes any kind of damage.
 
-Master<br>Active. With a successful Resolve test, the mystic can make itself as well as an ally fade from the perception of their enemies. The mystic and the ally remain invisible separately and can be detected or remain hidden separately, until they make an attack or take any kind of damage.
+Master<br>Active. With a successful Resolve test, the mystic can make themself as well as an ally fade from the perception of their enemies. The mystic and the ally remain invisible separately and can be detected or remain hidden separately, until they make an attack or take any kind of damage.

@@ -1,3 +1,1 @@
-This is where the world map would go.
-
-[Map btw](https://docs.google.com/drawings/d/1i5QGL2USlNYmeQlP28WPmjfZJIWnY1wPvill7pJ-Nro/edit)
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQnHoIh16zCgsW9ja14eEs2J9HHXUYecTnAI43tXv29FeLW9WjnAR99lHq1XevgCQNqILZnJxU9sJpu/pub?w=1725&amp;h=977">
