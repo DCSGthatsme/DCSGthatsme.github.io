@@ -1,23 +1,21 @@
 ## Acrobatics
-The character has learned the art of acrobatic maneuvering. The nimbleness of the acrobat provides an advantage when trying to withdraw from close combat or when quickly wanting to reach the center of an enemy formation.
+The character has learned the art of acrobatic maneuvering. The nimbleness of the acrobat provides an advantage when trying to withdraw from close combat or when wanting to quickly reach the middle of an enemy formation.
 
-Novice<br>Reaction. The character may roll against Agility to avoid Free Attacks from enemies in melee combat, either when trying to slip past an enemy or when attempting to withdraw from melee. Should the test fail, the player must choose for their character to either remain in their original place or to move anyway and suffer a Free Attack from the opponent.
+Novice<br>Reaction. The character may roll against Agility to avoid Free Attacks from enemies in melee go-time, either when trying to slip past an enemy or when attempting to withdraw. Should the test fail, the player must choose for their character to either remain in their original place or to move anyway and suffer a Free Attack from the opponent.
 
 Adept<br>Free. If the character is knocked down they may attempt to jump back up again as a Free Action by making a Agility test. If the test fails the character has to spend a Movement Action to get back on their feet, as usual.
 
 Master<br>Reaction. The character can utilize their enemies as shields in battle. In combat with more than one opponent, the character may once per turn use an enemy as a shield and have that enemy suffer a successful hit instead of the character. That opponent cannot defend against the attack, but the master acrobat has to make a successful roll against Agility for the enemy to take the hit.
-
 ## Agile Combat
 `APG`
 Only available to Iron Sworn
-During combat in wooded areas and hilly terrain the distance between opponents can shift quickly, from ranged to melee. The character has developed techniques for handling these rapid shifts between weapon types, and at their most skilled among can dance forth over the battlefield, seamlessly alternating between melee and ranged weapons and using every hostile attack for making counter-strikes.
+During combat in wooded areas and hilly terrain the distance between opponents can shift rapidly. The character has developed techniques for quickly handling shifts between weapons, and at their most skilled among can dance through the battlefield, seamlessly alternating between melee and ranged weapons and using every hostile attack for making counter-strikes.
 
-Novice<br>Passive. The character can split their movement and perform one part of the movement action before the combat action, and the other part after. This is done in order to make maximum use of the terrain and cover. The character still suffers Free Attacks from enemies if the movement leads into or through melee combat distance.
+Novice<br>Passive. In go-time, the character can split their movement and perform one part of the Movement Action before the Primary Action, and the other part after. This is done in order to make maximum use of the terrain and cover. The character still suffers Free Attacks from enemies if the movement leads into or through melee distance.
 
-Adept<br>Passive. As a part of their combat action, the character may freely switch between weapons. This only pertains to changing weapons; it does not provide an extra action to be used for anything else. For instance, the character may start holding two weapons, move a part of their movement range, and as a combat action switch to a bow, fire it, and then switch back to two weapons. Finally, the rest of the movement is made.
+Adept<br>Passive. As a part of their Primary Action, the character may freely switch between weapons. This only pertains to changing weapons; it does not provide an extra action to be used for anything else. For instance, the character may start holding two weapons, move a part of their movement range, and as a combat action switch to a bow, fire it, and then switch back to two weapons. Finally, the rest of the movement is made.
 
-Master<br>Reaction. The character gains a second chance to pass all Defense tests against Free Attacks provoked by withdrawing from melee. In addition, every such Free Attack against the character lets the Iron Sworn make their own Free Attack against the enemy. The character may freely switch weapons for these counter-strikes and choose the tool that fits the situation best.).
-
+Master<br>Reaction. The character gains a second chance to pass all Defense tests against Free Attacks provoked by withdrawing from melee. In addition, every such Free Attack against the character lets them make their own Free Attack against the enemy. The character may freely switch weapons for these counter-strikes and choose the tool that fits the situation best.
 ## Armored Mystic
 `APG`
 Only available to Templars
@@ -27,58 +25,41 @@ Novice<br>Passive. The character's mystical powers are not affected by wearing m
 
 Adept<br>Passive. The character's mystical powers are not affected by wearing heavy armor. The armor affects Defense as usual.
 
-Master<br>Passive. The armored mystic has transcended the limitations of the armor, and may instead benefit from it. A +1D4 bonus is added to the armor's protection value when the mystic wears it, since mystical energies flow through the steel.
-
+Master<br>Passive. The armored mystic has transcended the limitations of the armor, and may instead benefit from it. A +1D4 bonus is added to the armor's protection value while the mystic wears it.
 ## Arrow Jab
 `APG`
-In the chaos of the battlefield, archers sometimes find themselves dragged into the melee. To handle this, techniques on how to use ranged weapons at close range have been developed. This ability may be used with any kind of bow or crossbow.
+In the chaos of the battlefield, archers may find themselves dragged into the melee. For such instances, a ranged weapon may need to be used in unorthodox ways.
 
-Novice<br>Reaction. As a reaction to a melee attack against them, the character can draw an arrow and use it to stab an enemy. The character must succeed with a normal attack roll against the enemy; a successful hit deals 1D6 damage and the qualities of the projectile (if any) are counted.
+Novice<br>Reaction. As a Reaction to a melee attack against them, the character can draw an arrow and use it to stab an enemy. The character must succeed with a normal attack roll against the enemy; a successful hit deals 1D6 damage and any qualities of the projectile are considered.
 
 Adept<br>Reaction. Like the novice level, but 1D8 damage.
 
 Master<br>Reaction. Like the adept level, but the master also gains a Free Attack with the bow if the jab attack hits. The master stabs with the projectile, then (if successful) loads the bow to make a normal ranged attack at the target. If using a crossbow, this requires that it already be loaded and that the initial stab is made with another bolt, or that the character is in possession of a repeating crossbow.
-
-## Artifact Crafting`?`
-`APG`
-Only available to Artifact Crafters
-The glory days of artifact crafting seem to have passed and the powerful secrets of the old rune smiths are lost. However, even in the shadow of the growing corruption, the creative arts still linger on, if in a more modest way. The character is trained in the art of artifact crafting and can create artifacts of the lower order. Higher artifacts can nowadays only be found while excavating Symbaroum's ruins, but artifact crafters belong to a tradition that still holds its head high, in spite of shadows and darkness.
-
-The character is also knowledgeable about legendary artifacts and can discern how artifacts work. Artifact Crafting corresponds to the ability Loremaster when analyzing artifacts, but it does not affect the use of them.
-
-The artifacts are described in detail in the Equipment chapter, page 123-127APG.
-
-Novice<br>Once per adventure. With a passed Wit test, the character can craft one novice level artifact.
-
-Adept<br>Once per adventure. As an acknowledged artifact crafter, a passed Wit test lets the character craft one adept level artifact.
-
-Master<br>Once per adventure. As a famous artifact crafter, a passed Wit test lets the character craft one master level artifact.
-
 ## Axe Artist
 `APG`
-By tradition, many warriors carry axes into battle, and among these fighters special techniques have been developed – techniques which make full use of the axe's potential. In the hands of the character, the axe is an effective tool of combat.
+By tradition, many warriors carry axes into battle. Special techniques make full use of the axe's potential, making it an effective tool of combat in the hands of the character.
 
-The weapon used must be an axe of either heavy or single-handed model
+The weapon used must be an axe of either heavy or single-handed model.
 
-Novice<br>Active. The first thing an axe artist learns is to strike with the short-end of the axe in order to induce distracting pain before a mightier blow. The short-end thrust deals 1D6 damage and stuns the enemy if the character passes a \[Exactitude←Resolve\] test, meaning that the character gets to make an immediate Free Attack.
+Novice<br>Active. The first thing an axe artist learns is to strike with the short-end of the axe in order to induce distracting pain before a mightier blow. The short-end thrust deals 1D6 damage and stuns the enemy if the character passes an \[Exactitude←Resolve\] test, meaning that the character gets to make an immediate Free Attack.
 
-Adept<br>Active. Next up is learning the powerful double-strike: to strike with one side of the axe and then follow up by striking a blow with the other. The character makes two attacks in one combat action, both of them at one dice tier lower than normal (1D10=1D8).
+Adept<br>Active. Next is learning the powerful double-strike: to strike with one side of the axe and then follow up by striking a blow with the other. The character makes two attacks in one Action, both of them at one dice tier lower than normal (1D10->1D8).
 
-Master<br>Passive. The axe master returns to the heart of axe fighting, the mighty blow. Every hit with the axe deals +1D4 damage, limited to one hit per combat action.
+Master<br>Passive. The axe master returns to the heart of axe fighting, the mighty blow. Every hit with the axe deals +1D4 damage, limited to one hit per Action.
 
 ## Backstab
 The character has learned how to exploit weaknesses in an enemy's defense, and will not let an opportunity go by without making a Backstab.
 
-Novice<br>Reaction. One attack per turn made from Advantage deals +1D4 damage in addition to any damage already inflicted thanks to the Advantage. The character may use Subtlety instead of Exactitude when making attacks while at an Advantage. Backstab may only be performed once per turn, regardless of other circumstances.
+Novice<br>Reaction. Once per turn in go-time, the character deals +1D4 damage on an attack made with Advantage (in addition to existing Advantage benefits). The character may use Subtlety instead of Exactitude when making attacks while at an Advantage.
 
-Adept<br>Reaction. The character's Backstab deals extra damage (as above) and also causes a bleeding wound to the enemy. The attack opens a wound that bleeds heavily, inflicting 1D4 damage each turn following the attack. The enemy continues to bleed until healed by an herbal cure, the Medicus ability or in some other way.
+Adept<br>Reaction. The character's Backstab deals extra damage (as above) and also causes a bleeding wound to the enemy. The attack opens a wound that bleeds heavily, inflicting 1D4 damage each turn `of theirs?` following the attack. The enemy continues to bleed until healed in some way.
 
-Master<br>Reaction. The character's Backstab deals 1D8 extra damage and causes a bleeding wound to the enemy, just like at adept level. There are no longer any limits to how many backstabs a Master can perform each turn. All attacks are backstabs as long as the conditions for Advantage are met (see page 162).
+Master<br>Reaction. The character's Backstab deals 1D8 extra damage and causes a bleeding wound to the enemy, just like at adept level. There are no longer any limits to how many backstabs a Master can perform each turn. All attacks are backstabs as long as the conditions for Advantage are met.
 
 ## Berserker
-Feared barbarian warriors have developed the practice of working themselves into a berserker frenzy before battle. By letting the repressed anger of the heart strengthen their limbs, the character can unleash a fuming rage that, if channeled correctly, might determine which side will emerge victorious from the battle.
+Feared barbarian warriors have developed the practice of working themselves into a berserker frenzy before battle. By letting the repressed anger of the heart strengthen their limbs, the character can unleash a fuming rage that, if channeled correctly, might sway the tide of battle.
 
-Novice<br>Free. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 1D6 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend themself properly. The attribute on which Defense is based, is considered to be 5 when calculating Defense.
+Novice<br>Free. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 1D6 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend themself properly. The attribute on which Defense is based, is considered to be 5 when calculating Defense. `Exit rage as free action? any conditions?`
 
 Adept<br>Reaction. The rage is like armor to the character. They ignore 1D4 damage from each hit suffered while in a berserker rage.
 
@@ -86,11 +67,11 @@ Master<br>Free. The character has managed to harness their rage without losing a
 
 ## Blacksmith
 `APG`
-Most tribes have their blacksmiths, which says something about their importance.
+As one of the most important societal roles, a blacksmith can be found in most every tribe.
 
-The cost of crafting objects is half of the listed price and if the blacksmith later sells the item, they get the list price in payment. In other words, the profit made by the blacksmith is half the listed price.
+The cost of crafting objects is half of the listed price. If the blacksmith later sells the item, they get the list price in payment.
 
-This ability may be used once per adventure, preferably during a quiet interlude (or between adventures if that seems more reasonable). Should the item be of a consumable nature (like arrows or bolts), the blacksmith can forge 10 copies at a time.
+This ability may be used once per adventure. Should the item be of a consumable nature (like arrows or bolts), the blacksmith can forge 10 copies at a time.
 
 Novice<br>Special. With a passed Wit test, the character can make a novice item. The character can also patch damaged armor or adapt armor to fit creatures of larger or smaller sizes. Novice items are all ordinary weapons and armor, including those with the qualities Short and Long. No other qualities can be crafted by the novice smith.
 
@@ -101,23 +82,23 @@ Special. With a passed Wit test, the character can make a master item. Master Bl
 
 ## Blood Combat
 `APG`
-Only available to `?`
+Only available to `Wrath Guard`
 The character understands the power of the blood better than others. These insights allow them to use the power of spilled blood to their own advantage in combat – whether the blood is theirs or the enemy's.
 
-Novice<br>Reaction. The character draws strength from the blood it spills. When their Toughness has been halved, the character gains a second chance to succeed with all attack tests in melee combat.
+Novice<br>Reaction. The character draws strength from the blood they spill. When their Toughness has been halved, the character gains a second chance to succeed with all attack tests in melee go-time.
 
-Adept<br>Reaction. The character's hits grow more powerful the more damaged they are; when Toughness has been more than halved, all attacks made by the character in melee combat deal an additional +1D8 in damage.
+Adept<br>Reaction. The character's hits grow more powerful the more damaged they are; when their Toughness has been more than halved, all attacks they make in melee go-time deal an additional +1D8 damage.
 
-Master<br>Reaction. The warrior is healed by the blood spilled by the enemy; half of the damage that the character deals in melee combat is added to their Toughness, rounded down.
+Master<br>Reaction. The warrior draws vigor from the blood their enemies spill; half of the damage that the character deals during melee go-time (rounded down) is added to their Toughness.
 
 ## Bodyguard
-The character is trained to place themself in the way of painful strikes and lethal blows aimed at a protected person.
+The character is trained to place themself in the way of painful strikes and lethal blows aimed at a their ward.
 
-Novice<br>Reaction. With a successful Resolve test, the character may take blows directed against an ally. They may not defend against attacks redirected upon themself; they hit automatically.
+Novice<br>Reaction. With a successful Resolve test, the character may take blows directed against a nearby ally or object. They may not defend against attacks redirected upon themself; they hit automatically.
 
-Adept<br>Reaction. As Novice, but the character's capacity as a guardian allows them to defend themself against all attacks aimed at the person they are protecting.
+Adept<br>Reaction. As Novice, but the character's capacity as a guardian allows them to defend themself against all attacks redirected upon themself this way.
 
-Master<br>Reaction. As Adept, but the character is a veritable patron. As a Reaction, the master Bodyguard also gets to make a Free Attack against anyone making a melee attack aimed at the person under their protection.
+Master<br>Reaction. As Adept, but the master Bodyguard also gets to make a Free Attack against anyone making a melee attack aimed at the person under their protection.
 
 ## Cheap Shot
 `APG`
@@ -130,23 +111,23 @@ Adept<br>Reaction. The character performs a normal melee attack and if it deals 
 Master<br>Reaction. Every enemy who engages the character in melee suffers a bloody riposte dealing 1D6 damage directly after their attack. The riposte always hits a weak spot and consequently ignores any armor.
 
 ## Dominate
-With nothing but presence, gaze and voice, strong personalities can force weaker minds to bend in the midst of a raging battle. The character is trained in this art of subduing combat.
+With nothing but presence, gaze, and voice, strong personalities can force weaker minds to bend in the mid of a raging battle. The character is trained in this art of subjugation.
 
-In social situations, this ability can also be used to scare someone into obedience and force secrets out of them.
+In social situations, this ability can also be used to scare someone into obedience or force secrets out of them.
 
 Novice<br>Passive. The character can dominate and outmaneuver an enemy combatant by using their convincing personality. The character may use Charisma instead of Exactitude in melee combat.
 
-Adept<br>Free. The character can, as a Free Action and with a successful \[Charisma←Resolve\] test, force an enemy to hesitate in melee combat. A hesitating enemy will not attack the character this turn. If possible, it attacks one of the character's allies instead.
+Adept<br>Free. The character can, as a Free Action and with a successful \[Charisma←Resolve\] test, force an enemy to hesitate in melee combat. A hesitating enemy will not attack them this turn. If possible, it attacks one of the character's allies instead.
 
 Master<br>Active. The character can subdue an enemy with a passed \[Charisma←Resolve\] test. A subdued enemy can be forced to stand down and negotiate, to flee from an ongoing battle (if possible), or surrender if it is impossible to flee. When already in combat, the enemy must first be wounded by the character or by one of the character's allies before it can be subdued.
 
 ## Ensnare
 `APG`
-Using weapons like bolas, nets, or the long whip, many fighters and hunters of barbarian origin learn to limit the movement of enemies or prey. The character is trained in the ensnaring techniques used to gain Advantage in melee or to capture prey alive.
+Using weapons like bolas, nets, or the long whip, many fighters and hunters learn to limit the movement of enemies or prey. The character is trained in the ensnaring techniques used to gain Advantage in melee or to capture prey alive.
 
-Novice<br>Active. The character gains a second chance to ensnare a target (requires a weapon with the quality Ensnaring, see page 118).
+Novice<br>Active. The character gains a second chance to ensnare a target (requires a weapon with the quality Ensnaring).
 
-Adept<br>Active. In addition to the novice effect, the character gains a second chance to bring down an ensnared enemy (requires a weapon with the quality Ensnaring, see page 118).
+Adept<br>Active. In addition to the novice effect, the character gains a second chance to bring down an ensnared enemy (requires a weapon with the quality Ensnaring).
 
 Master<br>Reaction. The character's skill with ensnaring weapons is such that every ensnaring attack is assumed to hit the target's neck and have a strangling effect; besides the ensnaring effect and the chance to bring down the enemy, the target suffers 1D6 damage, ignoring armor. If the target reaches 0 Toughness, the character can choose to make it unconscious instead of dying.
 

@@ -240,6 +240,22 @@ Adept<br>Reaction. Once per turn, the mystic can make a Resolve test in order to
 
 Master<br>Reaction. Once per turn, the mystic can make a Resolve test in order to correct reality for someone else. This means that any one test that affected the intended target in any way may be re-rolled.
 
+## Imbuement
+`previously Artifact Crafting, non-mystical ability`
+`APG`
+Only available to Artifact Crafters
+Material: `Relevant materials`
+Bond: `?`
+The character can imbue objects with power.
+
+The artifacts are described in detail in [[Equipment#Lesser Artifacts]].
+
+Novice<br>Once per adventure. With a passed Wit test, the character can craft one novice level artifact.
+
+Adept<br>Once per adventure. As an acknowledged artifact crafter, a passed Wit test lets the character craft one adept level artifact.
+
+Master<br>Once per adventure. As a famous artifact crafter, a passed Wit test lets the character craft one master level artifact.
+
 ## Inherit Wound
 Material: A splash of blood.
 Bond: Exaltation, Appreciation
