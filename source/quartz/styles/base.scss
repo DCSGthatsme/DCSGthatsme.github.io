@@ -36,7 +36,7 @@ p {
   display: none;
 }
 
-.transclude:first-child {
+.transclude > :first-child {
   display: none;
 }
 
