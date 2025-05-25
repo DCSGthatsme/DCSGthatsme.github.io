@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "table-editor-obsidian",
+  "close-similar-tabs",
+  "obsidian-auto-link-title",
+  "remember-cursor-position"
 ]

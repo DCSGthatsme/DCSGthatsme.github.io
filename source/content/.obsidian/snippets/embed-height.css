@@ -1,0 +1,6 @@
+body {
+	--embed-max-height: 30vh;
+}
+.markdown-preview-sizer {
+	min-height: 0px;
+}

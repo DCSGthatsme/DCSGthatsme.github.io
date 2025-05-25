@@ -1,1 +1,7 @@
-{}
+{
+  "cssTheme": "Atom",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "embed-height"
+  ]
+}
