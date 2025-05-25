@@ -1,3 +1,4 @@
+Burdens are free abilities which grant a cost reduction to another ability. Whenever you take a burden, the next ability you take costs 5 less XP.
 ## Addiction
 The character has developed an addiction and must have a dose of their drug each day, or suffer from withdrawal symptoms. The drug (wine, dream snuff, daft root or similar) costs one shilling per dose. An alchemist can create the drug for himself or a friend for half that price. Withdrawal symptoms give a –1 modification to all tests and grow worse day-by-day, up to –5. Each day without the drug, the character must also pass a \[Resolve –the abstinence modification\] test. If it fails, they will abandon all other projects and start hunting for the daily dose.
 ## Arch Enemy

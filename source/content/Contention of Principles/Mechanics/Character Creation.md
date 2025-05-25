@@ -11,11 +11,11 @@ You may fill in your characteristics (physical, identifying) (name, age, pronoun
 
 `Relationships/bonds between PCs?`
 ## Mechanics
-Distribute the values: 5, 7, 9, 10, 10, 11, 13, 15 among your character's Attributes. If the player wishes, they may then transfer points between the Attributes. Only one attribute value may be as high as 15 and none can be higher than 15 or lower than 5.
+Distribute the values: 5, 7, 9, 10, 10, 11, 13, 15 among your character's Attributes.
 
 Choose traits `determine tribal relevance, probably describe some of the larger tribes and the traits available to them`
 
-For abilities, boons, and banes, you get 50XP. No ability may be increased to Master. You must not have any remaining XP.
+For abilities, boons, and burdens, you get 50XP. No ability may be increased to Master. You must not have any remaining XP.
 
 `determine the role of magic in character creation`
 

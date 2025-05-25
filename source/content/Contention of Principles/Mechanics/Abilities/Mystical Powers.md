@@ -248,7 +248,7 @@ Material: `Relevant materials`
 Bond: `?`
 The character can imbue objects with power.
 
-The artifacts are described in detail in [[Equipment#Lesser Artifacts]].
+The artifacts are described in detail in [[Lesser Artifacts]].
 
 Novice<br>Once per adventure. With a passed Wit test, the character can craft one novice level artifact.
 

@@ -1,5 +1,5 @@
 ## Agility
-Agility represents a character's reflexes, balance, nimbleness, and how fleet-footed they are. It determines their acting precedence during go-time and is used actively when jumping, avoiding harm, and performing similar athletic maneuvers. Agility is often opposed by an enemy's Exactitude.
+Agility represents a character's reflexes, nimbleness, and athletic constancy. It determines their acting precedence during go-time and is used actively when jumping, avoiding harm, and performing similar athletic maneuvers. Agility is often opposed by an enemy's Exactitude.
 ## Charisma
 Charisma reflects how well a character can influence interpret others in the realm of words, emotion, paralanguage, and presentation of character. It is often used when trying to persuade another to do (or refrain from doing) something, whether verbally or otherwise. Charisma is usually opposed by an enemy's Resolve.
 ## Exactitude

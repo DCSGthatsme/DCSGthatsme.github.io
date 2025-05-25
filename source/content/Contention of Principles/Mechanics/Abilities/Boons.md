@@ -1,4 +1,4 @@
-Boons marked with a + may be purchased more than once.
+Boons are abilities which cost 5XP. Boons marked with a + may be purchased more than once.
 ## Absolute Memory
 The character stems from a culture that by tradition does not use writing, but which instead has developed memory techniques to preserve and transmit vital knowledge. They remember everything seen or heard, which means that the player may ask the Game Master about details perceived by the player character during their past adventures. The Game Master must answer as thoroughly as possible.
 
@@ -65,6 +65,9 @@ When the character needs a hideout, they roll a Wit test – a success means tha
 The character knows how to be threatening in an effective way and can scare people into acting according to their will, if only for a short while. They get a +1 bonus to all Charisma tests pertaining to threats, interrogation and coercion. The effect is momentary; later the victim will likely backbite the character when a chance presents itself. Horrifying can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
 ## Impressionist+
 The character is a skilled impressionist, whether trying to impersonate a type of person belonging to his own race or imitating a specific individual. They gain a +1 bonus on Subtlety tests when trying to impersonate others. If the character only aims to act as a type of person (for instance a town guardsman) rather than a specific individual, they also get a second chance to pass the test. Impersonating a type of person belonging to another race is harder; the impressionist may try but gets a second chance to fail the test. Specific individuals of another race are impossible to imitate in a credible way. Impressionist can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
+## Loremaster+
+`originally a non-boon ability, heavily mutated`
+The character is educated and well-versed in the ways of the world: its cultures, its history. Through extensive studies a character with this boon knows many stories. The Loremaster gets a +1 bonus to tests when researching or when cultural or anthropological knowledge is relevant.
 ## Manipulator+
 The character knows how to manipulate others, using flattery, threats, or a combination thereof. They get a +1 bonus to Charisma versus a specific person during the scene. It takes time to influence someone; it requires a scene of emotional manipulations to achieve the intended effect. On the other hand, the influence lasts longer than when simply lying – the victim accepts the sentiments as their own and will defend them long after the manipulator has left the place. Manipulator can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
 ## Medium+

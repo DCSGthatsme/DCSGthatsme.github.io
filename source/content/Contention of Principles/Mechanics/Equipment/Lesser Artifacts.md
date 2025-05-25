@@ -1,6 +1,3 @@
-
-## Lesser Artifacts
-
 Novice Artifacts
 Healing Spider
 Meeting Stone
