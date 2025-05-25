@@ -32,6 +32,14 @@ p {
   text-align: justify;
 }
 
+.transclude-src {
+  display: none;
+}
+
+.transclude:first-child {
+  display: none;
+}
+
 p,
 ul,
 text,

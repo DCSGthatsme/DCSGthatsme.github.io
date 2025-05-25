@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Mystical Powers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abilities"
+              "title": "Mystical Powers"
             }
           },
           {
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50281143188477
+    "width": 346.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -251,22 +251,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "3c48de259108e30e",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Attributes.md",
-    "Contention of Principles/Mechanics/Abilities/Traits.md",
-    "Contention of Principles/Mechanics/Abilities/Abilities.md",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Attributes.md",
+    "Contention of Principles/Mechanics/Abilities/Traits.md",
     "Contention of Principles/Mechanics/Equipment/Lesser Artifacts.md",
     "Contention of Principles/Mechanics/Abilities/Boons.md",
     "Contention of Principles/Mechanics/Equipment",
     "Contention of Principles/Mechanics/Character Creation.md",
     "Contention of Principles/Mechanics/Abilities/Burdens.md",
-    "Contention of Principles/Mechanics/Mechanics.md",
     "Contention of Principles/Mechanics/Go-time.md",
     "Contention of Principles/Character.md",
     "Contention of Principles/Secrets!!!.md",

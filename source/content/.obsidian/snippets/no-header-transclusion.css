@@ -1,0 +1,7 @@
+.markdown-preview-section .mod-header + *{
+    display: none;
+}
+
+.markdown-preview-sizer{
+	min-height: unset;
+}
