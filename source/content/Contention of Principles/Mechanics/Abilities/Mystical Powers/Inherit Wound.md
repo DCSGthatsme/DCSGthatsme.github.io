@@ -1,6 +1,5 @@
 # Ability
-Material: A splash of blood.
-Bond: Exaltation, Appreciation
+Material: A splash of blood<br>Bond: Exaltation, Appreciation
 
 The mystic has closely studied the spirits of creation and death, and can use this knowledge to redistribute damage between themself, their allies, and their enemies.
 

@@ -1,7 +1,5 @@
 # Ability
-`originally a non-Mystical Ability`
-Material: A flask, water, and an appropriate herb
-Bond: Appreciation, Captivation
+Material: A flask, water, and an appropriate herb<br>Bond: Appreciation, Captivation
 
 The character is knowledgeable in the mysteries of alchemy. With the right ingredients, the character can prepare various [[Alchemical Elixirs]].
 
@@ -14,3 +12,5 @@ Novice<br>Special. With a successful roll against Wit the character can gather h
 Adept<br>Special. As an acknowledged alchemist the character can roll against Wit to gather herbs and minerals to create one dose of an adept elixir or 1D4 doses of a novice elixir.
 
 Master<br>Special. The character can, as a widely renowned alchemist, roll against Wit to gather herbs and minerals to create one dose of a master elixir, 1D4 doses of an adept elixir or 1D8 doses of a novice elixir.
+# Notes
+* Originally a non-mystical ability.

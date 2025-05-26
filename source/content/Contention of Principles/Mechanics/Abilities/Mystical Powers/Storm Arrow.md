@@ -1,6 +1,5 @@
 # Ability
-Material: Arrows or crossbow bolts.
-Bond: Appreciation
+Material: Arrows or crossbow bolts<br>Bond: Appreciation
 
 The mystic can ask the wind to lift and carry arrows towards their enemies.
 

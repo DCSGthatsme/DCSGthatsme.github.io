@@ -1,6 +1,5 @@
 # Ability
-Material: A handful of larvae.
-Bond: Fear, Appreciation
+Material: A handful of larvae<br>Bond: Fear, Appreciation
 
 Drawing from the force of wrath the mystic can infuse an enemy's body with larvae that then start to eat their way out. Although it is loudly refuted by members of the court, persistent rumors say that this is how the hero king Ynedar met his demise.
 

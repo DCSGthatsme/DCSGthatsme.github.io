@@ -1,6 +1,5 @@
 # Ability
-Material: A fistful of brimstone, with some mercury.
-Bond: Captivation
+Material: A fistful of brimstone, with some mercury<br>Bond: Captivation
 
 The mystic has gained insights into the mysteries of fire and can summon fire to form it into a wall or a dome.
 

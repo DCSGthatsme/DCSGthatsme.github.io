@@ -1,6 +1,5 @@
 # Ability
-Material: A weapon tainted by a Desecrating Rite.
-Bond: Fear
+Material: A weapon tainted by a Desecrating Rite<br>Bond: Fear
 
 The mystic's weapon is touched by dark energies, which increases the damage dealt against living creatures. Worse, those slain will rise again, as walking corpses controlled by the sorcerer. Undead created by revenant strikes have the same statistics as the dragoul (see page 230). The undead returns to its state of true death at the end of the scene.
 

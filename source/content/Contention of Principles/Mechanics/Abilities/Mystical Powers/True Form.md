@@ -1,6 +1,5 @@
 # Ability
-Material: A pupa.
-Bond: Captivation, Exaltation
+Material: A pupa<br>Bond: Captivation, Exaltation
 
 The mystic has spent many long nights closely studying lies and false guises, and is capable of making the surrounding world reveal its true nature.
 

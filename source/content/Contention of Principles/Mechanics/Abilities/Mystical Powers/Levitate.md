@@ -1,6 +1,5 @@
 # Ability
-Material: A handful of feathers.
-Bond: Captivation, Exaltation
+Material: A handful of feathers<br>Bond: Captivation, Exaltation
 
 The binding force of the world can be manipulated, and with that insight the mystic has gained the capability to levitate, using nothing but the power of the mind.
 

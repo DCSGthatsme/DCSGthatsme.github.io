@@ -1,6 +1,5 @@
 # Ability
-Material: A fistful of soil.
-Bond: Appreciation
+Material: A fistful of soil<br>Bond: Appreciation
 
 The deep soil of the world is a safe place for the mystic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from their enemies.
 

@@ -1,6 +1,5 @@
 # Ability
-Material: A fistful of pure brimstone.
-Bond: Captivation
+Material: A fistful of pure brimstone<br>Bond: Captivation
 
 The mystic can unleash the rampaging spirit of fire and burn their enemies to cinders, or at least scorch them severely.
 

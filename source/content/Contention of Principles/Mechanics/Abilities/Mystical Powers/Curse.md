@@ -1,6 +1,5 @@
 # Ability
-Material: None, a dark glare is enough.
-Bond: Fear, Appreciation
+Material: None, a dark glare is enough<br>Bond: Fear, Appreciation
 
 The mystic masters the stare of the Evil Eye and can curse enemies on the battlefield; a power often used by the disciples of the Dark Lords during The Great War.
 

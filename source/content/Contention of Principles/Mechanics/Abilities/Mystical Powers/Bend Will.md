@@ -1,6 +1,5 @@
 # Ability
-Material: A silver ring.
-Bond: Captivation, Fear, Appreciation
+Material: A silver ring<br>Bond: Captivation, Fear, Appreciation
 
 Free will is an illusion, but the power of the will is unmistakable. The mystic has come to understand these seemingly contradictory principles and can use the insight to control the will of other creatures.
 

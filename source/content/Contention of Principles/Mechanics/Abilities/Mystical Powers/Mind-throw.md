@@ -1,6 +1,5 @@
 # Ability
-Material: A glass pearl.
-Bond: Captivation
+Material: A glass pearl<br>Bond: Captivation
 
 The mystic can use their mind to move and throw loose objects, or even enemies.
 

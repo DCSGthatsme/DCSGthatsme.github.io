@@ -1,6 +1,5 @@
 # Ability
-Material: A pupa or an egg.
-Bond: Appreciation
+Material: A pupa or an egg<br>Bond: Appreciation
 
 The mystic has grasped that physical appearance is a dynamic concept, and knows how to use that insight to transform their enemies into weaker forms.
 

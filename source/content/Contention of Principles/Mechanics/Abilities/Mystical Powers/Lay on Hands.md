@@ -1,6 +1,5 @@
 # Ability
-Material: A discarded scrap of cloth.
-Bond: Exaltation, Appreciation
+Material: A discarded scrap of cloth<br>Bond: Exaltation, Appreciation
 
 The secrets of life lay bare for the mystic and with them follows the coveted power of healing.
 

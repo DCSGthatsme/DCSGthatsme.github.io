@@ -1,6 +1,5 @@
 # Ability
-Material: A small silver bell.
-Bond: Captivation, Exaltation
+Material: A small silver bell<br>Bond: Captivation, Exaltation
 
 The mystic has studied the secrets of countering magic and can dispel the effects of other powers. Anathema does not affect rituals – their mystical bonds are too thoroughly woven and can only be dispelled by other rituals.
 

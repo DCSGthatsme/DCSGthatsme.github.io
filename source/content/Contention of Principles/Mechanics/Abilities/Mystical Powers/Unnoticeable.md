@@ -1,6 +1,5 @@
 # Ability
-Material: A strip from a thin veil.
-Bond: Captivation, Exaltation
+Material: A strip from a thin veil<br>Bond: Captivation, Exaltation
 
 The mystic can remain undetected by subtly turning the enemy's attention elsewhere.
 

@@ -1,6 +1,5 @@
 # Ability
-Material: A couple of drops of wine.
-Bond: Captivation
+Material: A couple of drops of wine<br>Bond: Captivation
 
 The mystic's understanding of the labyrinth of the senses can cause an enemy to lose themself inside their own mind. Confused enemies become paralyzed or lose their ability to separate friend from foe.
 

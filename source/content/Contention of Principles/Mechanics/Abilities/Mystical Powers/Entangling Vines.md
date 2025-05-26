@@ -1,6 +1,5 @@
 # Ability
-Material: A handful of seeds or a tangle of roots.
-Bond: Appreciation
+Material: A handful of seeds or a tangle of roots<br>Bond: Appreciation
 
 The earth is bound by roots, while objects above ground are often covered by vines. All that the mystic does is uses its will to stimulate the already ongoing processes of nature.
 
