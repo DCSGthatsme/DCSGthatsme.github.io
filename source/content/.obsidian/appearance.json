@@ -2,6 +2,7 @@
   "cssTheme": "Atom",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "embed-height"
+    "embed-height",
+    "no-header-transclusion"
   ]
 }
