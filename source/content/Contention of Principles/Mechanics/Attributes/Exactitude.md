@@ -1,0 +1,1 @@
+A character's hand-eye coordination, finesse, precision, and timing are all represented by Exactitude. It is used to hit an intended target with punches, strikes, throws, or a projectile. Exactitude is most often opposed by an enemy's Agility.

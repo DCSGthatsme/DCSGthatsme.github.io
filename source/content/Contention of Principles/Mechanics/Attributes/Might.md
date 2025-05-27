@@ -1,0 +1,1 @@
+Might represents a character's capacity to use their physical strength in order to, for instance, lift something heavy or break down a door. It also covers the capacity to withstand physical damage and to resist poisons and diseases. Might is usually modified by a level of Difficulty, sometimes by an enemy's Might.

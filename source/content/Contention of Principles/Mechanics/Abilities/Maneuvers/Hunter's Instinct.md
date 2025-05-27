@@ -1,5 +1,5 @@
 # Ability
-Only available if `Exactitude + Vigilance > 20`
+Only available if [[Exactitude]] + [[Vigilance]] > 20
 
 Hunters have a finely tuned instinct. There are few targets who can avoid a hunter's projectiles.
 

@@ -1,6 +1,6 @@
 The peoples of the Davokar region possess a vast knowledge of how to transform the herbs, fruits and bodily organs of nature into useful elixirs. Among the barbarians it is usually the witches who create the elixirs, while Ambrian decoctions are often made by specialized craftsmen and artisans.
 
-The exchange of knowledge between alchemists in Ambria and Davokar causes ever more elixirs to become available to the Ambrians. Some drugs can only be purchased on the black market in places like Thistle Hold, since they are illegal or at least so inappropriate that selling (or buying) them will attract attention from the authorities and witchhunters. Among these are all the elixirs that give corruption; both Ambrians and barbarians handle the trade in such decoctions discreetly. Finding a specific elixir on the black market in Ambria requires a Cunning test by someone with the boon Contacts (treasure hunter or some similar specialization).
+The exchange of knowledge between alchemists in Ambria and Davokar causes ever more elixirs to become available to the Ambrians. Some drugs can only be purchased on the black market in places like Thistle Hold, since they are illegal or at least so inappropriate that selling (or buying) them will attract attention from the authorities and witchhunters. Among these are all the elixirs that give corruption; both Ambrians and barbarians handle the trade in such decoctions discreetly. Finding a specific elixir on the black market in Ambria requires a Wit test by someone with the boon Contacts (treasure hunter or some similar specialization).
 
 aLChemiCaL eLixir CoSt Antidote Weak 1 thaler Moderate 2 thaler Strong 3 thaler Choking Spores 2 thaler Concentrated Magic 1 thaler Eye Drops 2 thaler Elemental Essence 2 thaler Elixir of Life 6 thaler Ghost Candle 2 thaler Herbal Cure 1 thaler Poison Weak 2 thaler Moderate 4 thaler Strong 6 thaler Protective Oil 2 thaler Spore Bomb 3 thaler Waybread 1 thaler Wraith Dust 2 thaler
 
@@ -16,11 +16,11 @@ Weak<br>
 Moderate<br>
 Strong<br>
 # Antidote
-Weak<br>A weak antidote lowers the effect of a poison by one degree; a strong poison becomes moderate, a moderate poison becomes weak and a weak poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect.
+Weak<br>A weak antidote lowers the effect of a poison by one degree; a strong poison becomes moderate, a moderate poison becomes weak and a weak poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Wit test to take effect.
 
-Moderate<br>A moderate antidote lowers the effect of a poison by two degrees; a strong poison becomes weak, while both moderate and weak poisons are completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect.
+Moderate<br>A moderate antidote lowers the effect of a poison by two degrees; a strong poison becomes weak, while both moderate and weak poisons are completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Wit test to take effect.
 
-Strong<br>A strong antidote lowers the effect of a poison by three degrees, which usually means that the poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect.
+Strong<br>A strong antidote lowers the effect of a poison by three degrees, which usually means that the poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Wit test to take effect.
 # Antidote Candle
 `APG`
 When lit, this candle emits fumes that work as an antidote on all around it.
@@ -38,7 +38,7 @@ Moderate<br>These drops will immediately return the gift of sight to a temporari
 # Elemental Essence
 Moderate<br>When applying a dose of elemental essence, either one weapon, four throwing weapons, or all the arrows/bolts in a quiver deal, 1D4 elemental damage for the duration of a scene. The alchemist must choose which element to prepare: fire, cold, acid or lightning.
 # Elixir of Life
-Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of Toughness during 1D6 turns, on the character's initiative. Sadly the character also suffers 1 temporary corruption for each turn the elixir is in effect.
+Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of Toughness during 1D6 turns, on the character's turns. Sadly, the character also suffers 1 temporary corruption for each turn the elixir is in effect.
 # Fire Dye
 `APG`
 Weak<br>Fire dye consists of salts that change the color of any fire they are cast into. If the colors are ascribed a specific meaning known to the user and an allied observer it can be used for signaling over long distances. They are also used for entertainment among the wealthy, and by charlatans to impress commoners.
@@ -105,13 +105,13 @@ Weak<br>The alchemist covers a crossbow bolt in a fast acting muscle relaxant; a
 `APG`
 Moderate<br>A handful of seeds are thrown to the ground and one turn later 1d4 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live during a single scene before drying up to look like thorny dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 temporary corruption.
 
-Thorn BeasTy Manner Rustling and crackling Race Creeper Traits Natural Weapon (I), Poisonous (I) Accurate 13 (–3), Cunning 10 (0), Discreet 11 (–1), Persuasive 5 (+5), Quick 15 (–5), Resolute 9 (+1), Strong 7 (+3), Vigilant 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Toughness 10 Pain Threshold 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
+Thorn BeasTy Manner Rustling and crackling Race Creeper Traits Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Toughness 10 Pain Threshold 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
 # Thunder Ball
 `APG`
 Strong<br>An alchemical load that is thrown and detonates amidst a sudden, loud flash, used with the master level of the ability Pyrotechnics.
 # Transforming Draught
 `APG`
-This is a powerful mutagen which transforms the body of the user in a monstrous way. During a scene the user is twisted into a bestial half-creature and has a second chance to fail all Persuasive tests until the effect wears off. The draught gives the user a monstrous trait for the rest of the scene; the level of the trait is decided by the strength of the elixir. In addition, each dose consumed deals temporary corruption, also determined by the strength of the elixir. Of course, the physical transformation and the corrupting effect is reason enough for the elixir to be banned and only available on Ambria's black market.
+This is a powerful mutagen which transforms the body of the user in a monstrous way. During a scene the user is twisted into a bestial half-creature and has a second chance to fail all Charisma tests until the effect wears off. The draught gives the user a monstrous trait for the rest of the scene; the level of the trait is decided by the strength of the elixir. In addition, each dose consumed deals temporary corruption, also determined by the strength of the elixir. Of course, the physical transformation and the corrupting effect is reason enough for the elixir to be banned and only available on Ambria's black market.
 
 The following monstrous traits can be acquired, decided by the alchemist when brewing the elixir: Armored, Natural Weapon, Robust and Wings.
 

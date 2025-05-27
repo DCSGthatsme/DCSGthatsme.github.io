@@ -1,0 +1,1 @@
+Resolve represents a character's mental fortitude, whether in resistance to outside influences or in their own willpower. Resolve is tied to the use of mystical powers and the endurance of [[Corruption]]. The Attribute is often opposed by an enemy's Resolve or Charisma. Note that having a very low value in this Attribute is inadvisable because of the risk for Corruption.

@@ -1,0 +1,4 @@
+## Ability
+Crux: [[Fear]]
+
+The mystic can exchange their Shadow with that of another creature by making a successful \[[[Resolve]]←Resolve\] test: the mystic's Shadow looks like the creature's Shadow and vice versa. The ritual is active for 24 hours and requires a link to the victim for the mystic to even be able to attempt the exchange: a lock of hair, a splash of blood or an item which is important to the target. The target does not notice the switch but those who can see Shadows can of course perceive it (or be tricked by it). Exchange Shadow can be negated by [[Break Link]] or [[Exorcism]].

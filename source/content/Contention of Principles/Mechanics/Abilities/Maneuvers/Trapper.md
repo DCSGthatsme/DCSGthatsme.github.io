@@ -3,7 +3,7 @@ The character has realized that the creatures of the wild are best combated afte
 
 Trained trappers can deploy and disarm both mechanical traps and alchemical mines. Furthermore, when the need arises, the character can quickly manufacture improvised traps from materials at hand. See more on the rules regarding traps on 102APG.
 
-Novice<br>Active. With a passed Wit test, the character can use a Primary Action to deploy or disarm a mechanical trap. The effect depends on the level of the trap (see page 127APG). The character can also build an improvised trap, but this requires an whole entire round to complete. An improvised trap made by the character deals 1D6 damage.
+Novice<br>Active. With a passed [[Wit]] test, the character can use a Primary Action to deploy or disarm a mechanical trap. The effect depends on the level of the trap (see page 127APG). The character can also build an improvised trap, but this requires an whole entire round to complete. An improvised trap made by the character deals 1D6 damage.
 
 Adept<br>Active. The character can handle alchemical mines the same way they handle mechanical traps. An improvised trap made by the character now deals 1D8 damage.
 

@@ -1,5 +1,5 @@
 # Ability
-Only available if `Agility + Might > 20`
+Only available if [[Agility]] + [[Might]] > 20
 
 The character understands the power of the blood better than others. These insights allow them to use the power of spilled blood to their own advantage in combat – whether the blood is theirs or the enemy's.
 

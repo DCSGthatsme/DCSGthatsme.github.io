@@ -3,7 +3,7 @@ The character is familiar with the effective use of poisoned weapons in combat.
 
 The Poisoner ability can be used to identify different poisons or the effect of a poison on a wounded or dead person.
 
-Novice<br>Free. As a Free Action, the character can apply one dose of poison or any other alchemical elixir to a weapon. That one dose of poison is enough for one hit with the weapon before more of the poison must be applied. A \[Wit←Might\] test is needed for the poison to take effect; if successful the victim starts to take damage. The damage suffered per turn and the duration of the poison depends on its strength (see page `153?`).
+Novice<br>Free. As a Free Action, the character can apply one dose of poison or any other [[Alchemical Elixirs|alchemical elixir]] to a weapon. That one dose of poison is enough for one hit with the weapon before more of the poison must be applied. A \[[[Wit]]←[[Might]]\] test is needed for the poison to take effect; if successful the victim starts to take damage. The damage suffered per turn and the duration of the poison depends on its strength.
 
 Adept<br>Free. As novice, but the character understands how to make a dose of poison last an entire battle. After applying a dose, all attacks counts as poisonous for the duration of the scene.
 

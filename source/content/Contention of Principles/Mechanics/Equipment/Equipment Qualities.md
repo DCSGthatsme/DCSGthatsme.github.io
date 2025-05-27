@@ -41,7 +41,7 @@ The weapon is designed to be easy to wield and therefore gives +1 to attack test
 The armor is tougher than other armor in the same category (light, medium, heavy), meaning that the wearer may add +1 to their armor rolls.
 ## Returning
 `APG`
-The weapon is designed in a way so that a skilled user can make it return if an attack misses the target. A passed Accurate test is required, which counts as a free action.
+The weapon is designed in a way so that a skilled user can make it return if an attack misses the target. A passed Exactitude test is required, which counts as a free action.
 ## Screening
 `APG`
 The shield is so big that it completely obstructs the line of sight in one direction; archers must move sideways to get a clear line of sight. An ally walking directly behind the carrier of the Screening shield receives the same protection as the carrier.
@@ -52,7 +52,7 @@ The weapon can be drawn as a Free Action and can be used with the Feint ability.
 The weapon is heavy or unbalanced in a way which makes it more difficult to swing and control during combat. An attack with the weapon requires a full turn; both the combat action and movement action are spent on the attack. In other words, the wielder cannot both attack and move during a single turn, but once they are in place it is possible to make an attack every turn.
 ## Wrecking
 `APG`
-The weapon is primarily meant to attack buildings, rather than living creatures; its lack of precision makes it all but impossible to aim at individual enemies, leaving it better suited for shots at fortifications or large areas on the battlefield . Its effect on buildings is considerable and multiple hits will likely wreck the structure – a tower collapses, a wall is breached, a gate is blown open to give the attackers a chance to storm the building. Creatures who happen to be where a Wrecking weapon hits take damage; Armor is ignored but a passed Defense test halves the damage. Anyone present in or on a building which is destroyed dies or becomes dying if they fail a Defense test; if the test is passed, they suffer damage instead, ignoring Armor. Furthermore, the individual is buried in the rubble and it takes the rest of the scene to get out of the wreckage
+The weapon is primarily meant to attack buildings, rather than living creatures; its lack of precision makes it all but impossible to aim at individual enemies, leaving it better suited for shots at fortifications or large areas on the battlefield. Its effect on buildings is considerable and multiple hits will likely wreck the structure – a tower collapses, a wall is breached, a gate is blown open to give the attackers a chance to storm the building. Creatures who happen to be where a Wrecking weapon hits take damage; Armor is ignored but a passed Defense test halves the damage. Anyone present in or on a building which is destroyed dies or becomes dying if they fail a Defense test; if the test is passed, they suffer damage instead, ignoring Armor. Furthermore, the individual is buried in the rubble and it takes the rest of the scene to get out of the wreckage.
 
 ---
 ## Mystical Qualities

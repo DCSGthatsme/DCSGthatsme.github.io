@@ -33,13 +33,13 @@ Toad Guard 1 thaler
 Transcendental Weapon 12 thaler
 Witch Braid 8 thaler
 ## Animal Mask
-Moderate<br>Blood wading witches tend to identify with the beasts of the wild, a sentiment embodied by the wearing of animal masks. Every animal mask with mystical properties symbolizes an animal and gives a +1 bonus on an attribute associated with that animal – Discreet, Quick, Cunning, Strong or Vigilant.
+Moderate<br>Blood wading witches tend to identify with the beasts of the wild, a sentiment embodied by the wearing of animal masks. Every animal mask with mystical properties symbolizes an animal and gives a +1 bonus on an attribute associated with that animal – Agility, Might, Subtlety, Vigilance, or Wit.
 
 ## Bark Mask
 Moderate<br>Green weaving witches often cover their faces with a mask of bark, as a symbol of their connection to nature. Many of these masks are infused with power and provide one re-roll per scene on a test related to plants and anything growing, for example Thorn Cloak and Entangling Vines. The re-roll may be used for tests to activate such powers or to resist the effect of such powers.
 
 ## Burial Shroud
-Moderate<br>The spiritualists among the witches often wear a shroud over their head when contacting the spirits of the dead, since this makes the spirits calmer and allows for a deeper connection. A mystic using such an artifact gains a +1 bonus to Resolute in all tests when dealing with spirits – both when trying to control them (as in the power Tormenting Spirits) and when trying to resist the effect of monstrous traits used by spirits, involving the Resolute attribute.
+Moderate<br>The spiritualists among the witches often wear a shroud over their head when contacting the spirits of the dead, since this makes the spirits calmer and allows for a deeper connection. A mystic using such an artifact gains a +1 bonus to Resolve in all tests when dealing with spirits – both when trying to control them (as in the power Tormenting Spirits) and when trying to resist the effect of monstrous traits used by spirits, involving the Resolve attribute.
 
 ## Death Mask
 Moderate<br>The necromancers' aspiration to dominate death has led to the use of hideous death masks that have been infused with power. A death mask gives a +1 bonus on tests for all powers and rituals affecting the intersection between life and death, for instance the power Revenant Strike and the ritual Raise Undead.
@@ -54,7 +54,7 @@ Moderate<br>Demonologists often wear a crown of rusty iron when tearing at the w
 Moderate<br>A gold coin instilled with energies of good fortune. The coin is carried in a pocket and gives a +1 bonus to one success test, once per scene. Whoever toys with such energies is at risk of suffering from the opposite effect; if the outcome of a test modified by the coin is 20, the carrier will have bad luck for the rest of the scene – all success tests have a second chance to fail.
 
 ## Marlit Cape
-Moderate<br>The skin of a marlit, a reptile known for its sneaky hunting style, is treated with preserving alchemical preparations so that it keeps its camouflaging properties after the death of the beast. The wearer has a +1 bonus to Discreet when sneaking and hiding.
+Moderate<br>The skin of a marlit, a reptile known for its sneaky hunting style, is treated with preserving alchemical preparations so that it keeps its camouflaging properties after the death of the beast. The wearer has a +1 bonus to Subtlety when sneaking and hiding.
 
 ## Meeting Stone
 Weak<br>A stone is loaded with an invitation to a specific person, who upon receiving and touching the artifact instinctively knows where the stone's owner is waiting. Only a mystic (with at least one mystical power) can activate a meeting stone.
@@ -78,7 +78,7 @@ TROLL SINGING - A crumhorn, birch- bark horn or similar instrument that hums or 
 Weak<br>The medallions of Ordo Magica are given to novices and stay with the wizards for their entire career. When the wizard reaches adept level, the medallion transforms to symbolize this step; the same thing happens when reaching master level. Some chapters have made the order medallion mandatory and have also bound certain functions to it, such as the ability to open doors which are closed to outsiders/novices/adepts and to activate the chapter's magic circle.
 
 ## Pest Mask
-Weak<br>In a world full of contagions and poisons it is no wonder that many methods – effective or only superstitious – have been developed to resist such phenomena. The Confessors of the Sun Church, for instance, carry pest masks to protect themselves. They allow the wearer to use their Resolute instead of Strong on tests to resist sicknesses and poisons.
+Weak<br>In a world full of contagions and poisons it is no wonder that many methods – effective or only superstitious – have been developed to resist such phenomena. The Confessors of the Sun Church, for instance, carry pest masks to protect themselves. They allow the wearer to use their Resolve instead of Might on tests to resist sicknesses and poisons.
 
 ## Ritual Codex
 Weak<br>A ritual is penned down in a codex so that another ritualist can perform it without having previously learned the ritual. The codex can only be used once.
@@ -138,4 +138,4 @@ Weak<br>A figurine in the form of a toad acts as an alarm. The user – who has 
 Strong<br>These weapons were forged to allow a wielder to strike from a distance. Only mystics (defined as someone who has learned at least one mystical power) know how to use such an artifact. The attack is rolled as if in melee combat but may hit distant targets and requires a clear line of sight, just as ranged attacks. Active abilities may be used, but at one level lower: a master may use the adept level of the ability through the transcendental weapon; an adept may use the novice level. A novice cannot use the ability together with a transcendental weapon.
 
 ## Witch Braid
-Moderate<br>This braid is made from three types of hair or fur and keeps death at bay, giving a +1 bonus to Strong during death tests. Non-player characters with the braid get to make death tests, with the +1 bonus.
+Moderate<br>This braid is made from three types of hair or fur and keeps death at bay, giving a +1 bonus to Might during death tests. Non-player characters with the braid get to make death tests, with the +1 bonus.

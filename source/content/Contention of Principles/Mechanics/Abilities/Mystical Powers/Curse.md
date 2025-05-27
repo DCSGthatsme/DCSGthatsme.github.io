@@ -1,9 +1,9 @@
 # Ability
-Material: None, a dark glare is enough<br>Bond: Fear, Appreciation
+Material: None, a dark glare is enough<br>Crux: [[Appreciation]], [[Fear]]
 
-The mystic masters the stare of the Evil Eye and can curse enemies on the battlefield; a power often used by the disciples of the Dark Lords during The Great War.
+The mystic masters a stare which can curse enemies on the battlefield.
 
-Novice<br>Free. Once per turn, the mystic's dark glare automatically gives an enemy a second chance to fail all success tests meant to affect the mystic (roll twice, the action fails if one of the tests is a failure). This effect is ongoing until the mystic fails a Resolve test.
+Novice<br>Free. Once per turn, the mystic's dark glare automatically gives an enemy a second chance to fail all success tests meant to affect the mystic (roll twice, the action fails if one of the tests is a failure). This effect is ongoing until the mystic fails a [[Resolve]] test.
 
 Adept<br>Free. Like novice, but the enemy has a second chance to fail all their success tests regardless of target. The effect is ongoing until the mystic fails a Resolve test.
 

@@ -1,5 +1,5 @@
 # Ability
-Material: A melee weapon anointed with Predilection<br>Bond: Exaltation
+Material: A melee weapon anointed with Predilection<br>Crux: [[Exaltation]]
 
 The mystic has learned to shroud their melee weapon with blight-hating fire.
 

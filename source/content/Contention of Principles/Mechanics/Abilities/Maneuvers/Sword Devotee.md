@@ -1,7 +1,7 @@
 # Ability
 Sword devotees have achieved a certain symbiosis with their swords, handling their weapons as if they were extensions of their body and soul. The sword devotion techniques may only be used with a single-handed sword with the quality Balanced.
 
-Sword Devotee cannot be combined with the ability Twin Attack to gain additional bonuses to damage.
+Sword Devotee cannot be combined with the ability [[Twin Attack]] to gain additional bonuses to damage.
 
 Novice<br>Passive. The character has learned to take full advantage of fighting with a Balanced sword in one hand and a parrying dagger in the other. While wielding both of such weapons, the damage dealt by the sword is 1D10, instead of 1D8.
 

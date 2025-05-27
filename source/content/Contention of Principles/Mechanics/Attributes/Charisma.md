@@ -1,0 +1,1 @@
+Charisma reflects how well a character can influence interpret others in the realm of words, emotion, paralanguage, and presentation of character. It is often used when trying to persuade another to do (or refrain from doing) something, whether verbally or otherwise. Charisma is usually opposed by an enemy's Resolve.

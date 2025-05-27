@@ -1,5 +1,5 @@
 # Ability
-Only available if `Resolve + Might > 20`
+Only available if [[Resolve]] + [[Might]] > 20
 
 The warrior's spirit is strengthened in combat, giving them miraculous power when needed. The character is one who has found this source of aggression within, and knows how to make use of it.
 

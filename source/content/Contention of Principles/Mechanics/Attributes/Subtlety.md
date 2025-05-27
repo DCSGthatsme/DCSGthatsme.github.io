@@ -1,0 +1,1 @@
+A character's Subtlety represents their aptitude for and training in being silent, dexterous, and discreet. It can be used to avoid detection of oneself or one's actions. Subtlety is often opposed by an enemy's Vigilance.

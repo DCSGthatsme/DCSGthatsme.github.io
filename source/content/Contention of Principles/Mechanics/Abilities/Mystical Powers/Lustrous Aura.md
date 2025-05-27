@@ -1,9 +1,9 @@
 # Ability
-Material: A flower<br>Bond: Exaltation
+Material: A flower<br>Crux: [[Exaltation]]
 
 The mystic can send out a life-affirming aura that harms abominations and the undead. At higher levels, this aura can also provide healing powers for living creatures.
 
-Novice<br>Active. With a successful Resolve test the mystic envelops themself in an aura of energies that is harmful to abominations and undead. The target suffers 1D6 points of damage, ignoring Armor. This power affects all abominations and undead within sight of the mystic and is ongoing until the mystic fails a Resolve test or breaks concentration. The mystic can exclude allied abominations or undead from the effect of the Lustrous Aura.
+Novice<br>Active. With a successful [[Resolve]] test the mystic envelops themself in an aura of energies that is harmful to abominations and undead. The target suffers 1D6 points of damage, ignoring Armor. This power affects all abominations and undead within sight of the mystic and is ongoing until the mystic fails a Resolve test or breaks concentration. The mystic can exclude allied abominations or undead from the effect of the Lustrous Aura.
 
 Adept<br>Active. The aura now deals 1D8 damage to abominations and undead, while living creatures heal 1D4 points of Toughness each turn.
 

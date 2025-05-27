@@ -1,0 +1,1 @@
+Vigilance represents a character's general awareness; the attunement of their senses and their ability to detect the details of their surroundings. Vigilance is often opposed by an enemy's Subtlety.

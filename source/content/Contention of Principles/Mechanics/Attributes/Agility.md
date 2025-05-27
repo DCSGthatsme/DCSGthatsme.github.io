@@ -1,0 +1,1 @@
+Agility represents a character's reflexes, nimbleness, and athletic constancy. It determines their acting precedence during go-time and is used actively when jumping, avoiding harm, and performing similar athletic maneuvers. Agility is often opposed by an enemy's Exactitude.
