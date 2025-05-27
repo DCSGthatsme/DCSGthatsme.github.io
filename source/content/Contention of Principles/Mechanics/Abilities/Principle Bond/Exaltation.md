@@ -3,7 +3,7 @@
 Novice
 > The novice exalting mystic has a certain zeal, the will and vigor to exact their conceits.
 
-Special. The exalting mystic no longer suffers permanent [[Corruption]] when learning powers at novice level belonging to the bond of Exaltation, nor when learning its rituals. Despite this, the mystic still has no protection against the temporary Corruption that comes from using the powers and rituals of Exaltation.
+Special. The exalting mystic no longer suffers permanent [[Corruption]] when learning powers at novice level with a crux of Exaltation, nor when learning its rituals. Despite this, the mystic still has no protection against the temporary Corruption that comes from using the powers and rituals of Exaltation.
 
 Adept
 > The adept exalting mystic lauds their volition authoritatively, and the world itself indulges.
