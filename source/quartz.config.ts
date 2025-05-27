@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "The Official DCSG Pages",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: false,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
@@ -78,7 +78,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      //Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
