@@ -19,9 +19,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Explorer({title: "Browse", folderDefaultState: "open", filterFn: undefined,}),
   ],
   right: [
     //Component.Graph(),
