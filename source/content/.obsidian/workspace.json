@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Corruption.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Burdens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corruption"
+              "title": "Burdens"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "56d48a1ffc65ec69",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Go-time.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
     "Contention of Principles/Mechanics/Corruption.md",
+    "Contention of Principles/Mechanics/Go-time.md",
     "Contention of Principles/Mechanics/Character Creation.md",
-    "Contention of Principles/Mechanics/Attributes.md",
+    "Contention of Principles/Mechanics/Attributes/Attributes.md",
     "Contention of Principles/Mechanics/Abilities.md",
     "Contention of Principles/Mechanics/Abilities/Principle Bond/Exaltation.md",
     "Contention of Principles/Mechanics/Abilities/Boons.md",
@@ -197,7 +198,6 @@
     "Contention of Principles/Mechanics/Abilities/Rituals/Remote Writing.md",
     "Contention of Principles/Mechanics/Abilities/Rituals/Quick Growth.md",
     "Contention of Principles/Mechanics/Abilities/Rituals/Quake.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Purging Fire.md",
     "Contention of Principles/Mechanics/Attributes",
     "Sealing",
     "Contention of Principles/Mechanics/Abilities/Rituals",
