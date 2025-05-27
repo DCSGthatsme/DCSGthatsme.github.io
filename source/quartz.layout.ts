@@ -20,7 +20,14 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.Darkmode(),
-    Component.Explorer({title: "Browse", folderDefaultState: "open", filterFn: undefined,}),
+    Component.Explorer({
+		title: "Browse",
+		folderDefaultState: "open",
+		filterFn: (node) => {
+			const omit = new Set(["maneuvers"])
+			return !omit.has(node.displayName.toLowerCase())
+		},
+	}),
   ],
   right: [
     //Component.Graph(),
