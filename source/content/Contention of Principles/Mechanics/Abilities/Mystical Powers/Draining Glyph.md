@@ -3,6 +3,8 @@ Crux: [[Fear]]<br>Material: A carefully crafted glyph
 
 The mystic creates a glyph that upon activation becomes a whirling vortex, sucking the life-force from the enemy. The glyph affects all enemies who can see the symbol and are in front of it.
 
+![[Mystical Power]]
+
 Novice<br>Active. With a \[[[Resolve]]←[[Might]]\] test the mystic can damage every enemy in the vicinity (one test per target). The damage is 1D4, ignoring Armor. The effect lasts until the mystic fails a Resolve test or loses concentration \[Resolve –Damage\].
 
 Adept<br>Active. Same as the novice level, but the effect lasts until the mystic fails a Resolve test.

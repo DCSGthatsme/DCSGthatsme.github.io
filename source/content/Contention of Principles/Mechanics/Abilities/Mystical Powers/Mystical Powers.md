@@ -1,10 +1,4 @@
-To gain a mystical power requires the [[Abilities#Mystical Power|Mystical Power]] ability:
-![[Abilities#Mystical Power]]
-
-Each mystical power is a variant version of the Mystical Power ability, inheriting its rules.
-
-> A clarification may be warranted regarding the ability Mystical Power and the actual powers presented with start on page 130. Each of the latter represent one purchase of the ability in question: if your character learns both Lay on Hands and Lustrous Aura, this means it learns two different versions of the ability Mystical Power. What is in common for all powers is included in the ability; what is specific is detailed in the description of the powers
-
+Each mystical power is a variant of the [[Mystical Power]] ability, inheriting its rules.
 ## [[Alchemy]]
 ![[Alchemy#Ability]]
 ## [[Anathema]]

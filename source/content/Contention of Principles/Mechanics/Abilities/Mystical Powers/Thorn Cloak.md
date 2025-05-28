@@ -3,6 +3,8 @@ Only available if [[Exactitude]] + [[Vigilance]] > 22<br>Crux: [[Appreciation]]<
 
 The plants in nature are usually seen as still and reactive rather than aggressive and active. Experienced green weavers know better and can use surrounding vines, thorns and roots to defend themselves and their allies.
 
+![[Mystical Power]]
+
 Novice<br>Active. The mystic allows himself to be entwined by vegetation, which provides a bonus of +1D4 in Armor, or +1D6 if the mystic does not move during the whole turn.
 
 Adept<br>Active. Same as at the novice level, but the vegetation branches out to also protect any allies who stand close to the mystic (inside melee range). These allies gain a +1D4 86 bonus to Armor, but this extra protection disappears if they move away from the mystic, or if the mystic moves away from the allies.

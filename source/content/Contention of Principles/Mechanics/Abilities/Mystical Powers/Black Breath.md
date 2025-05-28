@@ -3,6 +3,8 @@ Crux: [[Fear]]<br>Material: The mystic's own permanent corruption
 
 A mystic with permanent corruption can spew out its inner darkness and infect others with corruption, or heal already tainted creatures.
 
+![[Mystical Power]]
+
 Novice<br>Active. One (1) creature is hit; roll 1D4 against its total corruption. If the roll is equal to or lower than the corruption value, the creature heals an amount equal to the outcome of the roll; if higher, the creature suffers the outcome in temporary corruption.
 
 Adept<br>Active. Like Novice, but the roll is 1D6.

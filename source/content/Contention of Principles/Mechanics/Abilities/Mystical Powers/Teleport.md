@@ -3,6 +3,8 @@ Only available if [[Resolve]] + [[Subtlety]] > 22<br>Crux: [[Fear]]<br>Material:
 
 The fearful mystics who have gone furthest in questioning the laws of nature can choose to momentarily cease to be in order to transpire again in a new location. However, there is a risk that a violent [[Phantasms|phantasm]] remains in the mystic's place and attacks a random creature – except those protected by the power Unholy Aura or whose souls are thoroughly corrupt. The phantasm that comes is determined by the Game Master based upon the mystic's characteristics.
 
+![[Mystical Power]]
+
 Novice<br>Active. With a passed Resolve test, the character can exit the world and return within a range of two movement actions. The mystic suffers 1D4 damage from the journey, ignoring Armor. The teleportation does not trigger a Free Attack, even if withdrawing from melee. The mystic must see the return location when the mystical power is activated. If the test fails, an enraged phantasm is created instead.
 
 Adept<br>Active. Same as at the novice level, except the mystic suffers no damage during their teleportation. If the test fails, the mystic must pass a Resolve test to stop a phantasm from coming. The mystic can choose not to resist and willingly let the phantasm be.

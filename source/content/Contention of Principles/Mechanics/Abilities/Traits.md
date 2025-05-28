@@ -21,6 +21,18 @@ Novice<br>Free. Thanks to their explosive survival instinct, the character may p
 Adept<br>Reaction. The character trusts their instincts and has learned that rolling with the punches often saves your life. The character's finely honed survival instinct provides it with a permanent +1D4 to Armor.
 
 Master<br>Free. There resides a powerful fighting spirit within each member of the character's race, and that spirit can show itself when the character is backed into a corner. The character has nurtured this hot-tempered aggression and may sacrifice a Movement Action once per scene to perform an extra Combat Action.
+## Wisdom of the Ages
+`APG`
+The character is one of those who may use the know-how of previous generations to solve problems at hand. It is not without risks; the process incurs temporary corruption as if it was a mystical power.
+
+Novice
+Full turn. The character gets lost in a short trance. With a passed Resolute test, it gains access to the novice level of an optional ability, Mystical Traditions, Ritualist and Mystical Power excluded. The ability can be used for the rest of the scene, before fading from memory.
+
+Adept
+Active. The character’s closer connection to the collective memory makes the trance even shorter; other than that it works like the novice level.
+
+Master
+Active. The character can dig deeper into the collective memory. With a passed Resolute test, it gains access to the adept level of an optional ability, Mystical Traditions, Ritualist and Mystical Power excluded. The ability can be used for the rest of the scene, before fading from memory.
 
 ---
 
@@ -35,3 +47,7 @@ Master<br>Free. With a successful Resolve test the character may adopt the form 
 
 ## Privileged
 The character belongs to a race of high social standing within their society, and is therefore given advantages that others simply cannot have or must pay for, in either silver or hard work, to obtain. The character gets a second chance to succeed when taking on social challenges within their own society, and does not have to roll the dice unless it strives to accomplish something which is questionable or that may be next to impossible to achieve. Additionally, the character starts with 50 thaler in their purse.
+
+## Earth Bound
+`APG`
+The creature is bound to the world in an intimate way, as if originating from the bones of the world and still being part of its foundation. It has no soul and suffers damage instead of corruption; temporary corruption causes bleeding wounds on its body. Permanent corruption instead causes a per- manent reduction to the basis for calculating the creatures Pain Threshold. In practice, this means that the Pain Threshold is reduced by 1 for every other point the creature suffers in permanent corruption. Its Toughness is not affected. If the Pain Threshold is reduced to zero, the creature dies of internal bleeding and failing organs. Once dead, the creature cannot become undead and it cannot be contacted with the ritual Necromancy. The corpse decays and reunites with the slop and dust of creation, without leaving any kind of spiritual trace behind.

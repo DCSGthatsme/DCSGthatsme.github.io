@@ -26,6 +26,17 @@ A Movement Action represents a meaningful motion in go-time. Typically, the exac
 * Switch weapons
 * Stand up from a prone position (requires an Agility test).
 * Drink/apply an elixir to yourself.
+
+### Distance Categories
+If your gaming group wants more nuanced and tactically relevant rules, the following guidelines may be used: Each combat encounter starts at a distance determined by the situation and terrain (the GM decides). The distance categories modify damage and the chance to hit, and correspond to the number of movement actions needed for the combatants to engage each other in melee combat. Note that mystical powers are not in any way affected by this rule. An obvious effect of the rule is that characters with ranged weapons cannot fight effectively at short range; they have to move (and suffer Free Attacks) or switch weapons. This means that the abilities Acrobatics, Arrow Jab and Quick Draw become even more valuable.
+
+| Distance Category | Effect on Ranged Weapons                                                             | Approx. Distance | Number of Movements |
+| ----------------- | ------------------------------------------------------------------------------------ | ---------------- | ------------------- |
+| Close             | Attack is only possible in the first turn and only if the shooter has the initiative | 1-2 meters       | None                |
+| Short             | +2 on attack test, +1D4 in damage                                                    | 10 meters        | 1                   |
+| Medium            | None                                                                                 | 20 meters        | 2                   |
+| Long              | -2 on attack test                                                                   | 50 meters        | 5                   |
+| Extreme           | -5 on attack test                                                                   | 100 meters       | 10                  |
 ### Reaction
 Reactions are quick responses or follow-ups to other Actions or circumstances. They can be performed in any moment during go-time. The character can perform as many Reactions as is called for per turn, as long as there are triggers to react to. Reactions can use the effect of passive abilities, but not of active ones.
 

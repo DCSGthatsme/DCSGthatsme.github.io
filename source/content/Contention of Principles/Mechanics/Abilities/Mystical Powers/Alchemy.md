@@ -1,9 +1,14 @@
+---
+title: "Mystical Power: Alchemy"
+---
 # Ability
 Material: A flask, water, and an appropriate herb<br>Crux: [[Appreciation]], [[Captivation]]
 
 The character is knowledgeable in the mysteries of alchemy. With the right ingredients, the character can prepare various [[Alchemical Elixirs]].
 
 The character may attempt to prepare an elixir once per adventure. This attempt can be performed before the start of an adventure or at any appropriate moment during the adventure – for example when traveling through a forest or when passing through a cave where potent ingredients may be found.
+
+![[Mystical Power]]
 
 Novice<br>Special. With a successful roll against [[Wit]] the character can gather herbs and minerals to create one dose of a novice elixir.
 

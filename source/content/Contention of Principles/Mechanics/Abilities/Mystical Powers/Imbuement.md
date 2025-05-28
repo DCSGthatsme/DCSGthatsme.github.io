@@ -3,6 +3,8 @@ Only available if `?`<br>Material: `Relevant materials`<br>Crux: `?`
 
 The character can imbue objects with power, turning them into [[Lesser Artifacts]].
 
+![[Mystical Power]]
+
 Novice<br>Once per adventure. With a passed [[Wit]] test, the character can craft one novice level artifact.
 
 Adept<br>Once per adventure. As an acknowledged artifact crafter, a passed Wit test lets the character craft one adept level artifact.

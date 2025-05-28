@@ -1,11 +1,10 @@
-Rituals are time-consuming spells that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Each tradition has developed a variety of distinctive practices and it can be difficult for members of other traditions to acquire the knowledge of specific rituals.
+Rituals are time-consuming abilities that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Like mystical powers, rituals can cause [[Corruption]]; first when they are learned and then each time they are used. 
 
-Like powers, rituals can cause [[Corruption]]; first when they are learned and then each time they are used. Each tradition has developed their own way of handling Corruption that comes from the use rituals, just like with the Corruption originating from using powers. Independent mystics lack the appropriate schooling and are therefore in an especially tough spot when it comes to suffering Corruption from all forms of mystical practices.
+A ritual can only be taken via the [[Ritualist]] ability. Note that each ritual is a free ability granted by Ritualist (under proper conditions), as opposed to a version of the Ritualist ability like the mystical powers.
 
-To take a ritual, you must purchase the following ability:
-![[Abilities#Ritualist]]
+![[Ritualist]]
 
-Note that each ritual is a free ability granted by Ritualist (under proper conditions), as opposed to a version of the Ritualist ability like the mystical powers.
+---
 ## [[Anoint]]
 ![[Anoint#Ability]]
 ## [[Black Sympathy]]

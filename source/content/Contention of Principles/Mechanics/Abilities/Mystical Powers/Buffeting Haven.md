@@ -3,6 +3,8 @@ Crux: [[Exaltation]]<br>Material: Melee weapon
 
 The mystic has their melee weapon spin around at such velocity that it forms a protective haven which effectively parries most attacks. Unfortunately, the mystic cannot perform attacks or use other powers without dispelling the haven. The haven is active until it is willingly aborted, until the mystic uses another power, or until it is dispelled by some other mystic using the power [[Anathema]].
 
+![[Mystical Power]]
+
 Novice<br>Active. The haven lets the mystic choose to defend using [[Resolve]] instead of [[Agility]]. It can protect the mystic from melee and ranged attacks but not from mystical powers. Only movement is allowed while within the sphere – not even actions which normally can replace movement are possible while maintaining the sphere.
 
 Adept<br>Active. The haven automatically defends against an unlimited number of melee and ranged attacks as long as it is active. However, it does not provide any protection against mystical powers and area effects like explosions, smoke bombs or similar.
