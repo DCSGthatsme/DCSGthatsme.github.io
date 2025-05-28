@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Nature's Embrace"
+---
+## Ability
 Material: A fistful of soil<br>Crux: [[Appreciation]]
 
 The deep soil of the world is a safe place for the mystic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from their enemies.

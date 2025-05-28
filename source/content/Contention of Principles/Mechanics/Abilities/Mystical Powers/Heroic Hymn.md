@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Heroic Hymn"
+---
 ## Ability
 Crux: [[Captivation]]<br>Material: None, but the mystic must sing out loud
 
@@ -10,5 +13,5 @@ Novice<br>Free. The character gives himself and all allies a +1 bonus to either 
 Adept<br>Free. The character gives himself and all allies a +1 bonus to Charisma, Resolve, and Wit for as long as the singing continues.
 
 Master<br>Free. The character and all allies gain a +1 bonus to Charisma, Resolve, and Wit for as long as the singing continues. Also, the temporary corruption of the character and all allies is reduced by 1D4 when the song begins; this corruption reducing effect may only be used once per scene.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

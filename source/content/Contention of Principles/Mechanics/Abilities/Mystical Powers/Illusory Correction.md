@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Illusory Correction"
+---
+## Ability
 Material: A shard of a mirror<br>Crux: [[Captivation]]
 
 There is a gap between the world and the perception of it. The mystic can use this gap to evade a potentially horrible fate or to make alterations to the flow and perception of reality.

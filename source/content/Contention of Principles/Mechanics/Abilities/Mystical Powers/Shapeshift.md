@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Shapeshift"
+---
+## Ability
 Material: A bit of fur or skin from the beast in question<br>Crux: [[Appreciation]]
 
 The mystic's understanding of the essence of nature makes it possible to take the form of beasts – a talent that the Shagaoia tribe is rumored to possess.

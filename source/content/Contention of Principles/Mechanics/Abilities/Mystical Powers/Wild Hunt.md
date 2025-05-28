@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Wild Hunt"
+---
 ## Ability
 Only available if [[Agility]] + [[Charisma]] > 22<br>Crux: [[Appreciation]]<br>Material: The fur of a beast dead from natural causes
 
@@ -10,5 +13,5 @@ Novice<br>Active. The mystic can summon one weak beast to aid them in combat.
 Adept<br>Active. The mystic calls one ordinary beast or 1D4 weak beasts to aid them in combat.
 
 Master<br>Active. The mystic calls one challenging beast, 1D4 ordinary beasts or 1D6 weak beasts to them in combat.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

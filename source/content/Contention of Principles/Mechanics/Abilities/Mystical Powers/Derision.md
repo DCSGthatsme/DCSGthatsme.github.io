@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Derision"
+---
 ## Ability
 Crux: [[Fear]]<br>Material: None, only harmful words
 
@@ -10,5 +13,5 @@ Novice<br>Active. If the character utters words of doom and passes a \[[[Resolve
 Adept<br>Reaction. When the character suffers damage and passes a \[Resolve←Resolve\] test, the attacker is bound by a death link. Only one enemy at a time can be bound by a death link, but if a link is broken a new enemy who damages the character can be bound. The death link means that damage suffered by the character is also inflicted upon the bound enemy. This includes all damage, regardless of source. The Pain Threshold is not affected; it is handled separately for the character and the target. Attacks that do not deal damage can be ignored, but in the case of powers that deal damage as part of their effect, any and all damage is transferred through the link. Damage from the monstrous trait Alternative Damage is also transferred to the target. If the character dies (becomes dead or dying) the link is immediately broken and the damage from the attack that felled the character is not transferred.
 
 Master<br>Reaction. Same as at the adept level, but each time the character suffers damage from an attack and passes a \[Resolve←Resolve\] test, the attacker is bound by a death link. Hence, the number of creatures bound is unlimited.
-# Notes
+## Notes
 * Originally "Retribution" from the Symbaroum Advanced Player's Guide.

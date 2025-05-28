@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Lustrous Aura"
+---
+## Ability
 Material: A flower<br>Crux: [[Exaltation]]
 
 The mystic can send out a life-affirming aura that harms abominations and the undead. At higher levels, this aura can also provide healing powers for living creatures.
@@ -10,5 +13,5 @@ Novice<br>Active. With a successful [[Resolve]] test the mystic envelops themsel
 Adept<br>Active. The aura now deals 1D8 damage to abominations and undead, while living creatures heal 1D4 points of Toughness each turn.
 
 Master<br>Active. Same effect as at adept level, but the effect against abominations and undead is increased to 1D10. Living allies now heal 1D6 points of Toughness each turn.
-# Notes
+## Notes
 * Originally "Holy Aura".

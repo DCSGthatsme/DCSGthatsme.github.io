@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Thorn Cloak"
+---
 ## Ability
 Only available if [[Exactitude]] + [[Vigilance]] > 22<br>Crux: [[Appreciation]]<br>Material: A thorn bush branch
 
@@ -10,5 +13,5 @@ Novice<br>Active. The mystic allows himself to be entwined by vegetation, which 
 Adept<br>Active. Same as at the novice level, but the vegetation branches out to also protect any allies who stand close to the mystic (inside melee range). These allies gain a +1D4 86 bonus to Armor, but this extra protection disappears if they move away from the mystic, or if the mystic moves away from the allies.
 
 Master<br>Active. The mystic and its allies are protected as at the adept level, with the addition that the vegetation strikes back at enemy attackers. Every successful hit in melee against the mystic or a protected ally inflicts 1D10 damage (ignoring Armor) upon the attacker due to lashing thorns.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

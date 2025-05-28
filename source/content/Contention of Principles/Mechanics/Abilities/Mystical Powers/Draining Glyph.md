@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Draining Glyph"
+---
 ## Ability
 Crux: [[Fear]]<br>Material: A carefully crafted glyph
 
@@ -10,5 +13,5 @@ Novice<br>Active. With a \[[[Resolve]]←[[Might]]\] test the mystic can damage 
 Adept<br>Active. Same as the novice level, but the effect lasts until the mystic fails a Resolve test.
 
 Master<br>Active. The master can direct part of the drained energy into himself or his allies; the stolen life-force heals the mystic or one of their allies, returning 1D4 points of Toughness per turn for as long as effect is active.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

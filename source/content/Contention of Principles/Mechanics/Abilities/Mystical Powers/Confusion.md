@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Confusion"
+---
+## Ability
 Material: A few drops of wine<br>Crux: [[Captivation]]
 
 The mystic's understanding of the labyrinth of the senses can cause an enemy to lose themself inside their own mind. Confused enemies become paralyzed or lose their ability to separate friend from foe.

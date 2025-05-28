@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Psychic Thrust"
+---
 ## Ability
 Only available if [[Charisma]] + [[Exactitude]] > 22<br>Crux: [[Fear]]<br>Material: A shard of glass, sharp as a knife
 
@@ -10,5 +13,5 @@ Novice<br>Reaction. The mystic performs a normal melee attack in combination wit
 Adept<br>Reaction. The psychic thrust is made in combination with the melee attack, and if the mystic passes a \[[[Resolve]]←Resolve\] test the enemy is incapable of defending against the attack. Hence, if this test is successful, the mystic automatically hits the enemy.
 
 Master<br>Reaction. With a successful test against \[Resolve←Resolve\] the enemy is unable to defend and the melee attack hits automatically. Moreover, the enemy suffers 1D4 extra damage, ignoring Armor, in addition to the damage dealt by the melee attack.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

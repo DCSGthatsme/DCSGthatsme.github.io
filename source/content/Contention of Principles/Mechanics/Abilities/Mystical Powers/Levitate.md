@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Levitate"
+---
+## Ability
 Material: A handful of feathers<br>Crux: [[Captivation]], [[Exaltation]]
 
 The binding force of the world can be manipulated, and with that insight the mystic has gained the capability to levitate, using nothing but the power of the mind.

@@ -1,3 +1,6 @@
+---
+title: "Mystical Power: Mirroring"
+---
 ## Ability
 Only available if [[Subtlety]] + [[Wit]] > 22<br>Crux: [[Captivation]]<br>Material: A couple of small figurines
 
@@ -10,5 +13,5 @@ Novice<br>Active. With a passed [[Resolve]] test, the mystic projects 1D4 mirror
 Adept<br>Active. With a passed Resolve test, the mystic projects 1D6 mirror copies of himself. Damage from area effects hit the mystic as usual and dispel one mirror copy.
 
 Master<br>Active. With a passed Resolve test, the mystic projects 1D8 mirror copies of himself. Damage from area effects hit the mystic as usual but dispel no mirror copies.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

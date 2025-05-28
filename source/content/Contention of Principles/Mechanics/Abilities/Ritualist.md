@@ -2,7 +2,7 @@ The character has learned how mystical powers can be channeled through rituals â
 
 The character suffers one (1) permanent Corruption from each ritual it learns, except if the ritual belongs to a mystical tradition practiced by the character. In the latter case the character is spared the blight of Corruption.
 
-When it comes to performing rituals, the character suffers 1D4 temporary Corruption, unless under relevant [[Principle Bond]]. Performing rituals covered by the character's tradition only gives one (1) point of temporary Corruption.
+When it comes to performing rituals, the character suffers 1D4 temporary Corruption, unless under relevant [[Principle Bonds]]. Performing rituals covered by the character's tradition only gives one (1) point of temporary Corruption.
 
 The Ritualist ability makes it possible for the character to recognize what ritual has been performed by examining symbols and components remaining on the scene, and also to deduce the effects of the ritual, even if they have not mastered it.
 

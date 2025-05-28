@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Larvae Boil"
+---
+## Ability
 Material: A handful of larvae<br>Crux: [[Appreciation]], [[Fear]]
 
 Drawing from the force of wrath the mystic can infuse an enemy's body with larvae that then start to eat their way out.

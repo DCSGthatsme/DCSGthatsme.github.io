@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Bend Will"
+---
+## Ability
 Material: A silver ring<br>Crux: [[Appreciation]], [[Captivation]], [[Fear]]
 
 Free will is an illusion, but the power of the will is unmistakable. The mystic has come to understand these seemingly contradictory principles and can use the insight to control the will of other creatures.

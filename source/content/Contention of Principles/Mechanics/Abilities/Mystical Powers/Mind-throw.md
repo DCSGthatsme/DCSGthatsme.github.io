@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Mind-throw"
+---
+## Ability
 Material: A glass pearl<br>Crux: [[Captivation]]
 
 The mystic can use their mind to move and throw loose objects, or even enemies.

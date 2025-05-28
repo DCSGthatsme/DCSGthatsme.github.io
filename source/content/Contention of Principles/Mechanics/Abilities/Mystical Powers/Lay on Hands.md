@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Lay on Hands"
+---
+## Ability
 Material: A discarded scrap of cloth<br>Crux: [[Appreciation]], [[Exaltation]]
 
 The secrets of life lay bare for the mystic and with them follows the coveted power of healing.

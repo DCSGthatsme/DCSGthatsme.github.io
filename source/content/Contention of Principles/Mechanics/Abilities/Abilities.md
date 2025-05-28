@@ -1,4 +1,23 @@
 Some abilities are gained at character creation. Abilities may be gained or improved using Experience. Traits are abilities that are only gained or improved during character creation, as dictated by race.
+
+* Available
+	* Most [[Skills]]
+	* Most [[Mystical Powers]]
+	* [[Ritualist]]
+	* [[Boons]]
+	* [[Burdens]]
+* Limited availability
+	* [[Principle Bonds]]
+	* [[Traits]]
+	* Certain Skills
+	* Certain Mystical Powers
+* Not available for direct purchase
+	* [[Rituals]]
+	* [[Monstrous Traits]]
+	* "[[Mystical Power]]" (as if standalone)
+
+---
+
 * Active Action: The ability is an attack or similar Combat Action. Some of the active abilities generate extra Actions. These extra Actions may not be used to perform an additional active Action, but they benefit from any passive abilities that the character may have.
 * Free Action: This Action may be used an unlimited number of times per turn in addition to a character's usual two Actions, for as long as it is allowed by any conditions specified in the description of the ability.
 * Passive Action: The ability does not require a Combat Action to be activated; in other words, the ability is always active. If a character has two or more passive abilities, then they are all considered active at the same time.

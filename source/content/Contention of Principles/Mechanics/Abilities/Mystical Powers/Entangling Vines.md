@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Entangling Vines"
+---
+## Ability
 Material: A handful of seeds or a tangle of roots<br>Crux: [[Appreciation]]
 
 The earth is bound by roots, while objects above ground are often covered by vines. All that the mystic does is uses its will to stimulate the already ongoing processes of nature.

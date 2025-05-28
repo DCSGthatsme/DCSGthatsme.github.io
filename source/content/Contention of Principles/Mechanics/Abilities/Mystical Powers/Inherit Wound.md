@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Inherit Wound"
+---
+## Ability
 Material: A splash of blood<br>Crux: [[Appreciation]], [[Exaltation]]
 
 The mystic has closely studied the spirits of creation and death, and can use this knowledge to redistribute damage between themself, their allies, and their enemies.

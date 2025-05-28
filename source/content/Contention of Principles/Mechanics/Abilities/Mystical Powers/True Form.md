@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: True Form"
+---
+## Ability
 Material: A pupa<br>Crux: [[Captivation]], [[Exaltation]]
 
 The mystic has spent many long nights closely studying lies and false guises, and is capable of making the surrounding world reveal its true nature.

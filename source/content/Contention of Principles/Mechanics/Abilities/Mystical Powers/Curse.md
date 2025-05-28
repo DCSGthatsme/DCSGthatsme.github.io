@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Curse"
+---
+## Ability
 Material: None, a dark glare is enough<br>Crux: [[Appreciation]], [[Fear]]
 
 The mystic masters a stare which can curse enemies on the battlefield.

@@ -13,40 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Mechanics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mechanics"
-            }
-          },
-          {
-            "id": "86d18aa5f35607fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Abilities"
-            }
-          },
-          {
-            "id": "469232ce2e9690ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alchemy"
             }
           }
         ]
@@ -93,7 +66,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "3d68c6f263c315c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -140,6 +113,54 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "f29c79a14bf0a194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abilities"
+            }
+          },
+          {
+            "id": "4646463e573b9dcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abilities"
+            }
+          },
+          {
+            "id": "bf1f284df4bb9aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Abilities"
+            }
           }
         ],
         "currentTab": 1
@@ -151,50 +172,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "56d48a1ffc65ec69",
   "lastOpenFiles": [
+    "Contention of Principles/Mechanics/Abilities/Boons.md",
     "Contention of Principles/Mechanics/Abilities/Abilities.md",
-    "Contention of Principles/Mechanics/Mechanics.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Skills.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Burdens.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
+    "Contention of Principles/Mechanics/Attributes/Attributes.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
-    "Contention of Principles/Mechanics/Mystical Power.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Wild Hunt.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Unnoticeable.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/True Form.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Thorn Cloak.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Teleport.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Storm Arrow.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Shapeshift.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Revenant Strike.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Psychic Thrust.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Protective Runes.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Proscribe.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Nature's Embrace.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mirroring.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mind-throw.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Maltransformation.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Lustrous Aura.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Loathsome Aura.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Levitate.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Lay on Hands.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Larvae Boil.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Inherit Wound.md",
+    "Contention of Principles/Mechanics/Experience.md",
+    "Contention of Principles/Mechanics/Attributes/Charisma.md",
+    "2025-05-28.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Principle Bonds.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Anathema.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Bend Will.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Bewitched Hammer.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Black Bolt.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Black Breath.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Blinding Symbol.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Brimstone Cascade.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Buffeting Haven.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Burning Glass.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Channeling.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Combat Hymn.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Confusion.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Curse.md",
     "Contention of Principles/Mechanics/Attributes",
     "Sealing",
     "Contention of Principles/Mechanics/Abilities/Rituals",
-    "Contention of Principles/Mechanics/Abilities/Maneuvers",
+    "Contention of Principles/Mechanics/Abilities/Skills",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers",
-    "Contention of Principles/Mechanics/Abilities/Principle Bond",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds",
     "Contention of Principles/Mechanics/Equipment",
     "Contention of Principles/Mechanics/Abilities",
     "Contention of Principles/Mechanics",

@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Unnoticeable"
+---
+## Ability
 Material: A strip from a thin veil<br>Crux: [[Captivation]], [[Exaltation]]
 
 The mystic can remain undetected by subtly turning the enemy's attention elsewhere.

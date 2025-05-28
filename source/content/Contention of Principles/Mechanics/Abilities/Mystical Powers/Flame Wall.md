@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Flame Wall"
+---
+## Ability
 Material: A fistful of brimstone, with some mercury<br>Crux: [[Captivation]]
 
 The mystic has gained insights into the mysteries of fire and can summon fire to form it into a wall or a dome.

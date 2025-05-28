@@ -1,4 +1,7 @@
-# Ability
+---
+title: "Mystical Power: Brimstone Cascade"
+---
+## Ability
 Material: A fistful of pure brimstone<br>Crux: [[Captivation]]
 
 The mystic can unleash the rampaging spirit of fire and burn their enemies to cinders, or at least scorch them severely.
