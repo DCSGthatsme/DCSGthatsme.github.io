@@ -1,3 +1,4 @@
+Traits are [[abilities]] that are only gained or improved during character creation, as dictated by race.
 ## Long-lived
 Once adulthood is reached, the aging process of the character slows down. The character can live up to two or even three centuries if their life is not shortened by violence, poison or disease. The creature's long lifespan makes it prone to do things at a slow pace, but this is compensated by the attitude that what is worth doing is worth doing well, which over time results in a considerable degree of expertise. Long-lived has no effect besides what it implies in terms of playing the role.
 

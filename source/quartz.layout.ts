@@ -20,13 +20,15 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.Darkmode(),
-    Component.Explorer({folderDefaultState: "open",}),
+    Component.DesktopOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Search())),
   ],
   right: [
     //Component.Graph(),
-    Component.Search(),
+    Component.DesktopOnly(Component.Search())),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
+    Component.MobileOnly(Component.Explorer()),
   ],
 }
 

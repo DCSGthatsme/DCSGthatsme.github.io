@@ -1,4 +1,4 @@
-Some abilities are gained at character creation. Abilities may be gained or improved using Experience. Traits are abilities that are only gained or improved during character creation, as dictated by race.
+Some abilities are gained at character creation. Abilities are typically gained or improved using [[Experience]].
 
 * Available
 	* Most [[Skills]]
