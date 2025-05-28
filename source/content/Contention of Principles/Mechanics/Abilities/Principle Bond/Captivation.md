@@ -1,4 +1,4 @@
-> One who captivates principle magics piques interest through their own actions and nature.
+> One who captivates principles, magic, and the unknown piques interest through their own actions and nature.
 
 Novice
 > The novice captivating mystic has a certain unmistakable peculiarity, a distinct predilection for imbroglio and spectacle.

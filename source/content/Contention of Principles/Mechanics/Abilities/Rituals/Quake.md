@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Might]] + [[Vigilance]] > 20<br>Crux: [[Exaltation]]
+Only available if [[Might]] + [[Vigilance]] > 22<br>Crux: [[Exaltation]]
 
 The mystic draws on the wrath of the bedrock stores it within a weapon. When needed, the mystic can slam a blunt end of the weapon into a surface, spending the stored energy to unleash the force of the earth like waves on water.
 

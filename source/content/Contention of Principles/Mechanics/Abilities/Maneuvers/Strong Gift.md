@@ -1,5 +1,5 @@
 # Ability
-Only available if [[Resolve]] + [[Wit]] > 20
+Only available if [[Resolve]] + [[Wit]] > 22
 
 The Strong Gift – innate or acquired through trials and practice – can still be found with some mystics. The gift provides a singular resistance against the corruption of the world. It also endows the mystic with the ability to use improvised mystical powers, at a high cost in corruption.
 

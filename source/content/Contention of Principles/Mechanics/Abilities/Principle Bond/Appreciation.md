@@ -1,4 +1,4 @@
-> One who appreciates principle magics demonstrates cognizance and understanding of the true nature of things.
+> One who appreciates principles, magic, and the unknown demonstrates cognizance and understanding of the true nature of things.
 
 Novice
 > The novice appreciative mystic has a certain surreal wisdom, an esteem for existence and its many intricacies.

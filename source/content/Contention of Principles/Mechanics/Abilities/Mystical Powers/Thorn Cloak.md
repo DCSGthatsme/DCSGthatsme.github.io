@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Exactitude]] + [[Vigilance]] > 20<br>Crux: [[Appreciation]]<br>Material: A thorn bush branch
+Only available if [[Exactitude]] + [[Vigilance]] > 22<br>Crux: [[Appreciation]]<br>Material: A thorn bush branch
 
 The plants in nature are usually seen as still and reactive rather than aggressive and active. Experienced green weavers know better and can use surrounding vines, thorns and roots to defend themselves and their allies.
 

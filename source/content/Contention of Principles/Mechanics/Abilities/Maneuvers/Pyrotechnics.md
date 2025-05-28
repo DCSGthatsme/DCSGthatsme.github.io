@@ -1,5 +1,5 @@
 # Ability
-Only available if [[Subtlety]] + [[Wit]] > 20
+Only available if [[Subtlety]] + [[Wit]] > 22
 
 Alchemical development in Ekklesbraght gave rise to new combat utilities. The character can use special elixirs to blind or otherwise weaken the enemy.
 

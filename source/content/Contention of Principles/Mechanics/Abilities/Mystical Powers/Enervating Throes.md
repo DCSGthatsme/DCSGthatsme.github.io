@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Charisma]] + [[Subtlety]] > 20<br>Crux: [[Fear]]<br>Material: Quills
+Only available if [[Charisma]] + [[Subtlety]] > 22<br>Crux: [[Fear]]<br>Material: Quills
 
 The enemy is beset with a harrowing miasma which tears at their clothes, equipment, and flesh. At best, the target cannot act. At worst, they are driven mad or die.
 

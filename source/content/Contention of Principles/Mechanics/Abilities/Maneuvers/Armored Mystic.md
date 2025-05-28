@@ -1,5 +1,5 @@
 # Ability
-Only available if [[Resolve]] + [[Vigilance]] > 20
+Only available if [[Resolve]] + [[Vigilance]] > 22
 
 The armored mystic has developed techniques for performing miracles while wearing full armor.
 

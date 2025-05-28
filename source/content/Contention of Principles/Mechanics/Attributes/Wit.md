@@ -1,1 +1,1 @@
-Wit represents a character's knowledge, cunning, common sense, and education. It is used when trying to recall facts, problem solving, or seeking truth when the information is laid bare. Wit is usually tested against a specific level of Difficulty, decided by the Game Master.`
+Wit represents a character's knowledge, cunning, common sense, and education. It is used when trying to recall facts, problem solving, or seeking truth when the information is laid bare. Wit is usually tested against a specific level of Difficulty, decided by the Game Master.

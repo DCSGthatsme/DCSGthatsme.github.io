@@ -1,4 +1,4 @@
-> One who exalts the principle magics regards power as zenith of being and takes pride in their influences.
+> One who exalts the principles, magic, and the unknown regards power as zenith of being and takes pride in their influences.
 
 Novice
 > The novice exalting mystic has a certain zeal, the will and vigor to exact their conceits.

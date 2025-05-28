@@ -1,4 +1,4 @@
-> One who fears the principle magics acquiesces to the immensity of nature and bends its purpose.
+> One who fears the principles, magic, and the unknown acquiesces to the immensity of nature and bends its purpose.
 
 Novice
 > The novice fearful mystic has a certain dread and diffident ambition that typifies a wont of abstruse effectiveness.

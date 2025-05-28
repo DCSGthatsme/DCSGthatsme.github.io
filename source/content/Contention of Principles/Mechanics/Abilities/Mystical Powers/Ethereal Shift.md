@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Exactitude]] + [[Subtlety]] > 20<br>Crux: [[Captivation]]<br>Material: A piece of a burial gown
+Only available if [[Exactitude]] + [[Subtlety]] > 22<br>Crux: [[Captivation]]<br>Material: A piece of a burial gown
 
 Because of their closeness to death, the mystic has developed the mystical skill to assume the immaterial form of a spirit. Spirit Walk is hindered by [[Magic Circle]], [[Blotch Circle]], and [[Predilection]]; the mystic cannot pass through or leave such areas while moving in the form of a spirit; however, it is possible to assume the spirit form when inside such protected domains. The Spirit Walk also ends if someone lights a Ghost Candle close by (see the alchemical elixir with that name, on page 153 in the Core Rulebook).
 
