@@ -46,6 +46,8 @@ Rituals are magical abilities. Learning rituals requires the [[Abilities#Rituali
 ![[Character Creation#Mechanics]]
 ## [[Go-time]]
 
+---
+
 Damage & Healing
 Damage lowers the victim's Toughness and an actor dies when their Toughness reaches zero – unless it is a player character, in which case they are regarded as being dying instead. Damage and wounds can be healed in a number of ways, described in this section.
 

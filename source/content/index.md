@@ -1,4 +1,4 @@
 ---
 title: Welcome
 ---
-Enjoy your stay.
+You're probably here for [[Mechanics]].

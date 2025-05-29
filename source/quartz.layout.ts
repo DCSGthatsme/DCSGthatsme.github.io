@@ -27,8 +27,8 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.Graph(),
     Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Backlinks()),
     Component.MobileOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 

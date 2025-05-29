@@ -1,4 +1,4 @@
-Each mystical power is a variant of the [[Mystical Power]] ability, inheriting its rules.
+Mystical powers are [[Abilities]]. Each mystical power is a variant of the [[Mystical Power]] ability, inheriting its rules.
 ## [[Alchemy]]
 ![[Alchemy#Ability]]
 ## [[Anathema]]

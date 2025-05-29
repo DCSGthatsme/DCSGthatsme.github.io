@@ -109,7 +109,7 @@ Strong<br>A Soul Stone is the item required to perform the ritual with the same 
 ## Spark Stone
 Moderate<br>The power of a Pyromancer is increased by this glowing amber. The spark stone is a weaker version of the renowned Sun Stones that the master pyromancers of old could craft from summoned fire spirits. Nowadays, the fire wizards have to make do with lesser artifacts, far from as powerful but still a great help to those whose skills relate to fire and burning. All powers with fire effects gain a +1 bonus to the effect die when used by someone with a spark stone in hand or on top of his or her staff.
 ## Spell Scroll
-Artifact crafters in Ordo Magica can bind a mystical power at the novice, adept, or master level (depending on the level of the artifact) to a scroll. The power may then be activated by someone else who has Wizardry at a level equal to or higher than the level of the power, or someone who has the ability Loremaster at adept level. Whoever activates the scroll suffers temporary corruption as usual and the scroll is spent upon activation.
+Artifact crafters in Ordo Magica can bind a mystical power at the novice, adept, or master level (depending on the level of the artifact) to a scroll. The power may then be activated by someone else who has Wizardry at a level equal to or higher than the level of the power, or someone who has the ability [[Loremaster]] at adept level`two levels in`. Whoever activates the scroll suffers temporary corruption as usual and the scroll is spent upon activation.
 
 Weak<br>Imbue a scroll with a Novice Mystical Power.
 

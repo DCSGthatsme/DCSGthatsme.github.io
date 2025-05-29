@@ -1,0 +1,1 @@
+The character is afflicted by a sensitive mind, meaning that they can be exposed to violent cramps throughout the body when excited or stressed. If rolling a 20 on a success test the cramping starts and the character is down and out for 1d6 turns. Afterward, they are exhausted and suffers –1 on all success tests until the end of the scene.
