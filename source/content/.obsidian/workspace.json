@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Mechanics.md",
+                "file": "Contention of Principles/Primer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Primer"
             }
           }
         ]
@@ -183,11 +183,25 @@
   },
   "active": "d38af51cc2f15125",
   "lastOpenFiles": [
+    "Images/Spider Principle.png",
+    "Images/Slain Principle.png",
+    "Images/Large Humanoid Principles.png",
+    "Contention of Principles/Primer.md",
+    "Images/Swamp Adventure.png",
+    "Images/Player Characters.png",
+    "Images/Player Character 2.png",
+    "Images/Player Character 1.png",
+    "Images/Snow Principles.jpg",
+    "Images/Desert Principle.png",
+    "Images/Village.png",
+    "Images/Wolf Antler Principle.png",
+    "Images.md",
+    "Images",
+    "Contention of Principles/Mechanics/Mechanics.md",
     "Contention of Principles/Mechanics/Abilities/Boons/Loremaster.md",
     "Contention of Principles/Mechanics/Equipment/Lesser Artifacts.md",
     "Contention of Principles/Mechanics/Abilities/Boons/Boons.md",
     "Contention of Principles/Mechanics/Abilities/Monstrous Traits/Monstrous Traits.md",
-    "Contention of Principles/Mechanics/Mechanics.md",
     "index.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Burdens.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Protégé.md",
@@ -206,9 +220,6 @@
     "Contention of Principles/Mechanics/Abilities/Burdens/Impulsive.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Epileptic.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Elderly.md",
-    "Contention of Principles/Mechanics/Abilities/Burdens/Dark Secret.md",
-    "Contention of Principles/Mechanics/Abilities/Burdens/Code of Honor.md",
-    "Contention of Principles/Mechanics/Abilities/Burdens/Bloodthirst.md",
     "Contention of Principles/Mechanics/Abilities/Burdens",
     "Contention of Principles/Mechanics/Abilities/Boons",
     "Contention of Principles/Mechanics/Abilities/Monstrous Traits",
@@ -217,7 +228,6 @@
     "Contention of Principles/Mechanics/Abilities/Rituals",
     "Contention of Principles/Mechanics/Abilities/Skills",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds",
-    "Contention of Principles/Mechanics/Equipment"
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds"
   ]
 }
