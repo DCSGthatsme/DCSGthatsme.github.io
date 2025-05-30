@@ -12,19 +12,20 @@ const Backlinks: QuartzComponent = ({
 }: QuartzComponentProps) => {
   const slug = simplifySlug(fileData.slug!)
   const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+  const sortedBacklinkFiles = backlinkFiles.sort(
+	(a, b) => {
+	  return a.displayName.localeCompare(b.displayName, undefined, {
+		numeric: true,
+		sensitivity: "base",
+	  })
+	}
+  )
   return (
     <div class={classNames(displayClass, "backlinks")}>
       <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
       <ul class="overflow">
-        {backlinkFiles.length > 0 ? (
-		  backlinkFiles.sort(
-			(a, b) => {
-			  return a.displayName.localeCompare(b.displayName, undefined, {
-				numeric: true,
-				sensitivity: "base",
-			  })
-			}
-		  ).map((f) => (
+        {sortedBacklinkFiles.length > 0 ? (
+		  sortedBacklinkFiles.map((f) => (
             <li>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
                 {f.frontmatter?.title}
