@@ -14,7 +14,7 @@ const Backlinks: QuartzComponent = ({
   const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
   const sortedBacklinkFiles = backlinkFiles.sort(
 	(a, b) => {
-	  return a.displayName.localeCompare(b.displayName, undefined, {
+	  return a.displayName.localeCompare(b.displayName, -1, {
 		numeric: true,
 		sensitivity: "base",
 	  })
