@@ -1,7 +1,3 @@
----
-aliases:
-  - Attribute
----
 ## [[Agility]]
 ![[Agility]]
 ## [[Charisma]]
