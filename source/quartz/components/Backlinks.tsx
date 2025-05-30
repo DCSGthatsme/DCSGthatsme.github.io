@@ -24,8 +24,7 @@ const Backlinks: QuartzComponent = ({
 				sensitivity: "base",
 			  })
 			}
-		  )
-          backlinkFiles.map((f) => (
+		  ).map((f) => (
             <li>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
                 {f.frontmatter?.title}
