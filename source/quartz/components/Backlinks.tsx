@@ -18,12 +18,7 @@ const Backlinks: QuartzComponent = ({
       <ul class="overflow">
         {backlinkFiles.length > 0 ? (
 		  (backlinkFiles.sort(
-			(a, b) => {
-			  return a.displayName.localeCompare(b.displayName, undefined, {
-				numeric: true,
-				sensitivity: "base",
-			  })
-			}
+			(a, b) => a.displayName.localeCompare(b.displayName, undefined, {numeric: true, sensitivity: "base",})
 		  )).map((f) => (
             <li>
               <a href={resolveRelative(fileData.slug!, f.slug!)} class="internal">
