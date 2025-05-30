@@ -3,7 +3,7 @@ Only available if [[Resolve]] + [[Vigilance]] > 22
 
 The armored mystic has developed techniques for performing miracles while wearing full armor.
 
-Novice<br>Passive. The character's mystical powers are not affected by wearing medium armor. The armor affects Defense as usual.
+Novice<br>Passive. The character's mystical powers are not affected by wearing medium armor. The armor affects [[Defense]] as usual.
 
 Adept<br>Passive. The character's mystical powers are not affected by wearing heavy armor. The armor affects Defense as usual.
 

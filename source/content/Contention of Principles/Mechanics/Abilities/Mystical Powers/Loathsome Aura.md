@@ -12,6 +12,6 @@ Novice<br>Active. With a successful [[Resolve]] test the mystic can send out an 
 
 Adept<br>Active. As novice level, but the mystic can choose to exclude living allies from the effect of the Loathsome Aura. The power is active until the mystic fails a Resolve test.
 
-Master<br>Active. As adept, but the effect is increased to 1D8 and any nearby allied abominations and undead heal 1D8 points of Toughness due to the spell's energies.
+Master<br>Active. As adept, but the effect is increased to 1D8 and any nearby allied abominations and undead heal 1D8 points of [[Toughness]] due to the spell's energies.
 ## Notes
 * Originally "Unholy Aura".

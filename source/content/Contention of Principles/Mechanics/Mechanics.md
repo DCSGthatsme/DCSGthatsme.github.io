@@ -78,7 +78,7 @@ The character dies, but may say some last harsh words if the player wants to.
 
 Dead Player Characters
 
-Dead player characters cannot remain in the game, but the player may create a new character using all the Experience accumulated by the last character.
+Dead player characters cannot remain in the game, but the player may create a new character using all the [[Experience]] accumulated by the last character.
 
 Healing Wounds
 Healing can happen naturally, by the use of alchemy and medicine or with the help of mystical powers. Performing first aid on a dying person requires the Medicus ability, an herbal cure or powers of healing.

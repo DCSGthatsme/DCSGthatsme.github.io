@@ -1,0 +1,1 @@
+Corruption Threshold is [[Resolve]]/2, rounded up.

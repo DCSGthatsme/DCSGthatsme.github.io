@@ -7,7 +7,7 @@ Novice<br>Passive. The character can choose to attack with [[Agility]] instead o
 
 Adept<br>Passive. The character makes two separate knife-attacks at the same target with every combat action. If the character also has Twin Attack, this ability only affects one of the attacks, for a total of three attacks (two with the main hand and one with the other).
 
-Master<br>Reaction. The character can fight effectively with a knife at very short range from the enemy: when the character deals damage with a knife-attack, they are assumed to be so close that the enemy has a hard time using ordinary weapons effectively (the character has two chances to pass the Defense test), and is unable to attack with Long weapons. To reach a better distance, the enemy has to…
+Master<br>Reaction. The character can fight effectively with a knife at very short range from the enemy: when the character deals damage with a knife-attack, they are assumed to be so close that the enemy has a hard time using ordinary weapons effectively (the character has two chances to pass the [[Defense]] test), and is unable to attack with Long weapons. To reach a better distance, the enemy has to…
 
 … win the initiative next turn (see Quick Strike on page 99 or Take the Initiative on page 104) and then continue attacking until the knife-fighter hits again.
 

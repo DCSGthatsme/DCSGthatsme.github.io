@@ -8,7 +8,7 @@ There is a gap between the world and the perception of it. The mystic can use th
 
 ![[Mystical Power]]
 
-Novice<br>Reaction. The mystic can make a [[Resolve]] test once per turn to make a correction of reality – if successful the mystic may re-roll a failed Defense test.
+Novice<br>Reaction. The mystic can make a [[Resolve]] test once per turn to make a correction of reality – if successful the mystic may re-roll a failed [[Defense]] test.
 
 Adept<br>Reaction. Once per turn, the mystic can make a Resolve test in order to correct something that happened to them. This means that any test that somehow affected the mystic can be re-rolled.
 

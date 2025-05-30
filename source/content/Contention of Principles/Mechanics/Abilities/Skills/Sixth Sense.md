@@ -5,6 +5,6 @@ A character with Sixth Sense may - under calm circumstances - navigate unhindere
 
 Novice<br>Passive. The character has a strong intuition, which lets them use [[Vigilance]] instead of [[Exactitude]] when attacking with ranged weapons.
 
-Adept<br>Passive. The character's intuition has expanded and the character may now use Vigilance instead of [[Agility]] for acting precedence and when calculating their Defense.
+Adept<br>Passive. The character's intuition has expanded and the character may now use Vigilance instead of [[Agility]] for acting precedence and when calculating their [[Defense]].
 
 Master<br>Passive. The character can move and fight unhindered when blinded or in complete darkness.

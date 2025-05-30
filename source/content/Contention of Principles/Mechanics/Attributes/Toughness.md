@@ -1,0 +1,1 @@
+Toughness is equal to [[Might]] or is equal to 10 if Might is less than 10.

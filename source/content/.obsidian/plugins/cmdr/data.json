@@ -8,6 +8,12 @@
       "icon": "lucide-split",
       "name": "Note Refactor: Split note by headings - H2",
       "mode": "any"
+    },
+    {
+      "id": "markdown:add-metadata-property",
+      "icon": "lucide-plus-circle",
+      "name": "Add file property",
+      "mode": "any"
     }
   ],
   "fileMenu": [],

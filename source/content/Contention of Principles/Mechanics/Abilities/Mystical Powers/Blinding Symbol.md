@@ -12,6 +12,6 @@ Novice<br>Active. The runes trigger a chain of blinding energies. The target clo
 
 Adept<br>Active. Same effect as the novice level. However, the effect lasts until the mystic fails a Resolve test or loses concentration \[Resolve –Damage\].
 
-Master<br>Active. Same effect as the novice level. However, the effect lasts until the afflicted regains Toughness from healing powers or elixirs.
+Master<br>Active. Same effect as the novice level. However, the effect lasts until the afflicted regains [[Toughness]] from healing powers or elixirs.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

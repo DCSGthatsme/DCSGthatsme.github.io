@@ -38,7 +38,7 @@ Moderate<br>These drops will immediately return the gift of sight to a temporari
 # Elemental Essence
 Moderate<br>When applying a dose of elemental essence, either one weapon, four throwing weapons, or all the arrows/bolts in a quiver deal, 1D4 elemental damage for the duration of a scene. The alchemist must choose which element to prepare: fire, cold, acid or lightning.
 # Elixir of Life
-Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of Toughness during 1D6 turns, on the character's turns. Sadly, the character also suffers 1 temporary corruption for each turn the elixir is in effect.
+Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of [[Toughness]] during 1D6 turns, on the character's turns. Sadly, the character also suffers 1 temporary corruption for each turn the elixir is in effect.
 # Fire Dye
 `APG`
 Weak<br>Fire dye consists of salts that change the color of any fire they are cast into. If the colors are ascribed a specific meaning known to the user and an allied observer it can be used for signaling over long distances. They are also used for entertainment among the wealthy, and by charlatans to impress commoners.
@@ -48,10 +48,10 @@ Weak<br>A finely grained powder that emits a blinding light when thrown. Flash P
 # Ghost Candle
 Moderate<br>The fumes from this candle make invisible things at a location or in a room visible.
 # Herbal Cure
-Weak<br>An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1 point of Toughness. The herbal cure has greater effect if used by a character with the Medic ability.
+Weak<br>An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1 point of [[Toughness]]. The herbal cure has greater effect if used by a character with the Medic ability.
 # Holy Water
 `APG`
-Moderate<br>Holy water, instilled with the light of Prios, can heal wounds and sooth souls. It works as a Herbal Cure with +1 on the effect test (meaning +2 Toughness if used without the ability Medicus), and it also removes 1 point of temporary corruption.
+Moderate<br>Holy water, instilled with the light of Prios, can heal wounds and sooth souls. It works as a Herbal Cure with +1 on the effect test (meaning +2 [[Toughness]] if used without the ability Medicus), and it also removes 1 point of temporary corruption.
 #  Homing Arrow
 `APG`
 Weak<br>The alchemist marinates an arrow in homing essences, thereby creating an arrow that flies past other combatants, i.e. it does not require clear line of sight. However, the archer must see some part of the target and must roll a normal attack test in order to successfully hit.

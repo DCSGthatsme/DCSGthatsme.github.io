@@ -12,6 +12,6 @@ Novice<br>Free. The character gives himself and all allies a +1 bonus to either 
 
 Adept<br>Free. The character gives himself and all allies a +1 bonus to Agility, Exactitude, and Might for as long as the singing continues.
 
-Master<br>Free. The character and all allies gain a +1 bonus to Agility, Exactitude, and Might for as long as the singing continues. Also, the character and all allies regain 1D6 Toughness when the song begins; this healing effect may only be used once per scene.
+Master<br>Free. The character and all allies gain a +1 bonus to Agility, Exactitude, and Might for as long as the singing continues. Also, the character and all allies regain 1D6 [[Toughness]] when the song begins; this healing effect may only be used once per scene.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

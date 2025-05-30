@@ -1,3 +1,4 @@
+Skills are a character's primary [[Abilities]]. A new skill at novice level costs 10 [[Experience]]. To increase a novice skill to the adept level costs 20 Experience. To increase an adept skill to the master level costs 30 Experience.
 ## [[Acrobatics]]
 ![[Acrobatics#Ability]]
 ## [[Agile Combat]]

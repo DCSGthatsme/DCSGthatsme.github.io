@@ -1,0 +1,1 @@
+Pain Threshold is equal to [[Might]]/2, rounded up.

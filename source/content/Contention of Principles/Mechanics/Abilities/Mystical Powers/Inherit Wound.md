@@ -8,7 +8,7 @@ The mystic has closely studied the spirits of creation and death, and can use th
 
 ![[Mystical Power]]
 
-Novice<br>Free. By making a successful die roll against [[Resolve]] the mystic can attract the spirits of damage from another creature. The target heals 1D6 points of Toughness while the mystic suffers an equal amount of damage.
+Novice<br>Free. By making a successful die roll against [[Resolve]] the mystic can attract the spirits of damage from another creature. The target heals 1D6 points of [[Toughness]] while the mystic suffers an equal amount of damage.
 
 Adept<br>Free. As novice, but the effect heals 1D8 points of Toughness and also draws any ongoing effects of poison and bleeding to the mystic. The mystic suffers half the damage (rounded up), both from wounds and any poison/bleeding.
 
