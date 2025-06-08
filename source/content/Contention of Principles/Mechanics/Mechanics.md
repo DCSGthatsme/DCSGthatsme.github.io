@@ -110,9 +110,6 @@ Fighting while lying down is possible, but not recommended, because each enemy t
 Line of Sight
 Ranged weapons cannot shoot past other combat- ants, meaning that the shooter (or the mystic) may need to use Movement Actions to maneuver for them to have line of sight. A rule of thumb is that if a shooter or a mystic stands behind an ally so that the targeted enemy is forced to trigger a Free Attack to reach the shooter, then the target is obscured from view by the shooter's ally.
 
-Shield
-Anyone can defend themselves with a shield, pro- viding +1 to Defense. The use of a shield makes it impossible to use ranged and Heavy weapons and neutralizes the reach advantage gained from a Long weapon, since the wielder must use it in one hand. The buckler is an exception to this, allowing the use of both hands, as well as giving the user +1 to Defense.
-
 Flank
 To surround the enemy is an effective combat strategy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of their allies retreats or goes down. Terrain and the movement of the combatant decide what is possible to achieve. Doors, corridors and narrow passages can be used to prevent enemies from flanking. Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade their Combat Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee.
 
@@ -185,7 +182,7 @@ builDing toughness breAkpoint fortificAtion vAlue\* Croft 10 5 5 Farm house 10 5
 Reclaiming Bolts and Arrows
 Some gaming groups may find it realistic and desirable if arrows and bolts which have been fired during combat are at risk of breaking – this makes it important for archers to plan ahead (the projectiles become a resource) and it also makes it worthwhile to spend some time searching for undamaged projectiles after the battle, muttering in anger each time one of them proves to be fractured or destroyed in some other way. Groups who want rules for reclaiming used projectiles can use these guidelines.
 * An ordinary projectile proves to be damaged if the player rolls over 10 with 1d20. This applies to all projectiles without qualities.
-* A projectile with some kind of quality (e.g. Balanced or Deep Impact) is damaged if the player rolls over 15 with 1d20.
+* A projectile with some Quality or additive modifier is damaged if the player rolls over 15 with 1d20.
 * Projectiles with mystical qualities are damaged if the player rolls over 17 with 1d20.
 
 Hit Locations

@@ -1,4 +1,4 @@
 ---
 title: Welcome
 ---
-You're probably here for [[Mechanics]].
+First, check out the [[Primer]]. Then, [[Mechanics]].

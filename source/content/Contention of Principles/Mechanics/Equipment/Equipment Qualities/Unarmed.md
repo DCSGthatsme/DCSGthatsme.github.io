@@ -1,0 +1,1 @@
+The weapon is not considered lethal and can be used with the [[Natural Warrior]] ability. Unarmed weapons that are also [[Flexible]] lose [[Short]] while equipped hand is empty.

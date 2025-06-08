@@ -1,3 +1,6 @@
+---
+title: Sealing Rite / Opening Rite
+---
 ## Ability
 Crux: [[Captivation]]
 

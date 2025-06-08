@@ -1,0 +1,1 @@
+[[Single-handed]], [[Jointed]]<br>1d8 damage

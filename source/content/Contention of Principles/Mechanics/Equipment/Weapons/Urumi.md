@@ -1,0 +1,1 @@
+[[Single-handed]], [[Jointed]], [[Unwieldy]], [[Concealed]]<br>1d8 damage

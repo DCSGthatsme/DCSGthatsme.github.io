@@ -1,0 +1,1 @@
+[[Versatile]], [[Long]] (two-handed)<br>1d6 damage

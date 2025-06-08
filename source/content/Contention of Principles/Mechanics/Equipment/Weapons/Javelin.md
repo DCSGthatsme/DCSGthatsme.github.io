@@ -1,0 +1,1 @@
+[[Single-handed]], [[Thrown]]<br>1d6 damage
