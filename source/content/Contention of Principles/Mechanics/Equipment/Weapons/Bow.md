@@ -1,3 +1,3 @@
-[[Versatile]]
+[[Two-handed]]
 
-Fires the nocked arrow. Nocking is a Free Action and requires both hands.
+Fires the nocked arrow. Nocking is a Free Action.

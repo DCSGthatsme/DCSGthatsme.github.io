@@ -1,4 +1,4 @@
 ## Effect
-The armor is unusually flexible and is less Impeding than its protective capability would suggest. For this reason a Flexible light armor has no penalty at all on [[Defense]] tests, sneaking, and the use of mystic powers. A Flexible medium armor has a (−1) penalty and a Flexible heavy armor (−2).
-
-A Flexible weapon can be carried strapped to the arm, ready to use, while at the same time allowing the bearer to use both hands for wielding other weapons.
+The weapon is flexible, letting parts of the weapon strike past or around blocking weapons or shields, making it harder to parry. Its length also makes the attacks difficult to evade. Even if a parry is successful, the attack hits if the die lands on an odd number; in which case the weapon deals 1D6 damage. This secondary damage is not affected by any abilities – it remains 1D6 regardless of the attacker's other abilities.
+## Notes
+* Originally "Jointed".

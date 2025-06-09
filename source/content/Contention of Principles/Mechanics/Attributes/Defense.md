@@ -1,1 +1,1 @@
-Defense is equal to [[Agility]] - the Impedence of equipped armor.
+Defense is equal to [[Agility]] - the [[Impeding]] of equipped armor.

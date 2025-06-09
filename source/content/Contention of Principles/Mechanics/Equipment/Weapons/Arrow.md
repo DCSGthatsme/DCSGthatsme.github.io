@@ -1,1 +1,1 @@
-1d8 damage (when fired from a bow)
+[[Primed]]<br>1d8 damage (when fired from a bow)

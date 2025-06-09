@@ -41,10 +41,11 @@ Each weapon deals a certain amount of basic damage to the target's [[Toughness]]
 ![[Pike]]
 ### [[Quarterstaff]]
 ![[Quarterstaff]]
-### [[Chain Staff]]
-![[Chain Staff]]
 ### [[Macuahuitl]]
 ![[Macuahuitl]]
+### Catchpole
+[[Versatile]], [[Ensnaring]], [[Long]] (two-handed)
+1d6 damage (against its ensnared target)
 ## Two-handed Weapons
 ### [[Double-axe]]
 ![[Double-axe]]
@@ -58,6 +59,8 @@ Each weapon deals a certain amount of basic damage to the target's [[Toughness]]
 ![[Executioner's Sword]]
 ### [[Warhammer]]
 ![[Warhammer]]
+### Meteor Hammer
+[[Two-handed]], [[Flexible]], [[Unwieldy]]<br>1d8+1 damage
 ## Projectile Weapons
 ### [[Javelin]]
 ![[Javelin]]

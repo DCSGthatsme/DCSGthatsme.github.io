@@ -1,1 +1,1 @@
-1d10 damage (when fired from a crossbow)
+[[Primed]]<br>1d10 damage (when fired from a crossbow)
