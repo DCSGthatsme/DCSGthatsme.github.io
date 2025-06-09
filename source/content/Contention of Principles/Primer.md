@@ -1,11 +1,11 @@
-<iframe width="100%" height="150em" src="https://www.youtube.com/embed/QPAX_X0Pcts?controls=1&playlist=QPAX_X0Pcts,c-ImgU1E91g&start=74&loop=1" frameborder="0"></iframe>
+<iframe width="100%" height="150em" src="https://www.youtube.com/embed/QPAX_X0Pcts?controls=1&playlist=QPAX_X0Pcts,c-ImgU1E91g,w_LvtIbYgFc,yGtOG_0aB9Y,6wZk2_pJUCo,Mn-KTlqM7mM,MFiKgMARO6E,oVNTMG5hDMg,5dwb0AobVq0&start=73&loop=1" frameborder="0"></iframe>
 
 ---
 
 <img src="Wolf Antler Principle.png" width="40%" style="float:right;margin:0 0 0.5em 0.5em"/>
 Welcome to Contention of Principles. In this fantasy setting, the world is not dominated by a unified, monolithic humanity. Instead, humanity is thinly spread, living as tribes occupying mere villages and hamlets. What keeps humanity so constrained is the Principles, supernatural beings of world-shaping influence. Words like spirits, beasts, and gods may paint a rough draft of their nature. Their appearances, abilities, and temperaments are varied, but some things are certain. They roam the wild. They are powerful. They are capricious.
 
-<div style="clear:both"/>
+<div style="clear:both"></div>
 
 Opinions on the Principles may range from hate to apathy to reverence. The primary strategy for preventing Principle catastrophes is avoidance; settling where Principles are not or where the geography keeps them away. Some tribes resist the Principles in a more martial manner. It is also common belief that the Shafolk, the isolationist tribes, do anything from making deals with the Principles to living as subjects to them.
 
@@ -16,7 +16,7 @@ Opinions on the Principles may range from hate to apathy to reverence. The prima
 <img src="Village.png" height="260em" style="float:left;margin:0 0.5em 0.5em 0"/>
 The setting may be described as low fantasy; the magic and supernatural of the setting comes from the Principles and is typically an intrusion on "normal" life. What life is normally like to each tribe is varied. At their most developed, tribal life may look similar to that of the more rural communities expected from the amalgam of antiquity ubiquitous in the sword and sorcery genre (think Conan the Barbarian, Skyrim, and the Princess Bride).
 
-<div style="clear:both"/>
+<div style="clear:both"></div>
 
 The setting explores themes of environmentalism, tradition, and the role of humanity. The narrative will also explore other themes that are more universal to the human experience.
 
@@ -32,12 +32,12 @@ The tone is somewhat dark. Optimism is an uphill battle for all characters. Viol
 <img src="Player Character 2.png" height="260em" style="float:right;margin:0 0 0.5em 0.5em"/>
 Players will be playing characters that are less exceptional than the heroes or adventurers found in other RPGs. Additionally, player characters will not begin as the most virtuous by our standards and explicitly will begin with personal flaws. Character Creation will be guided during our zeroth session. Players will not be expected to be "good" with game mechanics in order to succeed or to perform at the table as an actor would. As a game that is more serious in tone, I would only ask you inhabit your role to your utmost as I do my best to provide an environment and game that is conducive to that!
 
-<div style="clear:both"/><br>
+<div style="clear:both"></div><br>
 
 <img src="Player Characters.png" height="220em" style="float:right;margin:0 0 0.5em 0.5em"/>
 The narrative begins with the player characters answering a village's summons to address a Principle threat. It will continue along a determined throughline, forming the skeleton of the game.  The story - what is unique to the player characters and exists as determined by the players via play - will be the meat of the game, cannot be predetermined, and I can form no tactics to drive it until I meet your characters!
 
-<div style="clear:both"/>
+<div style="clear:both"></div>
 
 The rpg will use a modified version of Symbaroum as its mechanics system. It's a straightforward roll-under d20 system. You will not be expected to have prior rules knowledge or to bring your own materials, though you are welcome to bring any d20s you have. The Principles and the setting are inspired by Princess Mononoke, Astrea: Six-Sided Oracles, and various folklores.
 
