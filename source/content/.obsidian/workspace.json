@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9e905198d7bff8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Equipment/Weapons/Weapons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weapons"
-            }
-          },
-          {
-            "id": "16e900a88db55c19",
+            "id": "577fccad240e0fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Primer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.50281143188477
+    "width": 346.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -183,14 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16e900a88db55c19",
+  "active": "577fccad240e0fba",
   "lastOpenFiles": [
-    "Contention of Principles/Secrets!!!.md",
-    "Contention of Principles/World Map.md",
-    "index.md",
-    "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Equipment Qualities.md",
-    "Untitled.md",
-    "Contention of Principles/Mechanics/Equipment/Weapons/Weapons.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Armored Mystic.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Axe Artist.md",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Ensnaring.md",
@@ -207,10 +186,16 @@
     "Contention of Principles/Mechanics/Abilities/Skills/Twin Attack.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Two-handed Force.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Skills.md",
+    "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Equipment Qualities.md",
+    "Contention of Principles/Primer.md",
     "Contention of Principles/Mechanics/Equipment/Weapons/Macuahuitl.md",
+    "Contention of Principles/Mechanics/Equipment/Weapons/Weapons.md",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Precise.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Ensnare.md",
     "Contention of Principles/Mechanics/Equipment/Weapons/Chain Staff.md",
+    "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Unwieldy.md",
+    "Contention of Principles/Mechanics/Equipment/Weapons/Bow.md",
+    "Contention of Principles/Mechanics/Equipment/Weapons/Longbow.md",
     "Contention of Principles/Mechanics/Equipment/Weapons",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities",
     "Images/Spider Principle.png",
