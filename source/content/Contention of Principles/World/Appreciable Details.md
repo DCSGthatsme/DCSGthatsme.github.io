@@ -1,4 +1,4 @@
-Below are various topics that I felt should be addressed as things that are easy for player and GM alike to assume or take for granted. If something seems unrealistic, great! Realism is a stylistic choice which is not being adopted for this game. So even though my intentions for this game involve consequence, aspects of our human history, and many other things some people describe as falling under realism, make no mistake; herein lies the *fantasy*.
+Below are various topics that I felt should be addressed as things that are easy for player and GM alike to assume or take for granted. Note that "realism" is a stylistic choice which is *not* being adopted for this game. So even though my intentions for this game involve themes of consequence, aspects of our human history, and many other things some people describe as hallmarks of realism, make no mistake; herein lies the *fantasy*.
 ## Conflict Between Humans
 At its most brutal, tribes may despise other tribes. Even that is fairly uncommon. The average intercultural exchange looks like superficial misunderstanding but with the desire to reach an understanding. Mass savageries perpetrated by humans against humans are unheard of and truly inconceivable to the people of this world. This is certainly *not* to say that there are no bad individuals and never any heinous acts committed by a human against a human. Such individuals are uncommon and more rare still would such a person have the kind of power disparity to abuse on such a large scale.
 ## Social Order
@@ -23,4 +23,7 @@ Things are crafted from locally available materials.
 Innovations tend to be pragmatic and rarely is luxury an objective.
 ## Magic
 `who can do/ does do magic, how magic is perceived, impermanence, magic not integrated in society`
-
+## Tribalism, Chiefdom, and Primitivism
+I have opted to use the term "tribe" to refer to all social divisions, "chief" to refer to all tribal leaders, and "village" and "hamlet" to refer to settlements.
+## Geography
+`approx as big as France`

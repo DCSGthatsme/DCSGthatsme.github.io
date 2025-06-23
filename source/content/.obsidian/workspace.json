@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/World/Guide to Thinking as an Inhabitant of This World.md",
+                "file": "Contention of Principles/World/Appreciable Details.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide to Thinking as an Inhabitant of This World"
+              "title": "Appreciable Details"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Primer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c834fa4fb821af61",
+  "active": "577fccad240e0fba",
   "lastOpenFiles": [
-    "Contention of Principles/World/Guide to Thinking as an Inhabitant of This World.md",
     "Contention of Principles/Primer.md",
+    "Contention of Principles/World/Appreciable Details.md",
     "Contention of Principles/World",
     "Contention of Principles/Secrets!!!.md",
     "Contention of Principles/World/World Map.md",

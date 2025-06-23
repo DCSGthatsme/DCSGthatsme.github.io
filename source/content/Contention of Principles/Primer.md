@@ -4,7 +4,7 @@
 
 <img src="Wolf Antler Principle.png" width="40%" style="float:right;margin:0 0 0.5em 0.5em"/>
 
-Welcome to **Contention of Principles**. In this fantasy setting, humanity is hardly unified or predominant. Instead, they cling to survival as scattered tribes occupying mere villages and hamlets. Human existence is palpably shadowed by the **Principles**, supernatural beings of world-shaping influence. "Spirits", "beasts", and "deities" are words that may evoke an approximate notion of their natures. Their appearances, abilities, and temperaments are varied, but some things are certain. They roam the **wild**. They are **powerful**. They are **capricious**.
+Welcome to **Contention of Principles**. In this fantasy setting, humanity is neither unified nor predominant. Instead, they cling to survival as scattered tribes occupying mere villages and hamlets. Human existence is palpably shadowed by the **Principles**, supernatural beings of world-shaping influence. "Spirits", "beasts", and "deities" are words that may evoke an approximate notion of their natures. Their appearances, abilities, and temperaments are varied, but some things are certain. They roam the **wild**. They are **powerful**. They are **capricious**.
 
 <div style="clear:both"></div>
 
@@ -24,7 +24,7 @@ The setting explores **themes** of environmental stewardship, the conflicts betw
 
 <img src="Desert Principle.png" width="80%" style="display:block;margin:auto"/>
 
-The **tone** is fairly dark. Optimism is a hard-fought boon. Violence and tragedy are very present, meaningful, and always accompanied by consequence. Just to be clear, even though the world may be ruthless and severe at times, it is **NOT** a grimdark carnival of misery and despair. The intention is to represent misfortune as non-trivial, where each occurrence is steeped in meaning without gratuitously indulging in negativity.
+The **tone** is fairly dark. Optimism is a hard-fought boon. Violence and tragedy are present, meaningful, and always accompanied by consequence. Just to be clear, even though the world may be ruthless and severe at times, it is **NOT** a grimdark carnival of misery and despair. The intention is to represent misfortune as non-trivial, where each occurrence is steeped in meaning without gratuitously indulging in negativity.
 
 We will discuss personal **boundaries** both privately and in our zeroth session to ensure that the game is a safe space to explore these themes and tones.
 
@@ -48,3 +48,5 @@ The **narrative** begins with a desperate summons from a village chieftain reque
 We will use a modified version of **Symbaroum** as a mechanics system. It's a straightforward roll-under d20 system. You will not be expected to have prior rules knowledge or to bring or purchase your any materials. You are welcome to bring a set of dice for your own use (d4, 6, 8, 10, 12, 20) or any spare sets you'd like to share. The Principles and the setting are inspired by Princess Mononoke, Astrea: Six-Sided Oracles, and various folklores.
 
 <div style="display:flex;justify-content:center;"><img src="Swamp Adventure.png" height="250em" style="margin:0 0.5em"/><img src="Slain Principle.png" height="250em" style="margin:0 0.5em"/><img src="Spider Principle.png" height="250em" style="margin:0 0.5em"/></div>
+
+To dive deeper into the setting, direct message me and check out [[Appreciable Details]].
