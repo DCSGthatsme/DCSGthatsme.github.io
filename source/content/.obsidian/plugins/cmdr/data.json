@@ -28,7 +28,14 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "markdown:add-metadata-property",
+      "icon": "lucide-plus-circle",
+      "name": "Add file property",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
