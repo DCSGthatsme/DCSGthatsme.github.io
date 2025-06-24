@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/World/How to Think.md",
+                "file": "Contention of Principles/World/Appreciable Details.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Think"
+              "title": "Appreciable Details"
+            }
+          },
+          {
+            "id": "c834fa4fb821af61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Primer.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Primer"
             }
           }
         ]
@@ -171,7 +185,7 @@
   "active": "577fccad240e0fba",
   "lastOpenFiles": [
     "Contention of Principles/Primer.md",
-    "Contention of Principles/World/How to Think.md",
+    "Contention of Principles/World/Appreciable Details.md",
     "Contention of Principles/World",
     "Contention of Principles/Secrets!!!.md",
     "Contention of Principles/World/World Map.md",
