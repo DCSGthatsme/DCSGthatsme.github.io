@@ -1,4 +1,4 @@
-Below are various topics that I felt should be addressed as things that are easy for player and GM alike to assume or take for granted. If something seems unrealistic, great! Realism is a stylistic choice which is not being adopted for this game. So even though my intentions for this game involve struggle, consequence, and many other things some people describe as falling under realism, make no mistake; herein lies the *fantasy*.
+Below are various topics that I felt should be addressed as things that are easy for player and GM alike to assume or take for granted. If something seems unrealistic, great! Realism is a stylistic choice which is not being adopted for this game. So even though the game involve struggle, consequence, and many other things some people describe as falling under realism, make no mistake; herein lies the *fantasy*.
 ## Conflict Between Humans
 At its most brutal, tribes may despise other tribes. Even that is fairly uncommon. The average intercultural exchange looks like misunderstanding but with the desire to reach an understanding. Conflicts like wars or other kinds of mass savageries are unheard of and truly inconceivable. None of this is to say that there are no bad individuals and never any heinous acts committed by a human against a human, but such individuals are rare. Additionally, power disparity between individuals is somewhat uncommon and is rarely so great to abused on a large scale.
 ## Social Order
@@ -9,6 +9,8 @@ Bloodline is rarely considered in matters of kinship and belonging. Ties to a tr
 No culture uses phenotype to form their expectations for a person or to appraise their worth.
 ## Economics
 Commerce is conducted through bartering, the exchange of things and/or services with another. Currency would be a foreign concept to the people of this world. While still rare and beautiful, precious metals or gems are generally not considered to be stores of great value. Food and assistance are always valued, so a person looking to go around and receive valuable things from others ought to carry around storable foods and/or be willing and able to perform odd jobs.
+
+`prevalence of trade, Consortium`
 ## Linguistics
 It is understood that all humans speak the same language. There is linguistic variation between tribes, what one might call differing dialects. Language also still plays a small role in human culture. However, the idea that humans could "speak different languages from one another" would be a foreign notion to the people of this world. Thus, this language is not titled. Figurative speech, paralanguage, and code are linguistic ideas that are prevalent and understood.
 
@@ -23,4 +25,7 @@ Things are crafted from locally available materials.
 Innovations tend to be pragmatic and rarely is luxury an objective.
 ## Magic
 `who can do/ does do magic, how magic is perceived, impermanence, magic not integrated in society`
-
+## Tribalism, Chiefdom, and Primitivism,
+I have opted to use the term "tribe" to refer to all social divisions, "chief" to refer to all tribal leaders, and "village" and "hamlet" to refer to settlements.
+## Geography
+`approx as big as France`
