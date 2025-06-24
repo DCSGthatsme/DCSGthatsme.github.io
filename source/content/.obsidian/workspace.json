@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Appreciable Details"
             }
-          },
-          {
-            "id": "c834fa4fb821af61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Primer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Primer"
-            }
           }
         ]
       }
@@ -184,8 +170,9 @@
   },
   "active": "577fccad240e0fba",
   "lastOpenFiles": [
-    "Contention of Principles/Primer.md",
+    "Contention of Principles/World/How to Think.md",
     "Contention of Principles/World/Appreciable Details.md",
+    "Contention of Principles/Primer.md",
     "Contention of Principles/World",
     "Contention of Principles/Secrets!!!.md",
     "Contention of Principles/World/World Map.md",
@@ -210,7 +197,6 @@
     "Contention of Principles/Mechanics/Equipment/Weapons/Weapons.md",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Precise.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Ensnare.md",
-    "Contention of Principles/Mechanics/Equipment/Weapons/Chain Staff.md",
     "Contention of Principles/Mechanics/Equipment/Weapons",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities",
     "Images/Spider Principle.png",
