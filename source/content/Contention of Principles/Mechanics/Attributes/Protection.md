@@ -1,0 +1,1 @@
+Protection is equal to 0. Damage taken from single instances is reduced by the Protection amount.

@@ -1,4 +1,4 @@
-When go-time begins, the character with the highest Agility can choose to either act first or to wait. You may choose to place your acting precedence later in the turn order, but once the acting order is established it cannot be changed. If two characters have the same Agility value, then compare Vigilance. If they still share the same value, determine it randomly with an appropriate roll.
+When go-time begins, the character with the highest [[Agility]] can choose to either act first or to wait. You may choose to put your acting precedence later, but once the acting order is established it cannot be changed. If two characters have the same Agility value, then compare [[Vigilance]]. If they still share the same value, the GM splits ties.
 
 ## Combat
 When go-time combat begins, it is important to know whether the actors have their weapons drawn or not. Also, remember that Long weapons get a Free Attack against one enemy during the first `turn? round?` of melee go-time, provided that the enemy does not have a Long weapon as well.
@@ -26,7 +26,6 @@ A Movement Action represents a meaningful motion in go-time. Typically, the exac
 * Switch weapons (draw, put away, or both)
 * Stand up from a prone position (requires an Agility test).
 * Drink/apply an elixir to yourself.
-
 ### Distance Categories
 If your gaming group wants more nuanced and tactically relevant rules, the following guidelines may be used: Each combat encounter starts at a distance determined by the situation and terrain (the GM decides). The distance categories modify damage and the chance to hit, and correspond to the number of movement actions needed for the combatants to engage each other in melee combat. Note that mystical powers are not in any way affected by this rule. An obvious effect of the rule is that characters with ranged weapons cannot fight effectively at short range; they have to move (and suffer Free Attacks) or switch weapons. This means that the abilities Acrobatics, Arrow Jab and Quick Draw become even more valuable.
 
@@ -39,8 +38,5 @@ If your gaming group wants more nuanced and tactically relevant rules, the follo
 | Extreme           | -5 on attack test                                                                   | 100 meters       | 10                  |
 ### Reaction
 Reactions are quick responses or follow-ups to other Actions or circumstances. They can be performed in any moment during go-time. The character can perform as many Reactions as is called for per turn, as long as there are triggers to react to. Reactions can use the effect of passive abilities, but not of active ones.
-
-You are allowed to attempt to defend yourself against any attacks that your character is aware of. The character's Defense is usually based on Agility, then modified by such things as armor qualities and whether or not the character carries a shield. When a character is attacked, defense is tested as \[Defense←Exactitude\]. If the test is successful the character has avoided the attack by either parrying or dodging it. If this test fails, the attack hits and deals damage if the weapon's damage value is higher than the outcome of the roll for the character's Armor.
-
 ### Free Actions
 There are situations when your character will have the opportunity to make a Free attack with their weapon. This most commonly happens when the character is armed with a Long weapon, when an enemy tries to flee from an ongoing melee combat or when an opponent tries to run past the character in order to reach someone or something behind it. There are also some abilities which trigger Free Attacks under special circumstances. Free attacks can use the effect of passive abilities but not of active ones, and normally the character can only gain one Free Attack per triggering factor and turn – if two enemies try to withdraw from melee only 1 Free Attack is gained, but if one withdraws and one runs past, the character gains one Free Attack on each.

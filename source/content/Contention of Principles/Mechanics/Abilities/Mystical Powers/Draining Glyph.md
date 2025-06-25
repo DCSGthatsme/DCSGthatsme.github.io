@@ -8,7 +8,7 @@ The mystic creates a glyph that upon activation becomes a whirling vortex, sucki
 
 ![[Mystical Power]]
 
-Novice<br>Active. With a \[[[Resolve]]←[[Might]]\] test the mystic can damage every enemy in the vicinity (one test per target). The damage is 1D4, ignoring Armor. The effect lasts until the mystic fails a Resolve test or loses concentration \[Resolve –Damage\].
+Novice<br>Active. With a \[[[Resolve]]←[[Might]]\] test the mystic can damage every enemy in the vicinity (one test per target). The damage is 1D4, ignoring [[Protection]]. The effect lasts until the mystic fails a Resolve test or loses concentration \[Resolve –Damage\].
 
 Adept<br>Active. Same as the novice level, but the effect lasts until the mystic fails a Resolve test.
 

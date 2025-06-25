@@ -43,6 +43,7 @@ We will discuss personal **boundaries** both privately and in our zeroth session
 
 The **narrative** begins with a desperate summons from a village chieftain requesting aid against a looming Principle threat. The narrative will continue along a determined throughline, forming the backbone of the game. The **story** - the collection of unique moments your characters bring into the world - is the true heart of the game. Such things cannot bloom until the game begins, nor can I prepare to support you players in your story until your characters have been made! So while I may be willing to vaguely answer regarding aspects of the narrative, know that I cannot speak on behalf of your story.
 
+`aim for length, number of players, session length, in-person`
 <div style="clear:both"></div>
 
 We will use a modified version of **Symbaroum** as a mechanics system. It's a straightforward roll-under d20 system. You will not be expected to have prior rules knowledge or to bring or purchase your any materials. You are welcome to bring a set of dice for your own use (d4, 6, 8, 10, 12, 20) or any spare sets you'd like to share. The Principles and the setting are inspired by Princess Mononoke, Astrea: Six-Sided Oracles, and various folklores.

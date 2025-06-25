@@ -1,1 +1,1 @@
-The character is used to carrying heavy loads. The basis for calculating their carrying capacity is Might ×1.5. For information on carrying capacity, see Encumbrance on page 100.
+The character is used to carrying heavy loads. The basis for calculating their [[Encumbrance Threshold]] is [[Might]] ×1.5, rounded down.

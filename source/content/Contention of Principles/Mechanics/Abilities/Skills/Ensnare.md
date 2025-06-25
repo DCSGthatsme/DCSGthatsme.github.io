@@ -5,6 +5,6 @@ Novice<br>Active. The character gains a second chance to ensnare a target (requi
 
 Adept<br>Active. In addition to the novice effect, the character gains a second chance to bring down an ensnared enemy (requires a weapon with the quality Ensnaring).
 
-Master<br>Reaction. The character's skill with ensnaring weapons is such that every ensnaring attack is assumed to hit the target's neck and have a strangling effect; besides the ensnaring effect and the chance to bring down the enemy, the target suffers 1D6 damage, ignoring armor. If the target reaches 0 [[Toughness]], the character can choose to make them unconscious instead of dying.
+Master<br>Reaction. The character's skill with ensnaring weapons is such that every ensnaring attack is assumed to hit the target's neck and have a strangling effect; besides the ensnaring effect and the chance to bring down the enemy, the target suffers 1D6 damage, ignoring [[Protection]]. If the target reaches 0 [[Toughness]], the character can choose to make them unconscious instead of dying.
 # Notes
 * From the Symbaroum Advanced Player's Guide.

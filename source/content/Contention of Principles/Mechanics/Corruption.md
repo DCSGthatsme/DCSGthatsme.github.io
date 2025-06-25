@@ -1,5 +1,5 @@
 ## Temporary Corruption
-Temporary Corruption is a momentary expression of the world’s reluctance to be subdued and controlled. It fades away by itself at the end of the scene`or at the end of the scene, divide temp corruption by 4 (round up) and roll that many d4. Heal that much temp corruption and make the rest permanent.` but is still dangerous, since it can push a character’s Total Corruption up to its [[Corruption Threshold]] (Blight- marked), or up to double its Corruption Threshold, turning the character into a blight beast.
+Temporary Corruption is a momentary expression of the world's reluctance to be subdued and controlled. It fades away by itself at the end of the scene`or at the end of the scene, divide temp corruption by 4 (round up) and roll that many d4. Heal that much temp corruption and make the rest permanent.` but is still dangerous, since it can push a character's Total Corruption up to its [[Corruption Threshold]] (Blight- marked), or up to double its Corruption Threshold, turning the character into a blight beast.
 
 Actions that give temporary Corruption:
 * Using a mystic power or ritual: 1D4 temporary Corruption
@@ -8,13 +8,13 @@ Actions that give temporary Corruption:
 * The dark areas of Davokar: The darker areas of Davokar are dangerous; the corruption varies from 1D4 temporary Corruption each day to 1D6 temporary Corruption each hour. It is said that the corruption suffered within the darkest parts of the forest is permanent.
 
 ## Permanent Corruption
-Permanent Corruption means a lasting alteration of the character’s essence and inner being. When permanent Corruption reaches the character’s Corruption Threshold, which is half its Resolute value rounded up, the character counts as Blight-marked and receives a permanent Stigma (see Table 24). The Stigma disappears if the permanent Corruption is reduced to below the Corruption Threshold again. The character turns into an abomination if its Total Corruption (temporary+permanent) reaches or exceeds its Resolute value. Then the character cannot be saved in any way.
+Permanent Corruption means a lasting alteration of the character's essence and inner being. When permanent Corruption reaches the character's Corruption Threshold, which is half its Resolute value rounded up, the character counts as Blight-marked and receives a permanent Stigma (see Table 24). The Stigma disappears if the permanent Corruption is reduced to below the Corruption Threshold again. The character turns into an abomination if its Total Corruption (temporary+permanent) reaches or exceeds its Resolute value. Then the character cannot be saved in any way.
 
 Permanent Corruption is suffered when:
 * Binding an artifact to oneself to be able to use its powers: 1 Corruption (or [[Experience]]).
 * Learning a mystic power or ritual: 1 permanent Corruption.
-* A character’s Total Corruption reaches the character’s Corruption Threshold during a scene: 1D4 permanent Corruption.
-* If a character’s Total Corruption has already reached the Corruption Threshold, the character automatically suffers 1D4 permanent Corruption if it gains corruption during a scene.
+* A character's Total Corruption reaches the character's Corruption Threshold during a scene: 1D4 permanent Corruption.
+* If a character's Total Corruption has already reached the Corruption Threshold, the character automatically suffers 1D4 permanent Corruption if it gains corruption during a scene.
 ## Stigmas
 Unsettling but benign
 * Discolored skin

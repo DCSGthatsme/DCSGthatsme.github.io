@@ -74,7 +74,7 @@ Moderate<br>Deals 2 damage per turn
 
 Strong<br>3 damage per turn
 # Protective Oil
-Moderate<br>The alchemical oil protects against elemental damage by providing 1D4 additional Armor against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.
+Moderate<br>The alchemical oil protects against elemental damage by providing +1D4 [[Protection]] against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.
 # Purple Sap
 `APG`
 The Purple Sap is made from a decoction of a purple Lily of the Valley, a flower whose cleansing proper- ties and resistance to corruption were discovered by the witches of Davokar long ago. Purchasing the elixir is expensive, because the ingredient is so rare and few alchemists are skilled enough to brew it. The elixir has no effect on permanent corruption or on blight-marks which have already appeared on the user.

@@ -5,7 +5,7 @@ The cost of crafting objects is half of the listed price. If the blacksmith late
 
 This ability may be used once per adventure. Should the item be of a consumable nature (like arrows or bolts), the blacksmith can forge 10 copies at a time.
 
-Novice<br>Special. With a passed [[Wit]] test, the character can make a novice item. The character can also patch damaged armor or adapt armor to fit creatures of larger or smaller sizes. Novice items are all ordinary weapons and armor, including those with the qualities Short and Long. No other qualities can be crafted by the novice smith.
+Novice<br>Special. With a passed [[Wit]] test, the character can make a novice item. The character can also patch damaged armor or adapt armor to fit creatures of larger or smaller sizes. Novice items are all ordinary weapons and armor, including those with the qualities [[Short]] and [[Long]]. No other qualities can be crafted by the novice smith.
 
 Adept<br>Special. With a passed Wit test, the character can make an adept item, featuring one quality besides Short or Long. All weapons and armor mentioned in the rules can be crafted by the adept, except items with mystical qualities and those that have more than one quality besides Short or Long. Note that the adept cannot remove negative qualities from items.
 

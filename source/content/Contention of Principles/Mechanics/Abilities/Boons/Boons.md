@@ -25,8 +25,6 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Escape Artist]]
 ## [[Fire Forged]]
 ![[Fire Forged]]
-## [[Fleet-footed]]
-![[Fleet-footed]]
 ## [[Forbidden Knowledge]]
 ![[Forbidden Knowledge]]
 ## [[Gambler]]+

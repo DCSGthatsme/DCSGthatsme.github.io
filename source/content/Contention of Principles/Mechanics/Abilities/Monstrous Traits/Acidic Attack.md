@@ -1,4 +1,4 @@
-Either the creature's unarmed attack or its Natural Weapon is covered in acid so that each hit has a corrosive side effect on the target. The acid must first penetrate the target's Armor to deal damage, even if the initial attack does. Removing the acid from either body or armor requires that someone spends an Action and makes a successful Wit test. Acidic Attack requires the Acidic Blood trait, at the same level or higher.
+Either the creature's unarmed attack or its Natural Weapon is covered in acid so that each hit has a corrosive side effect on the target. The acid must first penetrate the target's [[Protection]] to deal damage, even if the initial attack does. Removing the acid from either body or armor requires that someone spends an Action and makes a successful Wit test. Acidic Attack requires the Acidic Blood trait, at the same level or higher.
 
 I<br>Reaction. The acidic attack is weak and deals 3 points of damage for 3 turns.
 

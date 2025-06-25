@@ -10,7 +10,7 @@ Novice
 Full turn. The character gets lost in a short trance. With a passed [[Resolve]] test, they gain access to the novice level of an optional [[Skills|Skill]]. The Skill can be used for the rest of the scene, before fading from memory.
 
 Adept
-Active. The character’s closer connection to the collective memory makes the trance even shorter; other than that it works like the novice level.
+Active. The character's closer connection to the collective memory makes the trance even shorter; other than that it works like the novice level.
 
 Master
 Active. The character can dig deeper into the collective memory. With a passed Resolute test, it gains access to the adept level of an optional Skill. The ability can be used for the rest of the scene, before fading from memory.

@@ -1,0 +1,1 @@
+Encumbrance Threshold is equal to [[Might]].

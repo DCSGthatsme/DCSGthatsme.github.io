@@ -5,4 +5,4 @@ Novice<br>Reaction. The character can make a second attempt to succeed with a [[
 
 Adept<br>Reaction. The character is unshakable and can make a second attempt to shrug off ongoing powers that affects either their will or their senses.
 
-Master<br>Reaction. The psyche of the character strikes back against anyone who tries to affect it. Whenever the character is the victim of a mental attack (in other words, those attacks that are modified by Resolve) that fails, the attacker suffers 1D6 damage that ignores Armor.
+Master<br>Reaction. The psyche of the character strikes back against anyone who tries to affect it. Whenever the character is the victim of a mental attack (in other words, those attacks that are modified by Resolve) that fails, the attacker suffers 1D6 damage that ignores [[Protection]].

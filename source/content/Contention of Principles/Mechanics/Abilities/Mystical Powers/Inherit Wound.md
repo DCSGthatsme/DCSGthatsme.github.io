@@ -12,4 +12,4 @@ Novice<br>Free. By making a successful die roll against [[Resolve]] the mystic c
 
 Adept<br>Free. As novice, but the effect heals 1D8 points of Toughness and also draws any ongoing effects of poison and bleeding to the mystic. The mystic suffers half the damage (rounded up), both from wounds and any poison/bleeding.
 
-Master<br>Active. The target heals 1D8 points of Toughness while the mystic suffers half as much damage. The mystic may also pass the other half of the damage on to another creature in sight. The chosen target's armor is ignored and it cannot defend themself in any way.
+Master<br>Active. The target heals 1D8 points of Toughness while the mystic suffers half as much damage. The mystic may also pass the other half of the damage on to another creature in sight. The chosen target's [[Protection]] is ignored and it cannot attempt a [[Defense]].

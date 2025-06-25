@@ -8,10 +8,10 @@ The fearful mystics who have gone furthest in questioning the laws of nature can
 
 ![[Mystical Power]]
 
-Novice<br>Active. With a passed Resolve test, the character can exit the world and return within a range of two movement actions. The mystic suffers 1D4 damage from the journey, ignoring Armor. The teleportation does not trigger a Free Attack, even if withdrawing from melee. The mystic must see the return location when the mystical power is activated. If the test fails, an enraged phantasm is created instead.
+Novice<br>Active. With a passed Resolve test, the character can exit the world and return within a range of two movement actions. The mystic suffers 1D4 damage from the journey, ignoring [[Protection]]. The teleportation does not trigger a Free Attack, even if withdrawing from melee. The mystic must see the return location when the mystical power is activated. If the test fails, an enraged phantasm is created instead.
 
 Adept<br>Active. Same as at the novice level, except the mystic suffers no damage during their teleportation. If the test fails, the mystic must pass a Resolve test to stop a phantasm from coming. The mystic can choose not to resist and willingly let the phantasm be.
 
-Master<br>Active. Same as at the Adept level, with the addition that the mystic may take someone along on the journey. This beneficiary must stand next to the mystic when the power is activated (melee range) and if they are reluctant, the mystic must pass a \[Resolve←Resolve\] test to force it to follow. The beneficiary suffers 1D4 damage, ignoring Armor, and also 1D4 temporary corruption. The mystic must pass a Resolve test to stop a phantasm from coming to be in the beneficiary's place. The mystic can choose not to resist and willingly let the phantasm be.
+Master<br>Active. Same as at the Adept level, with the addition that the mystic may take someone along on the journey. This beneficiary must stand next to the mystic when the power is activated (melee range) and if they are reluctant, the mystic must pass a \[Resolve←Resolve\] test to force it to follow. The beneficiary suffers 1D4 damage, ignoring Protection, and also 1D4 temporary corruption. The mystic must pass a Resolve test to stop a phantasm from coming to be in the beneficiary's place. The mystic can choose not to resist and willingly let the phantasm be.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

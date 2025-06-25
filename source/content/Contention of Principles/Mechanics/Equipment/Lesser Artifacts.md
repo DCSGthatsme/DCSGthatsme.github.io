@@ -101,7 +101,7 @@ Strong<br>The artifact crafter binds a ritual to a seal; when broken, the effect
 Moderate<br>Prominent mind-warping wizards often carry a gold ring on a finger, around the wrist or upper arm, or on the head in the form of a headband. To them, this represents the noble endeavor of the ruler. These rings are often instilled with the ability to dominate all living beings. If so, the gold ring gives a +1 bonus to all test involving powers and rituals of [[Captivation]] affecting the will of the target, for example the use of, and resistance to, [[Bend Will]] and [[Telepathic Interrogation]].
 
 ## Rune Staff
-Strong<br>The hallmark of the staff mage is his or her personal staff, carved with the runes of the elements. In the hand of its owner, the staff emits a protective aura (Armor +1d4), and is also the instrument through which the mage wields his or her powers.
+Strong<br>The hallmark of the staff mage is his or her personal staff, carved with the runes of the elements. In the hand of its owner, the staff emits a protective aura (+1d4 [[Protection]]), and is also the instrument through which the mage wields his or her powers.
 
 ## Soul Stone
 Strong<br>A Soul Stone is the item required to perform the ritual with the same name.

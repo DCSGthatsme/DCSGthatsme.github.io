@@ -1,0 +1,1 @@
+Carrying Limit is equal to [[Might]] ×2.
