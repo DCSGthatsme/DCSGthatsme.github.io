@@ -1,4 +1,4 @@
-The character has learned how mystical powers can be channeled through [[Rituals|rituals]] – powerful but time-consuming magical practices. This knowledge may come from studying under a teacher or from self-studies with a ritual codex.
+The character has learned how mystical powers can be channeled through [[Rituals|rituals]] – powerful but time-consuming magical practices.
 
 The character suffers one (1) permanent Corruption from each ritual it learns, except if the ritual has a Crux for which the character has a [[Principle Bonds|Principle Bond]]. In the latter case the character is spared the blight of Corruption.
 

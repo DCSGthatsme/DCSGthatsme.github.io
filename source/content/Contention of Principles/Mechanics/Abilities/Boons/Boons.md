@@ -1,16 +1,10 @@
 Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased more than once.
-## [[Absolute Memory]]
-![[Absolute Memory]]
 ## [[Archivist]]+
 ![[Archivist]]
 ## [[Augur]]+
 ![[Augur]]
-## [[Beast Tongue]]
-![[Beast Tongue]]
 ## [[Bloodhound]]+
 ![[Bloodhound]]
-## [[Blood Ties]]
-![[Blood Ties]]
 ## [[Bushcraft]]
 ![[Bushcraft]]
 ## [[Cartographer]]+
@@ -23,22 +17,12 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Commanding Voice]]
 ## [[Con Artist]]+
 ![[Con Artist]]
-## [[Contacts]]
-![[Contacts]]
-## [[Dark Blood]]
-![[Dark Blood]]
 ## [[Dexterous]]+
 ![[Dexterous]]
-## [[Double-tongue]]
-![[Double-tongue]]
 ## [[Enduring March]]
 ![[Enduring March]]
-## [[Enterprise]]
-![[Enterprise]]
 ## [[Escape Artist]]
 ![[Escape Artist]]
-## [[False Identity]]
-![[False Identity]]
 ## [[Fire Forged]]
 ![[Fire Forged]]
 ## [[Fleet-footed]]
@@ -49,10 +33,6 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Gambler]]
 ## [[Green Thumb]]+
 ![[Green Thumb]]
-## [[Heirloom]]
-![[Heirloom]]
-## [[Hideouts]]
-![[Hideouts]]
 ## [[Horrifying]]+
 ![[Horrifying]]
 ## [[Impressionist]]+
@@ -61,26 +41,16 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Loremaster]]
 ## [[Manipulator]]+
 ![[Manipulator]]
-## [[Medium]]+
-![[Medium]]
-## [[Mirage]]
-![[Mirage]]
 ## [[Musician]]+
 ![[Musician]]
 ## [[Pathfinder]]
 ![[Pathfinder]]
 ## [[Pack-mule]]
 ![[Pack-mule]]
-## [[Pet]]
-![[Pet]]
 ## [[Poison Resilient]]
 ![[Poison Resilient]]
-## [[Servant]]
-![[Servant]]
 ## [[Shadow Spawn]]+
 ![[Shadow Spawn]]
-## [[Soulmate]]
-![[Soulmate]]
 ## [[Storyteller]]+
 ![[Storyteller]]
 ## [[Telltale]]+

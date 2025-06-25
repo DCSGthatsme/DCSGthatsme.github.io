@@ -8,7 +8,7 @@ Some abilities are gained at character creation. Abilities are typically gained 
 	* [[Burdens]]
 * Limited availability
 	* [[Principle Bonds]]
-	* [[Traits]]
+	* [[Features]]
 	* Certain Skills
 	* Certain Mystical Powers
 * Not available for direct purchase

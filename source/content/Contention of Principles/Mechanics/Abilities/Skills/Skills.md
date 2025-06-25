@@ -85,6 +85,8 @@ Skills are a character's primary [[Abilities]]. A new skill at novice level cost
 ![[Steel Throw#Ability]]
 ## [[Strong Gift]]
 ![[Strong Gift#Ability]]
+## [[Survival Instinct]]
+![[Survival Instinct#Ability]]
 ## [[Sword Devotee]]
 ![[Sword Devotee#Ability]]
 ## [[Tactician]]

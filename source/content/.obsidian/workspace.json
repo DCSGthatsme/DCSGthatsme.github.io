@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Traits.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Features/Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "Features"
+            }
+          },
+          {
+            "id": "edf2c781131d9d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/World/Appreciable Details.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appreciable Details"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tradition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +78,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,35 +182,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "577fccad240e0fba",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Skills/Strong Gift.md",
-    "Contention of Principles/Mechanics/Abilities/Ritualist.md",
-    "Contention of Principles/Mechanics/Equipment/Lesser Artifacts.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Forbidden Knowledge.md",
     "Contention of Principles/World/Appreciable Details.md",
-    "Contention of Principles/Mechanics/Mystical Power.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Derision.md",
-    "Contention of Principles/World/How to Think.md",
-    "Contention of Principles/Primer.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Features.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Connections.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Boons.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Pet.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Heirloom.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Enterprise.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Absolute Memory.md",
+    "Contention of Principles/Mechanics/Abilities/Soulmate.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Servant.md",
+    "Contention of Principles/Mechanics/Abilities/Mirage.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Medium.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Hideouts.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Gambler.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Cheat.md",
+    "Contention of Principles/Mechanics/Equipment/Alchemical Elixirs.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/False Identity.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Double-tongue.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Dark Blood.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Cartographer.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Blood Ties.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Beast Tongue.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Traits/Robust.md",
+    "Contention of Principles/Mechanics/Abilities/Ritualist.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Traits/Monstrous Traits.md",
+    "Contention of Principles/Mechanics/Abilities/Features",
     "Contention of Principles/World",
-    "Contention of Principles/Secrets!!!.md",
-    "Contention of Principles/World/World Map.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Armored Mystic.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Axe Artist.md",
-    "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Ensnaring.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Flailer.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Hammer Rhythm.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Knife Connoisseur.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Mantle Dance.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Marksman.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Polearm Mastery.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Shield Fighter.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Staff Fighting.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Steel Throw.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Sword Devotee.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Twin Attack.md",
     "Contention of Principles/Mechanics/Equipment/Weapons",
     "Contention of Principles/Mechanics/Equipment/Equipment Qualities",
     "Images/Spider Principle.png",
@@ -215,7 +229,6 @@
     "Contention of Principles/Mechanics/Abilities/Boons",
     "Contention of Principles/Mechanics/Abilities/Monstrous Traits",
     "Contention of Principles/Mechanics/Attributes",
-    "Sealing",
-    "Contention of Principles/Mechanics/Abilities/Rituals"
+    "Sealing"
   ]
 }

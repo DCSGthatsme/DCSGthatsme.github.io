@@ -31,7 +31,7 @@ Note that Attributes can be increased via the [[Abilities#Exceptional Attribute|
 Minor abilities costing less XP.
 ### [[Burdens]]
 Detrimental abilities that grant an XP cost reduction to an ability, rather than costing XP.
-### [[Traits]]
+### [[Features]]
 Abilities that are compulsory or optional for certain races.
 ### [[Mystical Powers]]
 Mystical powers are magical abilities. Each mystical power is a variant of the [[Abilities#Mystical Power|Mystical Power]] ability.

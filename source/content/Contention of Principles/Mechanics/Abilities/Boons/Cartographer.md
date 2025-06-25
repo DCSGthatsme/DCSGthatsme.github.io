@@ -1,1 +1,1 @@
-The character has been trained to draw precise maps – a sought-after skill in this age of exploration. They get a +1 bonus on tests regarding orientation and location, both on the surface and down in the Underworld. Cartographer can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
+The character can draw precise maps. They get a +1 bonus on tests regarding orientation and location. Cartographer can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
