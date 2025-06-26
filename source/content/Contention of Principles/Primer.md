@@ -20,13 +20,13 @@ The **setting** may be termed low fantasy, for the magic and supernatural is mos
 
 <div style="clear:both"></div>
 
-The setting explores **themes** of environmental stewardship, the conflicts between tradition and change, and humanity's struggle to find meaning and purpose amid chaos and futility. The narrative will also explore various other themes of universal relatability.
+The setting explores **themes** of environmental stewardship, conflict between tradition and change, and humanity's struggle to find meaning and purpose amid chaos and futility. The narrative will also explore various other themes of universal relatability.
 
 <img src="Desert Principle.png" width="80%" style="display:block;margin:auto"/>
 
-The **tone** is fairly dark. Optimism is a hard-fought boon. Violence and tragedy are present, meaningful, and always accompanied by consequence. Just to be clear, even though the world may be ruthless and severe at times, it is **NOT** a grimdark carnival of misery and despair. The intention is to represent misfortune as non-trivial, where each occurrence is steeped in meaning without gratuitously indulging in negativity.
+The **tone** is fairly dark. Optimism is tempered with caution. Violence and tragedy are present, meaningful, and always accompanied by consequence. Just to be clear, even though the world may be ruthless and severe at times, it is **NOT** a grimdark carnival of misery and doom. The intention is to represent misfortune as non-trivial, where each occurrence is steeped in meaning without gratuitously indulging in negativity.
 
-We will discuss personal **boundaries** both privately and in our zeroth session to ensure that the game is a safe space to explore these themes and tones.
+You will have the opportunity to discuss personal **boundaries** both privately and in our zeroth session to ensure that the game is a safe space to explore these themes and tones.
 
 <img src="Snow Principles.jpg" width="80%" style="display:block;margin:auto"/>
 
@@ -43,11 +43,11 @@ We will discuss personal **boundaries** both privately and in our zeroth session
 
 The **narrative** begins with a desperate summons from a village chieftain requesting aid against a looming Principle threat. The narrative will continue along a determined throughline, forming the backbone of the game. The **story** - the collection of unique moments your characters bring into the world - is the true heart of the game. Such things cannot bloom until the game begins, nor can I prepare to support you players in your story until your characters have been made! So while I may be willing to vaguely answer regarding aspects of the narrative, know that I cannot speak on behalf of your story.
 
-`aim for length, number of players, session length, in-person`
+Contention of Principles will be a **campaign** game that takes place in the course of 5-7 sessions. The sessions will most likely be weekly with a duration of 4 hours. Sessions will take place in-person in a local, TBD place. The goal is to have around 5 **core players** who play in every session. I can also support a few **guest players** who would only attend 1 or 2 sessions whose characters would have more of a narrative role than a story role.
 <div style="clear:both"></div>
 
 We will use a modified version of **Symbaroum** as a mechanics system. It's a straightforward roll-under d20 system. You will not be expected to have prior rules knowledge or to bring or purchase your any materials. You are welcome to bring a set of dice for your own use (d4, 6, 8, 10, 12, 20) or any spare sets you'd like to share. The Principles and the setting are inspired by Princess Mononoke, Astrea: Six-Sided Oracles, and various folklores.
 
 <div style="display:flex;justify-content:center;"><img src="Swamp Adventure.png" height="250em" style="margin:0 0.5em"/><img src="Slain Principle.png" height="250em" style="margin:0 0.5em"/><img src="Spider Principle.png" height="250em" style="margin:0 0.5em"/></div>
 
-To dive deeper into the setting, direct message me and check out [[World Addendum]].
+To express interest or ask questions, direct message me. To dive deeper into the setting, check out [[World Addendum]].
