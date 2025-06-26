@@ -8,3 +8,5 @@ Novice<br>Passive. The character can dominate and outmaneuver an enemy combatant
 Adept<br>Free. The character can, as a Free Action and with a successful \[Charisma←[[Resolve]]\] test, force an enemy to hesitate in melee combat. A hesitating enemy will not attack them this turn. If possible, it attacks one of the character's allies instead.
 
 Master<br>Active. The character can subdue an enemy with a passed \[Charisma←Resolve\] test. A subdued enemy can be forced to stand down and negotiate, to flee from an ongoing battle (if possible), or surrender if it is impossible to flee. When already in combat, the enemy must first be wounded. The enemy's [[Toughness]] must have been reduced by 1D4 quarters (rounded down) by the character or by one of the character's allies before it can be subdued.
+## Notes
+* Originally "Dominate".

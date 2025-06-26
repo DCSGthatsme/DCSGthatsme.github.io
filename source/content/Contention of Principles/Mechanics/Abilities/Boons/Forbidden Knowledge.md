@@ -1,1 +1,1 @@
-The character has somehow come to possess the secrets [[Alchemy]] and [[Imbuement]]. With those [[Mystical Powers]], they have the capability to create all [[Alchemical Elixirs]] and [[Lesser Artifacts]], including those with a differing Crux.
+The character has somehow come to possess the secrets [[Alchemy]] and [[Imbuement]]. With those [[Mystical Powers]], they have the capability to create all [[Alchemical Elixirs]] and [[Artifacts]], including those with a differing Crux.

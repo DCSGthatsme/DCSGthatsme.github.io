@@ -1,5 +1,5 @@
 ## Temporary Corruption
-Temporary Corruption is a momentary expression of the world's reluctance to be subdued and controlled. It fades away by itself at the end of the scene`or at the end of the scene, divide temp corruption by 4 (round up) and roll that many d4. Heal that much temp corruption and make the rest permanent.` but is still dangerous, since it can push a character's Total Corruption up to its [[Corruption Threshold]] (Blight- marked), or up to double its Corruption Threshold, turning the character into a blight beast.
+Temporary Corruption is a momentary expression of the world's reluctance to be subdued and controlled. It fades away by itself at the end of the scene`or at the end of the scene, divide temp corruption by 4 (round up) and roll that many d4. Heal that much temp corruption and make the rest permanent.` but is still dangerous, since it can push a character's Total Corruption up to its [[Corruption Threshold]] (Blight-marked), or up to double its Corruption Threshold, turning the character into a blight beast.
 
 Actions that give temporary Corruption:
 * Using a mystic power or ritual: 1D4 temporary Corruption

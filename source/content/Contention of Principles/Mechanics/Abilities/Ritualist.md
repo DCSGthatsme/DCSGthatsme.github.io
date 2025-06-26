@@ -10,6 +10,4 @@ Novice<br>Special. The character has learned to perform one (1) ritual. The ritu
 
 Adept<br>Special. The character has learned to perform up to two additional rituals (three in total), again with any Crux, but bound to the same conditions as those presented at the novice level.
 
-Master<br>Special. The character has learned to perform up to three additional rituals (six rituals in total). Just as before, the
-
-Master<br>Ritualist is not limited to the rituals with a single Crux, but must have access to the ritual to be able to learn and memorize it.
+Master<br>Special. The character has learned to perform up to three additional rituals (six rituals in total). Just as before, the Master Ritualist is not limited to the rituals with a single Crux, but must have access to the ritual to be able to learn and memorize it.

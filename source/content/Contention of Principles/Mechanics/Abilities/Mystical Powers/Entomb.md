@@ -1,5 +1,5 @@
 ---
-title: "Mystical Power: Nature's Embrace"
+title: "Mystical Power: Entomb"
 ---
 ## Ability
 Material: A fistful of soil<br>Crux: [[Appreciation]]
@@ -13,3 +13,5 @@ Novice<br>Active. The mystic is able to sink into the earth if a successful [[Re
 Adept<br>Active. The mystic can use mystical powers on themself while in the earth and does not have to test Resolve in order to remain there.
 
 Master<br>Active. The mystic can move by using their Movement Action to appear in a different spot than where it first sank into the ground. The mystic can also use powers on their allies while in the earth, as well as see the allies through the protective layers of soil.
+## Notes
+* Originally "Nature's Embrace".

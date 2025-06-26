@@ -1,4 +1,4 @@
-<iframe width="100%" height="150em" src="https://www.youtube.com/embed/QPAX_X0Pcts?controls=1&playlist=QPAX_X0Pcts,c-ImgU1E91g,w_LvtIbYgFc,yGtOG_0aB9Y,6wZk2_pJUCo,Mn-KTlqM7mM,MFiKgMARO6E,oVNTMG5hDMg,HCoBr7FdTjg,Legbv8jNYR0&start=71&loop=1" frameborder="0"></iframe>
+<iframe width="100%" height="150em" src="https://www.youtube.com/embed/QPAX_X0Pcts?controls=1&playlist=QPAX_X0Pcts,c-ImgU1E91g,tXhld9AekAc,yGtOG_0aB9Y,6wZk2_pJUCo,Mn-KTlqM7mM,w_LvtIbYgFc,MFiKgMARO6E,oVNTMG5hDMg,0MJpUOhv5u4,GsdZ4l8gyM4,HCoBr7FdTjg,Legbv8jNYR0&start=71&loop=1" frameborder="0"></iframe>
 
 ---
 
@@ -50,4 +50,4 @@ We will use a modified version of **Symbaroum** as a mechanics system. It's a st
 
 <div style="display:flex;justify-content:center;"><img src="Swamp Adventure.png" height="250em" style="margin:0 0.5em"/><img src="Slain Principle.png" height="250em" style="margin:0 0.5em"/><img src="Spider Principle.png" height="250em" style="margin:0 0.5em"/></div>
 
-To dive deeper into the setting, direct message me and check out [[Appreciable Details]].
+To dive deeper into the setting, direct message me and check out [[World Addendum]].

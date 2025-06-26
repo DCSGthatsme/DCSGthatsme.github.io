@@ -4,7 +4,7 @@ title: "Mystical Power: Imbuement"
 ## Ability
 Only available if `?`<br>Material: `Relevant materials`<br>Crux: `?`
 
-The character can imbue objects with power, turning them into [[Lesser Artifacts]].
+The character can imbue objects with power, turning them into [[Artifacts]].
 
 ![[Mystical Power]]
 
