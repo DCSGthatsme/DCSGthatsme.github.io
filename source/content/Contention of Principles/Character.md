@@ -1,4 +1,4 @@
-[Character template](https://docs.google.com/document/d/1jd87X8mJHwGP7Ne-olzTRIGZSEvTz4GkY_fanGzdqFA/copy)
+[Character template](https://docs.google.com/document/d/1jd87X8mJHwGP7Ne-olzTRIGZSEvTz4GkY_fanGzdqFA/copy) [(preview)](https://docs.google.com/document/d/1jd87X8mJHwGP7Ne-olzTRIGZSEvTz4GkY_fanGzdqFA/view)
 ## Example
 * Character concept
 	* A miner whose plain ignorance prevents them from seeing their contributions to the world's evils

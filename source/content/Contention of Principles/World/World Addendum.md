@@ -26,6 +26,6 @@ Innovations tend to be pragmatic and rarely is luxury an objective.
 ## Magic
 `who can do/ does do magic, how magic is perceived, impermanence, magic not integrated in society`
 ## Tribalism, Chiefdom, and Primitivism,
-I have opted to use the term "tribe" to refer to all social divisions, "chief" to refer to all tribal leaders, and "village" and "hamlet" to refer to settlements.
+I have opted to use the term "tribe" to refer to all social divisions, "chief" to refer to all tribal leaders, and "village" and "hamlet" to refer to settlements. 
 ## Geography
 `approx as big as France`

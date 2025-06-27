@@ -6,7 +6,6 @@ Actions that give temporary Corruption:
 * Using tainted artifacts: varies, but mostly 1D4 temporary Corruption
 * Damage from certain abominations
 * The dark areas of Davokar: The darker areas of Davokar are dangerous; the corruption varies from 1D4 temporary Corruption each day to 1D6 temporary Corruption each hour. It is said that the corruption suffered within the darkest parts of the forest is permanent.
-
 ## Permanent Corruption
 Permanent Corruption means a lasting alteration of the character's essence and inner being. When permanent Corruption reaches the character's Corruption Threshold, which is half its Resolute value rounded up, the character counts as Blight-marked and receives a permanent Stigma (see Table 24). The Stigma disappears if the permanent Corruption is reduced to below the Corruption Threshold again. The character turns into an abomination if its Total Corruption (temporary+permanent) reaches or exceeds its Resolute value. Then the character cannot be saved in any way.
 
