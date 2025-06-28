@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 > One who exalts the principles, magic, and the unknown regards power as zenith of being and takes pride in their influences.
 
 Novice

@@ -4,7 +4,7 @@ title: "Mystical Power: Imbuement"
 ## Ability
 Only available if `?`<br>Material: `Relevant materials`<br>Crux: `?`
 
-The character can imbue objects with mystical power, turning them into [[Artifacts]]. [[Alchemy]] is also a form of Imbuement specializing for objects with latent, non-mystical power.
+The character can imbue objects with mystical power, turning them into [[Artifacts]]. [[Alchemy]] is also a form of Imbuement specializing in objects with latent, non-mystical power.
 
 ![[Mystical Power]]
 

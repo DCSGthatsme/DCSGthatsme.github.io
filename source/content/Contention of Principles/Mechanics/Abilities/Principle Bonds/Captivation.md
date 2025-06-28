@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 > One who captivates principles, magic, and the unknown piques interest through their own actions and nature.
 
 Novice

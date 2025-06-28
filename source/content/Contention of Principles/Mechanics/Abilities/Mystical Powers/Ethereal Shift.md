@@ -8,7 +8,7 @@ Because of their closeness to death, the mystic has developed the mystical skill
 
 ![[Mystical Power]]
 
-Novice<br>Whole Turn. With a passed [[Resolve]] test, the mystic assumes spirit form. This immaterial form lasts for one movement action (about 10 meters), making it possible to move through even the thickest walls, or, for that matter, through enemies on the battlefield. All attacks aimed at the mystic are ignored unless they are made with mystical powers or artifacts – both deal only half damage. The movement is all that the character can do during the turn, and after having moved they reassumes their physical form.
+Novice<br>Whole Turn. With a passed [[Resolve]] test, the mystic assumes spirit form. This immaterial form lasts for one movement action (about 10 meters), making it possible to move through even the thickest walls, or, for that matter, through enemies on the battlefield. All attacks aimed at the mystic are ignored unless they are made with [[Mystical Powers]] or [[Artifacts]] – both deal only half damage. The movement is all that the character can do during the turn, and after having moved they reassumes their physical form.
 
 Adept<br>Reaction. The spirit form comes instinctively to the mystic. When attacked, the mystic may roll \[Resolve –Damage\] instead of a [[Defense]] test; if successful the attack passes through the mystic without dealing damage. The exceptions are mystical powers and artifacts, which deal half damage if the test is passed. The mystic immediately returns to its physical form. The mystic can choose to roll Defense as usual if they prefer, i.e. not use Ethereal Shift to avoid a specific attack.
 

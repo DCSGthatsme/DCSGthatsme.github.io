@@ -12,6 +12,7 @@ Moderate<br>Imbues a heavy crown<br>These crowns give a +1 bonus when manipulati
 `originally Iron Crown
 ## Camouflage Cape
 Moderate<br>Imbues a cape of the skin or fur of a camouflaging creature<br>The wearer has a +1 bonus to [[Subtlety]] when sneaking and hiding.
+`originally Marlit Cape`
 ## Flame Pact
 Moderate<br>Imbues any item<br>All powers with fire effects gain a +1 bonus to the effect die when used while the artifact is equipped or worn.
 `originally Spark Stone`
@@ -24,7 +25,6 @@ Weak<br>Imbues a small, arachnoid figurine<br>The artifact is placed on an open 
 ## Lucky Token
 Moderate<br>Imbues a memento<br>The token is carried in a pocket and gives a +1 bonus to one success test, once per scene. Whoever toys with such energies is at risk of suffering from the opposite effect; if the outcome of a test modified by the token is 20, the carrier will have bad luck for the rest of the scene – all success tests have a second chance to fail.
 `previously Lucky Coin`
-`originally Marlit Cape`
 ## Mystical Focus
 Strong<br>Imbues any item<br>A Crux-specific focus gives a +1 bonus on all tests related to all Mystical Powers of a certain Crux while the focus is equipped or worn, but limited to one use per scene. The bonus may be used together with other artifacts that also provide a bonus to success tests for the mystical power in question. A mystical focus is bound to the user as other, higher artifacts – that is, by spending an experience point or by willingly accepting one point in Permanent [[Corruption]].
 ## Reliquary Stone
