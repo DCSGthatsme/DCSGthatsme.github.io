@@ -58,12 +58,6 @@
       "icon": "lucide-plus-circle",
       "name": "Add file property",
       "mode": "any"
-    },
-    {
-      "id": "webviewer:open",
-      "icon": "lucide-share-2",
-      "name": "Web viewer: Open web viewer",
-      "mode": "any"
     }
   ],
   "macros": [],

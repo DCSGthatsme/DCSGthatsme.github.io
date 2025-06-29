@@ -2,7 +2,7 @@
 title: "Mystical Power: Imbuement"
 ---
 ## Ability
-Only available if `?`<br>Material: `Relevant materials`<br>Crux: `?`
+Only available if Resolve + Wit > 22<br>Material: `Relevant materials`<br>Crux: [[Captivation]]
 
 The character can imbue objects with mystical power, turning them into [[Artifacts]]. [[Alchemy]] is also a form of Imbuement specializing in objects with latent, non-mystical power.
 

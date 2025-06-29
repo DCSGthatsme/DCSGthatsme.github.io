@@ -3,7 +3,7 @@ Allow me to introduce the world.
 
 I need to do a really good job of setting the tone. Make sure players understand that the player characters aren't very exceptional. They are not heroes or adventurers. They're not supernatural and they are far from being moral, virtuous people. They are meddlesome and reprobate by our standards.
 
-Follow [[Character]].
+Follow [[Character Template]].
 
 `tribe?`
 
@@ -13,11 +13,9 @@ You may fill in your characteristics (physical, identifying) (name, age, pronoun
 ## Mechanics
 Distribute the values: 5, 7, 9, 10, 10, 11, 13, 15 among your character's Attributes.
 
-Choose traits `determine tribal relevance, probably describe some of the larger tribes and the traits available to them`
+Choose traits `determine tribal relevance, probably describe some of the larger tribes`
 
 For abilities, boons, and burdens, you get 50XP. No ability may be increased to Master. You must not have any remaining XP.
-
-`determine the role of magic in character creation`
 
 `starting items`
 ## Ideas
