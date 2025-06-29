@@ -4,7 +4,7 @@ title: "Mystical Power: Anathema"
 ## Ability
 Material: A small silver bell<br>Crux: [[Captivation]], [[Exaltation]]
 
-The mystic has studied the secrets of countering magic and can dispel the effects of other powers. Anathema does not affect rituals – their mystical bonds are too thoroughly woven and can only be dispelled by other rituals.
+The mystic has studied the secrets of countering magic and can dispel the effects of other powers. Anathema does not affect rituals.
 
 ![[Mystical Power]]
 

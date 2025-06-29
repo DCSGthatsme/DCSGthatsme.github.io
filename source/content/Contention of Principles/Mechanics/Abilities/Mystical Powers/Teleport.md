@@ -4,7 +4,7 @@ title: "Mystical Power: Teleport"
 ## Ability
 Only available if [[Resolve]] + [[Subtlety]] > 22<br>Crux: [[Fear]]<br>Material: A sharp weapon to cut the world's fabric
 
-The fearful mystics who have gone furthest in questioning the laws of nature can choose to momentarily cease to be in order to transpire again in a new location. However, there is a risk that a violent [[Phantasms|phantasm]] remains in the mystic's place and attacks a random creature – except those protected by the power Unholy Aura or whose souls are thoroughly corrupt. The phantasm that comes is determined by the Game Master based upon the mystic's characteristics.
+The fearful mystics who have gone furthest in questioning the laws of nature can choose to momentarily cease to be in order to transpire again in a new location. However, there is a risk that a violent [[Phantasms|phantasm]] remains in the mystic's place and attacks a random creature – except those protected by the power [[Loathsome Aura]] or who are thoroughly corrupt. The phantasm that comes is determined by the Game Master based upon the mystic's characteristics.
 
 ![[Mystical Power]]
 

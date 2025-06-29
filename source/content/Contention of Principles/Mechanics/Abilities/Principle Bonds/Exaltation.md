@@ -16,4 +16,4 @@ Special. The adept exalting mystic no longer suffers permanent Corruption when l
 Master
 > An effulgence shines from the master exalting mystic with the fervency of the sun; each gesture of theirs a sublime decree of unquestionable propriety.
 
-Special. The exalting mystic gains +1D4 in effect when using healing and lustrous powers, including when these damage abominations and the undead. Adding to this, the exalting mystic suffers no permanent Corruption when learning powers at master level with a crux of Exaltation.
+Special. The exalting mystic gains +1D4 in effect when using healing and lustrous powers, including when these damage corrupted targets. Adding to this, the exalting mystic suffers no permanent Corruption when learning powers at master level with a crux of Exaltation.

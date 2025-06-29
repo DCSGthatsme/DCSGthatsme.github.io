@@ -1,5 +1,5 @@
 # Ability
-Sword devotees have achieved a certain symbiosis with their swords, handling their weapons as if they were extensions of their body and soul. The sword devotion techniques may only be used with a single-handed sword with an additive [[Defense]] modifier.
+Sword devotees have achieved a certain symbiosis with their swords, handling their weapons as if they were extensions of themselves. The sword devotion techniques may only be used with a single-handed sword with an additive [[Defense]] modifier.
 
 Sword Devotee cannot be combined with the ability [[Twin Attack]] to gain additional bonuses to damage.
 

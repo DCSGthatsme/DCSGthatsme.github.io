@@ -35,8 +35,6 @@ Detrimental abilities that grant an XP cost reduction to an ability, rather than
 Abilities that are compulsory or optional for certain races.
 ### [[Mystical Powers]]
 Mystical powers are magical abilities. Each mystical power is a variant of the [[Abilities#Mystical Power|Mystical Power]] ability.
-### [[Principle Bonds]]
-Principle Bonds are abilities that are highly suggested for characters who intend to learn and use many Mystical Powers.
 ### [[Rituals]]
 Rituals are magical abilities. Learning rituals requires the [[Abilities#Ritualist|Ritualist]] ability.
 ## [[Experience]]

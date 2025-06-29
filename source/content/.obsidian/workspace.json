@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "World Guidance"
             }
+          },
+          {
+            "id": "c31e0afee45aafc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Corruption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corruption"
+            }
           }
         ]
       }
@@ -98,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 417.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -167,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -189,34 +203,34 @@
       "scribe:Scribe": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "edf2c781131d9d07",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Skills/Strong Gift.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Enslave.md",
-    "Contention of Principles/World/World Guidance.md",
-    "Contention of Principles/Mechanics/Character Creation.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Proscribe.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Quake.md",
-    "Contention of Principles/Character Template.md",
-    "Contention of Principles/Primer.md",
-    "Contention of Principles/Mechanics/Mechanics.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Imbuement.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
-    "Contention of Principles/Phantasms.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Subjugate.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Sublime Sight.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Anathema.md",
-    "Contention of Principles/Mechanics/Abilities/Soulmate.md",
-    "Contention of Principles/Mechanics/Corruption.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Teleport.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
-    "Contention of Principles/Mechanics/Abilities/Ritualist.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Reliquary Decantation.md",
-    "Contention of Principles/Mechanics/Attributes/Resolve.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Purging Fire.md",
     "Contention of Principles/Mechanics/Abilities/Principle Bonds/Principle Bonds.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Patron.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Repudiation.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
+    "Contention of Principles/Mechanics/Corruption.md",
+    "Contention of Principles/Mechanics/Abilities/Mirage.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Protective Runes.md",
+    "Contention of Principles/Mechanics/Abilities/Soulmate.md",
+    "Contention of Principles/Mechanics/Equipment/Equipment Qualities/Equipment Qualities.md",
+    "Contention of Principles/Mechanics/Abilities/Ritualist.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Judging Bonds.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
     "Contention of Principles/Mechanics/Mystical Power.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Familiar.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Break Link.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Blood Bond.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Anathema.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/False Shape.md",
+    "Contention of Principles/World/World Guidance.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Appreciation.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Tough.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Sublime Sight.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Shadow Spawn.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
+    "Contention of Principles/Primer.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Fear.md",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
     "HomeBrew/Ruins of Symbaroum",

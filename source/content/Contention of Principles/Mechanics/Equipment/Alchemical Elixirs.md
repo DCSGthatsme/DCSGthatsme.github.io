@@ -18,8 +18,6 @@ When lit, this candle emits fumes that work as an antidote on all around it.
 Moderate<br>Affects every poisoned creature in the vicinity and reduces the effect of ongoing poisons by one level – a strong poison becomes moderate, a moderate weak and a weak is neutralized.
 
 Strong<br>Does the same, but with a two level reduction: a strong poison becomes weak while moderate and weak ones are neutralized. Note that this does not affect damage already suffered.
-# Choking Spores
-Moderate<br>Choking Spores are produced from Davokar's lichens and mushrooms. The elixir is used specifically with the Strangler ability.
 # Drone Dew
 `APG`
 Moderate<br>Drone Dew is a liquid elixir made from drone spores, also containing accelerants. A person who ingests a dose of the elixir immediately falls asleep if they do not pass a Might test, and stays asleep for an hour or until suffering any damage. If the test is passed, the person is instead dazed, with the effect that they are limited to one action per turn and cannot use any active abilities for an hour.
@@ -39,9 +37,9 @@ Weak<br>A finely grained powder that emits a blinding light when thrown. Flash P
 Moderate<br>The fumes from this candle make invisible things at a location or in a room visible.
 # Herbal Cure
 Weak<br>An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1 point of [[Toughness]]. The herbal cure has greater effect if used by a character with the Medic ability.
-# Holy Water
-`APG`
-Moderate<br>Holy water, instilled with the light of Prios, can heal wounds and sooth souls. It works as a Herbal Cure with +1 on the effect test (meaning +2 [[Toughness]] if used without the ability Medicus), and it also removes 1 point of temporary [[Corruption]].
+
+Strong<br>As weak, but it also removes 1 point of temporary [[Corruption]].
+`Holy Water as Strong`
 #  Homing Arrow
 `APG`
 Weak<br>The alchemist marinates an arrow in homing essences, thereby creating an arrow that flies past other combatants, i.e. it does not require clear line of sight. However, the archer must see some part of the target and must roll a normal attack test in order to successfully hit.
@@ -76,10 +74,7 @@ Moderate<br>When made by an adept, the elixir immediately removes 1d6 temporary 
 Strong<br>The master's version removes 1d8 temporary Corruption.
 # Revealing Light
 `APG`
-Weak<br>A wax candle that when lit makes living creatures (not undead or abominations) glow softly in the dark, making it harder to stay hidden (a second chance to fail tests for sneaking up on someone, or a second chance to pass tests to discover someone sneaking). This affects everyone in the room or the vicinity, including the one who lit the candle.
-# Shadow Tint
-`APG`
-Moderate<br>This horribly sickening elixir was once used by mystics wanting to hide just how close they were to becoming thoroughly corrupt, making it a welcomed addition to all sorcerers' collections of mystical decoctions. Whomever manages to force down the sludge, distorts their shadow for a whole scene, making it appear as if the value in total [[Corruption]] is 1d6 points lower.
+Weak<br>A wax candle that when lit makes living creatures glow softly in the dark, making it harder to stay hidden (a second chance to fail tests for sneaking up on someone, or a second chance to pass tests to discover someone sneaking). This affects everyone in the room or the vicinity, including the one who lit the candle.
 # Smoke Bomb
 `APG`
 Moderate<br>The smoke bomb is a ceramic vessel that emits dense alchemical smoke when crushed, and it is used with the adept level of the ability Pyrotechnics. The smoke fills a room or covers a group of people engaged in melee combat.
@@ -101,18 +96,15 @@ Thorn BeasTy Manner Rustling and crackling Race Creeper Traits Natural Weapon (I
 Strong<br>An alchemical load that is thrown and detonates amidst a sudden, loud flash, used with the master level of the ability Pyrotechnics.
 # Transforming Draught
 `APG`
-This is a powerful mutagen which transforms the body of the user in a monstrous way. During a scene the user is twisted into a bestial half-creature and has a second chance to fail all Charisma tests until the effect wears off. The draught gives the user a monstrous trait for the rest of the scene; the level of the trait is decided by the strength of the elixir. In addition, each dose consumed deals temporary [[Corruption]], also determined by the strength of the elixir. Of course, the physical transformation and the corrupting effect is reason enough for the elixir to be banned and only available on Ambria's black market.
+This is a powerful mutagen which transforms the body of the user in monstrous ways. During a scene, the user gains a [[Monstrous Traits|Monstrous Trait]] and has a second chance to fail all [[Charisma]] tests until the effect wears off.  In addition, each dose deals temporary [[Corruption]].
 
-The following monstrous traits can be acquired, decided by the alchemist when brewing the elixir: Armored, Natural Weapon, Robust and Wings.
+When the alchemist brews the elixir, they choose one of the following Monstrous Traits for their draught to confer: [[Armored]], [[Natural Weapon]], [[Robust]], or [[Wings]].
 
 Weak<br>The draught gives the selected trait at level I, to the cost of 1d4 temporary [[Corruption]].
 
 Moderate<br>The draught gives the selected trait at level II, to the cost of 1d6 temporary Corruption.
 
 Strong<br>The draught gives the selected trait at level III, to the cost of 1d8 temporary Corruption.
-# Twilight Tincture
-`APG`
-Strong<br>This is an extract of dried stems and leaves from the extremely rare Twilight Thistle. Up until recently, the rareness of the herb (on occasion, one or a couple of stems can be found among other offerings in the ruins of Davokar, rather than an actual growing site) coupled with its moderate medical effect made it not very sought-after; it seems to have an effect on certain types of eczema and possibly also on senility if consumed. However, with the aging of the queen mother has come an increased demand from the court. Of course, the tale of how Lasifor Nightpitch bought the land on which Thistle Hold is built for an armful of Twilight Thistles gave the herb a hefty boost in popularity among fortune hunters. Lately, the twilight tincture has found another group of users, and a new area of use: it has proven capable of disguising a number of symptoms gained from being undead. Desperate unfortunates – some of them alchemists – searched for ways to hide their death marks, and someone discovered that the twilight tincture (consumed, not smeared on the skin) temporarily made an undead body come to life: the skin regained its redness, the body temperature rose, and the smell of the breath improved dramatically. The effect lasts for a week per passed \[Might –permanent [[Corruption]]\] test. If the test fails, the effect lingers for one more day before dissipating completely. On thoroughly corrupt creatures the effect only lasts for a day per dose, no test is made.
 # War Paint
 `APG`
 Weak<br>Mystically charged paints can help a warrior in combat. War paint adds +1 to either Agility or Might during an entire scene, and the warrior decides which attribute to boost when the paint is applied.

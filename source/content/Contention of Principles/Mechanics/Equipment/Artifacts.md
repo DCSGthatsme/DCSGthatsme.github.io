@@ -40,7 +40,7 @@ Strong<br>Imbues an earthen seal<br>The artifact crafter binds a [[Rituals|Ritua
 Moderate<br>Imbues a ring<br>The artifact gives a +1 bonus to all test involving powers and rituals of [[Captivation]] affecting the will of the target while worn. For example the use of, and resistance to, [[Subjugate]] and [[Telepathic Interrogation]].
 `originally Ruler's Ring`
 ## Spell Scroll
-Artifact crafters in Ordo Magica can bind a mystical power at the novice, adept, or master level (depending on the level of the artifact) to a scroll. The power may then be activated by someone else who has [[Captivation]] at a level equal to or higher than the level of the power, or someone who has the ability [[Loremaster]] at adept level`three levels in`. Whoever activates the scroll suffers temporary [[Corruption]] as usual and the scroll is spent upon activation.
+The imbuer can bind a [[Mystical Powers|Mystical Power]] they known to a scroll. The power may then be activated by someone else who has [[Captivation]] at a level equal to or higher than the level of the power. Whoever activates the scroll suffers temporary [[Corruption]] as usual and the scroll is spent upon activation.
 
 Weak<br>Imbues a scroll<br>The artifact unleashes a Novice Mystical Power.
 

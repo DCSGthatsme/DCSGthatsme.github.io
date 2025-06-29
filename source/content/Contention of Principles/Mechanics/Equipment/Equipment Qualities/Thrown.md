@@ -1,0 +1,1 @@
+A Thrown item may be used as a projectile.

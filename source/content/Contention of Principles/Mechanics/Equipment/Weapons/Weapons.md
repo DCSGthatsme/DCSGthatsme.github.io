@@ -58,7 +58,7 @@ Each weapon deals a certain amount of basic damage to the target's [[Toughness]]
 ### [[Warhammer]]
 ![[Warhammer]]
 ### Meteor Hammer
-[[Two-handed]], [[Flexible]], [[Unwieldy]]<br>1d8+1 damage
+[[Two-handed]], [[Flexible]], [[Thrown]] [[Unwieldy]]<br>1d8+1 damage
 ## Projectile Weapons
 ### [[Javelin]]
 ![[Javelin]]
