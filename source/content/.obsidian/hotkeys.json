@@ -8,5 +8,14 @@
     }
   ],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
-  "note-refactor-obsidian:app:extract-selection-content-only": []
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ]
 }

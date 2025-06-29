@@ -2,11 +2,16 @@
   "obsidian-git",
   "obsidian-text-format",
   "table-editor-obsidian",
-  "close-similar-tabs",
   "obsidian-auto-link-title",
   "remember-cursor-position",
   "folder-notes",
   "note-refactor-obsidian",
   "vault-nickname",
-  "cmdr"
+  "cmdr",
+  "broken-links",
+  "open-tab-settings",
+  "obsidian-regex-replace",
+  "recent-notes",
+  "cmd-search",
+  "anchor-display-text"
 ]

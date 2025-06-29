@@ -29,4 +29,4 @@ For abilities, boons, and burdens, you get 50XP. No ability may be increased to 
 		* XP can be a cut-and-dry reward
 		* Tragedy Points
 			* Set certain detriments, based on your flaws, to have a negative modifier on certain situational checks. When it creates a meaningful detriment, gain the modifier's amount of Tragedy Points. They may be spent for a positive modifier or spent for XP. `what ratios`
-* Any chosen magic at character creation: instant big number permanent corruption
+* Any chosen magic at character creation: instant big number permanent Corruption

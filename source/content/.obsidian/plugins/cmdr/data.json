@@ -14,6 +14,30 @@
       "icon": "lucide-plus-circle",
       "name": "Add file property",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-regex-replace:obsidian-regex-replace",
+      "icon": "lucide-replace-all",
+      "name": "Regex Find/Replace: Find and Replace using regular expressions",
+      "mode": "any"
+    },
+    {
+      "id": "cmd-search:3",
+      "icon": "lucide-book-open-text",
+      "name": "CmdSearch: Wiktionary",
+      "mode": "any"
+    },
+    {
+      "id": "cmd-search:2",
+      "icon": "lucide-book-open-text",
+      "name": "CmdSearch: Power Thesaurus",
+      "mode": "any"
+    },
+    {
+      "id": "cmd-search:1",
+      "icon": "lucide-book-open-text",
+      "name": "CmdSearch: Wikipedia",
+      "mode": "any"
     }
   ],
   "fileMenu": [],
@@ -34,6 +58,12 @@
       "icon": "lucide-plus-circle",
       "name": "Add file property",
       "mode": "any"
+    },
+    {
+      "id": "webviewer:open",
+      "icon": "lucide-share-2",
+      "name": "Web viewer: Open web viewer",
+      "mode": "any"
     }
   ],
   "macros": [],
@@ -44,7 +74,7 @@
     ],
     "leftRibbon": []
   },
-  "spacing": 8,
+  "spacing": "8",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,

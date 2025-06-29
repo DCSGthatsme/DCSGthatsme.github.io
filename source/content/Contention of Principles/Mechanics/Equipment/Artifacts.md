@@ -35,12 +35,12 @@ Weak<br>Imbues an art piece<br>A [[Rituals|Ritual]] is penned down in a codex so
 ## Ritual Focus
 Moderate<br>Imbues any item<br>A Crux-specific focus gives a +1 bonus on all tests related to all [[Rituals]] of a certain Crux while the focus is equipped or worn.
 ## Ritual Seal
-Strong<br>Imbues an earthen seal<br>The artifact crafter binds a [[Rituals|Ritual]] to a seal; when broken, the effect of the ritual is triggered. The creator of the seal need not know the ritual, but must be in the company of one who does when it is created (or have access to a ritual codex explaining the ritual; the codex is destroyed with this act). He or she who breaks the seal suffers from temporary corruption as usual.
+Strong<br>Imbues an earthen seal<br>The artifact crafter binds a [[Rituals|Ritual]] to a seal; when broken, the effect of the ritual is triggered. The creator of the seal need not know the ritual, but must be in the company of one who does when it is created (or have access to a ritual codex explaining the ritual; the codex is destroyed with this act). He or she who breaks the seal suffers from temporary [[Corruption]] as usual.
 ## Ruler's Right
 Moderate<br>Imbues a ring<br>The artifact gives a +1 bonus to all test involving powers and rituals of [[Captivation]] affecting the will of the target while worn. For example the use of, and resistance to, [[Subjugate]] and [[Telepathic Interrogation]].
 `originally Ruler's Ring`
 ## Spell Scroll
-Artifact crafters in Ordo Magica can bind a mystical power at the novice, adept, or master level (depending on the level of the artifact) to a scroll. The power may then be activated by someone else who has [[Captivation]] at a level equal to or higher than the level of the power, or someone who has the ability [[Loremaster]] at adept level`three levels in`. Whoever activates the scroll suffers temporary corruption as usual and the scroll is spent upon activation.
+Artifact crafters in Ordo Magica can bind a mystical power at the novice, adept, or master level (depending on the level of the artifact) to a scroll. The power may then be activated by someone else who has [[Captivation]] at a level equal to or higher than the level of the power, or someone who has the ability [[Loremaster]] at adept level`three levels in`. Whoever activates the scroll suffers temporary [[Corruption]] as usual and the scroll is spent upon activation.
 
 Weak<br>Imbues a scroll<br>The artifact unleashes a Novice Mystical Power.
 

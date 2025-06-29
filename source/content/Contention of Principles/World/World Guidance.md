@@ -24,6 +24,9 @@ Things are illuminated via flame. Metallurgy and other kinds of artisanry exist 
 
 Innovations tend to be pragmatic and rarely is luxury an objective. Artisans are always innovating their crafts, improving efficiency and adapting to availability.
 ## Magic
-`who can do/ does do magic, how magic is perceived, impermanence, magic not integrated in society`
+`who can do/ does do magic, how magic is perceived, impermanence, magic not integrated in society`.
 ## Geography
-`approx as big as France`
+![[World Map]]
+Cartography is not a very advanced or valued field of study in this world. The biomes present are many and varied. To the west is a harsh desert - the Expanse. It is not known if there is anything beyond the sea or beyond the Expanse.
+
+The scale implies that the world is roughly as large as real-world France.

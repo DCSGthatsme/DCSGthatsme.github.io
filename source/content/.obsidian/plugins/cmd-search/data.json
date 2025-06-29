@@ -1,0 +1,23 @@
+{
+  "links": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com/search?q=%s"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/%s"
+    },
+    {
+      "name": "Power Thesaurus",
+      "url": "https://www.powerthesaurus.org/%s/synonyms"
+    },
+    {
+      "name": "Wiktionary",
+      "url": "https://en.wiktionary.org/wiki/%s"
+    }
+  ],
+  "openSplitView": false,
+  "searchSelectedText": true,
+  "historyOption": false
+}

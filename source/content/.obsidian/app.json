@@ -1,5 +1,9 @@
 {
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Contention of Principles",
+  "focusNewTab": true
 }

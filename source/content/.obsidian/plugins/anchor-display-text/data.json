@@ -1,0 +1,7 @@
+{
+  "includeNoteName": "noteNameFirst",
+  "whichHeadings": "allHeaders",
+  "includeNotice": false,
+  "sep": " ",
+  "suggest": false
+}
