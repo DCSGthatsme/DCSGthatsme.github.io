@@ -4,7 +4,7 @@ title: "Mystical Power: Channeling"
 ## Ability
 Material: `?`<br>Crux: [[Fear]]
 
-Some sorcerers and cultists have - through exposure to dark powers - developed a capacity to endure [[Corruption]] and to attract Corruption that would have affected others. With practice, Channeling may also be used for passing Corruption on to others, as a brutal weapon.
+Some have developed a capacity to endure [[Corruption]] and to attract Corruption that would have affected others. With practice, Channeling may also be used for passing Corruption on to others, as a brutal weapon.
 
 ![[Mystical Power]]
 

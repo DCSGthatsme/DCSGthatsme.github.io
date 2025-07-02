@@ -1,84 +1,11 @@
-## Temporary Corruption
-Temporary Corruption is a momentary expression of the world's reluctance to be subdued and controlled. It fades away by itself at the end of the scene`or at the end of the scene, divide temp Corruption by 4 (round up) and roll that many d4. Heal that much temp Corruption and make the rest permanent.` but is still dangerous, since it can push a character's Total Corruption up to its [[Corruption Threshold]], or up to double its Corruption Threshold.
+As the bow flexes back to shape with the force to launch an arrow, so too does the world jerk to equilibrium with a retaliatory intensity when warped. Such times when nature is put to its limits, the transgressor accrues Corruption. Characters begin life with no Corruption, but through meddlement in magic ([[Mystical Powers]], [[Rituals]], etc.), characters can incur Corruption. Needless to say, Corruption can be a brutal detriment, as it results in [[Stigmas]] of varying horror.
 
-Actions that give temporary Corruption:
-* Using a mystic power or ritual: 1D4 temporary Corruption
-* Using tainted artifacts: varies, but mostly 1D4 temporary Corruption
-* Damage from certain creatures
-## Permanent Corruption
-Permanent Corruption means a lasting alteration of the character's essence and inner being. When permanent Corruption reaches the character's Corruption Threshold, which is half its Resolute value rounded up, the character counts as Blight-marked and receives a permanent Stigma (see Table 24). The Stigma disappears if the permanent Corruption is reduced to below the Corruption Threshold again. The character becomes Fully Corrupted if its Total Corruption (temporary+permanent) reaches or exceeds its Resolute value. Then the character cannot be saved in any way.
+There are two classes of Corruption: **Temporary Corruption** and **Permanent Corruption**. A character's **Total Corruption** is their Permanent + Temporary.
 
-Permanent Corruption is suffered when:
-* Binding an artifact to oneself to be able to use its powers: 1 Corruption (or [[Experience]]).
-* Learning a mystic power or ritual: 1 permanent Corruption.
-* A character's Total Corruption reaches the character's Corruption Threshold during a scene: 1D4 permanent Corruption.
-* If a character's Total Corruption has already reached the Corruption Threshold, the character automatically suffers 1D4 permanent Corruption if it gains Corruption during a scene.
-## Stigmas
-Unsettling but benign
-* Discolored skin
-* Blemishes of ominous shape and color
-* Reflective sheen to the eyes that is more apparent in the dark
-* Eyes that actually blacken with anger, hunger, or lust
-* Veins that bulge black when experiencing anger or other strong emotions
-* Sleep-talking of inconceivable terrors
-* Discoloration or quavering of one's shadow and/or reflection
-* Cold as a corpse or feverishly hot without any signs of sickness or disease
-* Views the world in monochrome, save for the occasional blood red object
-* Cannot drink unadulterated water
-* A phobia of starlight
-* Perceives all music and rhythm as discordant and harsh
-* Blood vessels stand out black against their skin
-* Compelled to arrange objects to point North when unhanding them
-* Bone white hair
-* Constantly drenched in sweat
-* An uncleanliness that cannot be washed away
-* Sources of flame always sway and pull towards them
-* A twitch of a limb or a slight grimace appears as if in response to an unheard rhythm. Mechanically: A brief, non-harmful penalty (such as disadvantage on a single Dexterity check) when emotional stress peaks.
+Temporary Corruption fades away by itself at the end of the scene. However, Permanent Corruption is a lasting stain on the character's essence and inner being.
 
-Horrifying but benign
-* Animalistic growths, such as hair or teeth
-* A persistent odor of decay, despite otherwise apparent healthiness
-* Taste for raw meat, must feed on fresh meat every day to avoid starvation
-* Withering and decay of nearby plants
-* Bugs surface near their feet
-* Tears of blood leak from their eyes
-* Cannot consciously cross running water
-* Appears as if they are standing in daylight when in the dark
-* The flesh of their hands painlessly rots away while their hands function normally
-* Their shadow sometimes wanders off
-* Perceives everyone to have the widest smiles or deepest frowns - no in-between
-* Boils and buboes
-* No reflection
-* Their name cannot be recalled by others while they look at their face
-* An extra finger on both hands
+When a character incurs Corruption that exceeds their [[Corruption Tolerance]] in a single instance, they receive a Minor Stigma.
 
-Unsettling and malign
-* Degradation of a vital sense to near-loss
-* Loss of appetite; must eat very slowly to avoid vomiting and requires effort to remember to eat
-* Coins seem to escape when they aren't looking; whenever they handle currency there is a 50% chance that 1d20% of the amount is lost
-* Their limbs become leaden and weighty; encumbrance increases by 1
-* Hears a different, jarring noise in their ears every few seconds which disorders their thoughts
-* Loss of knowledge of written language
-* Loss of all mental filters, subsequently voicing their thoughts aloud
-* Their internal compass is hopelessly scrambled; any attempts to navigate will always lead to being lost
-* Their palms and soles lose virtually all grip; tests involving hand strength must be succeeded twice
-* Nearby objects seem to position themselves to trip, hinder, and trap
-* Objects are physically difficult to relinquish; it always takes a movement action to drop something they are holding and throwing is impossible
-* No weight when exposed to the wind and will be blown away without adequate precautions
-* Erratic sense of time: moments of action feel abruptly snapped together
+A character is **Corrupted** if their Total Corruption surpasses their [[Corruption Limit]]. While a character is Corrupted, they incur one additional point (+1) of Permanent Corruption whenever they incur an instance of Corruption (applies to the instance that puts them past their Limit). Additionally, their Corruption Tolerance is equal to 0. At the end of the scene (before Temporary Corruption subsides), if they are still Corrupted, they will receive a Major Stigma.
 
-Horrifying and malign
-* A festering wound that does not heal
-* Food turns to ash in their mouth; they must eat twice as much to sustain themself
-* Spontaneous dismemberment
-* Spews blood from every orifice upon exacting a life, suffering 1d4 damage
-* The sun burns and blisters their skin, doing 1 damage (give 1d4 x 10 seconds or 1d4 turns before dealing again if cover is not taken)
-* Truths uttered have a chance of being inexplicably interpreted as lies by others
-* Volatile, flammable skin that will ignite if any source of flame comes within melee range
-* Their chest cavity opens and their heart hangs loose; any attacks to their front are rolled 3x
-* One of their hands does all it can to inconvenience and harm them
-* Inability to remove any armor, clothing, or other equipment they were wearing upon the development of this symptom
-* Tools have a chance of breaking spontaneously when used to accomplish a task
-* Their flesh sags loose from their bones
-* Various objects in their presence cease to be for a brief period of time
-* An ephemeral copy of an opponent resists: an aggressor which attacks, a disputant protests; one per scene
+A fate worse than death surely awaits a character whose Permanent Corruption alone exceeds their Corruption Limit.

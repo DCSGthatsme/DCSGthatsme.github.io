@@ -1,0 +1,1 @@
+Stigmas are detriments suffered by reckless incurrence of [[Corruption]].

@@ -20,7 +20,7 @@ The **setting** may be termed low fantasy, for the magic and supernatural is mos
 
 <div style="clear:both"></div>
 
-The setting explores **themes** of environmental stewardship, conflict between tradition and change, and humanity's struggle to find meaning and purpose amid chaos and futility. The narrative will also explore various other themes of universal relatability.
+The setting embodies **themes** of environmental stewardship, conflict between tradition and change, and struggles to find meaning and purpose amid chaos and futility. The narrative will also explore various other themes of universal relatability.
 
 <img src="Desert Principle.png" width="80%" style="display:block;margin:auto"/>
 

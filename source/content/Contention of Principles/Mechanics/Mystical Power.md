@@ -1,1 +1,1 @@
-The character suffers one point (1) of permanent [[Corruption]] when they learn the mystical power anew and when they increase the level of the power. The character also suffers 1D4 temporary Corruption each time the power is used.
+The character suffers one point (1) of Permanent [[Corruption]] when they learn the Mystical Power anew and when they increase the level of the Power. The character also suffers 1D4 Temporary Corruption each time the Power is used.

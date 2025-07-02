@@ -1,0 +1,1 @@
+Corruption Limit is equal to [[Resolve]].
