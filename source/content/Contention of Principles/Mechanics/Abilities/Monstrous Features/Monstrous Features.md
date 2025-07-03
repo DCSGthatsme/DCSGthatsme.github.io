@@ -1,4 +1,4 @@
-Monstrous traits are [[Abilities]] that are typically used by NPCs and are not directly available for acquisition.
+Monstrous Features are [[Abilities]] that are typically used by NPCs and are not directly available for acquisition.
 ## [[Acidic Attack]]
 ![[Acidic Attack]]
 ## [[Acidic Blood]]
@@ -37,3 +37,5 @@ Monstrous traits are [[Abilities]] that are typically used by NPCs and are not d
 ![[Web]]
 ## [[Wings]]
 ![[Wings]]
+## Notes
+* Originally "Monstrous Traits".

@@ -16,4 +16,4 @@ Master
 Active. The character can dig deeper into the collective memory. With a passed Resolute test, it gains access to the adept level of an optional Skill. The ability can be used for the rest of the scene, before fading from memory.
 
 ## Notes
-* Originally a [[Features|Trait]] from the Symbaroum Advanced Player's Guide.
+* Originally a [[Features|Feature]] (originally "Traits") from the Symbaroum Advanced Player's Guide.

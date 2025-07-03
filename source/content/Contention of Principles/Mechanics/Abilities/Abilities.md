@@ -12,7 +12,7 @@ Some abilities are gained at character creation. Abilities are typically gained 
 	* Certain Mystical Powers
 * Not available for direct purchase
 	* [[Rituals]]
-	* [[Monstrous Traits]]
+	* [[Monstrous Features]]
 	* "[[Mystical Power]]" (as if standalone)
 
 ---

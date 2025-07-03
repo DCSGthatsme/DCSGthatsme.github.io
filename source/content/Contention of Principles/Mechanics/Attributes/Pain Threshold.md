@@ -1,5 +1,0 @@
-Pain Threshold is equal to [[Might]]/2, rounded up.
-
-When a character suffers damage that exceeds their Pain Threshold in a single instance (after considering [[Defense]] and [[Protection]]), one of the following things happens. In the case of a player character taking or inflicting the damage, that player chooses which one happens.
-* The affected character is knocked prone.
-* The one who deals the damage is allowed to perform an immediate Free Attack against the affected character.

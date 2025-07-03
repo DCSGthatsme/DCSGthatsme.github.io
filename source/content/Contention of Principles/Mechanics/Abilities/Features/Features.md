@@ -1,17 +1,17 @@
-Features are [[Abilities]] which cost 5XP. Traits marked with a + may be purchased more than once. They may be gained during character creation. Otherwise, a dialog with the GM must occur before a Feature can be purchased mid-adventure.
+Features are [[Abilities]] which cost 5XP. Features marked with a `+` may be purchased more than once. They may be gained freely during [[Character Creation|character creation]]. Otherwise, a dialog with the Game Master must occur before a Feature can be purchased mid-adventure.
 ## [[Absolute Memory]]
-![[Absolute Memory]]
+![[Absolute Memory#Effect]]
 ## [[Doyen]]
-![[Doyen]]
+![[Doyen#Effect]]
 ## [[Connections]]
-![[Connections]]
+![[Connections#Effect]]
 ## [[Heirloom]]
-![[Heirloom]]
+![[Heirloom#Effect]]
 ## [[Enterprise]]
-![[Enterprise]]
+![[Enterprise#Effect]]
 ## [[Pet]]
 ![[Pet]]
 ## [[Servant]]
-![[Servant]]
+![[Servant#Effect]]
 ## Notes
-* Orignally "Traits" (though only Doyen existed originally as a Trait).
+* Orignally "Traits", though only Doyen (originally "Privileged") existed originally as a Trait.

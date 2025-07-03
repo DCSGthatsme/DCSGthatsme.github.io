@@ -9,4 +9,4 @@ Adept<br>Reaction. The character trusts their instincts and has learned that rol
 
 Master<br>Free. There resides a powerful fighting spirit within the character, and that spirit can show itself when they are backed into a corner. The character may sacrifice a Movement Action once per scene to perform an extra Primary Action.
 ## Notes
-* Originally a [[Features|Trait]].
+* Originally a [[Features|Feature]] (originally "Traits").

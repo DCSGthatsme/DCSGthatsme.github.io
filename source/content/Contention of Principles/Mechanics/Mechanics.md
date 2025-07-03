@@ -1,5 +1,5 @@
 ## [[Attributes]]
-Attributes represent a character's basic aptitudes. The main attributes are Agility, Charisma, Exactitude, Resolve, Might, Subtlety, Vigilance, and Wit. The Toughness, Pain Threshold, Defense, and Corruption Threshold attributes are derived from the main attributes.
+Attributes represent a character's basic aptitudes. The main attributes are Agility, Charisma, Exactitude, Resolve, Might, Subtlety, Vigilance, and Wit. Other attributes are derived from the main attributes.
 
 Used in a "success test". The test is successful if 1d20 ≤ (tester's attribute score + modifier).
 

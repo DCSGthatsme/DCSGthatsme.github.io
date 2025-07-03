@@ -15,15 +15,13 @@
 ## [[Wit]]
 ![[Wit]]
 ## Secondary Attributes
-The following statistics are calculated based on the character's Attributes:
-### [[Toughness]]
+The following Attributes are calculated based on the primary Attributes:
+### [[Toughness|Maximum Toughness]]
 ![[Toughness]]
-### [[Pain Threshold]]
-![[Pain Threshold]]
+### [[Pain Tolerance]]
+![[Pain Tolerance#Effect]]
 ### [[Defense]]
 ![[Defense]]
-### [[Protection]]
-![[Protection]]
 ### [[Corruption Tolerance]]
 ![[Corruption Tolerance]]
 ### [[Corruption Limit]]
@@ -32,3 +30,8 @@ The following statistics are calculated based on the character's Attributes:
 ![[Encumbrance Threshold]]
 ### [[Carrying Limit]]
 ![[Carrying Limit]]
+## Tracked Statistics
+* [[Toughness]]
+* [[Protection]]
+* [[Corruption]]
+* [[Encumbrance]]

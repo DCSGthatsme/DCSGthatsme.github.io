@@ -1,4 +1,4 @@
-The creature is a spirit; it is immaterial and can neither affect nor be affected by physical effects. A spirit whose [[Toughness]] is brought down to 0 is banished from the area for a shorter or longer period of time. Spirit Form gives access to the [[Alternative Damage]], [[Manifestation]], and [[Terrify]] [[Monstrous Traits]].
+The creature is a spirit; it is immaterial and can neither affect nor be affected by physical effects. A spirit whose [[Toughness]] is brought down to 0 is banished from the area for a shorter or longer period of time. Spirit Form gives access to the [[Alternative Damage]], [[Manifestation]], and [[Terrify]] [[Monstrous Features]].
 
 I<br>Passive. The creature can pass through barriers without problem, but cannot cross water even by bridges, boat or air. The spirit suffers half damage from weapon attacks. Alchemical effects on weapons and mystical powers deal full damage. Magical weapons deal full damage, as well.
 

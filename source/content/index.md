@@ -1,4 +1,4 @@
 ---
 title: Welcome
 ---
-First, check out the [[Primer]]. Then, [[Mechanics]].
+First, check out the [[Primer]]. Then, [[World Guidance]].

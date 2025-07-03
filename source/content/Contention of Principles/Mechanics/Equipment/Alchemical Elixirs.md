@@ -80,31 +80,31 @@ Weak<br>A wax candle that when lit makes living creatures glow softly in the dar
 Moderate<br>The smoke bomb is a ceramic vessel that emits dense alchemical smoke when crushed, and it is used with the adept level of the ability Pyrotechnics. The smoke fills a room or covers a group of people engaged in melee combat.
 # Spirit Friend
 `APG`
-Strong<br>The miraculous drug called Spirit Friend is cooked in a cauldron, but it is not the liquid that is bottled, but the vapors. The gray-white smoke is captured in small ceramic jars and inhaled when needed. Spirit Friend gives the user level I in the trait Spirit Form. The effect lasts for 1d4 turns, to the price of as many points in temporary [[Corruption]].
+Strong<br>The miraculous drug called Spirit Friend is cooked in a cauldron, but it is not the liquid that is bottled, but the vapors. The gray-white smoke is captured in small ceramic jars and inhaled when needed. Spirit Friend gives the user level I in the [[Spirit Form]] [[Monstrous Features|Monstrous Feature]]. The effect lasts for 1d4 turns, to the price of as many points in temporary [[Corruption]].
 # Spore Bomb
 Strong<br>The spore bomb is used together with the Strangler ability.
 # Stun Bolt
 `APG`
-Weak<br>The alchemist covers a crossbow bolt in a fast acting muscle relaxant; anyone hit by the bolt must pass a \[Might -Damage\] test or fall to the ground. The monstrous trait Robust gives +2 in Might per level when rolling this test.
+Weak<br>The alchemist covers a crossbow bolt in a fast acting muscle relaxant; anyone hit by the bolt must pass a \[Might -Damage\] test or fall to the ground. The [[Monstrous Features|Monstrous Feature]] [[Robust]] gives +2 in Might per level when rolling this test.
 # Thorn Beasties
 `APG`
 Moderate<br>A handful of seeds are thrown to the ground and one turn later 1d4 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live during a single scene before drying up to look like thorny dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 temporary [[Corruption]].
 
-Thorn BeasTy Manner Rustling and crackling Race Creeper Traits Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Toughness 10 Pain Threshold 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
+Thorn BeasTy Manner Rustling and crackling Race Creeper Features Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Toughness 10 Pain Tolerance 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
 # Thunder Ball
 `APG`
 Strong<br>An alchemical load that is thrown and detonates amidst a sudden, loud flash, used with the master level of the ability Pyrotechnics.
 # Transforming Draught
 `APG`
-This is a powerful mutagen which transforms the body of the user in monstrous ways. During a scene, the user gains a [[Monstrous Traits|Monstrous Trait]] and has a second chance to fail all [[Charisma]] tests until the effect wears off.  In addition, each dose deals temporary [[Corruption]].
+This is a powerful mutagen which transforms the body of the user in monstrous ways. During a scene, the user gains a [[Monstrous Features|Monstrous Feature]] and has a second chance to fail all [[Charisma]] tests until the effect wears off.  In addition, each dose deals temporary [[Corruption]].
 
-When the alchemist brews the elixir, they choose one of the following Monstrous Traits for their draught to confer: [[Armored]], [[Natural Weapon]], [[Robust]], or [[Wings]].
+When the alchemist brews the elixir, they choose one of the following Monstrous Features for their draught to confer: [[Armored]], [[Natural Weapon]], [[Robust]], or [[Wings]].
 
-Weak<br>The draught gives the selected trait at level I, to the cost of 1d4 temporary [[Corruption]].
+Weak<br>The draught gives the selected Monstrous Feature at level I, to the cost of 1d4 temporary [[Corruption]].
 
-Moderate<br>The draught gives the selected trait at level II, to the cost of 1d6 temporary Corruption.
+Moderate<br>The draught gives the selected Monstrous Feature at level II, to the cost of 1d6 temporary Corruption.
 
-Strong<br>The draught gives the selected trait at level III, to the cost of 1d8 temporary Corruption.
+Strong<br>The draught gives the selected Monstrous Feature at level III, to the cost of 1d8 temporary Corruption.
 # War Paint
 `APG`
 Weak<br>Mystically charged paints can help a warrior in combat. War paint adds +1 to either Agility or Might during an entire scene, and the warrior decides which attribute to boost when the paint is applied.
@@ -114,4 +114,4 @@ Weak<br>One loaf of this rich waybread corresponds to a week's food supply for o
 `APG`
 Weak<br>The red chewing resin called Wild Chew is a strong stimulant that makes the chewer more alert, less cautious and much more aggressive. One dose of Wild Chew moves 2 points in Subtlety, Wit, and Resolve to Agility, Might and Exactitude for the rest of the scene. During the upcoming scene, the user feels weak and has -2 on all attributes. With time, Wild Chew is highly addictive and severe withdrawal symptoms will occur unless the user consumes one dose each week, with the risk of permanent madness or death. No known drugs can counteract this.
 # Wraith Dust
-Strong<br>The wraith dust forces an incorporeal being (a creature with the monstrous trait Spirit Form) to take physical form for the duration of a scene. The dust must be thrown with a \[Exactitude←Defense\] test; if hit the spirit takes damage as living creatures do.
+Strong<br>The wraith dust forces an incorporeal being (a creature with the [[Spirit Form]] [[Monstrous Features|Monstrous Feature]]) to take physical form for the duration of a scene. The dust must be thrown with a \[[[Exactitude]]←[[Defense]]\] test; if hit the spirit takes damage as living creatures do.
