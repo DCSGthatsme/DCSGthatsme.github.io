@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Character Sheet</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    .stats-wrapper {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+    }
+    .main-stats,
+    .derived-box {
+      border: 1px solid #ccc;
+      padding: 15px;
+    }
+    .main-stats .stat-row,
+    .derived-box .derived-row {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 15px;
+    }
+    .main-stats .stat-row:last-child,
+    .derived-box .derived-row:last-child {
+      margin-bottom: 0;
+    }
+    .box {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .box label {
+      margin-bottom: 5px;
+    }
+    .box input[type="number"],
+    .box .derived-box-value {
+      width: 60px;
+      height: 60px;
+      text-align: center;
+      font-size: 1rem;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      line-height: 60px;
+      display: inline-block;
+    }
+    .box input[type="text"] {
+      width: 100px;
+      margin-top: 5px;
+      text-align: center;
+      font-size: 0.75rem;
+	  width: 70px;
+	  padding: 2px 4px;
+
+    }
+    .box .modifier {
+      margin-top: 5px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div>
+    <label for="Name">Name:</label>
+    <input type="text" id="Name">
+  </div>
+
+  <div class="stats-wrapper">
+    <div class="main-stats">
+      <div class="stat-row">
+        <div class="box">
+          <label for="A">Agility</label>
+          <input type="number" id="A">
+          <span class="modifier" id="mod-A"></span>
+        </div>
+        <div class="box">
+          <label for="C">Charisma</label>
+          <input type="number" id="C">
+          <span class="modifier" id="mod-C"></span>
+        </div>
+      </div>
+      <div class="stat-row">
+        <div class="box">
+          <label for="E">Exactitude</label>
+          <input type="number" id="E">
+          <span class="modifier" id="mod-E"></span>
+        </div>
+        <div class="box">
+          <label for="M">Might</label>
+          <input type="number" id="M">
+          <span class="modifier" id="mod-M"></span>
+        </div>
+        <div class="box">
+          <label for="R">Resolve</label>
+          <input type="number" id="R">
+          <span class="modifier" id="mod-R"></span>
+        </div>
+      </div>
+      <div class="stat-row">
+        <div class="box">
+          <label for="S">Subtlety</label>
+          <input type="number" id="S">
+          <span class="modifier" id="mod-S"></span>
+        </div>
+        <div class="box">
+          <label for="V">Vigilance</label>
+          <input type="number" id="V">
+          <span class="modifier" id="mod-V"></span>
+        </div>
+      </div>
+      <div class="stat-row">
+        <div class="box">
+          <label for="W">Wit</label>
+          <input type="number" id="W">
+          <span class="modifier" id="mod-W"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="derived-box">
+      <div class="derived-row">
+        <div class="box">
+          <label for="permCorr">Permanent Corruption</label>
+          <input type="number" id="permCorr" value="0">
+        </div>
+        <div class="box">
+          <label for="tempCorr">Temporary Corruption</label>
+          <input type="number" id="tempCorr" value="0">
+        </div>
+        <div class="box">
+          <label>Total Corruption</label>
+          <span class="derived-box-value" id="totalCorruptionValue"></span>
+        </div>
+      </div>
+      <div class="derived-row">
+        <div class="box">
+          <label>Corruption Tolerance</label>
+          <span class="derived-box-value" id="corruptionToleranceValue"></span>
+          <input type="text" id="corruptionToleranceFormula">
+        </div>
+        <div class="box">
+          <label>Corruption Limit</label>
+          <span class="derived-box-value" id="corruptionLimitValue"></span>
+          <input type="text" id="corruptionLimitFormula">
+        </div>
+      </div>
+      <div class="derived-row">
+        <div class="box">
+          <label>Pain Tolerance</label>
+          <span class="derived-box-value" id="painToleranceValue"></span>
+          <input type="text" id="painToleranceFormula">
+        </div>
+        <div class="box">
+          <label>Max Health</label>
+          <span class="derived-box-value" id="maxHealthValue"></span>
+          <input type="text" id="maxHealthFormula">
+        </div>
+        <div class="box">
+          <label for="health">Health</label>
+          <input type="number" id="health" value="10">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button id="SaveBtn">Save Character</button>
+  <button id="LoadBtn">Load Character</button>
+  <input type="file" id="FileInput" accept=".json" style="display:none">
+
+  <script>
+    const NameInput                   = document.getElementById('Name');
+    const ATTRS = [
+      { key: 'Agility',    id: 'A' },
+      { key: 'Charisma',   id: 'C' },
+      { key: 'Exactitude', id: 'E' },
+      { key: 'Might',      id: 'M' },
+      { key: 'Resolve',    id: 'R' },
+      { key: 'Subtlety',   id: 'S' },
+      { key: 'Vigilance',  id: 'V' },
+      { key: 'Wit',        id: 'W' }
+    ];
+    const Boxes                     = ATTRS.map(a => document.getElementById(a.id));
+    const Mods                      = ATTRS.map(a => document.getElementById(`mod-${a.id}`));
+    const permCorrInput             = document.getElementById('permCorr');
+    const tempCorrInput             = document.getElementById('tempCorr');
+    const totalCorruptionValue      = document.getElementById('totalCorruptionValue');
+    const corruptionToleranceValue  = document.getElementById('corruptionToleranceValue');
+    const corruptionToleranceFormula= document.getElementById('corruptionToleranceFormula');
+    const corruptionLimitValue      = document.getElementById('corruptionLimitValue');
+    const corruptionLimitFormula    = document.getElementById('corruptionLimitFormula');
+    const painToleranceValue        = document.getElementById('painToleranceValue');
+    const painToleranceFormula      = document.getElementById('painToleranceFormula');
+    const maxHealthValue            = document.getElementById('maxHealthValue');
+    const maxHealthFormula          = document.getElementById('maxHealthFormula');
+    const healthInput               = document.getElementById('health');
+    const SaveBtn                   = document.getElementById('SaveBtn');
+    const LoadBtn                   = document.getElementById('LoadBtn');
+    const FileInput                 = document.getElementById('FileInput');
+
+    const defaultTolFormula = 'ceil((R-5)/4)';
+    const defaultLimFormula = 'R';
+    const defaultPainFormula = 'ceil(M/2)';
+    const defaultHealthFormula = 'max(M,10)';
+
+    // evaluate formulas with floor/ceil/max support
+    function evalFormula(formula) {
+      let expr = formula
+        .replace(/\bfloor\(/g, 'Math.floor(')
+        .replace(/\bceil\(/g,  'Math.ceil(')
+        .replace(/\bmax\(/g,   'Math.max(');
+      ATTRS.forEach(a => {
+        const val = parseFloat(document.getElementById(a.id).value) || 0;
+        expr = expr.replace(new RegExp(`\\b${a.id}\\b`, 'g'), val);
+      });
+      try {
+        const result = Function(`"use strict";return(${expr})`)();
+        return isNaN(result) ? 'NaN' : result;
+      } catch {
+        return 'Err';
+      }
+    }
+
+    // compute derived stats
+    function computeDerived() {
+      corruptionToleranceValue.textContent =
+        evalFormula(corruptionToleranceFormula.value.trim());
+      if (corruptionToleranceFormula.value.trim() !== defaultTolFormula) {
+        corruptionToleranceFormula.style.boxShadow = '0px 0px 7px yellow';
+      } else {
+        corruptionToleranceFormula.style.boxShadow = '';
+	  }
+      corruptionLimitValue.textContent =
+        evalFormula(corruptionLimitFormula.value.trim());
+      if (corruptionLimitFormula.value.trim() !== defaultLimFormula) {
+        corruptionLimitFormula.style.boxShadow = '0px 0px 7px yellow';
+      } else {
+        corruptionLimitFormula.style.boxShadow = '';
+	  }
+      painToleranceValue.textContent =
+        evalFormula(painToleranceFormula.value.trim());
+      if (painToleranceFormula.value.trim() !== defaultPainFormula) {
+        painToleranceFormula.style.boxShadow = '0px 0px 7px yellow';
+      } else {
+        painToleranceFormula.style.boxShadow = '';
+	  }
+      maxHealthValue.textContent =
+        evalFormula(maxHealthFormula.value.trim());
+      if (maxHealthFormula.value.trim() !== defaultHealthFormula) {
+        maxHealthFormula.style.boxShadow = '0px 0px 7px yellow';
+      } else {
+        maxHealthFormula.style.boxShadow = '';
+	  }
+      computeTotalCorruption(); // recheck colors after limit updates
+    }
+
+    // compute total corruption and apply coloring
+    function computeTotalCorruption() {
+      const p = parseFloat(permCorrInput.value) || 0;
+      const t = parseFloat(tempCorrInput.value) || 0;
+      const total = p + t;
+      const limit = parseFloat(corruptionLimitValue.textContent) || 0;
+      totalCorruptionValue.textContent = total;
+      if (p > limit) {
+        totalCorruptionValue.style.backgroundColor = 'red';
+      } else if (total > limit) {
+        totalCorruptionValue.style.backgroundColor = 'yellow';
+      } else {
+        totalCorruptionValue.style.backgroundColor = '';
+      }
+    }
+	
+    function updateHealth() {
+	  const h = parseFloat(healthInput.value) || 0;
+      if (h < 1) {
+        healthInput.style.backgroundColor = 'red';
+      } else {
+        healthInput.style.backgroundColor = '';
+      }
+    }
+
+    // update a modifier
+    function updateModifier(i) {
+      const val = parseFloat(Boxes[i].value) || 0;
+      const mod = 10 - val;
+      const sign = mod >= 0 ? '+' : '';
+      Mods[i].textContent = `(${sign}${mod})`;
+    }
+
+    // wire up inputs
+    Boxes.forEach((box, i) => {
+      box.addEventListener('input', () => {
+        updateModifier(i);
+        computeDerived();
+      });
+    });
+    corruptionToleranceFormula.addEventListener('input', computeDerived);
+    corruptionLimitFormula.addEventListener('input', computeDerived);
+    painToleranceFormula.addEventListener('input', computeDerived);
+    maxHealthFormula.addEventListener('input', computeDerived);
+    permCorrInput.addEventListener('input', computeTotalCorruption);
+    tempCorrInput.addEventListener('input', computeTotalCorruption);
+    healthInput.addEventListener('input', updateHealth);
+
+    // initialize
+    corruptionToleranceFormula.value = defaultTolFormula;
+    corruptionLimitFormula.value     = defaultLimFormula;
+    painToleranceFormula.value       = defaultPainFormula;
+    maxHealthFormula.value           = defaultHealthFormula;
+    ATTRS.forEach((_, i) => updateModifier(i));
+    computeDerived();
+    computeTotalCorruption();
+
+    // save to JSON
+    SaveBtn.addEventListener('click', () => {
+      const cfg = { Name: NameInput.value.trim()};
+      ATTRS.forEach(a => {
+        cfg[a.key] = document.getElementById(a.id).value;
+      });
+      cfg['Permanent Corruption'] = permCorrInput.value || '0';
+      cfg['Temporary Corruption'] = tempCorrInput.value || '0';
+      if (corruptionToleranceFormula.value.trim() !== defaultTolFormula) {
+        cfg['Corruption Tolerance'] =
+          corruptionToleranceFormula.value.trim();
+      }
+      if (corruptionLimitFormula.value.trim() !== defaultLimFormula) {
+        cfg['Corruption Limit'] =
+          corruptionLimitFormula.value.trim();
+      }
+      if (painToleranceFormula.value.trim() !== defaultPainFormula) {
+        cfg['Pain Tolerance'] =
+          painToleranceFormula.value.trim();
+      }
+      if (maxHealthFormula.value.trim() !== defaultHealthFormula) {
+        cfg['Maximum Health'] =
+          maxHealthFormula.value.trim();
+      }
+	  cfg['Health'] = healthInput.value;
+      const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      let filename = cfg.Name + ' Character Sheet.json';
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+
+    // load from JSON
+    LoadBtn.addEventListener('click', () => FileInput.click());
+    FileInput.addEventListener('change', e => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const obj = JSON.parse(reader.result);
+          if (obj.Name) NameInput.value = obj.Name;
+          ATTRS.forEach(a => {
+            if (a.key in obj) document.getElementById(a.id).value = obj[a.key];
+          });
+          permCorrInput.value = obj['Permanent Corruption'] || '0';
+          tempCorrInput.value = obj['Temporary Corruption'] || '0';
+          corruptionToleranceFormula.value =
+            obj['Corruption Tolerance'] || defaultTolFormula;
+          corruptionLimitFormula.value =
+            obj['Corruption Limit']   || defaultLimFormula;
+          painToleranceFormula.value =
+            obj['Pain Tolerance']     || defaultPainFormula;
+          maxHealthFormula.value =
+            obj['Maximum Health']         || defaultHealthFormula;
+		  healthInput.value = obj['Health'] || '10';
+          ATTRS.forEach((_, i) => updateModifier(i));
+          computeDerived();
+        } catch {
+          alert('Invalid JSON file');
+        }
+      };
+      reader.readAsText(file);
+      FileInput.value = '';
+    });
+  </script>
+</body>
+</html>

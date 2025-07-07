@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Character Creation.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "Abilities"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "cbb51b9288ed2c13",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Items/Days' Rations.md",
     "Contention of Principles/Mechanics/Character Creation.md",
+    "Contention of Principles/Mechanics/Items/Days' Rations.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Leprosy.md",
     "Contention of Principles/Mechanics/Abilities/Features.md",
     "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
