@@ -7,6 +7,6 @@ Novice<br>Passive. The character's [[Mystical Powers]] are not affected by the [
 
 Adept<br>Passive. The character's mystical powers are not affected by the Impeding of heavy armor. The armor affects Defense as usual.
 
-Master<br>Passive. The armored mystic has transcended the limitations of the armor, and may instead benefit from it. The mystic gets +1D4 [[Protection]] while wearing armor.
+Master<br>Passive. The armored mystic has transcended the limitations of the armor, and may instead benefit from it. The mystic gets +1D4 [[Toughness]] while wearing armor.
 # Notes
 * From the Symbaroum Advanced Player's Guide.

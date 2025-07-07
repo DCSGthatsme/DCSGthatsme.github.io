@@ -1,4 +1,4 @@
-Burdens are free [[Abilities]] which grant a cost reduction to another ability. Whenever you take a burden, the next ability you take costs 5 less XP.
+Burdens are free [[Abilities]] which grant a cost reduction to another Ability. Whenever you take a Burden, the next Ability you take costs 5 less XP. Burdens marked with a `*` are [[Features]].
 ## [[Addiction]]
 ![[Addiction]]
 ## [[Arch Enemy]]
@@ -9,17 +9,17 @@ Burdens are free [[Abilities]] which grant a cost reduction to another ability. 
 ![[Code of Honor]]
 ## [[Dark Secret]]
 ![[Dark Secret]]
-## [[Elderly]]
+## [[Elderly]]*
 ![[Elderly]]
-## [[Epileptic]]
+## [[Epileptic]]*
 ![[Epileptic]]
 ## [[Impulsive]]
 ![[Impulsive]]
 ## [[Nightmares]]
 ![[Nightmares]]
-## [[Pariah]]
-![[Pariah]]
-## [[Protégé]]
+## [[Leprosy]]*
+![[Leprosy]]
+## [[Protégé]]*
 ![[Protégé]]
 ## [[Sickly]]
 ![[Sickly]]

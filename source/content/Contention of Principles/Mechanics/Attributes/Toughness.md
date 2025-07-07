@@ -1,3 +1,3 @@
-Maximum Toughness is equal to [[Might]] or is equal to 10 if Might is less than 10.
-
-Toughness begins at the Maximum Toughness and is reduced by damage. The character dies when their Toughness reaches zero – unless it is a player character, in which case they are regarded as being dying instead.
+Toughness begins at 0 and is typically improved by [[Armor]]. Damage taken from single instances is reduced by the Toughness amount.
+## Notes
+* Originally "protection" or just "armor". [[Health]] was originally "Toughness".

@@ -21,7 +21,7 @@ Weak<br>Imbues any man-made trinket<br>The imbuer chooses a memory or an imagina
 
 Moderate<br>Imbues any man-made trinket<br>Same as Weak, but the imbuer may specify the only individuals for which the record imparts an experience.
 ## Healing Spider
-Weak<br>Imbues a small, arachnoid figurine<br>The artifact is placed on an open wound, where it quickly covers itself and the wound in a web that heals 1d12 [[Toughness]] over the course of a day. The spider cannot heal damage from poison or other internal injuries. When done, the spider creeps up from the wound to be reused on new ones. The one treated by the healing spider suffers one point in Temporary [[Corruption]].`
+Weak<br>Imbues a small, arachnoid figurine<br>The artifact is placed on an open wound, where it quickly covers itself and the wound in a web that heals 1d12 [[Health]] over the course of a day. The spider cannot heal damage from poison or other internal injuries. When done, the spider creeps up from the wound to be reused on new ones. The one treated by the healing spider suffers one point in Temporary [[Corruption]].`
 ## Lucky Token
 Moderate<br>Imbues a memento<br>The token is carried in a pocket and gives a +1 bonus to one success test, once per scene. Whoever toys with such energies is at risk of suffering from the opposite effect; if the outcome of a test modified by the token is 20, the carrier will have bad luck for the rest of the scene – all success tests have a second chance to fail.
 `previously Lucky Coin`
@@ -57,7 +57,7 @@ Moderate<br>Imbues a charm<br>A special charm at the top of the staff mage's sta
 ## Transcendental Weapon
 Strong<br>Imbues a weapon<br>These artifact allows a wielder to strike from a distance. Only the imbuer can use the artifact. The attack is rolled as if in melee combat but may hit distant targets and requires a clear line of sight, just as ranged attacks. Active abilities may be used, so long as the level of the ability used is not the highest level known to the user.
 ## Unyielding Staff
-Strong<br>Imbues a staff<br>The hallmark of the staff mystic is their personal staff. In the hand of its owner, the staff emits a protective aura (+1d4 [[Protection]]).
+Strong<br>Imbues a staff<br>The hallmark of the staff mystic is their personal staff. In the hand of its owner, the staff emits a protective aura (+1d4 [[Toughness]]).
 `originally Rune Staff`
 ## Vivacious Braid
 Moderate<br>Imbues a braid of hair<br>This braid is made from three types of hair or fur and keeps death at bay, giving a +1 bonus to [[Might]] during death tests. Non-player characters with the braid get to make death tests, with the +1 bonus.

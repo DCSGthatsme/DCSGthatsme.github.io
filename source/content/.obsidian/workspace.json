@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39ec3200eca10a13",
+            "id": "72383619747275ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/World/World Guidance.md",
+                "file": "Contention of Principles/Days' Rations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Guidance"
+              "title": "Days' Rations"
+            }
+          },
+          {
+            "id": "cbb51b9288ed2c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Character Creation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Creation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contention of Principles/World/World Guidance.md",
+                "file": "Contention of Principles/Mechanics/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +164,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for World Guidance"
+              "title": "Backlinks for Character Creation"
             }
           },
           {
@@ -158,12 +173,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contention of Principles/World/World Guidance.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from World Guidance"
+              "title": "Outgoing links from Features"
+            }
+          },
+          {
+            "id": "e44dcb603de60919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Character Creation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character Creation"
             }
           }
         ],
@@ -186,34 +216,34 @@
       "recent-notes:Recent notes": true
     }
   },
-  "active": "39ec3200eca10a13",
+  "active": "cbb51b9288ed2c13",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Attributes/Attributes.md",
-    "Contention of Principles/World/World Guidance.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Imbuement.md",
-    "index.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Principle Bonds.md",
-    "Contention of Principles/Mechanics/Attributes/Protection.md",
-    "Contention of Principles/Mechanics/Attributes/Toughness.md",
-    "Contention of Principles/Mechanics/Attributes/Pain Tolerance.md",
-    "Contention of Principles/Mechanics/Corruption.md",
-    "Contention of Principles/Mechanics/Experience.md",
-    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-    "Contention of Principles/Mechanics/Go-time.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Absolute Memory.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Enterprise.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Heirloom.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Servant.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Reliquary Decantation.md",
-    "Contention of Principles/Secrets!!!.md",
+    "Contention of Principles/Mechanics/Items/Days' Rations.md",
     "Contention of Principles/Mechanics/Character Creation.md",
-    "Contention of Principles/Character Template.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Features.md",
-    "Contention of Principles/Mechanics/Abilities/Abilities.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Connections.md",
-    "Contention of Principles/Mechanics/Abilities/Features/Doyen.md",
+    "Contention of Principles/Mechanics/Abilities/Burdens/Leprosy.md",
+    "Contention of Principles/Mechanics/Abilities/Features.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Doyen.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Wisdom of the Ages.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Wrestling.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Terrify.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Survival Instinct.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Servant.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Pet.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Heirloom.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/False Shape.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Enterprise.md",
+    "Contention of Principles/Mechanics/Abilities/Burdens/Elderly.md",
+    "Contention of Principles/Mechanics/Abilities/Burdens/Burdens.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Connections.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Boons.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Elixirs.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Acidic Attack.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Absolute Memory.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Abilities/Features/Features.md",
+    "Contention of Principles/Mechanics/Abilities/Burdens/Addiction.md",
+    "Contention of Principles/Mechanics/Items/Equipment and Services.md",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
     "HomeBrew/Ruins of Symbaroum",

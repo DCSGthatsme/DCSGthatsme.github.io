@@ -1,4 +1,6 @@
-Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased more than once.
+Boons are [[Abilities]] which cost 5XP. Boons marked with a `+` may be purchased more than once. Boons marked with a `*` are [[Features]].
+## [[Absolute Memory]]*
+![[Absolute Memory#Effect]]
 ## [[Archivist]]+
 ![[Archivist]]
 ## [[Augur]]+
@@ -17,10 +19,16 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Commanding Voice]]
 ## [[Con Artist]]+
 ![[Con Artist]]
+## [[Connections]]*
+![[Connections#Effect]]
 ## [[Dexterous]]+
 ![[Dexterous]]
+## [[Doyen]]*
+![[Doyen#Effect]]
 ## [[Enduring March]]
 ![[Enduring March]]
+## [[Enterprise]]*
+![[Enterprise#Effect]]
 ## [[Escape Artist]]
 ![[Escape Artist]]
 ## [[Fire Forged]]
@@ -31,6 +39,8 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Gambler]]
 ## [[Green Thumb]]+
 ![[Green Thumb]]
+## [[Heirloom]]*
+![[Heirloom#Effect]]
 ## [[Horrifying]]+
 ![[Horrifying]]
 ## [[Impressionist]]+
@@ -45,8 +55,12 @@ Boons are [[Abilities]] which cost 5XP. Boons marked with a + may be purchased m
 ![[Pathfinder]]
 ## [[Pack-mule]]
 ![[Pack-mule]]
+## [[Pet]]*
+![[Pet]]
 ## [[Poison Resilient]]
 ![[Poison Resilient]]
+## [[Servant]]*
+![[Servant#Effect]]
 ## [[Shadow Spawn]]+
 ![[Shadow Spawn]]
 ## [[Storyteller]]+

@@ -12,4 +12,4 @@ Novice<br>Active. By rolling a successful [[Resolve]] test, the mystic calls for
 
 Adept<br>Active. The mystic can ensnare a Chain of creatures. If the mystic manages to ensnare a target with a successful Resolve test, then they can attempt to snare another one, and so on until an attempt fails. Starting the following turn, a \[Resolve←Might\] test is made for each target to determine how many of them remain ensnared.
 
-Master<br>Active. The mystic creates an entangling Chain of thorns. Those ensnared with a \[Resolve←Might\] test also suffers 1D6 damage per turn from their thorny prison. The sharp thorns find gaps in the target's armor, so [[Protection]] is ignored.
+Master<br>Active. The mystic creates an entangling Chain of thorns. Those ensnared with a \[Resolve←Might\] test also suffers 1D6 damage per turn from their thorny prison. The sharp thorns find gaps in the target's armor, so [[Toughness]] is ignored.

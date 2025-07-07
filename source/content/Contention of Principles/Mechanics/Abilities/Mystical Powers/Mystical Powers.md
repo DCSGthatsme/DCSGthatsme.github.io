@@ -87,3 +87,5 @@ Mystical powers are magical [[Abilities]]. Each mystical power is a variant of t
 ![[Unnoticeable#Ability]]
 ## [[Wild Hunt]]
 ![[Wild Hunt#Ability]]
+## [[Wisdom of the Ages]]
+![[Wisdom of the Ages#Ability]]

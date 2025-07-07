@@ -26,7 +26,7 @@ Moderate<br>These drops will immediately return the gift of sight to a temporari
 # Elemental Essence
 Moderate<br>When applying a dose of elemental essence, either one weapon, four throwing weapons, or all the arrows/bolts in a quiver deal, 1D4 elemental damage for the duration of a scene. The alchemist must choose which element to prepare: fire, cold, acid or lightning.
 # Elixir of Life
-Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of [[Toughness]] during 1D6 turns, on the character's turns. Sadly, the character also suffers 1 temporary [[Corruption]] for each turn the elixir is in effect.
+Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of [[Health]] during 1D6 turns, on the character's turns. Sadly, the character also suffers 1 temporary [[Corruption]] for each turn the elixir is in effect.
 # Fire Dye
 `APG`
 Weak<br>Fire dye consists of salts that change the color of any fire they are cast into. If the colors are ascribed a specific meaning known to the user and an allied observer it can be used for signaling over long distances. They are also used for entertainment among the wealthy, and by charlatans to impress commoners.
@@ -36,7 +36,7 @@ Weak<br>A finely grained powder that emits a blinding light when thrown. Flash P
 # Ghost Candle
 Moderate<br>The fumes from this candle make invisible things at a location or in a room visible.
 # Herbal Cure
-Weak<br>An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1 point of [[Toughness]]. The herbal cure has greater effect if used by a character with the Medic ability.
+Weak<br>An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1 point of [[Health]]. The herbal cure has greater effect if used by a character with the Medic ability.
 
 Strong<br>As weak, but it also removes 1 point of temporary [[Corruption]].
 `Holy Water as Strong`
@@ -62,7 +62,7 @@ Moderate<br>Deals 2 damage per turn
 
 Strong<br>3 damage per turn
 # Protective Oil
-Moderate<br>The alchemical oil protects against elemental damage by providing +1D4 [[Protection]] against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.
+Moderate<br>The alchemical oil protects against elemental damage by providing +1D4 [[Toughness]] against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.
 # Purple Sap
 `APG`
 The Purple Sap is made from a decoction of the rare purple Lily of the Valley. The elixir has no effect on permanent [[Corruption]] or stigmas which have already appeared on the user.
@@ -90,7 +90,7 @@ Weak<br>The alchemist covers a crossbow bolt in a fast acting muscle relaxant; a
 `APG`
 Moderate<br>A handful of seeds are thrown to the ground and one turn later 1d4 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live during a single scene before drying up to look like thorny dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 temporary [[Corruption]].
 
-Thorn BeasTy Manner Rustling and crackling Race Creeper Features Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Toughness 10 Pain Tolerance 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
+Thorn BeasTy Manner Rustling and crackling Race Creeper Features Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Health 10 Pain Tolerance 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
 # Thunder Ball
 `APG`
 Strong<br>An alchemical load that is thrown and detonates amidst a sudden, loud flash, used with the master level of the ability Pyrotechnics.

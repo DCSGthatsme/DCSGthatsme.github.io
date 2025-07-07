@@ -5,7 +5,7 @@ The mystic is accompanied by a guardian which manifests as a warrior of light th
 
 A Patron is handled by the player as if it was an additional character. It gains [[Experience]] as a player character, but loses it if it dies (no death tests allowed).
 
-A Patron has the [[Spirit Form]] (I) [[Monstrous Features|Monstrous Feature]], and starts with the following statistics: [[Exactitude]] 13, [[Charisma]] 5, [[Wit]] 7, [[Subtlety]] 9, [[Agility]] 15, [[Resolve]] 10, [[Might]] 11, [[Vigilance]] 10 Weapons [[Flail]] of light 1D6 [[Defense]] 15 (Dodge) Armor Half damage (see Spirit Form I) [[Toughness]] 11 [[Pain Tolerance]] 6
+A Patron has the [[Spirit Form]] (I) [[Monstrous Features|Monstrous Feature]], and starts with the following statistics: [[Exactitude]] 13, [[Charisma]] 5, [[Wit]] 7, [[Subtlety]] 9, [[Agility]] 15, [[Resolve]] 10, [[Might]] 11, [[Vigilance]] 10 Weapons [[Flail]] of light 1D6 [[Defense]] 15 (Dodge) Armor Half damage (see Spirit Form I) [[Health]] 11 [[Pain Tolerance]] 6
 
 Patrons cannot be equipped with weapons and armor. However, if the saint uses their experience to gain an Ability related to some kind of weapon, the Light Flail transforms accordingly.
 

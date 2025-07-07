@@ -1,15 +1,11 @@
 Some abilities are gained at character creation. Abilities are typically gained or improved using [[Experience]].
 
-* Available
+* Available, except for [[Features]] and those with [[Attributes|Attribute]] requirements
 	* Most [[Skills]]
 	* Most [[Mystical Powers]]
 	* [[Ritualist]]
 	* [[Boons]]
 	* [[Burdens]]
-* Limited availability
-	* [[Features]]
-	* Certain Skills
-	* Certain Mystical Powers
 * Not available for direct purchase
 	* [[Rituals]]
 	* [[Monstrous Features]]

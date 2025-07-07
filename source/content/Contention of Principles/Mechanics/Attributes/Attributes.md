@@ -1,13 +1,16 @@
+Attributes are the core determining factor in a character's success when they face challenges. They are tracked as numerical values, typically from 0 to 20. Attributes tend not to change dramatically, but they can generally be improved.
+## Primary Attributes
+The primary Attributes form the foundation for a character's aptitudes. Whenever a player character attempts to perform an action, the player may be required to make a success test. In the absence of any modifiers, the action is successful if the character's Attribute is greater than or equal to the value rolled on a d20. Therefore, the greater a value the character has in a certain Attribute, the more likely they are to succeed when undertaking challenges which benefit from such an aptitude.
 ## [[Agility]]
 ![[Agility]]
 ## [[Charisma]]
 ![[Charisma]]
 ## [[Exactitude]]
 ![[Exactitude]]
-## [[Resolve]]
-![[Resolve]]
 ## [[Might]]
 ![[Might]]
+## [[Resolve]]
+![[Resolve]]
 ## [[Subtlety]]
 ![[Subtlety]]
 ## [[Vigilance]]
@@ -16,8 +19,8 @@
 ![[Wit]]
 ## Secondary Attributes
 The following Attributes are calculated based on the primary Attributes:
-### [[Toughness|Maximum Toughness]]
-![[Toughness]]
+### [[Health|Maximum Health]]
+![[Health]]
 ### [[Pain Tolerance]]
 ![[Pain Tolerance#Effect]]
 ### [[Defense]]
@@ -30,8 +33,9 @@ The following Attributes are calculated based on the primary Attributes:
 ![[Encumbrance Threshold]]
 ### [[Carrying Limit]]
 ![[Carrying Limit]]
-## Tracked Statistics
+## Tracked Values
+* [[Health]]
 * [[Toughness]]
-* [[Protection]]
 * [[Corruption]]
 * [[Encumbrance]]
+* [[Experience]]

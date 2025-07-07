@@ -1,4 +1,4 @@
-Each weapon deals a certain amount of basic damage to the target's [[Toughness]], indicated by a specific die. Some weapons also have qualities that affect how they are used. Furthermore, some abilities can make it possible to use a weapon in other or more refined ways. In these cases, it is important to read the description of the ability thoroughly, to know exactly what the weapon can do in the hands of an experienced character.
+Each weapon deals a certain amount of basic damage to the target's [[Health]], indicated by a specific die. Some weapons also have qualities that affect how they are used. Furthermore, some abilities can make it possible to use a weapon in other or more refined ways. In these cases, it is important to read the description of the ability thoroughly, to know exactly what the weapon can do in the hands of an experienced character.
 ## Single-handed Weapons
 ### [[Warpick]]
 ![[Warpick]]

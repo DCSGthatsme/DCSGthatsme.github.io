@@ -1,27 +1,11 @@
----
-draft: "true"
----
-## Character
- [[Character Template]]
+The first step to character creation is to fill out the [[Character Template]], which the Game Master will guide you through.
+## Attributes
+The character's [[Attributes]] should be determined by your finished character template.
+## Items
+All characters start with 50 [[Days' Rations]], a sleeping roll, cooking equipment, and firewood. Trinkets and memorabilia suited to the character’s backstory may be added at no cost.
 
-`tribe?`
+All characters begin with a dagger. Additionally, the character receives any weapons associated with Abilities they acquire in character creation. If they do not take any such Ability, they may instead take a staff, a single-handed weapon, or a ranged weapon.
 
-You may fill in your characteristics (physical, identifying) (name, age, pronouns, physical specifications). Return once more after completing the rest of character creation to fill out or tweak.
-
-`Relationships/bonds between PCs?`
-## Mechanics
-Distribute the values: 5, 7, 9, 10, 10, 11, 13, 15 among your character's Attributes.
-
+The character starts with a light armor. If a player should want heavier armor, then they have to purchase it with their starting funds. It may be wise to purchase armor with a low [[Impeding]], should you be able to afford it.
+## Abilities
 You get 60 [[Experience]] which you may spend on [[Abilities]]. No Ability may be increased to Master. You must not have any remaining XP. Note that this is the only time to freely consider [[Features]].
-
-`starting items`
-## Ideas
-* Character <-> Mechanics integration
-	* something like the bonds system in Nobilis?
-		* for a to-hit system: save the difference of a relevant failing roll to add to another roll later, inspiration-style
-	* Player choice on how hard each flaw detriments, with more reward for higher hurt
-		* maybe have a set spread of detriment effects, where each player must associate each effect with a flaw of theirs
-		* XP can be a cut-and-dry reward
-		* Tragedy Points
-			* Set certain detriments, based on your flaws, to have a negative modifier on certain situational checks. When it creates a meaningful detriment, gain the modifier's amount of Tragedy Points. They may be spent for a positive modifier or spent for XP. `what ratios`
-* Any chosen magic at character creation: instant big number permanent Corruption
