@@ -70,54 +70,54 @@
     <label for="Name">Name:</label>
     <input type="text" id="Name">
   </div>
-
+  <br>
   <div class="stats-wrapper">
     <div class="main-stats">
       <div class="stat-row">
         <div class="box">
           <label for="A">Agility</label>
-          <input type="number" id="A">
+          <input type="number" min="0" id="A">
           <span class="modifier" id="mod-A"></span>
         </div>
         <div class="box">
           <label for="C">Charisma</label>
-          <input type="number" id="C">
+          <input type="number" min="0" id="C">
           <span class="modifier" id="mod-C"></span>
         </div>
       </div>
       <div class="stat-row">
         <div class="box">
           <label for="E">Exactitude</label>
-          <input type="number" id="E">
+          <input type="number" min="0" id="E">
           <span class="modifier" id="mod-E"></span>
         </div>
         <div class="box">
           <label for="M">Might</label>
-          <input type="number" id="M">
+          <input type="number" min="0" id="M">
           <span class="modifier" id="mod-M"></span>
         </div>
         <div class="box">
           <label for="R">Resolve</label>
-          <input type="number" id="R">
+          <input type="number" min="0" id="R">
           <span class="modifier" id="mod-R"></span>
         </div>
       </div>
       <div class="stat-row">
         <div class="box">
           <label for="S">Subtlety</label>
-          <input type="number" id="S">
+          <input type="number" min="0" id="S">
           <span class="modifier" id="mod-S"></span>
         </div>
         <div class="box">
           <label for="V">Vigilance</label>
-          <input type="number" id="V">
+          <input type="number" min="0" id="V">
           <span class="modifier" id="mod-V"></span>
         </div>
       </div>
       <div class="stat-row">
         <div class="box">
           <label for="W">Wit</label>
-          <input type="number" id="W">
+          <input type="number" min="0" id="W">
           <span class="modifier" id="mod-W"></span>
         </div>
       </div>
@@ -127,55 +127,56 @@
       <div class="derived-row">
         <div class="box">
           <label for="permCorr">Permanent Corruption</label>
-          <input type="number" id="permCorr" value="0">
+          <input type="number" min="0" id="permCorr" value="0">
         </div>
         <div class="box">
           <label for="tempCorr">Temporary Corruption</label>
-          <input type="number" id="tempCorr" value="0">
+          <input type="number" min="0" id="tempCorr" value="0">
         </div>
         <div class="box">
           <label>Total Corruption</label>
-          <span class="derived-box-value" id="totalCorruptionValue"></span>
+          <span class="derived-box-value" id="totalCorruption"></span>
+			<input type="text" id="totalCorruptionFormula" style="display:none">
         </div>
       </div>
       <div class="derived-row">
         <div class="box">
           <label>Corruption Tolerance</label>
-          <span class="derived-box-value" id="corruptionToleranceValue"></span>
+          <span class="derived-box-value" id="corruptionTolerance"></span>
           <input type="text" id="corruptionToleranceFormula">
         </div>
         <div class="box">
           <label>Corruption Limit</label>
-          <span class="derived-box-value" id="corruptionLimitValue"></span>
+          <span class="derived-box-value" id="corruptionLimit"></span>
           <input type="text" id="corruptionLimitFormula">
         </div>
       </div>
       <div class="derived-row">
         <div class="box">
           <label>Pain Tolerance</label>
-          <span class="derived-box-value" id="painToleranceValue"></span>
+          <span class="derived-box-value" id="painTolerance"></span>
           <input type="text" id="painToleranceFormula">
         </div>
         <div class="box">
-          <label>Max Health</label>
-          <span class="derived-box-value" id="maxHealthValue"></span>
+          <label>Maximum Health</label>
+          <span class="derived-box-value" id="maxHealth"></span>
           <input type="text" id="maxHealthFormula">
         </div>
         <div class="box">
           <label for="health">Health</label>
-          <input type="number" id="health" value="10">
+          <input type="number" min="0" id="health">
         </div>
       </div>
     </div>
   </div>
-
+  <br>
   <button id="SaveBtn">Save Character</button>
   <button id="LoadBtn">Load Character</button>
   <input type="file" id="FileInput" accept=".json" style="display:none">
 
   <script>
-    const NameInput                   = document.getElementById('Name');
-    const ATTRS = [
+    const NameInput = document.getElementById('Name');
+    const primaryAttributeData = [
       { key: 'Agility',    id: 'A' },
       { key: 'Charisma',   id: 'C' },
       { key: 'Exactitude', id: 'E' },
@@ -185,28 +186,29 @@
       { key: 'Vigilance',  id: 'V' },
       { key: 'Wit',        id: 'W' }
     ];
-    const Boxes                     = ATTRS.map(a => document.getElementById(a.id));
-    const Mods                      = ATTRS.map(a => document.getElementById(`mod-${a.id}`));
-    const permCorrInput             = document.getElementById('permCorr');
-    const tempCorrInput             = document.getElementById('tempCorr');
-    const totalCorruptionValue      = document.getElementById('totalCorruptionValue');
-    const corruptionToleranceValue  = document.getElementById('corruptionToleranceValue');
-    const corruptionToleranceFormula= document.getElementById('corruptionToleranceFormula');
-    const corruptionLimitValue      = document.getElementById('corruptionLimitValue');
-    const corruptionLimitFormula    = document.getElementById('corruptionLimitFormula');
-    const painToleranceValue        = document.getElementById('painToleranceValue');
-    const painToleranceFormula      = document.getElementById('painToleranceFormula');
-    const maxHealthValue            = document.getElementById('maxHealthValue');
-    const maxHealthFormula          = document.getElementById('maxHealthFormula');
-    const healthInput               = document.getElementById('health');
-    const SaveBtn                   = document.getElementById('SaveBtn');
-    const LoadBtn                   = document.getElementById('LoadBtn');
-    const FileInput                 = document.getElementById('FileInput');
+	const derivedAttributeData = [
+	  { key: 'Total Corruption',     id: 'totalCorruption', formula: 'Permanent Corruption + Temporary Corruption'},
+	  { key: 'Corruption Tolerance', id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
+	  { key: 'Corruption Limit',     id: 'corruptionLimit', formula: 'R'},
+	  { key: 'Pain Tolerance',       id: 'painTolerance', formula: 'ceil(M/2)'},
+	  { key: 'Maximum Health',       id: 'maxHealth', formula: 'max(M,10)'}
+	];
+	const trackedStatData = [
+	  { key: 'Permanent Corruption', id: 'permCorr'},
+	  { key: 'Temporary Corruption', id: 'tempCorr' },
+	  { key: 'Health',               id: 'health' }
+	];
 
-    const defaultTolFormula = 'ceil((R-5)/4)';
-    const defaultLimFormula = 'R';
-    const defaultPainFormula = 'ceil(M/2)';
-    const defaultHealthFormula = 'max(M,10)';
+    const primaryAttributes = primaryAttributeData.map(a => [a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id}]);
+	
+	const derivedAttributes = derivedAttributeData.map(a => [a.key, {element: document.getElementById(a.id), formulaElement: document.getElementById(`${a.id}Formula`), formula: a.formula}]);
+	
+	const trackedStats = trackedStatData.map(a => [a.key, {element: document.getElementById(a.id)}]);
+	
+    const SaveBtn   = document.getElementById('SaveBtn');
+    const LoadBtn   = document.getElementById('LoadBtn');
+    const FileInput = document.getElementById('FileInput');
+
 
     // evaluate formulas with floor/ceil/max support
     function evalFormula(formula) {
@@ -214,9 +216,14 @@
         .replace(/\bfloor\(/g, 'Math.floor(')
         .replace(/\bceil\(/g,  'Math.ceil(')
         .replace(/\bmax\(/g,   'Math.max(');
-      ATTRS.forEach(a => {
-        const val = parseFloat(document.getElementById(a.id).value) || 0;
-        expr = expr.replace(new RegExp(`\\b${a.id}\\b`, 'g'), val);
+      trackedStats.forEach(a => {
+        const val = parseFloat(a[1].element.value) || 0;
+        expr = expr.replace(new RegExp(`\\b${a[0]}\\b`, 'g'), val);
+      });
+      primaryAttributes.forEach(a => {
+        const val = parseFloat(a[1].element.value) || 0;
+        expr = expr.replace(new RegExp(`\\b${a[0]}\\b`, 'g'), val);
+        expr = expr.replace(new RegExp(`\\b${a[1].abbr}\\b`, 'g'), val);
       });
       try {
         const result = Function(`"use strict";return(${expr})`)();
@@ -226,121 +233,63 @@
       }
     }
 
-    // compute derived stats
-    function computeDerived() {
-      corruptionToleranceValue.textContent =
-        evalFormula(corruptionToleranceFormula.value.trim());
-      if (corruptionToleranceFormula.value.trim() !== defaultTolFormula) {
-        corruptionToleranceFormula.style.boxShadow = '0px 0px 7px yellow';
-      } else {
-        corruptionToleranceFormula.style.boxShadow = '';
-	  }
-      corruptionLimitValue.textContent =
-        evalFormula(corruptionLimitFormula.value.trim());
-      if (corruptionLimitFormula.value.trim() !== defaultLimFormula) {
-        corruptionLimitFormula.style.boxShadow = '0px 0px 7px yellow';
-      } else {
-        corruptionLimitFormula.style.boxShadow = '';
-	  }
-      painToleranceValue.textContent =
-        evalFormula(painToleranceFormula.value.trim());
-      if (painToleranceFormula.value.trim() !== defaultPainFormula) {
-        painToleranceFormula.style.boxShadow = '0px 0px 7px yellow';
-      } else {
-        painToleranceFormula.style.boxShadow = '';
-	  }
-      maxHealthValue.textContent =
-        evalFormula(maxHealthFormula.value.trim());
-      if (maxHealthFormula.value.trim() !== defaultHealthFormula) {
-        maxHealthFormula.style.boxShadow = '0px 0px 7px yellow';
-      } else {
-        maxHealthFormula.style.boxShadow = '';
-	  }
-      computeTotalCorruption(); // recheck colors after limit updates
-    }
+    function updateAll() {
+      // update modifiers
+	  primaryAttributes.forEach(a => {
+		const val = parseFloat(a[1].element.value) || 0;
+		const mod = 10 - val;
+		const sign = mod >= 0 ? '+' : '';
+		a[1].modifier.textContent = `(${sign}${mod})`;
+	  });
+	  
+	  // update derived attributes
+	  derivedAttributes.forEach(a => {
+		a[1].element.textContent = evalFormula(a[1].formulaElement.value.trim());
+		if (a[1].formulaElement.value.trim() !== a[1].formula){
+		  a[1].formulaElement.style.boxShadow = '0px 0px 7px yellow';
+		} else {
+		  a[1].formulaElement.style.boxShadow = '';
+		}
+	  });
+	  
+	  //color corruption of limit surpassed
+	  //set corrtolerance to 0 and gray if limit surpassed
+	  //set health to red when <1
+	}
 
-    // compute total corruption and apply coloring
-    function computeTotalCorruption() {
-      const p = parseFloat(permCorrInput.value) || 0;
-      const t = parseFloat(tempCorrInput.value) || 0;
-      const total = p + t;
-      const limit = parseFloat(corruptionLimitValue.textContent) || 0;
-      totalCorruptionValue.textContent = total;
-      if (p > limit) {
-        totalCorruptionValue.style.backgroundColor = 'red';
-      } else if (total > limit) {
-        totalCorruptionValue.style.backgroundColor = 'yellow';
-      } else {
-        totalCorruptionValue.style.backgroundColor = '';
-      }
-    }
+    // initialize		
+	primaryAttributes.forEach(a => {
+	  a[1].element.addEventListener('input', () => {
+		updateAll();
+	  });
+	});
+	derivedAttributes.forEach(a => {
+	  a[1].formulaElement.addEventListener('input', () => {
+		updateAll();
+	  });
+	  a[1].formulaElement.value = a[1].formula;
+	});
+	trackedStats.forEach(a => {
+	  a[1].element.addEventListener('input', () => {
+		updateAll();
+	  });
+	});
+	updateAll();
 	
-    function updateHealth() {
-	  const h = parseFloat(healthInput.value) || 0;
-      if (h < 1) {
-        healthInput.style.backgroundColor = 'red';
-      } else {
-        healthInput.style.backgroundColor = '';
-      }
-    }
-
-    // update a modifier
-    function updateModifier(i) {
-      const val = parseFloat(Boxes[i].value) || 0;
-      const mod = 10 - val;
-      const sign = mod >= 0 ? '+' : '';
-      Mods[i].textContent = `(${sign}${mod})`;
-    }
-
-    // wire up inputs
-    Boxes.forEach((box, i) => {
-      box.addEventListener('input', () => {
-        updateModifier(i);
-        computeDerived();
-      });
-    });
-    corruptionToleranceFormula.addEventListener('input', computeDerived);
-    corruptionLimitFormula.addEventListener('input', computeDerived);
-    painToleranceFormula.addEventListener('input', computeDerived);
-    maxHealthFormula.addEventListener('input', computeDerived);
-    permCorrInput.addEventListener('input', computeTotalCorruption);
-    tempCorrInput.addEventListener('input', computeTotalCorruption);
-    healthInput.addEventListener('input', updateHealth);
-
-    // initialize
-    corruptionToleranceFormula.value = defaultTolFormula;
-    corruptionLimitFormula.value     = defaultLimFormula;
-    painToleranceFormula.value       = defaultPainFormula;
-    maxHealthFormula.value           = defaultHealthFormula;
-    ATTRS.forEach((_, i) => updateModifier(i));
-    computeDerived();
-    computeTotalCorruption();
-
     // save to JSON
     SaveBtn.addEventListener('click', () => {
       const cfg = { Name: NameInput.value.trim()};
-      ATTRS.forEach(a => {
-        cfg[a.key] = document.getElementById(a.id).value;
+      primaryAttributes.forEach(a => {
+        cfg[a[0]] = a[1].element.value;
       });
-      cfg['Permanent Corruption'] = permCorrInput.value || '0';
-      cfg['Temporary Corruption'] = tempCorrInput.value || '0';
-      if (corruptionToleranceFormula.value.trim() !== defaultTolFormula) {
-        cfg['Corruption Tolerance'] =
-          corruptionToleranceFormula.value.trim();
-      }
-      if (corruptionLimitFormula.value.trim() !== defaultLimFormula) {
-        cfg['Corruption Limit'] =
-          corruptionLimitFormula.value.trim();
-      }
-      if (painToleranceFormula.value.trim() !== defaultPainFormula) {
-        cfg['Pain Tolerance'] =
-          painToleranceFormula.value.trim();
-      }
-      if (maxHealthFormula.value.trim() !== defaultHealthFormula) {
-        cfg['Maximum Health'] =
-          maxHealthFormula.value.trim();
-      }
-	  cfg['Health'] = healthInput.value;
+	  derivedAttributes.forEach(a => {
+		if (a[1].formulaElement.value.trim() !== a[1].formula) {
+		  cfg[a[0]] = a[1].formulaElement.value.trim()
+		}
+	  });
+      trackedStats.forEach(a => {
+        cfg[a[0]] = a[1].element.value;
+      });
       const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
       let filename = cfg.Name + ' Character Sheet.json';
@@ -363,22 +312,16 @@
         try {
           const obj = JSON.parse(reader.result);
           if (obj.Name) NameInput.value = obj.Name;
-          ATTRS.forEach(a => {
-            if (a.key in obj) document.getElementById(a.id).value = obj[a.key];
+          primaryAttributes.forEach(a => {
+            if (a[0] in obj) a[1].element.value = obj[a[0]];
           });
-          permCorrInput.value = obj['Permanent Corruption'] || '0';
-          tempCorrInput.value = obj['Temporary Corruption'] || '0';
-          corruptionToleranceFormula.value =
-            obj['Corruption Tolerance'] || defaultTolFormula;
-          corruptionLimitFormula.value =
-            obj['Corruption Limit']   || defaultLimFormula;
-          painToleranceFormula.value =
-            obj['Pain Tolerance']     || defaultPainFormula;
-          maxHealthFormula.value =
-            obj['Maximum Health']         || defaultHealthFormula;
-		  healthInput.value = obj['Health'] || '10';
-          ATTRS.forEach((_, i) => updateModifier(i));
-          computeDerived();
+		  derivedAttributes.forEach(a => {
+			a[1].formulaElement.value = obj[a[0]] || a[1].formula;
+		  });
+          trackedStats.forEach(a => {
+            if (a[0] in obj) a[1].element.value = obj[a[0]];
+          });
+		  updateAll();
         } catch {
           alert('Invalid JSON file');
         }
