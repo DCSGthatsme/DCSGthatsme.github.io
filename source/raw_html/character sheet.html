@@ -132,11 +132,11 @@
       <div class="derived-row">
         <div class="box">
           <label for="permCorr">Permanent Corruption</label>
-          <input type="number" min="0" id="permCorr" value="0">
+          <input type="number" min="0" id="permCorr">
         </div>
         <div class="box">
           <label for="tempCorr">Temporary Corruption</label>
-          <input type="number" min="0" id="tempCorr" value="0">
+          <input type="number" min="0" id="tempCorr">
         </div>
         <div class="box">
           <label>Total Corruption</label>
@@ -342,6 +342,9 @@
 	});
 	derivedAttributes.forEach(function(attrData,attr){
 	  attrData.formulaElement.addEventListener('input', updateAll);
+	  if(attrData.formulaElement.value == ''){
+		attrData.formulaElement.value = attrData.formula;
+	  }
 	});
 	trackedStats.forEach(function(attrData,attr){
 	  attrData.element.addEventListener('input', updateAll);
@@ -360,7 +363,9 @@
 		}
 	  });
       trackedStats.forEach(function(attrData,attr){
-        cfg[attr] = attrData.element.value;
+		if (attrData.element.value !== '') {
+		  cfg[attr] = attrData.element.value;
+		}
       });
       const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
@@ -391,7 +396,7 @@
 			attrData.formulaElement.value = obj[attr] || attrData.formula;
 		  });
           trackedStats.forEach(function(attrData,attr){
-            if (attr in obj) attrData.element.value = obj[attr];
+            if (attr in obj) attrData.element.value = obj[attr] || 0;
           });
 		  updateAll();
         } catch {
