@@ -5,7 +5,7 @@
   <title>Character Sheet</title>
   <style>
     body {
-      font-family: sans-serif;
+      font-family: "Roboto Slab", sans-serif;
       padding: 20px;
     }
     .stats-wrapper {
@@ -38,7 +38,8 @@
       margin-bottom: 5px;
     }
     .box input[type="number"],
-    .box .derived-box-value {
+    .box .derived-box-value,
+    .squarebox {
       width: 60px;
       height: 60px;
       text-align: center;
@@ -49,16 +50,19 @@
       line-height: 60px;
       display: inline-block;
     }
-    .box input[type="text"] {
-      width: 100px;
+    .box input[type="text"]:not(.squarebox) {
       margin-top: 5px;
       text-align: center;
-      font-size: 0.75rem;
-	  width: 70px;
-	  padding: 2px 4px;
+      font-size: 0.55rem;
+	  width: 5.4em;
+	  padding: 1px 4px;
 
     }
+	input, button {
+      font-family: "Cabin", sans-serif;
+	}
     .box .modifier {
+      font-family: "Cabin", sans-serif;
       margin-top: 5px;
       color: #555;
     }
@@ -67,8 +71,9 @@
 <body>
 
   <div>
-    <label for="Name">Name:</label>
-    <input type="text" id="Name">
+    <label for="Name">Name</label>
+	<br>
+    <input type="text" id="Name" style="font-size: 1.7rem; font-family: 'Roboto Slab', 'sans-serif';" size="16">
   </div>
   <br>
   <div class="stats-wrapper">
@@ -167,6 +172,43 @@
           <input type="number" min="0" id="health">
         </div>
       </div>
+      <div class="derived-row">
+        <div class="box">
+          <label>Defense</label>
+          <span class="derived-box-value" id="defense"></span>
+          <input type="text" id="defenseFormula">
+        </div>
+        <div class="box">
+          <label>Impeding</label>
+          <input type="number" max="0" id="impeding">
+		</div>
+        <div class="box">
+          <label for="toughness">Toughness</label>
+          <input type="text" min="0" id="toughness" class="squarebox">
+        </div>
+      </div>
+      <div class="derived-row">
+        <div class="box">
+          <label>Encumbrance Threshold</label>
+          <span class="derived-box-value" id="encumbrThres"></span>
+          <input type="text" id="encumbrThresFormula">
+        </div>
+        <div class="box">
+          <label>Carrying Limit</label>
+          <span class="derived-box-value" id="encumbrLim"></span>
+          <input type="text" id="encumbrLimFormula">
+        </div>
+        <div class="box">
+          <label for="encumbrance">Encumbrance</label>
+          <input type="number" min="0" id="encumbrance">
+        </div>
+      </div>
+      <div class="derived-row">
+        <div class="box">
+          <label for="xp">Experience</label>
+          <input type="number" min="0" id="xp">
+        </div>
+      </div>
     </div>
   </div>
   <br>
@@ -187,28 +229,37 @@
       { key: 'Wit',        id: 'W' }
     ];
 	const derivedAttributeData = [
-	  { key: 'Total Corruption',     id: 'totalCorruption', formula: 'Permanent Corruption + Temporary Corruption'},
-	  { key: 'Corruption Tolerance', id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
-	  { key: 'Corruption Limit',     id: 'corruptionLimit', formula: 'R'},
-	  { key: 'Pain Tolerance',       id: 'painTolerance', formula: 'ceil(M/2)'},
-	  { key: 'Maximum Health',       id: 'maxHealth', formula: 'max(M,10)'}
+	  { key: 'Total Corruption',      id: 'totalCorruption', formula: 'Permanent Corruption + Temporary Corruption'},
+	  { key: 'Corruption Tolerance',  id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
+	  { key: 'Corruption Limit',      id: 'corruptionLimit', formula: 'R'},
+	  { key: 'Pain Tolerance',        id: 'painTolerance', formula: 'ceil(M/2)'},
+	  { key: 'Maximum Health',        id: 'maxHealth', formula: 'max(M,10)'},
+	  { key: 'Defense',               id: 'defense', formula: 'A+Impeding'},
+	  { key: 'Encumbrance Threshold', id: 'encumbrThres', formula: 'M'},
+	  { key: 'Carrying Limit',        id: 'encumbrLim', formula: 'M*2'}
 	];
 	const trackedStatData = [
 	  { key: 'Permanent Corruption', id: 'permCorr'},
 	  { key: 'Temporary Corruption', id: 'tempCorr' },
-	  { key: 'Health',               id: 'health' }
+	  { key: 'Health',               id: 'health' },
+	  { key: 'Toughness',            id: 'toughness' },
+	  { key: 'Encumbrance',          id: 'encumbrance' },
+	  { key: 'Experience',           id: 'xp' },
+	  { key: 'Impeding',             id: 'impeding' }
 	];
 
-    const primaryAttributes = primaryAttributeData.map(a => [a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id}]);
-	
-	const derivedAttributes = derivedAttributeData.map(a => [a.key, {element: document.getElementById(a.id), formulaElement: document.getElementById(`${a.id}Formula`), formula: a.formula}]);
-	
-	const trackedStats = trackedStatData.map(a => [a.key, {element: document.getElementById(a.id)}]);
-	
+	const primaryAttributes = new Map();
+	primaryAttributeData.forEach(a => primaryAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id}));
+
+	const derivedAttributes = new Map();
+	derivedAttributeData.forEach(a => derivedAttributes.set(a.key, {element: document.getElementById(a.id), formulaElement: document.getElementById(`${a.id}Formula`), formula: a.formula}));
+
+	const trackedStats = new Map();
+	trackedStatData.forEach(a => trackedStats.set(a.key, {element: document.getElementById(a.id)}));
+
     const SaveBtn   = document.getElementById('SaveBtn');
     const LoadBtn   = document.getElementById('LoadBtn');
     const FileInput = document.getElementById('FileInput');
-
 
     // evaluate formulas with floor/ceil/max support
     function evalFormula(formula) {
@@ -216,14 +267,14 @@
         .replace(/\bfloor\(/g, 'Math.floor(')
         .replace(/\bceil\(/g,  'Math.ceil(')
         .replace(/\bmax\(/g,   'Math.max(');
-      trackedStats.forEach(a => {
-        const val = parseFloat(a[1].element.value) || 0;
-        expr = expr.replace(new RegExp(`\\b${a[0]}\\b`, 'g'), val);
+      trackedStats.forEach(function(attrData,attr){
+        const val = parseFloat(attrData.element.value) || 0;
+        expr = expr.replace(new RegExp(`\\b${attr}\\b`, 'g'), val);
       });
-      primaryAttributes.forEach(a => {
-        const val = parseFloat(a[1].element.value) || 0;
-        expr = expr.replace(new RegExp(`\\b${a[0]}\\b`, 'g'), val);
-        expr = expr.replace(new RegExp(`\\b${a[1].abbr}\\b`, 'g'), val);
+      primaryAttributes.forEach(function(attrData,attr){
+        const val = parseFloat(attrData.element.value) || 0;
+        expr = expr.replace(new RegExp(`\\b${attr}\\b`, 'g'), val);
+        expr = expr.replace(new RegExp(`\\b${attrData.abbr}\\b`, 'g'), val);
       });
       try {
         const result = Function(`"use strict";return(${expr})`)();
@@ -235,60 +286,81 @@
 
     function updateAll() {
       // update modifiers
-	  primaryAttributes.forEach(a => {
-		const val = parseFloat(a[1].element.value) || 0;
+	  primaryAttributes.forEach(function(attrData,attr){
+		const val = parseFloat(attrData.element.value) || 0;
 		const mod = 10 - val;
 		const sign = mod >= 0 ? '+' : '';
-		a[1].modifier.textContent = `(${sign}${mod})`;
+		attrData.modifier.textContent = `(${sign}${mod})`;
 	  });
 	  
 	  // update derived attributes
-	  derivedAttributes.forEach(a => {
-		a[1].element.textContent = evalFormula(a[1].formulaElement.value.trim());
-		if (a[1].formulaElement.value.trim() !== a[1].formula){
-		  a[1].formulaElement.style.boxShadow = '0px 0px 7px yellow';
+	  derivedAttributes.forEach(function(attrData,attr){
+		attrData.element.textContent = evalFormula(attrData.formulaElement.value.trim());
+		if (attrData.formulaElement.value.trim() !== attrData.formula){
+		  attrData.formulaElement.style.boxShadow = '0px 0px 7px yellow';
 		} else {
-		  a[1].formulaElement.style.boxShadow = '';
+		  attrData.formulaElement.style.boxShadow = '';
 		}
 	  });
 	  
-	  //color corruption of limit surpassed
-	  //set corrtolerance to 0 and gray if limit surpassed
-	  //set health to red when <1
+	  //corrupted
+      if (parseFloat(derivedAttributes.get("Total Corruption").element.textContent) > parseFloat(derivedAttributes.get("Corruption Limit").element.textContent)) {
+        if (parseFloat(trackedStats.get("Permanent Corruption").element.value) > parseFloat(derivedAttributes.get("Corruption Limit").element.textContent)) {
+            derivedAttributes.get("Total Corruption").element.style.backgroundColor = 'red';
+        } else {
+            derivedAttributes.get("Total Corruption").element.style.backgroundColor = 'yellow';
+        }
+        derivedAttributes.get("Corruption Tolerance").element.style.backgroundColor = 'gray';
+        derivedAttributes.get("Corruption Tolerance").element.textContent = 0;
+      } else {
+        derivedAttributes.get("Total Corruption").element.style.backgroundColor = '';
+        derivedAttributes.get("Corruption Tolerance").element.style.backgroundColor = '';
+      }
+
+	  //set health to red when dying
+		if (parseFloat(trackedStats.get("Health").element.value) < 1) {
+		  trackedStats.get("Health").element.style.backgroundColor = 'red';
+		} else {
+		  trackedStats.get("Health").element.style.backgroundColor = '';
+		}
+
+	  //encumbrance threshold/limit
+		if (parseFloat(trackedStats.get("Encumbrance").element.value) > parseFloat(derivedAttributes.get("Encumbrance Threshold").element.textContent)) {
+		  if (parseFloat(trackedStats.get("Encumbrance").element.value) > parseFloat(derivedAttributes.get("Carrying Limit").element.textContent)) {
+			trackedStats.get("Encumbrance").element.style.backgroundColor = 'red';
+		  } else {
+			trackedStats.get("Encumbrance").element.style.backgroundColor = 'yellow';
+		  }
+		} else {
+		  trackedStats.get("Encumbrance").element.style.backgroundColor = '';
+		}
 	}
 
-    // initialize		
-	primaryAttributes.forEach(a => {
-	  a[1].element.addEventListener('input', () => {
-		updateAll();
-	  });
+    // initialize
+	primaryAttributes.forEach(function(attrData,attr){
+	  attrData.element.addEventListener('input', updateAll);
 	});
-	derivedAttributes.forEach(a => {
-	  a[1].formulaElement.addEventListener('input', () => {
-		updateAll();
-	  });
-	  a[1].formulaElement.value = a[1].formula;
+	derivedAttributes.forEach(function(attrData,attr){
+	  attrData.formulaElement.addEventListener('input', updateAll);
 	});
-	trackedStats.forEach(a => {
-	  a[1].element.addEventListener('input', () => {
-		updateAll();
-	  });
+	trackedStats.forEach(function(attrData,attr){
+	  attrData.element.addEventListener('input', updateAll);
 	});
 	updateAll();
 	
     // save to JSON
     SaveBtn.addEventListener('click', () => {
       const cfg = { Name: NameInput.value.trim()};
-      primaryAttributes.forEach(a => {
-        cfg[a[0]] = a[1].element.value;
+      primaryAttributes.forEach(function(attrData,attr){
+        cfg[attr] = attrData.element.value;
       });
-	  derivedAttributes.forEach(a => {
-		if (a[1].formulaElement.value.trim() !== a[1].formula) {
-		  cfg[a[0]] = a[1].formulaElement.value.trim()
+	  derivedAttributes.forEach(function(attrData,attr){
+		if (attrData.formulaElement.value.trim() !== attrData.formula) {
+		  cfg[attr] = attrData.formulaElement.value.trim()
 		}
 	  });
-      trackedStats.forEach(a => {
-        cfg[a[0]] = a[1].element.value;
+      trackedStats.forEach(function(attrData,attr){
+        cfg[attr] = attrData.element.value;
       });
       const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
@@ -312,14 +384,14 @@
         try {
           const obj = JSON.parse(reader.result);
           if (obj.Name) NameInput.value = obj.Name;
-          primaryAttributes.forEach(a => {
-            if (a[0] in obj) a[1].element.value = obj[a[0]];
+          primaryAttributes.forEach(function(attrData,attr){
+            if (attr in obj) attrData.element.value = obj[attr];
           });
-		  derivedAttributes.forEach(a => {
-			a[1].formulaElement.value = obj[a[0]] || a[1].formula;
+		  derivedAttributes.forEach(function(attrData,attr){
+			attrData.formulaElement.value = obj[attr] || attrData.formula;
 		  });
-          trackedStats.forEach(a => {
-            if (a[0] in obj) a[1].element.value = obj[a[0]];
+          trackedStats.forEach(function(attrData,attr){
+            if (attr in obj) attrData.element.value = obj[attr];
           });
 		  updateAll();
         } catch {
