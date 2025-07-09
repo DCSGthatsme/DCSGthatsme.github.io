@@ -242,6 +242,17 @@
         </div>
       </div>
     </div>
+	<div>
+	  <label for="Crux">Crux</label>
+	  <br>
+	  <select name="Crux" id="Crux">
+		<option value=""></option>
+		<option value="Appreciation">Appreciation</option>
+		<option value="Captivation">Captivation</option>
+		<option value="Exaltation">Exaltation</option>
+		<option value="Fear">Fear</option>
+	  </select>
+	</div>
   </div>
   <section id="items-section">
     <h2>Items</h2>
@@ -255,8 +266,14 @@
     </table>
     <button type="button" id="addItemBtn">+</button>
   </section>
+  <section id="notes-section">
+    <h2>Notes</h2>
+    <center><textarea id="notes"style="width:80%; max-width:75em; margin: auto; height:20em; resize: vertical;"></textarea></center>
+  </section>
   <script>
     const NameInput = document.getElementById('Name');
+	const CruxInput = document.getElementById('Crux');
+	const NotesInput = document.getElementById('notes');
     const primaryAttributeData = [
       { key: 'Agility',    id: 'A' },
       { key: 'Charisma',   id: 'C' },
@@ -337,9 +354,12 @@
 	  
 	  // update derived attributes
 	  derivedAttributes.forEach(function(attrData,attr){
+		if (attrData.formulaElement.value == ''){
+		  attrData.formulaElement.value = attrData.formula;
+		}
 		attrData.element.textContent = evalFormula(attrData.formulaElement.value.trim());
 		if (attrData.formulaElement.value.trim() !== attrData.formula){
-		  attrData.formulaElement.style.boxShadow = '0px 0px 7px yellow';
+		  attrData.formulaElement.style.boxShadow = '0px 0px 7px #7667e1bd';
 		} else {
 		  attrData.formulaElement.style.boxShadow = '';
 		}
@@ -421,6 +441,8 @@
     // save to JSON
     SaveBtn.addEventListener('click', () => {
       const cfg = { Name: NameInput.value.trim()};
+	  
+	  //Attributes
       primaryAttributes.forEach(function(attrData,attr){
         cfg[attr] = attrData.element.value;
       });
@@ -434,7 +456,8 @@
 		  cfg[attr] = attrData.element.value;
 		}
       });
-      // collect items
+	  
+      // Items
       const items = [];
       itemsTbody.querySelectorAll('tr').forEach(tr => {
         const [nameInp, valueInp] = tr.querySelectorAll('input');
@@ -445,7 +468,10 @@
           });
         }
       });
-      cfg.Items = items;
+	  if (items.length != 0) cfg.Items = items;
+	  
+	  cfg.Crux = CruxInput.value;
+	  if (NotesInput.value.length != 0) cfg.Notes = NotesInput.value;
 	  
       const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
@@ -468,6 +494,8 @@
       reader.onload = () => {
         try {
           const obj = JSON.parse(reader.result);
+		  
+		  //Attributes
           if (obj.Name) NameInput.value = obj.Name;
           primaryAttributes.forEach(function(attrData,attr){
             if (attr in obj) attrData.element.value = obj[attr];
@@ -479,10 +507,30 @@
             if (attr in obj) attrData.element.value = obj[attr] || 0;
           });
 		  updateAll();
+		  
+		  //Items
 		  itemsTbody.replaceChildren();
-		  obj.Items.forEach(a =>
-			createItemRow(a.name, a.value)
-		  );
+		  if ("Items" in obj) {
+			  obj.Items.forEach(a =>
+				createItemRow(a.name, a.value)
+			  );
+		  } else {
+			createItemRow();
+		  }
+		  
+			for(var i = 0;i < CruxInput.options.length;i++){
+				if(CruxInput.options[i].value == obj.Crux ){
+					CruxInput.options[i].selected = true;
+					break;
+				}
+			}
+		  
+		  if ("Notes" in obj) {
+			NotesInput.value = obj.Notes;
+		  } else {
+			NotesInput.value = '';
+		  }
+		  
         } catch {
           alert('Invalid JSON file');
         }
