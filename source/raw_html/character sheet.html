@@ -4,10 +4,17 @@
   <meta charset="UTF-8">
   <title>Character Sheet</title>
   <style>
+	@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
     body {
-      font-family: "Roboto Slab", sans-serif;
       padding: 20px;
     }
+	span, input, label {
+      font-family: "Roboto Slab", sans-serif;
+	 }
+	.modifier, h2, tr, button, .derived-box-value+input, #Name{
+      font-family: "Cabin", sans-serif;
+	}
     .stats-wrapper {
       display: flex;
       gap: 20px;
@@ -58,24 +65,49 @@
 	  padding: 1px 4px;
 
     }
-	input, button {
-      font-family: "Cabin", sans-serif;
-	}
     .box .modifier {
-      font-family: "Cabin", sans-serif;
       margin-top: 5px;
       color: #555;
+    }
+
+    #items-section {
+      margin-top: 30px;
+    }
+    #itemsTable {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    #itemsTable th,
+    #itemsTable td {
+      border: 1px solid #ccc;
+      padding: 6px;
+    }
+    #itemsTable input {
+      width: 100%;
+      box-sizing: border-box;
+    }
+    #itemsTable button.deleteItem {
+      background: none;
+      border: none;
+      color: crimson;
+      font-size: 1.2rem;
+      cursor: pointer;
     }
   </style>
 </head>
 <body>
-
+  <div style="position: fixed; right: 2em;">
+	  <button id="SaveBtn">Save Character</button>
+	  <button id="LoadBtn">Load Character</button>
+	  <input type="file" id="FileInput" accept=".json" style="display:none">
+  </div>
   <div>
     <label for="Name">Name</label>
 	<br>
-    <input type="text" id="Name" style="font-size: 1.7rem; font-family: 'Roboto Slab', 'sans-serif';" size="16">
+    <input type="text" id="Name" style="font-size: 1.7rem; font-weight:500;" size="16">
   </div>
-  <br>
+  <h2>Attributes</h2>
   <div class="stats-wrapper">
     <div class="main-stats">
       <div class="stat-row">
@@ -211,11 +243,18 @@
       </div>
     </div>
   </div>
-  <br>
-  <button id="SaveBtn">Save Character</button>
-  <button id="LoadBtn">Load Character</button>
-  <input type="file" id="FileInput" accept=".json" style="display:none">
-
+  <section id="items-section">
+    <h2>Items</h2>
+    <table id="itemsTable">
+      <thead>
+        <tr><th>Name</th><th>Value</th><th></th></tr>
+      </thead>
+      <tbody>
+        <!-- dynamically created rows -->
+      </tbody>
+    </table>
+    <button type="button" id="addItemBtn">+</button>
+  </section>
   <script>
     const NameInput = document.getElementById('Name');
     const primaryAttributeData = [
@@ -260,6 +299,9 @@
     const SaveBtn   = document.getElementById('SaveBtn');
     const LoadBtn   = document.getElementById('LoadBtn');
     const FileInput = document.getElementById('FileInput');
+	
+    const addItemBtn = document.getElementById('addItemBtn');
+    const itemsTbody = document.querySelector('#itemsTable tbody');
 
     // evaluate formulas with floor/ceil/max support
     function evalFormula(formula) {
@@ -335,6 +377,29 @@
 		  trackedStats.get("Encumbrance").element.style.backgroundColor = '';
 		}
 	}
+	
+	function createItemRow(name = '', value = '') {
+		const tr = document.createElement('tr');
+		const tdName = document.createElement('td');
+		const inpName = document.createElement('input');
+		inpName.type = 'text'; inpName.value = name;
+		tdName.appendChild(inpName);
+
+		const tdVal = document.createElement('td');
+		const inpVal = document.createElement('input');
+		inpVal.type = 'number'; inpVal.min = '0'; inpVal.value = value;
+		tdVal.appendChild(inpVal);
+
+		const tdDel = document.createElement('td');
+		const delBtn = document.createElement('button');
+		delBtn.type = 'button'; delBtn.textContent = '×';
+		delBtn.className = 'deleteItem';
+		delBtn.addEventListener('click', () => tr.remove());
+		tdDel.appendChild(delBtn);
+
+		tr.append(tdName, tdVal, tdDel);
+		itemsTbody.appendChild(tr);
+    }
 
     // initialize
 	primaryAttributes.forEach(function(attrData,attr){
@@ -350,6 +415,8 @@
 	  attrData.element.addEventListener('input', updateAll);
 	});
 	updateAll();
+    addItemBtn.addEventListener('click', () => createItemRow());
+	createItemRow();
 	
     // save to JSON
     SaveBtn.addEventListener('click', () => {
@@ -367,6 +434,19 @@
 		  cfg[attr] = attrData.element.value;
 		}
       });
+      // collect items
+      const items = [];
+      itemsTbody.querySelectorAll('tr').forEach(tr => {
+        const [nameInp, valueInp] = tr.querySelectorAll('input');
+        if (nameInp.value.trim() || valueInp.value.trim()) {
+          items.push({
+            name: nameInp.value.trim(),
+            value: valueInp.value.trim()
+          });
+        }
+      });
+      cfg.Items = items;
+	  
       const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
       const url = URL.createObjectURL(blob);
       let filename = cfg.Name + ' Character Sheet.json';
@@ -399,6 +479,10 @@
             if (attr in obj) attrData.element.value = obj[attr] || 0;
           });
 		  updateAll();
+		  itemsTbody.replaceChildren();
+		  obj.Items.forEach(a =>
+			createItemRow(a.name, a.value)
+		  );
         } catch {
           alert('Invalid JSON file');
         }
