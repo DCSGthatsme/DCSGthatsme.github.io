@@ -10,9 +10,9 @@ There are limits to how much a character can carry. Each item incurs +1 Encumbra
 * Weapons equipped in a character's hands do not incur Encumbrance. Weapons carried in a pack or in their sheaths do incur Encumbrance.
 * Items with the quality [[Massive]] incur +2 Encumbrance.
 
-If the character bears an Encumbrance greater than their [[Encumbrance Threshold]], they get [[Impeding]] (-1).
+If the character bears an Encumbrance greater than their [[Encumbrance Threshold]], they get [[Impeding]] (-1) *for each Encumbrance above their Encumbrance Threshold*.
 
-If a character carries bears an Encumbrance than their [[Carrying Limit]], they cannot move more than short distances at a time. They are forced to suffer the detriments of a Hasty March during a Cautious March and cannot partake in a Hasty March. Furthermore, the heavy load gives a -1 detriment to the [[Might]] roll to see if they take an extra 1d6 damage *for each Encumbrance above their Carrying Limit*.
+If a character bears an Encumbrance greater than their [[Carrying Limit]], they cannot move more than short distances at a time. They are forced to suffer the detriments of a Hasty March during a Cautious March and cannot partake in a Hasty March. Furthermore, the heavy load gives a -1 detriment to the [[Might]] roll for a Hasty March to see if they take an extra 1d6 damage *for each Encumbrance above their Carrying Limit*.
 ## Travel
 A Hasty March involves an actual risk to one’s life and wellbeing. All who travel at this speed suffer at 1 point to [[Health]] each day, must make a [[Might]] test in order to not suffer an additional 1D6 points of damage, and get no passive healing from the day's passing.
 
