@@ -138,6 +138,54 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e44dcb603de60919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Miscellaneous Mechanics"
+            }
+          },
+          {
+            "id": "f29c79a14bf0a194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Miscellaneous Mechanics"
+            }
+          },
+          {
+            "id": "4646463e573b9dcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Miscellaneous Mechanics"
+            }
+          },
+          {
             "id": "d1c6e237c303e6fb",
             "type": "leaf",
             "state": {
@@ -161,57 +209,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "f29c79a14bf0a194",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Character Creation.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Character Creation"
-            }
-          },
-          {
-            "id": "4646463e573b9dcb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Features.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Features"
-            }
-          },
-          {
-            "id": "e44dcb603de60919",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Character Creation.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Character Creation"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,12 +230,15 @@
       "recent-notes:Recent notes": true
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "68dd24ef16ef35ad",
   "lastOpenFiles": [
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Alternative Damage.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Anoint.md",
+    "Contention of Principles/Mechanics/Attributes/Health.md",
     "Contention of Principles/Mechanics/Abilities/Boons/Pack-mule.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Repudiation.md",
-    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-    "Contention of Principles/Mechanics/Abilities/Abilities.md",
     "Contention of Principles/Encumbrance.md",
     "Contention of Principles/Mechanics/Character Creation.md",
     "Contention of Principles/Mechanics/Items/Days' Rations.md",
@@ -255,9 +258,6 @@
     "Contention of Principles/Mechanics/Abilities/Burdens/Elderly.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Burdens.md",
     "Contention of Principles/Mechanics/Abilities/Boons/Connections.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Boons.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Elixirs.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Acidic Attack.md",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
     "HomeBrew/Ruins of Symbaroum",

@@ -15,6 +15,10 @@
     .modifier, h1, tr, button, .derived-box-value+input, #Name {
       font-family: "Cabin", sans-serif;
     }
+	#Name {
+	  font-size: 32px;
+	  font-weight:600;
+	}
     .attr-wrapper {
       display: flex;
       gap: 20px;
@@ -83,10 +87,10 @@
       width: 100%;
       box-sizing: border-box;
     }
-    .listTable textarea {
+    .listTable .notesText {
       width: 100%;
-	  padding: 0;
-	  resize: vertical;
+	  font-size: 12px;
+	  resize: none;
     }
     .deleteButton {
       background: none;
@@ -95,7 +99,12 @@
       font-size: 1.2rem;
       cursor: pointer;
     }
-	
+	#notes {
+	  width: 80%;
+	  max-width:75em;
+	  height:20em;
+	  resize: none;
+	}
   </style>
 </head>
 <body>
@@ -104,11 +113,7 @@
 	  <button id="LoadBtn">Load Character</button>
 	  <input type="file" id="FileInput" accept=".json" style="display:none">
   </div>
-  <div>
-    <label for="Name">Name</label>
-	<br>
-    <input type="text" id="Name" style="font-size: 32px; font-weight:600;" size="16">
-  </div>
+  <label for="Name">Name</label><br><input type="text" id="Name" size="16">
   <h1>Attributes</h1>
   <div class="attr-wrapper">
     <div class="attr-primary">
@@ -265,13 +270,13 @@
   <h1>Abilities</h1>
   <table id="abilitiesTable" class="listTable">
 	<thead>
-	  <tr><th>Name</th><th>Level</th><th></th></tr>
+	  <tr><th>Name</th><th>Level</th><th>Notes</th><th></th></tr>
 	</thead>
 	<tbody><!-- dynamically created rows --></tbody>
   </table>
   <button type="button" id="addAbilityBtn">+</button>
   <h1>Notes</h1>
-  <center><textarea id="notes"style="width:80%; max-width:75em; height:20em; resize: vertical;"></textarea></center>
+  <center><textarea id="notes"></textarea></center>
   <script>
     const NameInput = document.getElementById('Name');
 	const CruxInput = document.getElementById('Crux');
@@ -344,6 +349,13 @@
         return 'Err';
       }
     }
+	
+	function isObjectEmpty(object) {
+	  for (keys in object) {
+		return false;
+	  }
+	  return true;
+	}
 
     function updateAll() {
       // update modifiers
@@ -397,7 +409,7 @@
 		}
 	}
 	
-	function createItemRow(name = '', value = '') {
+	function createItemRow(name = '', value = '', notes = '') {
 		const tr = document.createElement('tr');
 		const tdName = document.createElement('td');
 		const inpName = document.createElement('input');
@@ -414,6 +426,9 @@
 
 		const tdNote = document.createElement('td');
 		const txtVal = document.createElement('textarea');
+		txtVal.className = 'notesText';
+		txtVal.addEventListener('input', (event) => autoHeight(event.target));
+		txtVal.textContent = notes;
 		tdNote.appendChild(txtVal);
 
 		const tdDel = document.createElement('td');
@@ -426,9 +441,26 @@
 
 		tr.append(tdName, tdVal, tdNote, tdDel);
 		itemsTbody.appendChild(tr);
+		autoHeight(txtVal);
     }
 	
-	function createAbilityRow(name = '', level = '') {
+	function autoHeight(elem) {
+	  /* let the textarea grow to the required size */
+	  elem.style.height = "auto";
+	  /* save the original border/padding values */
+	  const padding = elem.style.padding;
+	  const border = elem.style.border;
+	  /* without this rows="1" resizes when you start typing */
+	  elem.style.padding = 0;
+	  elem.style.border = "medium solid black";
+	  /* adjust the height of the textarea */
+	  elem.style.height = elem.scrollHeight + "px";
+	  /* restore the original border/padding values */
+	  elem.style.padding = padding;
+	  elem.style.border = border;
+	}
+
+	function createAbilityRow(name = '', level = '', notes = '') {
 		const tr = document.createElement('tr');
 		
 		const tdName = document.createElement('td');
@@ -444,6 +476,13 @@
 			opt.innerHTML=t;
 			if (level == t) opt.selected = true;
 		});
+
+		const tdNote = document.createElement('td');
+		const txtVal = document.createElement('textarea');
+		txtVal.className = 'notesText';
+		txtVal.addEventListener('input', (event) => autoHeight(event.target));
+		txtVal.textContent = notes;
+		tdNote.appendChild(txtVal);
 		
 		const tdDel = document.createElement('td');
 		const delBtn = document.createElement('button');
@@ -452,7 +491,7 @@
 		delBtn.addEventListener('click', () => tr.remove());
 		tdDel.appendChild(delBtn);
 
-		tr.append(tdName, tdLvl, tdDel);
+		tr.append(tdName, tdLvl, tdNote, tdDel);
 		abilitiesTbody.appendChild(tr);
     }
 
@@ -466,7 +505,7 @@
 		if (attr in obj) attrData.element.value = obj[attr];
 	  });
 	  derivedAttributes.forEach(function(attrData,attr){
-		attrData.formulaElement.value = obj[attr] || attrData.formula;
+		attrData.formulaElement.value = obj[attr] || '';
 	  });
 	  trackedStats.forEach(function(attrData,attr){
 		attrData.element.value = obj[attr] || 0;
@@ -475,13 +514,13 @@
       // Items
       itemsTbody.innerHTML = '';
       if(Array.isArray(obj.Items)) {
-        obj.Items.forEach(i => createItemRow(i.Name, i.Value, i.Notes||''));
+        obj.Items.forEach(i => createItemRow(i.Name||'', i.Value||0, i.Notes||''));
       } else createItemRow();
 
       // Abilities
       abilitiesTbody.innerHTML = '';
       if(Array.isArray(obj.Abilities)) {
-        obj.Abilities.forEach(a => createAbilityRow(a.Name, a.Level));
+        obj.Abilities.forEach(a => createAbilityRow(a.Name||'', a.Level||'', a.Notes||''));
       } else createAbilityRow();
 
       updateAll();
@@ -496,7 +535,7 @@
         cfg[attr] = attrData.element.value;
       });
 	  derivedAttributes.forEach(function(attrData,attr){
-		if (attrData.formulaElement.value !== attrData.formula) {
+		if (attrData.formulaElement.value) {
 		  cfg[attr] = attrData.formulaElement.value
 		}
 	  });
@@ -507,28 +546,28 @@
       });
 
       // items
-      cfg.Items = [];
+      const itemsArray = [];
       itemsTbody.querySelectorAll('tr').forEach(tr => {
         const [nameEl, valEl, noteEl] = tr.querySelectorAll('input,textarea');
-        if(nameEl.value||valEl.value||noteEl.value)
-          cfg.Items.push({
-            Name:  nameEl.value.trim(),
-            Value: valEl.value,
-            Notes: noteEl.value.trim()
-          });
+		const itemObj = {};
+        [["Name", nameEl.value.trim()], ["Value", valEl.value], ["Notes", noteEl.value.trim()]].forEach( t => {
+          if (t[1]) itemObj[t[0]] = t[1];
+		});
+		if (!isObjectEmpty(itemObj)) itemsArray.push(itemObj);
       });
+	  if (itemsArray.length != 0) cfg.Items = itemsArray;
 
       // abilities
-      cfg.Abilities = [];
+	  const abilitiesArray = [];
       abilitiesTbody.querySelectorAll('tr').forEach(tr => {
-        const nameEl  = tr.querySelector('input');
-        const levelEl = tr.querySelector('select');
-        if(nameEl.value||levelEl.value)
-          cfg.Abilities.push({
-            Name:  nameEl.value.trim(),
-            Level: levelEl.value
-          });
+        const [nameEl, levelEl, noteEl]  = tr.querySelectorAll('input,select,textarea');
+		const abilityObj = {};
+        [["Name", nameEl.value.trim()], ["Level", levelEl.value], ["Notes", noteEl.value.trim()]].forEach( t => {
+          if (t[1]) abilityObj[t[0]] = t[1];
+		});
+		if (!isObjectEmpty(abilityObj)) abilitiesArray.push(abilityObj);
       });
+	  if (abilitiesArray.length != 0) cfg.Abilities = abilitiesArray;
 	  
       cfg.Crux = CruxInput.value;
       cfg.Notes = NotesInput.value;
@@ -556,8 +595,8 @@
 	  attrData.formulaElement.setAttribute('placeholder', attrData.formula);
 	  attrData.formulaElement.addEventListener('blur', (event) => {
 		event.target.value = event.target.value.replace(/\s/g,'');
-		if(event.target.value == ''){
-		  event.target.value = attrData.formula;
+		if(event.target.value == attrData.formula){
+		  event.target.value = '';
 		}
 		updateAll();
 	  });
@@ -588,14 +627,14 @@
       const f = e.target.files[0];
       if(!f) return;
       const r = new FileReader();
-      r.onload = () => {
+      r.onload = (() => {
         try {
           loadData(JSON.parse(r.result));
           saveToLocal(); 
         } catch {
           alert('Invalid JSON file');
         }
-      };
+      });
       r.readAsText(f);
       FileInput.value = '';
     });
