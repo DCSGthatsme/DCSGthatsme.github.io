@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "Miscellaneous Mechanics"
             }
+          },
+          {
+            "id": "cf95910528d3d6e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Items/Armor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armor"
+            }
           }
         ],
         "currentTab": 2
@@ -138,18 +152,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e44dcb603de60919",
+            "id": "d1c6e237c303e6fb",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "f850ba7e9e699bea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-                "followCursor": false,
+                "sortOrder": "frequency",
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline of Miscellaneous Mechanics"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -177,41 +201,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Miscellaneous Mechanics"
+              "title": "Outgoing links from Features"
             }
           },
           {
-            "id": "d1c6e237c303e6fb",
+            "id": "e44dcb603de60919",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "f850ba7e9e699bea",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
+                "file": "Contention of Principles/Mechanics/Character Creation.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "lucide-list",
+              "title": "Outline of Character Creation"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,16 +244,19 @@
       "recent-notes:Recent notes": true
     }
   },
-  "active": "68dd24ef16ef35ad",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Items/Armor.md",
+    "Contention of Principles/Encumbrance.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Impedance.md",
+    "Contention of Principles/Mechanics/Attributes/Attributes.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Flexible.md",
     "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Alternative Damage.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Anoint.md",
-    "Contention of Principles/Mechanics/Attributes/Health.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Flaming Servant.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Armored Mystic.md",
     "Contention of Principles/Mechanics/Abilities/Boons/Pack-mule.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Repudiation.md",
-    "Contention of Principles/Encumbrance.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
     "Contention of Principles/Mechanics/Character Creation.md",
     "Contention of Principles/Mechanics/Items/Days' Rations.md",
     "Contention of Principles/Mechanics/Abilities/Burdens/Leprosy.md",
@@ -255,9 +272,6 @@
     "Contention of Principles/Mechanics/Abilities/Boons/Heirloom.md",
     "Contention of Principles/Mechanics/Abilities/Rituals/False Shape.md",
     "Contention of Principles/Mechanics/Abilities/Boons/Enterprise.md",
-    "Contention of Principles/Mechanics/Abilities/Burdens/Elderly.md",
-    "Contention of Principles/Mechanics/Abilities/Burdens/Burdens.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Connections.md",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
     "HomeBrew/Ruins of Symbaroum",

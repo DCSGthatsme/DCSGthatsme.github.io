@@ -38,4 +38,5 @@ The following Attributes are calculated based on the primary Attributes:
 * [[Toughness]]
 * [[Corruption]]
 * [[Encumbrance]]
+* [[Impedance]]
 * [[Experience]]

@@ -6,11 +6,11 @@ There are limits to how much a character can carry. Each item incurs +1 Encumbra
 * Clothing, belts, and boots do not incur Encumbrance.
 * Backpacks, sacks, shoulder-bags, and other light containers do not not incur Encumbrance; only their contents do. Barrels, chests, boxes, and other bulky containers incur Encumbrance in addition to what they contain.
 * Small objects do not incur Encumbrance unless one carries a lot of them.
-* Equipped armor does not incur Encumbrance. Armor which is carried but not equipped incurs Encumbrance equal to its [[Impeding]] value.
+* Equipped armor does not incur Encumbrance. Armor which is carried but not equipped incurs Encumbrance equal to its [[Impedance]] value.
 * Weapons equipped in a character's hands do not incur Encumbrance. Weapons carried in a pack or in their sheaths do incur Encumbrance.
 * Items with the quality [[Massive]] incur +2 Encumbrance.
 
-If the character bears an Encumbrance greater than their [[Encumbrance Threshold]], they get [[Impeding]] (-1) *for each Encumbrance above their Encumbrance Threshold*.
+If the character bears an Encumbrance greater than their [[Encumbrance Threshold]], they get [[Impedance]] (-1) *for each Encumbrance above their Encumbrance Threshold*.
 
 If a character bears an Encumbrance greater than their [[Carrying Limit]], they cannot move more than short distances at a time. They are forced to suffer the detriments of a Hasty March during a Cautious March and cannot partake in a Hasty March. Furthermore, the heavy load gives a -1 detriment to the [[Might]] roll for a Hasty March to see if they take an extra 1d6 damage *for each Encumbrance above their Carrying Limit*.
 ## Travel
@@ -133,7 +133,7 @@ Some gaming groups may find it realistic and desirable if arrows and bolts which
 * Projectiles with mystical qualities are damaged if the player rolls over 17 with 1d20.
 
 Hit Locations
-This optional rule makes it possible to hit specific parts of the enemy and means that damage equal to or higher than the Pain Tolerance has different effects depending on where the enemy is hit. Also, armor may be divided into segments so that the character can have different types of armor on different parts of the body. Aim High or Low The character can choose to aim high or low in order to hit unprotected parts of the target, or to cause a certain effect – for instance that the target loses a movement action or drops something. Aiming high or low gives −2 on the attack test. Aim at Body Part The character can take aim at a specific part of the enemy's body, hoping to hit a less protected area or achieve a specific effect. Aiming at a specific body part gives –5 on the success test. Armor Segments The character can use different armor on different body parts, to save money and reduce the level of impediment while still protecting the most vital parts as much as possible. Armor segments cost a part of the price of the full armor and have a part of the armor's value in Impeding. The impediment is rounded up so that 0.5 becomes 1.
+This optional rule makes it possible to hit specific parts of the enemy and means that damage equal to or higher than the Pain Tolerance has different effects depending on where the enemy is hit. Also, armor may be divided into segments so that the character can have different types of armor on different parts of the body. Aim High or Low The character can choose to aim high or low in order to hit unprotected parts of the target, or to cause a certain effect – for instance that the target loses a movement action or drops something. Aiming high or low gives −2 on the attack test. Aim at Body Part The character can take aim at a specific part of the enemy's body, hoping to hit a less protected area or achieve a specific effect. Aiming at a specific body part gives –5 on the success test. Armor Segments The character can use different armor on different body parts, to save money and reduce the level of impediment while still protecting the most vital parts as much as possible. Armor segments cost a part of the price of the full armor and have a part of the armor's value in Impedance. The detriment is rounded up so that 0.5 becomes 1.
 
 Aim High or Low 1D10 HIGH: 1 Right Leg 2 Left Leg 3–4 Torso 5–6 Right Arm 7–8 Left Arm 9–10 Head 1D10 LOW: 1–2 Right Leg 3–4 Left Leg 5–7 Torso 8 Right Arm 9 Left Arm 10 Head
 
@@ -141,4 +141,4 @@ Main Hand If Hit Locations are used, it might be wise to decide if the character
 
 Table 9: Hit Locations 1D10 boDy pArt effect of DAmAges equAl to or higher thAn Pain Tolerance 1 Right Leg Knocked prone. Half movement for the rest of the scene. 2 Left Leg Knocked prone. Half movement for the rest of the scene. 3–5 Torso Loses breath; incapacitated for a turn. 6–7 Right Arm Drops item held if failing a Quick test. Also, a second chance to fail all rolls requiring the use of the arm for the rest of the scene. 8–9 Left Arm Drops item held if failing a Quick test. Also, a second chance to fail all rolls requiring the use of the arm for the rest of the scene. 10 Head +1D6 damage and the target is rendered unconscious for 1D4 turns
 
-Table 10: Armor Segments Armor segment price/impeDing vAlue Legs 20 % (10 % per leg) Curiass (torso) 40 % Arms 20 % (10 % per arm) Helmet 20 %
+Table 10: Armor Segments Armor segment price/Impedance vAlue Legs 20 % (10 % per leg) Curiass (torso) 40 % Arms 20 % (10 % per arm) Helmet 20 %

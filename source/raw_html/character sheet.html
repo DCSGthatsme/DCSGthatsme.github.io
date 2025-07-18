@@ -75,6 +75,7 @@
     }
     .listTable {
       width: 100%;
+	  min-width: 25em;
       border-collapse: collapse;
       margin-top: 10px;
     }
@@ -92,11 +93,19 @@
 	  font-size: 12px;
 	  resize: none;
     }
+    .miscCtrlButton {
+      font-size: 1rem;
+      width: 1.6rem;
+      height: 1.6rem;
+	  font-family: "Arial", sans-serif;
+    }
     .deleteButton {
       background: none;
       border: none;
       color: crimson;
       font-size: 1.2rem;
+      width: 1.6rem;
+      height: 1.6rem;
       cursor: pointer;
     }
 	#notes {
@@ -114,159 +123,176 @@
 	  <input type="file" id="FileInput" accept=".json" style="display:none">
   </div>
   <label for="Name">Name</label><br><input type="text" id="Name" size="16">
-  <h1>Attributes</h1>
-  <div class="attr-wrapper">
-    <div class="attr-primary">
-      <div class="attr-row">
-        <div class="box">
-          <label for="A">Agility</label>
-          <input type="number" min="0" id="A">
-          <span class="modifier" id="mod-A"></span>
-        </div>
-        <div class="box">
-          <label for="C">Charisma</label>
-          <input type="number" min="0" id="C">
-          <span class="modifier" id="mod-C"></span>
-        </div>
-      </div>
-      <div class="attr-row">
-        <div class="box">
-          <label for="E">Exactitude</label>
-          <input type="number" min="0" id="E">
-          <span class="modifier" id="mod-E"></span>
-        </div>
-        <div class="box">
-          <label for="M">Might</label>
-          <input type="number" min="0" id="M">
-          <span class="modifier" id="mod-M"></span>
-        </div>
-        <div class="box">
-          <label for="R">Resolve</label>
-          <input type="number" min="0" id="R">
-          <span class="modifier" id="mod-R"></span>
-        </div>
-      </div>
-      <div class="attr-row">
-        <div class="box">
-          <label for="S">Subtlety</label>
-          <input type="number" min="0" id="S">
-          <span class="modifier" id="mod-S"></span>
-        </div>
-        <div class="box">
-          <label for="V">Vigilance</label>
-          <input type="number" min="0" id="V">
-          <span class="modifier" id="mod-V"></span>
-        </div>
-      </div>
-      <div class="attr-row">
-        <div class="box">
-          <label for="W">Wit</label>
-          <input type="number" min="0" id="W">
-          <span class="modifier" id="mod-W"></span>
-        </div>
-      </div>
-    </div>
-
-    <div class="derived-box">
-      <div class="derived-row">
-        <div class="box">
-          <label for="permCorr">Permanent Corruption</label>
-          <input type="number" min="0" id="permCorr">
-        </div>
-        <div class="box">
-          <label for="tempCorr">Temporary Corruption</label>
-          <input type="number" min="0" id="tempCorr">
-        </div>
-        <div class="box">
-          <label>Total Corruption</label>
-          <span class="derived-box-value" id="totalCorruption"></span>
-			<input type="text" id="totalCorruptionFormula" style="display:none">
-        </div>
-      </div>
-      <div class="derived-row">
-        <div class="box">
-          <label>Corruption Tolerance</label>
-          <span class="derived-box-value" id="corruptionTolerance"></span>
-          <input type="text" id="corruptionToleranceFormula">
-        </div>
-        <div class="box">
-          <label>Corruption Limit</label>
-          <span class="derived-box-value" id="corruptionLimit"></span>
-          <input type="text" id="corruptionLimitFormula">
-        </div>
-      </div>
-      <div class="derived-row">
-        <div class="box">
-          <label>Pain Tolerance</label>
-          <span class="derived-box-value" id="painTolerance"></span>
-          <input type="text" id="painToleranceFormula">
-        </div>
-        <div class="box">
-          <label>Maximum Health</label>
-          <span class="derived-box-value" id="maxHealth"></span>
-          <input type="text" id="maxHealthFormula">
-        </div>
-        <div class="box">
-          <label for="health">Health</label>
-          <input type="number" min="0" id="health">
-        </div>
-      </div>
-      <div class="derived-row">
-        <div class="box">
-          <label>Defense</label>
-          <span class="derived-box-value" id="defense"></span>
-          <input type="text" id="defenseFormula">
-        </div>
-        <div class="box">
-          <label>Impeding</label>
-          <input type="number" max="0" id="impeding">
+  <div style="display:flex; justify-content: space-around;">
+	<div>
+	  <h1>Attributes</h1>
+	  <div class="attr-wrapper">
+		<div class="attr-primary">
+		  <div class="attr-row">
+			<div class="box">
+			  <label for="A">Agility</label>
+			  <input type="number" min="0" id="A">
+			  <span class="modifier" id="mod-A"></span>
+			</div>
+			<div class="box">
+			  <label for="C">Charisma</label>
+			  <input type="number" min="0" id="C">
+			  <span class="modifier" id="mod-C"></span>
+			</div>
+		  </div>
+		  <div class="attr-row">
+			<div class="box">
+			  <label for="E">Exactitude</label>
+			  <input type="number" min="0" id="E">
+			  <span class="modifier" id="mod-E"></span>
+			</div>
+			<div class="box">
+			  <label for="M">Might</label>
+			  <input type="number" min="0" id="M">
+			  <span class="modifier" id="mod-M"></span>
+			</div>
+			<div class="box">
+			  <label for="R">Resolve</label>
+			  <input type="number" min="0" id="R">
+			  <span class="modifier" id="mod-R"></span>
+			</div>
+		  </div>
+		  <div class="attr-row">
+			<div class="box">
+			  <label for="S">Subtlety</label>
+			  <input type="number" min="0" id="S">
+			  <span class="modifier" id="mod-S"></span>
+			</div>
+			<div class="box">
+			  <label for="V">Vigilance</label>
+			  <input type="number" min="0" id="V">
+			  <span class="modifier" id="mod-V"></span>
+			</div>
+		  </div>
+		  <div class="attr-row">
+			<div class="box">
+			  <label for="W">Wit</label>
+			  <input type="number" min="0" id="W">
+			  <span class="modifier" id="mod-W"></span>
+			</div>
+		  </div>
 		</div>
-        <div class="box">
-          <label for="toughness">Toughness</label>
-          <input type="text" min="0" id="toughness" class="squarebox">
-        </div>
-      </div>
-      <div class="derived-row">
-        <div class="box">
-          <label>Encumbrance Threshold</label>
-          <span class="derived-box-value" id="encumbrThres"></span>
-          <input type="text" id="encumbrThresFormula">
-        </div>
-        <div class="box">
-          <label>Carrying Limit</label>
-          <span class="derived-box-value" id="encumbrLim"></span>
-          <input type="text" id="encumbrLimFormula">
-        </div>
-        <div class="box">
-          <label for="encumbrance">Encumbrance</label>
-          <input type="number" min="0" id="encumbrance">
-        </div>
-      </div>
-    </div>
-	<div class="box">
-	  <label for="xp">Experience</label>
-	  <input type="number" min="0" id="xp">
+
+		<div class="derived-box">
+		  <div class="derived-row">
+			<div class="box">
+			  <label for="permCorr">Permanent Corruption</label>
+			  <input type="number" min="0" id="permCorr">
+			</div>
+			<div class="box">
+			  <label for="tempCorr">Temporary Corruption</label>
+			  <input type="number" min="0" id="tempCorr">
+			</div>
+			<div class="box">
+			  <label>Total Corruption</label>
+			  <span class="derived-box-value" id="totalCorruption"></span>
+				<input type="text" id="totalCorruptionFormula" style="display:none">
+			</div>
+		  </div>
+		  <div class="derived-row">
+			<div class="box">
+			  <label>Corruption Tolerance</label>
+			  <span class="derived-box-value" id="corruptionTolerance"></span>
+			  <input type="text" id="corruptionToleranceFormula">
+			</div>
+			<div class="box">
+			  <label>Corruption Limit</label>
+			  <span class="derived-box-value" id="corruptionLimit"></span>
+			  <input type="text" id="corruptionLimitFormula">
+			</div>
+		  </div>
+		  <div class="derived-row">
+			<div class="box">
+			  <label>Pain Tolerance</label>
+			  <span class="derived-box-value" id="painTolerance"></span>
+			  <input type="text" id="painToleranceFormula">
+			</div>
+			<div class="box">
+			  <label>Maximum Health</label>
+			  <span class="derived-box-value" id="maxHealth"></span>
+			  <input type="text" id="maxHealthFormula">
+			</div>
+			<div class="box">
+			  <label for="health">Health</label>
+			  <input type="number" min="0" id="health">
+			</div>
+		  </div>
+		  <div class="derived-row">
+			<div class="box">
+			  <label>Defense</label>
+			  <span class="derived-box-value" id="defense"></span>
+			  <input type="text" id="defenseFormula">
+			</div>
+			<div class="box">
+			  <label>Impedance</label>
+			  <span class="derived-box-value" id="impedance"></span>
+			  <input type="text" id="impedanceFormula">
+			</div>
+			<div class="box">
+			  <label for="toughness">Toughness</label>
+			  <input type="text" min="0" id="toughness" class="squarebox">
+			</div>
+		  </div>
+		  <div class="derived-row">
+			<div class="box">
+			  <label>Encumbrance Threshold</label>
+			  <span class="derived-box-value" id="encumbrThres"></span>
+			  <input type="text" id="encumbrThresFormula">
+			</div>
+			<div class="box">
+			  <label>Carrying Limit</label>
+			  <span class="derived-box-value" id="encumbrLim"></span>
+			  <input type="text" id="encumbrLimFormula">
+			</div>
+			<div class="box">
+			  <label for="encumbrance">Encumbrance</label>
+			  <input type="number" min="0" id="encumbrance">
+			</div>
+		  </div>
+		</div>
+	  </div>
 	</div>
 	<div>
-	  <label for="Crux">Crux</label>
-	  <br>
-	  <select name="Crux" id="Crux">
-		<option value=""></option>
-		<option value="Appreciation">Appreciation</option>
-		<option value="Captivation">Captivation</option>
-		<option value="Exaltation">Exaltation</option>
-		<option value="Fear">Fear</option>
-	  </select>
+	  <h1>Effects</h1>
+	  <table id="effectsTable" class="listTable">
+		<thead>
+		  <tr><th>Source</th><th>Effect</th><th></th></tr>
+		</thead>
+		<tbody><!-- dynamically created rows --></tbody>
+	  </table>
+	  <button type="button" id="addEffectBtn" class="miscCtrlButton">+</button>
 	</div>
+  </div>
+  <div style="display:flex; justify-content:space-around;">
+	  <div class="box">
+		<label for="xp">Experience</label>
+		<input type="number" min="0" id="xp">
+	  </div>
+	  <div>
+		<label for="Crux">Crux</label>
+		<br>
+		<select name="Crux" id="Crux">
+		  <option value=""></option>
+		  <option value="Appreciation">Appreciation</option>
+		  <option value="Captivation">Captivation</option>
+		  <option value="Exaltation">Exaltation</option>
+		  <option value="Fear">Fear</option>
+		</select>
+	  </div>
   </div>
   <h1>Items</h1>
   <table id="itemsTable" class="listTable">
 	<thead>
-	  <tr><th>Name</th><th>Value</th><th>Notes</th><th></th></tr>
+	  <tr><th>Name</th><th>Quantity</th><th>Status</th><th>Notes</th><th></th></tr>
 	</thead>
 	<tbody><!-- dynamically created rows --></tbody>
   </table>
-  <button type="button" id="addItemBtn">+</button>
+  <button type="button" id="addItemBtn" class="miscCtrlButton">+</button>
   <h1>Abilities</h1>
   <table id="abilitiesTable" class="listTable">
 	<thead>
@@ -274,7 +300,7 @@
 	</thead>
 	<tbody><!-- dynamically created rows --></tbody>
   </table>
-  <button type="button" id="addAbilityBtn">+</button>
+  <button type="button" id="addAbilityBtn" class="miscCtrlButton">+</button>
   <h1>Notes</h1>
   <center><textarea id="notes"></textarea></center>
   <script>
@@ -292,63 +318,61 @@
       { key: 'Vigilance',  id: 'V' },
       { key: 'Wit',        id: 'W' }
     ];
-	const derivedAttributeData = [
-	  { key: 'Total Corruption',      id: 'totalCorruption', formula: 'Permanent Corruption + Temporary Corruption'},
-	  { key: 'Corruption Tolerance',  id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
-	  { key: 'Corruption Limit',      id: 'corruptionLimit', formula: 'R'},
-	  { key: 'Pain Tolerance',        id: 'painTolerance', formula: 'ceil(M/2)'},
-	  { key: 'Maximum Health',        id: 'maxHealth', formula: 'max(M,10)'},
-	  { key: 'Defense',               id: 'defense', formula: 'A+Impeding'},
-	  { key: 'Encumbrance Threshold', id: 'encumbrThres', formula: 'M'},
-	  { key: 'Carrying Limit',        id: 'encumbrLim', formula: 'M*2'}
-	];
 	const trackedStatData = [
-	  { key: 'Permanent Corruption', id: 'permCorr'},
-	  { key: 'Temporary Corruption', id: 'tempCorr' },
-	  { key: 'Health',               id: 'health' },
-	  { key: 'Toughness',            id: 'toughness' },
 	  { key: 'Encumbrance',          id: 'encumbrance' },
 	  { key: 'Experience',           id: 'xp' },
-	  { key: 'Impeding',             id: 'impeding' }
+	  { key: 'Health',               id: 'health' },
+	  { key: 'Permanent Corruption', id: 'permCorr'},
+	  { key: 'Temporary Corruption', id: 'tempCorr' },
+	  { key: 'Toughness',            id: 'toughness' }
+	];
+	const derivedAttributeData = [
+	  { key: 'Defense',               id: 'defense', formula: 'A-Impedance'},
+	  { key: 'Carrying Limit',        id: 'encumbrLim', formula: 'M*2'},
+	  { key: 'Corruption Limit',      id: 'corruptionLimit', formula: 'R'},
+	  { key: 'Corruption Tolerance',  id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
+	  { key: 'Encumbrance Threshold', id: 'encumbrThres', formula: 'M'},
+	  { key: 'Impedance',             id: 'impedance', formula: 'max(Encumbrance-EncumbranceThreshold,0)'},
+	  { key: 'Maximum Health',        id: 'maxHealth', formula: 'max(M,10)'},
+	  { key: 'Pain Tolerance',        id: 'painTolerance', formula: 'ceil(M/2)'},
+	  { key: 'Total Corruption',      id: 'totalCorruption', formula: 'PermanentCorruption+TemporaryCorruption'}
 	];
 
+	const allAttributes = new Map();
+	const attributesReplaceKeywords = [];
 	const primaryAttributes = new Map();
-	primaryAttributeData.forEach(a => primaryAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id}));
-	const derivedAttributes = new Map();
-	derivedAttributeData.forEach(a => derivedAttributes.set(a.key, {element: document.getElementById(a.id), formulaElement: document.getElementById(`${a.id}Formula`), formula: a.formula}));
+	primaryAttributeData.forEach(a => {
+		primaryAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id});
+		allAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id});
+		attributesReplaceKeywords.push(a.id);
+		attributesReplaceKeywords.push(a.key);
+	});
 	const trackedStats = new Map();
-	trackedStatData.forEach(a => trackedStats.set(a.key, {element: document.getElementById(a.id)}));
+	trackedStatData.forEach(a => {
+		trackedStats.set(a.key, {element: document.getElementById(a.id)});
+		allAttributes.set(a.key, {element: document.getElementById(a.id)});
+		attributesReplaceKeywords.push(a.key.replace(/\s/g,''));
+	});
+	const derivedAttributes = new Map();
+	derivedAttributeData.forEach(a => {
+		derivedAttributes.set(a.key, {element: document.getElementById(a.id), formulaElement: document.getElementById(`${a.id}Formula`), formula: a.formula});
+		allAttributes.set(a.key, {element: document.getElementById(a.id), formulaElement: document.getElementById(`${a.id}Formula`), formula: a.formula});
+		attributesReplaceKeywords.push(a.key.replace(/\s/g,''));
+	});
+	attributesReplaceKeywords.sort((a,b) => b.length - a.length);
+	  
+	const itemEffects = new Map();
 
     const SaveBtn   = document.getElementById('SaveBtn');
     const LoadBtn   = document.getElementById('LoadBtn');
     const FileInput = document.getElementById('FileInput');
 	
-    const addItemBtn = document.getElementById('addItemBtn');
+    const addEffectBtn = document.getElementById('addEffectBtn');
+    const effectsTbody = document.querySelector('#effectsTable tbody');
+	const addItemBtn = document.getElementById('addItemBtn');
     const itemsTbody = document.querySelector('#itemsTable tbody');
     const addAbilityBtn = document.getElementById('addAbilityBtn');
     const abilitiesTbody = document.querySelector('#abilitiesTable tbody');
-
-    // evaluate formulas with floor/ceil/max support
-    function evalFormula(formula) {
-      let expr = formula
-        .replace(/\bfloor\(/g, 'Math.floor(')
-        .replace(/\bceil\(/g,  'Math.ceil(')
-        .replace(/\bmax\(/g,   'Math.max(');
-      trackedStats.forEach(function(attrData,attr){
-        const val = parseFloat(attrData.element.value) || 0;
-        expr = expr.replace(new RegExp(`\\b${attr}\\b`, 'g'), `(${val})`);
-      });
-      primaryAttributes.forEach(function(attrData,attr){
-        const val = parseFloat(attrData.element.value) || 0;
-        expr = expr.replace(new RegExp(`\\b${attrData.abbr}\\b`, 'g'), `(${val})`);
-      });
-      try {
-        const result = Function(`"use strict";return(${expr})`)();
-        return isNaN(result) ? 'NaN' : result;
-      } catch {
-        return 'Err';
-      }
-    }
 	
 	function isObjectEmpty(object) {
 	  for (keys in object) {
@@ -356,29 +380,80 @@
 	  }
 	  return true;
 	}
+	
+	function tryEval(expr) {
+	  try {
+		const result = Function(`"use strict";return(${expr})`)();
+		return isNaN(result) ? 'NaN' : result;
+	  } catch {
+		return false;
+	  }
+	}
 
     function updateAll() {
       // update modifiers
-	  primaryAttributes.forEach(function(attrData,attr){
-		const val = parseFloat(attrData.element.value) || 0;
+	  primaryAttributes.forEach( (attrData,attr) => {
+		const val = Number(attrData.element.value) || 0;
 		const mod = 10 - val;
-		const sign = mod >= 0 ? '+' : '';
+		const sign = (mod >= 0) ? '+' : '';
 		attrData.modifier.textContent = `(${sign}${mod})`;
 	  });
 	  
 	  // update derived attributes
-	  derivedAttributes.forEach(function(attrData,attr){
-		attrData.element.textContent = evalFormula(attrData.formulaElement.value || attrData.formula);
-		if (attrData.formulaElement.value && attrData.formulaElement.value !== attrData.formula){
+	  const pendingDerivedAttributes = new Map();
+	  var newlyFinishedDerivedAttributes = new Map();
+	  const staticAttrArray = [];
+	  primaryAttributes.forEach( (attrData, attr) => {
+		staticAttrArray.push([attrData.abbr,Number(attrData.element.value) || 0]);
+		staticAttrArray.push([attr,Number(attrData.element.value) || 0]);
+	  });
+	  trackedStats.forEach( (attrData, attr) => {
+		staticAttrArray.push([attr.replace(/\s/g,''),Number(attrData.element.value) || 0]);
+	  });
+	  derivedAttributes.forEach( (attrData, attr) => {
+		var expr = (attrData.formulaElement.value || attrData.formula);
+		if (expr != attrData.formula){
 		  attrData.formulaElement.style.boxShadow = '0px 0px 7px #7667e1bd';
 		} else {
 		  attrData.formulaElement.style.boxShadow = '';
 		}
+		
+		expr = expr.replace(/\bfloor\(/g, 'Math.floor(').replace(/\bceil\(/g,  'Math.ceil(').replace(/\bmax\(/g,   'Math.max(');
+		attributesReplaceKeywords.forEach( k => expr = expr.replace(new RegExp(`\\b${k}\\b`, 'g'), `\<${k}\>`));
+		staticAttrArray.forEach( i => expr = expr.replace(new RegExp(`\\<${i[0]}\\>`, 'g'), `(${i[1]})`));
+		const result = tryEval(expr);
+		if(result || result === 0){
+		  newlyFinishedDerivedAttributes.set(attr, result);
+		  attrData.element.textContent = result;
+		} else {
+		  pendingDerivedAttributes.set(attr, expr);
+		}
 	  });
+	  while(pendingDerivedAttributes.size > 0){
+		const tempResolvedAttr = new Map();
+		pendingDerivedAttributes.forEach( (exprSoFar, attr) => {
+		  var expr = exprSoFar;
+		  newlyFinishedDerivedAttributes.forEach( (value, keyword) => expr = expr.replace(new RegExp(`\\<${keyword.replace(/\s/g,'')}\\>`, 'g'), `(${value})`));
+		  const result = tryEval(expr);
+		  if(result || result === 0){
+		    tempResolvedAttr.set(attr, result);
+			pendingDerivedAttributes.delete(attr);
+			derivedAttributes.get(attr).element.textContent = result;
+		  } else {
+			pendingDerivedAttributes.set(attr, expr);
+		  }
+		});
+		if (tempResolvedAttr.size > 0){
+		  newlyFinishedDerivedAttributes = tempResolvedAttr;
+		} else {
+		  pendingDerivedAttributes.forEach( (exprSoFar, attr) => derivedAttributes.get(attr).element.textContent = 'Err');
+		  break;
+		}
+	  }
 	  
 	  //corrupted state
-      if (parseFloat(derivedAttributes.get("Total Corruption").element.textContent) > parseFloat(derivedAttributes.get("Corruption Limit").element.textContent)) {
-        if (parseFloat(trackedStats.get("Permanent Corruption").element.value) > parseFloat(derivedAttributes.get("Corruption Limit").element.textContent)) {
+      if (Number(derivedAttributes.get("Total Corruption").element.textContent) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
+        if (Number(trackedStats.get("Permanent Corruption").element.value) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
             derivedAttributes.get("Total Corruption").element.style.backgroundColor = 'red';
         } else {
             derivedAttributes.get("Total Corruption").element.style.backgroundColor = 'yellow';
@@ -391,15 +466,15 @@
       }
 
 	  //dying state
-		if (parseFloat(trackedStats.get("Health").element.value) < 1) {
+		if (Number(trackedStats.get("Health").element.value) < 1) {
 		  trackedStats.get("Health").element.style.backgroundColor = 'red';
 		} else {
 		  trackedStats.get("Health").element.style.backgroundColor = '';
 		}
 
 	  //encumbrance states
-		if (parseFloat(trackedStats.get("Encumbrance").element.value) > parseFloat(derivedAttributes.get("Encumbrance Threshold").element.textContent)) {
-		  if (parseFloat(trackedStats.get("Encumbrance").element.value) > parseFloat(derivedAttributes.get("Carrying Limit").element.textContent)) {
+		if (Number(trackedStats.get("Encumbrance").element.value) > Number(derivedAttributes.get("Encumbrance Threshold").element.textContent)) {
+		  if (Number(trackedStats.get("Encumbrance").element.value) > Number(derivedAttributes.get("Carrying Limit").element.textContent)) {
 			trackedStats.get("Encumbrance").element.style.backgroundColor = 'red';
 		  } else {
 			trackedStats.get("Encumbrance").element.style.backgroundColor = 'yellow';
@@ -409,20 +484,38 @@
 		}
 	}
 	
-	function createItemRow(name = '', value = '', notes = '') {
+	function createItemRow(name = '', quantity = 1, status = 'Carried', notes = '') {
 		const tr = document.createElement('tr');
+
 		const tdName = document.createElement('td');
 		const inpName = document.createElement('input');
 		inpName.type = 'text';
 		inpName.value = name;
+		inpName.addEventListener('change',event => {
+		  if(itemEffects.has(tr)){
+			itemEffects.get(tr).forEach( effElem => {
+				effElem.querySelector('span').textContent = event.target.value.trim();
+			});
+		  }
+		});
 		tdName.appendChild(inpName);
 
-		const tdVal = document.createElement('td');
-		const inpVal = document.createElement('input');
-		inpVal.type = 'number';
-		inpVal.min = '0';
-		inpVal.value = value;
-		tdVal.appendChild(inpVal);
+		const tdQuant = document.createElement('td');
+		const inpQuant = document.createElement('input');
+		inpQuant.type = 'number';
+		inpQuant.min = '0';
+		inpQuant.value = quantity;
+		tdQuant.appendChild(inpQuant);
+		
+		const tdStatus = document.createElement('td');
+		const selectStatus = document.createElement('select');		
+		['Equipped', 'Carried', 'Stowed'].forEach(t => {
+			const opt = selectStatus.appendChild(document.createElement('option'));
+			opt.value=t;
+			opt.innerHTML=t;
+			if (status == t) opt.selected = true;
+		});
+		tdStatus.appendChild(selectStatus);
 
 		const tdNote = document.createElement('td');
 		const txtVal = document.createElement('textarea');
@@ -431,19 +524,65 @@
 		txtVal.textContent = notes;
 		tdNote.appendChild(txtVal);
 
-		const tdDel = document.createElement('td');
-		const delBtn = document.createElement('button');
-		delBtn.type = 'button';
-		delBtn.textContent = '×';
-		delBtn.className = 'deleteButton';
-		delBtn.addEventListener('click', () => tr.remove());
-		tdDel.appendChild(delBtn);
+		const tdCtrl = document.createElement('td');
+			const effectBtn = tdCtrl.appendChild(document.createElement('button'));
+			effectBtn.type = 'button';
+			effectBtn.textContent = '+Effect';
+			effectBtn.addEventListener('click',() => {
+				createEffectFromItem(tr, '', 0, 'While equipped');
+				//updateAll();
+			});
 
-		tr.append(tdName, tdVal, tdNote, tdDel);
+			const upBtn = tdCtrl.appendChild(document.createElement('button'));
+			upBtn.type = 'button';
+			upBtn.textContent = '↑';
+			upBtn.className = 'miscCtrlButton';
+			upBtn.addEventListener('click',() => moveUp(tr));
+			
+			const downBtn = tdCtrl.appendChild(document.createElement('button'));
+			downBtn.type = 'button';
+			downBtn.textContent = '↓';
+			downBtn.className = 'miscCtrlButton';
+			downBtn.addEventListener('click',() => moveDown(tr));
+
+			const delBtn = tdCtrl.appendChild(document.createElement('button'));
+			delBtn.type = 'button';
+			delBtn.textContent = '×';
+			delBtn.className = 'deleteButton';
+			delBtn.addEventListener('click', () => {
+				if (itemEffects.has(tr)){
+					itemEffects.get(tr).forEach(effElem => effElem.remove());
+					itemEffects.delete(tr);
+				}
+				tr.remove();
+			});
+
+		tr.append(tdName, tdQuant, tdStatus, tdNote, tdCtrl);
 		itemsTbody.appendChild(tr);
 		autoHeight(txtVal);
+		return tr;
     }
 	
+	function createEffectFromItem(itemElem, modifies='', bonus=0, condition=''){
+	  if (itemEffects.has(itemElem)){
+		//alert("Already had effects");
+		itemEffects.get(itemElem).add(createEffectRow(itemElem, modifies, bonus, condition));
+	  } else {
+		//alert("Did not already have effects");
+		itemEffects.set(itemElem,new Set([createEffectRow(itemElem, modifies, bonus, condition)]));
+	  }
+	}
+	
+	function moveDown(elem) {
+	  var parentElem = elem.parentElement;
+	  var elemIndex = Array.prototype.indexOf.call(parentElem.children, elem);
+	  if (elemIndex < parentElem.childElementCount - 1) parentElem.insertBefore(elem, parentElem.children[elemIndex + 2]);
+	}
+	function moveUp(elem) {
+	  var parentElem = elem.parentElement;
+	  var elemIndex = Array.prototype.indexOf.call(parentElem.children, elem);
+	  if (elemIndex > 0) parentElem.insertBefore(elem, parentElem.children[elemIndex - 1]);
+	}
 	function autoHeight(elem) {
 	  /* let the textarea grow to the required size */
 	  elem.style.height = "auto";
@@ -483,16 +622,97 @@
 		txtVal.addEventListener('input', (event) => autoHeight(event.target));
 		txtVal.textContent = notes;
 		tdNote.appendChild(txtVal);
-		
-		const tdDel = document.createElement('td');
-		const delBtn = document.createElement('button');
-		delBtn.type = 'button'; delBtn.textContent = '×';
-		delBtn.className = 'deleteButton';
-		delBtn.addEventListener('click', () => tr.remove());
-		tdDel.appendChild(delBtn);
 
-		tr.append(tdName, tdLvl, tdNote, tdDel);
+		const tdCtrl = document.createElement('td');
+			const upBtn = document.createElement('button');
+			upBtn.type = 'button';
+			upBtn.textContent = '↑';
+			upBtn.className = 'miscCtrlButton';
+			upBtn.addEventListener('click',() => moveUp(tr));
+			tdCtrl.appendChild(upBtn);
+			
+			const downBtn = document.createElement('button');
+			downBtn.type = 'button';
+			downBtn.textContent = '↓';
+			downBtn.className = 'miscCtrlButton';
+			downBtn.addEventListener('click',() => moveDown(tr));
+			tdCtrl.appendChild(downBtn);
+
+			const delBtn = document.createElement('button');
+			delBtn.type = 'button';
+			delBtn.textContent = '×';
+			delBtn.className = 'deleteButton';
+			delBtn.addEventListener('click', () => tr.remove());
+			tdCtrl.appendChild(delBtn);
+
+		tr.append(tdName, tdLvl, tdNote, tdCtrl);
 		abilitiesTbody.appendChild(tr);
+		autoHeight(txtVal);
+    }
+	
+	function createEffectRow(source = '', modifies = '', bonus = 0, condition) {
+		const tr = document.createElement('tr');
+		
+		const tdSource = document.createElement('td');
+		if (typeof source == "string"){
+			const sourceInpElem = document.createElement('input');
+			sourceInpElem.value = source;
+			sourceInpElem.setAttribute('placeholder', "Manual");
+			tdSource.appendChild(sourceInpElem);
+		} else {
+			const sourceDisplayElem = document.createElement('span');
+			sourceDisplayElem.textContent = source.querySelector('input').value.trim();
+			sourceDisplayElem.addEventListener('click', () => source.scrollIntoView({behavior: "smooth"}));
+			sourceDisplayElem.style.cursor = 'pointer';
+			tdSource.appendChild(sourceDisplayElem);
+		}
+
+		const tdEffect = document.createElement('td');
+			const selectEff = tdEffect.appendChild(document.createElement('select'));
+			selectEff.appendChild(document.createElement('option')).value = '';
+			allAttributes.forEach(function(attrData,attr){
+				const opt = selectEff.appendChild(document.createElement('option'));
+				opt.value = attr;
+				opt.innerHTML = attr;
+				if (modifies == attr) opt.selected = true;
+			});
+			tdEffect.addEventListener('change', () => allAttributes.get(selectEff.value).element.style.boxShadow = '0px 0px 7px #7667e1bd');
+			tdEffect.appendChild(selectEff);
+			
+			const plus = tdEffect.appendChild(document.createElement('span'));
+			plus.innerHTML = ' + ';
+			
+			const inpBonus = tdEffect.appendChild(document.createElement('input'));
+			inpBonus.type = 'number';
+			inpBonus.value = bonus;
+			inpBonus.style.width = "4em";
+			tdEffect.appendChild(inpBonus);
+			
+			if (typeof source != "string") {
+				const selectCond = tdEffect.appendChild(document.createElement('select'));
+				['Always', 'While equipped', 'While carried'].forEach( c => {
+					const opt = selectCond.appendChild(document.createElement('option'));
+					opt.value = c;
+					opt.innerHTML = c;
+					if (condition == c) opt.selected = true;
+				});
+			}
+
+		const tdCtrl = document.createElement('td');
+			const delBtn = document.createElement('button');
+			delBtn.type = 'button';
+			delBtn.textContent = '×';
+			delBtn.className = 'deleteButton';
+			delBtn.addEventListener('click', () => {
+				if(typeof source != "string") itemEffects.get(source).delete(tr);
+				tr.remove();
+			});
+			tdCtrl.appendChild(delBtn);
+
+		tr.append(tdSource, tdEffect, tdCtrl);
+		effectsTbody.appendChild(tr);
+		return tr;
+		
     }
 
     function loadData(obj) {
@@ -513,15 +733,28 @@
 
       // Items
       itemsTbody.innerHTML = '';
-      if(Array.isArray(obj.Items)) {
-        obj.Items.forEach(i => createItemRow(i.Name||'', i.Value||0, i.Notes||''));
-      } else createItemRow();
+	  itemEffects.clear();
+      effectsTbody.innerHTML = '';
+      if(Array.isArray(obj.Items)) { obj.Items.forEach(i => {
+		const itemElem = createItemRow(i.Name||'', i.Quantity||1, i.Status||'Carried', i.Notes||'');
+		if(Array.isArray(i.Effects)){
+			const effDataSet = new Set([]);
+			i.Effects.forEach(eff => {
+			  effDataSet.add(createEffectRow(itemElem, eff.Modifies, eff.Bonus, eff.Condition||'While equipped'));
+			});
+			itemEffects.set(itemElem, effDataSet);
+		}
+	  })} else createItemRow();
 
       // Abilities
       abilitiesTbody.innerHTML = '';
-      if(Array.isArray(obj.Abilities)) {
-        obj.Abilities.forEach(a => createAbilityRow(a.Name||'', a.Level||'', a.Notes||''));
-      } else createAbilityRow();
+      if(Array.isArray(obj.Abilities)) {obj.Abilities.forEach(a => {
+		createAbilityRow(a.Name||'', a.Level||'', a.Notes||'');
+	  });} else createAbilityRow();
+
+	  // manual effects
+	  
+	  if(Array.isArray(obj.Effects)) obj.Effects.forEach(eff => createEffectRow(eff.Name, eff.Modifies, eff.Bonus));
 
       updateAll();
     }
@@ -532,11 +765,11 @@
 
 	  // Attributes
       primaryAttributes.forEach(function(attrData,attr){
-        cfg[attr] = attrData.element.value;
+        cfg[attr] = Number(attrData.element.value);
       });
 	  derivedAttributes.forEach(function(attrData,attr){
 		if (attrData.formulaElement.value) {
-		  cfg[attr] = attrData.formulaElement.value
+		  cfg[attr] = attrData.formulaElement.value;
 		}
 	  });
       trackedStats.forEach(function(attrData,attr){
@@ -544,18 +777,29 @@
 		  cfg[attr] = attrData.element.value;
 		}
       });
-
+	  
       // items
       const itemsArray = [];
       itemsTbody.querySelectorAll('tr').forEach(tr => {
-        const [nameEl, valEl, noteEl] = tr.querySelectorAll('input,textarea');
+        const [nameEl, quantEl, statusEl, noteEl] = tr.querySelectorAll('input,select,textarea');
 		const itemObj = {};
-        [["Name", nameEl.value.trim()], ["Value", valEl.value], ["Notes", noteEl.value.trim()]].forEach( t => {
-          if (t[1]) itemObj[t[0]] = t[1];
-		});
+        if (nameEl.value.trim()) itemObj.Name = nameEl.value.trim();
+		if (quantEl.value != 1) itemObj.Quantity = Number(quantEl.value);
+        if (statusEl.value != 'Carried') itemObj.Status = statusEl.value;
+		if (itemEffects.get(tr)) {
+			const itemEffectArray = [];
+			itemEffects.get(tr).forEach(effElem =>{
+				const [modifiesEl, bonusEl, conditionEl] = effElem.querySelectorAll('input,select');
+				const effObj = {Modifies: modifiesEl.value, Bonus: Number(bonusEl.value)}
+				if (conditionEl.value != 'While equipped') effObj.Condition = conditionEl.value;
+				itemEffectArray.push(effObj);
+			});
+			itemObj.Effects = itemEffectArray;
+		}
+        if (noteEl.value.trim()) itemObj.Notes = noteEl.value.trim();
 		if (!isObjectEmpty(itemObj)) itemsArray.push(itemObj);
       });
-	  if (itemsArray.length != 0) cfg.Items = itemsArray;
+	  if (itemsArray.length > 0) cfg.Items = itemsArray;
 
       // abilities
 	  const abilitiesArray = [];
@@ -568,6 +812,14 @@
 		if (!isObjectEmpty(abilityObj)) abilitiesArray.push(abilityObj);
       });
 	  if (abilitiesArray.length != 0) cfg.Abilities = abilitiesArray;
+	  
+	  // manual Effects
+	  const manualEffectsArray = [];
+	  effectsTbody.querySelectorAll('tr:has(td:first-child input)').forEach(tr =>{
+        const [sourceEl, modifiesEl, bonusEl] = tr.querySelectorAll('input,select');
+		manualEffectsArray.push({Name: sourceEl.value, Modifies: modifiesEl.value, Bonus: Number(bonusEl.value)});
+	  });
+	  if (manualEffectsArray.length != 0) cfg.Effects = manualEffectsArray;
 	  
       cfg.Crux = CruxInput.value;
       cfg.Notes = NotesInput.value;
@@ -605,7 +857,8 @@
 	  attrData.element.addEventListener('input', updateAll);
 	});
 	
-    addItemBtn.addEventListener('click', () => createItemRow());
+	addEffectBtn.addEventListener('click', () => createEffectRow());
+    addItemBtn.addEventListener('click', () => createEffectFromItem(createItemRow(), 'Encumbrance', 1, 'While carried'));
     addAbilityBtn.addEventListener('click', () => createAbilityRow());
 
     SaveBtn.onclick = (() => {
@@ -643,7 +896,7 @@
       updateAll();
     });
 	window.addEventListener("visibilitychange", () => {
-	  saveToLocal();
+	  if (localStorage.getItem('characterSheet')) saveToLocal();
 	});	
 	
 	//finish
