@@ -18,7 +18,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.Search(),
     Component.Darkmode(),
-	Component.Explorer(),
   ],
   right: [
 	Component.TableOfContents(),
