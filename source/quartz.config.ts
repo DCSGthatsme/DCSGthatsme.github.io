@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "The Official DCSG Pages",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -13,8 +13,8 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Cabin",
+        body: "Roboto Slab",
         code: "IBM Plex Mono",
       },
       colors: {
