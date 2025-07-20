@@ -4,7 +4,9 @@ import { resolveRelative, simplifySlug } from "../util/path"
 
 function Backlinks({ fileData, allFiles }: QuartzComponentProps) {
   const slug = simplifySlug(fileData.slug!)
-  const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+  const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug)).sort(
+	(a, b) => a.frontmatter?.title.localeCompare(b.frontmatter?.title, undefined, {numeric: true, sensitivity: "base",})
+  )
   return (
     <div class="backlinks">
       <h3>Backlinks</h3>
