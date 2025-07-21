@@ -1,23 +1,6 @@
 ---
 draft: "true"
 ---
-## Encumbrance
-There are limits to how much a character can carry. Each item incurs +1 Encumbrance, except in the following cases:
-* Clothing, belts, and boots do not incur Encumbrance.
-* Backpacks, sacks, shoulder-bags, and other light containers do not not incur Encumbrance; only their contents do. Barrels, chests, boxes, and other bulky containers incur Encumbrance in addition to what they contain.
-* Small objects do not incur Encumbrance unless one carries a lot of them.
-* Equipped armor does not incur Encumbrance. Armor which is carried but not equipped incurs Encumbrance equal to its [[Impedance]] value.
-* Weapons equipped in a character's hands do not incur Encumbrance. Weapons carried in a pack or in their sheaths do incur Encumbrance.
-* Items with the quality [[Massive]] incur +2 Encumbrance.
-
-If the character bears an Encumbrance greater than their [[Encumbrance Threshold]], they get [[Impedance]] (-1) *for each Encumbrance above their Encumbrance Threshold*.
-
-If a character bears an Encumbrance greater than their [[Carrying Limit]], they cannot move more than short distances at a time. They are forced to suffer the detriments of a Hasty March during a Cautious March and cannot partake in a Hasty March. Furthermore, the heavy load gives a -1 detriment to the [[Might]] roll for a Hasty March to see if they take an extra 1d6 damage *for each Encumbrance above their Carrying Limit*.
-## Travel
-A Hasty March involves an actual risk to one’s life and wellbeing. All who travel at this speed suffer at 1 point to [[Health]] each day, must make a [[Might]] test in order to not suffer an additional 1D6 points of damage, and get no passive healing from the day's passing.
-
-A Cautious March covers less distance per day (about half) and does not incur any of Health penalties associated with traveling hastily.
-## Unsorted
 Dying Characters
 Monsters and non-player characters die as soon as their Health reaches 0, unless the Game Master wants something else to happen. In any case, the rules for player characters are different.
 
@@ -93,33 +76,6 @@ Trained as well as untrained characters can set traps, in order to protect a loc
 
 Trade in Used Goods and Treasures
 Sometimes the player characters will want to sell goods in the form of used weapons and armor. Merchants will gladly buy such secondhand items at half of the listed price (then give them a polish and sell them to someone else at full price).
-
-Maneuvers
-For gaming groups looking to add more tactical choices to the game, maneuvers may be an attractive addition, giving more options to everyone involved in combat. Of course, a drawback is that this makes combat scenes much more complicated, both with regard to the number of choices that players have to make and the book-keeping required by the Game Master. In essence, it will take longer to play out a combat scene; some gaming groups see this as a benefit, others do not. In some cases, maneuvers work much like abilities and can blur the line between abilities and tactical choices available to everyone. Sure, the abilities are always much more powerful, but you should still take some time to discuss if you want to add this mechanic or not. Some of the maneuvers will only be useful if the gaming group also uses the optional rule Movement by Scale (page 181 in the Core Rulebook), or is at least willing to play with a simplified Combat map (page 162 in the Core Rulebook). Here follows a list of maneuvers that all characters and opponents may employ, hoping to improve their own position or make things harder for the enemy.
-Careful Aiming
-You take the time to aim carefully with a ranged weapon and get a second chance to pass the attack test. The cost is a movement action, meaning that you cannot move during the turn.
-Charge
-You charge at the enemy and make a double movement plus a combat action in melee. The charge must be in a straight line towards the target. If the attack test fails, the target gets to make a Free Attack.
-Delay the Initiative
-You choose to delay your initiative during the turn, to let someone else go first. When it is your time to act, you specify who will get to act before you. The next turn, you are back at your normal place in the order of initiative.
-Disarm
-You attack the enemy's weapon or shield, hoping to make him or her drop it \[Accurate←Strong\]. The attack deals no damage, and if the test fails you expose yourself to a Free Attack from the enemy.
-Full Defense
-You stake everything on defense and have a second chance to pass all Defense tests during the turn. You are not allowed to perform any attacks.
-Full Offense
-You stake everything on melee attacks for a turn, giving you a second chance to pass all melee attacks. Because of this you simultaneously have a second chance to fail all Defense test during the turn.
-Hold
-You attack with a wrestling maneuver aimed at stop- ping the target from moving \[Strong←Strong\]. The Feature Robust gives a bonus to the test, +2 at level I, +4 at level II and +8 at level III. This modification applies to both the wrestler and its target, if the latter is Robust. A test is made each turn to maintain the hold. If the test fails, the target gets to make a Free Attack. Also, note that you cannot perform any other actions while maintaining the hold.
-Knock Out
-You attack from an Advantage, aiming to render the target unconscious. The attack is made as usual, but instead of dealing damage, 1d12 is rolled against the damage value; if the outcome is lower than the value, the target is knocked out. If the attack fails, you lose the Advantage over the target (see page 162 in the Core Rulebook for more on Advantage).
-Poison on Weapons
-With a passed Cunning test, you may use a combat action to apply poison to your weapon. If the out- come is 20 something goes wrong and you yourself are poisoned. The poison is enough for one hit, then a new dose must be applied.
-Push Back
-You lunge at the target with the intention of pushing it backwards – out of a room, over the edge of a cliff or similar. You have to start your turn with the push and must spend both your combat and your movement action doing so. A passed attack test deals half damage but will also push the target half a movement back (five meters). If the test fails, the target gets to make a Free Attack.
-Tackle
-You attack hoping to knock down the target \[Strong←Strong\]. The risk is that you also topple over, whether you make a successful tackle or not; a passed Quick test lets you remain standing. The tackle counts as your combat action and if you are Robust you add +2 to the Strong test per level acquired in the Feature.
-Take the Initiative
-You roll a Resolute test hoping to gain the initiative. If successful you gain a +5 bonus when deciding your place in the order of initiative. The downside is that your speed has a negative impact on your precision; you have a second chance to fail all success test during the turn, no matter if the Resolute test was successful or not. The next turn, you are back to your normal place in the order of initiative.
 
 Damage on Buildings
 There will likely be times when the characters are in a hurry to force a physical obstacle, or it may be the enemies who need to do the same in order to reach the characters. New concepts related to buildings are needed: Health: When the Health of a building reaches zero it is accessible to the attacker: a fortification crumbles, a wall collapses and so on. The breach is big enough for 1d4 attackers to enter per turn, against defenders who can stand four abreast across the newly formed opening. Breakpoint: If a building is dealt half of its Health in damage in one turn – i.e. the Breakpoint is exceeded – it is immediately breached. Note that this includes all damage dealt during the turn, not from a single attack as is the case with the Pain Tolerance. Hence, with enough catapults gathered, the walls of a castle can be breached in a single turn, at least in theory. Fortification: In essence, Fortification is the [[Toughness]] of the building. Weapons with the quality Wrecking ignore the Fortification value; other weapons must first penetrate the Fortification value before damaging the structure. Abilities with a Toughness-penetrating effect have no such effect on buildings. Set Buildings on Fire Setting wooden buildings on fire is an often used tactic during sieges. This requires some kind of flammable concoction – it can be an alchemical grenade, a flaming oil canister or a simple fire made from dry twigs and tinder. When the building has been exposed to the flames, a test against \[Cunning –Fortification\] is rolled to see if it catches fire; if so, the flames deal 1d4 damage and count as having the quality Wrecking. Note that whoever lights the fire will become the target of ranged attacks, provided that the building in question has windows or archers on the roof. Those inside a burning building are at risk of suffering damage each turn the building continues to burn – a passed Strong test per turn is Pact-making Beings So, what beings may be interested in forging a pact with the characters? In general, they are creatures of the categories that provide at least Strong resistance. A couple of perfect examples of such beings appear in the adventures already published by Järnringen, but since this is a player's guide we cannot specify exactly who they are… 106 required, or else the individual starts taking 1d4 damage (ignoring Toughness) each turn from fumes and heat. When a Strong test has failed the damage continues automatically; the only way to stop it is to leave the building or find some other way to cool down. Putting out the fire once it has begun to spread requires access to massive amounts of water, sand or similar. The fire dies when someone succeeds with a test against \[Cunning –the number of turns the fire has raged after the first\]. Anyone who extinguishes the fire in this way will likely become the target of ranged attacks.

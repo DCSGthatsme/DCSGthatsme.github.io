@@ -1,0 +1,3 @@
+A Hasty March involves an actual risk to one’s life and wellbeing. All who travel at this speed suffer at 1 point to [[Health]] each day, must make a [[Might]] test in order to not suffer an additional 1D6 points of damage, and get no passive healing from the day's passing.
+
+A Cautious March covers less distance per day (about half) and does not incur any of Health penalties associated with traveling hastily.
