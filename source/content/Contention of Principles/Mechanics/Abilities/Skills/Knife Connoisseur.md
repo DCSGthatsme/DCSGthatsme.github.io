@@ -9,7 +9,7 @@ Adept<br>Passive. The character makes two separate knife-attacks at the same tar
 
 Master<br>Reaction. The character can fight effectively with a knife at very short range from the enemy: when the character deals damage with a knife-attack, they are assumed to be so close that the enemy has a hard time using ordinary weapons effectively (the character has two chances to pass the [[Defense]] test), and is unable to attack with Long weapons. To reach a better distance, the enemy has to…
 
-… win the initiative next turn (see Quick Strike on page 99 or Take the Initiative on page 104) and then continue attacking until the knife-fighter hits again.
+… win the initiative next round (see Quick Strike on page 99 or Take the Initiative on page 104) and then continue attacking until the knife-fighter hits again.
 
 … use a movement action to withdraw from melee, and then suffer a Free Attack from the knife-fighter. If the Free Attack deals damage, the enemy once again finds themself at too short of a distance to attack effectively.
 # Notes

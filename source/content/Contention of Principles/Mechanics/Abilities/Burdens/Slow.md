@@ -1,1 +1,1 @@
-The creature or person moves at an unusually slow speed. In situations where precision counts, the movement is 7 meters per turn. In connection to the rule on Flight & Hunt, Slow gives a –3 [[Agility]] penalty.
+The creature or person moves at an unusually slow speed. In situations where precision counts, the movement is 7 meters. In connection to the rule on Flight & Hunt, Slow gives a –3 [[Agility]] penalty.

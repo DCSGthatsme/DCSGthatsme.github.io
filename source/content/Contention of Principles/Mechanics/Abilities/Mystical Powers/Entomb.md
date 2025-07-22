@@ -8,7 +8,7 @@ The deep soil of the world is a safe place for the mystic, just as the mountain 
 
 ![[Mystical Power]]
 
-Novice<br>Active. The mystic is able to sink into the earth if a successful [[Resolve]] test is made. There, the mystic is invulnerable but also unable to take any Actions. The mystic must succeed with another Resolve test each turn to remain in the safe bosom of the earth. If the mystic fails the test, then they are returned to the surface.
+Novice<br>Active. The mystic is able to sink into the earth if a successful [[Resolve]] test is made. There, the mystic is invulnerable but also unable to take any Actions. The mystic must succeed with another Resolve test each round to remain in the safe bosom of the earth. If the mystic fails the test, then they are returned to the surface.
 
 Adept<br>Active. The mystic can use mystical powers on themself while in the earth and does not have to test Resolve in order to remain there.
 

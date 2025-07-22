@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68dd24ef16ef35ad",
+            "id": "9ace8a31d7e68286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miscellaneous Mechanics"
-            }
-          },
-          {
-            "id": "cf95910528d3d6e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Items/Armor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armor"
-            }
-          },
-          {
-            "id": "1579eabb01f15c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Skills/Skills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "b1bd5763310cbc5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Travel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Travel"
-            }
-          },
-          {
-            "id": "ee9c17237d166bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Maneuvers.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Maneuvers/Maneuvers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Maneuvers"
             }
+          },
+          {
+            "id": "a3c7ae5cb9a68cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Mystical Powers/Unnoticeable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnoticeable"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,34 +216,35 @@
       "recent-notes:Recent notes": true
     }
   },
-  "active": "ee9c17237d166bed",
+  "active": "a3c7ae5cb9a68cb3",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Robust.md",
-    "Contention of Principles/Mechanics/Abilities/Maneuvers.md",
-    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-    "Contention of Principles/Mechanics/Travel.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Skills.md",
-    "Contention of Principles/Mechanics/Encumbrance.md",
-    "Contention of Principles/Mechanics/Abilities/Abilities.md",
-    "Contention of Principles/Mechanics/Items/Armor.md",
-    "Contention of Principles/Mechanics/Items/Days' Rations.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Impedance.md",
-    "Contention of Principles/Mechanics/Attributes/Attributes.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Flexible.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Flaming Servant.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Armored Mystic.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Pack-mule.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Repudiation.md",
-    "Contention of Principles/Mechanics/Character Creation.md",
-    "Contention of Principles/Mechanics/Abilities/Burdens/Leprosy.md",
-    "Contention of Principles/Mechanics/Abilities/Features.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Doyen.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Blinding Symbol.md",
+    "Contention of Principles/Mechanics/Abilities/Maneuvers/Maneuvers.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Wrestling.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Wisdom of the Ages.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Wild Hunt.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Web.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Unwieldy.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Unnoticeable.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Turn Weather.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/True Form.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Trick Archery.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Thorn Cloak.md",
     "Contention of Principles/Mechanics/Abilities/Monstrous Features/Terrify.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Survival Instinct.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Servant.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Pet.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Teleport.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Sword Devotee.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Subjugate.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Storm Arrow.md",
+    "Contention of Principles/Mechanics/Abilities/Burdens/Slow.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Robust.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Regeneration.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Quake.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Pyrotechnics.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Purging Fire.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Proscribe.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Predilection.md",
+    "Contention of Principles/Mechanics/Abilities/Maneuvers",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
     "HomeBrew/Ruins of Symbaroum",
@@ -295,7 +254,6 @@
     "Contention of Principles/Mechanics/NPC Stats/Cultural Beings/Ogre",
     "Contention of Principles/Mechanics/NPC Stats/Humans (Gangs)",
     "Contention of Principles/Mechanics/NPC Stats/Humans (misc)",
-    "Contention of Principles/Mechanics/NPC Stats/Elves",
     "Images/Spider Principle.png",
     "Images/Slain Principle.png",
     "Images/Large Humanoid Principles.png",

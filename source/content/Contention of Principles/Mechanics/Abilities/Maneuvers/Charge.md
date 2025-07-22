@@ -1,0 +1,1 @@
+Whole Turn<br>You charge at the enemy and make a double movement plus a melee Primary Action. The charge must be in a straight line towards the target. If the attack test fails, the target gets to make a Free Attack.

@@ -16,4 +16,4 @@ Special. The captivating mystic no longer suffers Corruption from learning the a
 Master
 > An unspoken invitation of mystery surrounds the master captivating mystic; their cachet leaves a patent impression upon everything around them.
 
-Special. The captivating mystic may re-roll one (1) failed test each turn when attempting to establish a Chain of mystical effects (see `SCRB`page 130). The mystic no longer suffers permanent Corruption from learning the master level of the powers with a crux of Captivation.
+Special. The captivating mystic may re-roll one (1) failed test each round when attempting to establish a Chain of mystical effects. The mystic no longer suffers permanent Corruption from learning the master level of the powers with a crux of Captivation.

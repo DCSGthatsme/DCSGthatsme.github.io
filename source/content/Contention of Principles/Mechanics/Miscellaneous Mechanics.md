@@ -1,29 +1,8 @@
 ---
 draft: "true"
 ---
-Dying Characters
-Monsters and non-player characters die as soon as their Health reaches 0, unless the Game Master wants something else to happen. In any case, the rules for player characters are different.
-
-When a player character reaches 0 Health, they collapse and are considered to be dying. At this point, they cannot help themself in any way. Each turn thereafter the player is forced to make a Death Test with 1D20 on the character's Initiative. This test is repeated until someone else either stabilizes the dying character with an herbal cure, the Medicus ability or mystical healing – or until the player rolls a 1 and wakes up, or a 20 and dies.
-
-Death test (1D20)
-1
-The character's damage looked much worse than it actually was; the character wakes up with 1D4 Health left. The character can act the next turn.
-
-2–10
-The character remains at death's threshold.
-
-11–19 The character is a step closer to death. The third time the roll has this outcome, the character dies.
-
-20
-The character dies, but may say some last harsh words if the player wants to.
-
-Dead Player Characters
-
-Dead player characters cannot remain in the game, but the player may create a new character using all the [[Experience]] accumulated by the last character.
-
 Healing Wounds
-Healing can happen naturally, by the use of alchemy and medicine or with the help of mystical powers. Performing first aid on a dying person requires the Medicus ability, an herbal cure or powers of healing.
+Healing can happen naturally, by the use of alchemy and medicine or with the help of mystical powers. Performing first aid on a Powerless character requires the Medicus ability, an herbal cure or powers of healing.
 * Natural healing happens at a rate of one (1) point of Health per day.
 * Alchemical herbal cures heal one (1) point of Health immediately.
 * The Medicus ability heals 1D4 Health, even more when combined with herbal cures.

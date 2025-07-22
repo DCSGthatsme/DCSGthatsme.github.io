@@ -12,6 +12,6 @@ Novice<br>Active. The mystic lets a weapon dance and uses [[Resolve]] instead of
 
 Adept<br>Active. The mystic must take control of the weapon by spending a combat action to activate the power, but then the weapon fights on its own while the mystic is free to use other abilities. Both attack and defense rolls are made against Resolve.
 
-Master<br>Free. The weapon dances out of the scabbard when the master needs it, attacks once per turn and defends the character by itself, leaving the mystic free to use other powers and abilities. Both attack and defense rolls are made against Resolve.
+Master<br>Free. The weapon dances out of the scabbard when the master needs it, attacks once per round and defends the character by itself, leaving the mystic free to use other powers and abilities. Both attack and defense rolls are made against Resolve.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

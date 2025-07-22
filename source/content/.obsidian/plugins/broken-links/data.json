@@ -3,7 +3,6 @@
   "previousVersion": "1.0.0",
   "groupBy": 0,
   "expandedFolderItems": [
-    "Contention of Principles",
     "Contention of Principles/Mechanics",
     "Contention of Principles/Mechanics/Abilities",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers",
@@ -13,7 +12,12 @@
     "Contention of Principles/Mechanics/Abilities/Rituals/Reliquary Decantation.md",
     "Contention of Principles/Mechanics/Equipment",
     "Contention of Principles/Mechanics/Equipment/Weapons",
-    "Contention of Principles/Mechanics/Equipment/Weapons/Flame Arrow.md"
+    "Contention of Principles/Mechanics/Equipment/Weapons/Flame Arrow.md",
+    "Contention of Principles",
+    "Contention of Principles/Mechanics/Abilities/Maneuvers",
+    "Contention of Principles/Mechanics/Abilities/Maneuvers/Knock Out.md",
+    "Contention of Principles/Mechanics/Items",
+    "Contention of Principles/Mechanics/Items/Weapons"
   ],
   "expandedFileItems": [],
   "expandedLinkItems": [],

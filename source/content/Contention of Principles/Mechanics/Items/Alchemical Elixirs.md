@@ -20,13 +20,13 @@ Moderate<br>Affects every poisoned creature in the vicinity and reduces the effe
 Strong<br>Does the same, but with a two level reduction: a strong poison becomes weak while moderate and weak ones are neutralized. Note that this does not affect damage already suffered.
 # Drone Dew
 `APG`
-Moderate<br>Drone Dew is a liquid elixir made from drone spores, also containing accelerants. A person who ingests a dose of the elixir immediately falls asleep if they do not pass a Might test, and stays asleep for an hour or until suffering any damage. If the test is passed, the person is instead dazed, with the effect that they are limited to one action per turn and cannot use any active abilities for an hour.
+Moderate<br>Drone Dew is a liquid elixir made from drone spores, also containing accelerants. A person who ingests a dose of the elixir immediately falls asleep if they do not pass a Might test, and stays asleep for an hour or until suffering any damage. If the test is passed, the person is instead dazed, with the effect that they are limited to one action on their turns and cannot use any active abilities for an hour.
 # Eye Drops
 Moderate<br>These drops will immediately return the gift of sight to a temporarily blinded creature.
 # Elemental Essence
 Moderate<br>When applying a dose of elemental essence, either one weapon, four throwing weapons, or all the arrows/bolts in a quiver deal, 1D4 elemental damage for the duration of a scene. The alchemist must choose which element to prepare: fire, cold, acid or lightning.
 # Elixir of Life
-Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of [[Health]] during 1D6 turns, on the character's turns. Sadly, the character also suffers 1 temporary [[Corruption]] for each turn the elixir is in effect.
+Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of [[Health]] during 1D6 rounds, on the character's turns. Sadly, the character also suffers 1 temporary [[Corruption]] for each round the elixir is in effect.
 # Fire Dye
 `APG`
 Weak<br>Fire dye consists of salts that change the color of any fire they are cast into. If the colors are ascribed a specific meaning known to the user and an allied observer it can be used for signaling over long distances. They are also used for entertainment among the wealthy, and by charlatans to impress commoners.
@@ -49,18 +49,18 @@ Weak<br>A seed is planted and one day later a miniature servant sprouts from the
 # Magic Concentrate
 Moderate<br>A dose of mystical essence, which gives a mystic a second chance to succeed with a Resolve test the next time they attempt to use a mystical power.
 # Poison
-Weak<br>A weak poison deals 1D4 damage each turn for 1D4 turns.
+Weak<br>A weak poison deals 1D4 damage each round for 1D4 rounds.
 
-Moderate<br>A moderate poison deals 1D6 damage each turn for 1D6 turns.
+Moderate<br>A moderate poison deals 1D6 damage each round for 1D6 rounds.
 
-Strong<br>A strong poison deals 1D8 damage each turn for 1D8 turns.
+Strong<br>A strong poison deals 1D8 damage each round for 1D8 rounds.
 # Poison Candle
 `APG`
-A seemingly ordinary candle that emits poisonous fumes when lit; revealed with a passed \[Vigilance←alchemist's Subtlety\]. The poison is airborne and affects everyone in the room or in the vicinity. The candle must burn for 1d4 turns before the poison is released, so the assassin can light it and leave the room before it takes effect.
+A seemingly ordinary candle that emits poisonous fumes when lit; revealed with a passed \[Vigilance←alchemist's Subtlety\]. The poison is airborne and affects everyone in the room or in the vicinity. The candle must burn for 1d4 rounds before the poison is released, so the assassin can light it and leave the room before it takes effect.
 
-Moderate<br>Deals 2 damage per turn
+Moderate<br>Deals 2 damage per round.
 
-Strong<br>3 damage per turn
+Strong<br>Deals 3 damage per round.
 # Protective Oil
 Moderate<br>The alchemical oil protects against elemental damage by providing +1D4 [[Toughness]] against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.
 # Purple Sap
@@ -80,7 +80,7 @@ Weak<br>A wax candle that when lit makes living creatures glow softly in the dar
 Moderate<br>The smoke bomb is a ceramic vessel that emits dense alchemical smoke when crushed, and it is used with the adept level of the ability Pyrotechnics. The smoke fills a room or covers a group of people engaged in melee combat.
 # Spirit Friend
 `APG`
-Strong<br>The miraculous drug called Spirit Friend is cooked in a cauldron, but it is not the liquid that is bottled, but the vapors. The gray-white smoke is captured in small ceramic jars and inhaled when needed. Spirit Friend gives the user level I in the [[Spirit Form]] [[Monstrous Features|Monstrous Feature]]. The effect lasts for 1d4 turns, to the price of as many points in temporary [[Corruption]].
+Strong<br>The miraculous drug called Spirit Friend is cooked in a cauldron, but it is not the liquid that is bottled, but the vapors. The gray-white smoke is captured in small ceramic jars and inhaled when needed. Spirit Friend gives the user level I in the [[Spirit Form]] [[Monstrous Features|Monstrous Feature]]. The effect lasts for 1d4 rounds, to the price of as many points in temporary [[Corruption]].
 # Spore Bomb
 Strong<br>The spore bomb is used together with the Strangler ability.
 # Stun Bolt
@@ -88,7 +88,7 @@ Strong<br>The spore bomb is used together with the Strangler ability.
 Weak<br>The alchemist covers a crossbow bolt in a fast acting muscle relaxant; anyone hit by the bolt must pass a \[Might -Damage\] test or fall to the ground. The [[Monstrous Features|Monstrous Feature]] [[Robust]] gives +2 in Might per level when rolling this test.
 # Thorn Beasties
 `APG`
-Moderate<br>A handful of seeds are thrown to the ground and one turn later 1d4 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live during a single scene before drying up to look like thorny dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 temporary [[Corruption]].
+Moderate<br>A handful of seeds are thrown to the ground and one round later 1d4 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live during a single scene before drying up to look like thorny dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 temporary [[Corruption]].
 
 Thorn BeasTy Manner Rustling and crackling Race Creeper Features Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Health 10 Pain Tolerance 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.
 # Thunder Ball
