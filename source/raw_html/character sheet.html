@@ -12,7 +12,8 @@
     span, input, label, textarea {
       font-family: "Roboto Slab", sans-serif;
     }
-    .modifier, h1, tr, button, .derived-box-value+input, #Name {
+    /* .modifier, h1, tr, button, .derived-box-value+input, #Name { */
+    h1, tr, button, .derived-box-value+input, #Name {
       font-family: "Cabin", sans-serif;
     }
 	#Name {
@@ -69,10 +70,10 @@
 	  padding: 1px 4px;
 
     }
-    .box .modifier {
+    /* .box .modifier {
       margin-top: 5px;
       color: #555;
-    }
+    } */
     .listTable {
       width: 100%;
 	  min-width: 25em;
@@ -132,48 +133,48 @@
 			<div class="box">
 			  <label for="A">Agility</label>
 			  <input type="number" min="0" id="A">
-			  <span class="modifier" id="mod-A"></span>
+			  <!-- <span class="modifier" id="mod-A"></span> -->
 			</div>
 			<div class="box">
 			  <label for="C">Charisma</label>
 			  <input type="number" min="0" id="C">
-			  <span class="modifier" id="mod-C"></span>
+			  <!-- <span class="modifier" id="mod-C"></span> -->
 			</div>
 		  </div>
 		  <div class="attr-row">
 			<div class="box">
 			  <label for="E">Exactitude</label>
 			  <input type="number" min="0" id="E">
-			  <span class="modifier" id="mod-E"></span>
+			  <!-- <span class="modifier" id="mod-E"></span> -->
 			</div>
 			<div class="box">
 			  <label for="M">Might</label>
 			  <input type="number" min="0" id="M">
-			  <span class="modifier" id="mod-M"></span>
+			  <!-- <span class="modifier" id="mod-M"></span> -->
 			</div>
 			<div class="box">
 			  <label for="R">Resolve</label>
 			  <input type="number" min="0" id="R">
-			  <span class="modifier" id="mod-R"></span>
+			  <!-- <span class="modifier" id="mod-R"></span> -->
 			</div>
 		  </div>
 		  <div class="attr-row">
 			<div class="box">
 			  <label for="S">Subtlety</label>
 			  <input type="number" min="0" id="S">
-			  <span class="modifier" id="mod-S"></span>
+			  <!-- <span class="modifier" id="mod-S"></span> -->
 			</div>
 			<div class="box">
 			  <label for="V">Vigilance</label>
 			  <input type="number" min="0" id="V">
-			  <span class="modifier" id="mod-V"></span>
+			  <!-- <span class="modifier" id="mod-V"></span> -->
 			</div>
 		  </div>
 		  <div class="attr-row">
 			<div class="box">
 			  <label for="W">Wit</label>
 			  <input type="number" min="0" id="W">
-			  <span class="modifier" id="mod-W"></span>
+			  <!-- <span class="modifier" id="mod-W"></span> -->
 			</div>
 		  </div>
 		</div>
@@ -342,8 +343,10 @@
 	const attributesReplaceKeywords = [];
 	const primaryAttributes = new Map();
 	primaryAttributeData.forEach(a => {
-		primaryAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id});
-		allAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id});
+		//primaryAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id});
+		//allAttributes.set(a.key, {element: document.getElementById(a.id), modifier: document.getElementById(`mod-${a.id}`), abbr: a.id});
+		primaryAttributes.set(a.key, {element: document.getElementById(a.id), abbr: a.id});
+		allAttributes.set(a.key, {element: document.getElementById(a.id), abbr: a.id});
 		attributesReplaceKeywords.push(a.id);
 		attributesReplaceKeywords.push(a.key);
 	});
@@ -392,12 +395,12 @@
 
     function updateAll() {
       // update modifiers
-	  primaryAttributes.forEach( (attrData,attr) => {
-		const val = Number(attrData.element.value) || 0;
-		const mod = 10 - val;
-		const sign = (mod >= 0) ? '+' : '';
-		attrData.modifier.textContent = `(${sign}${mod})`;
-	  });
+	  // primaryAttributes.forEach( (attrData,attr) => {
+	  // const val = Number(attrData.element.value) || 0;
+	  // const mod = 10 - val;
+	  // const sign = (mod >= 0) ? '+' : '';
+	  // attrData.modifier.textContent = `(${sign}${mod})`;
+	  // });
 	  
 	  // update derived attributes
 	  const pendingDerivedAttributes = new Map();
@@ -786,7 +789,7 @@
         if (nameEl.value.trim()) itemObj.Name = nameEl.value.trim();
 		if (quantEl.value != 1) itemObj.Quantity = Number(quantEl.value);
         if (statusEl.value != 'Carried') itemObj.Status = statusEl.value;
-		if (itemEffects.get(tr)) {
+		if (itemEffects.has(tr)) {
 			const itemEffectArray = [];
 			itemEffects.get(tr).forEach(effElem =>{
 				const [modifiesEl, bonusEl, conditionEl] = effElem.querySelectorAll('input,select');
@@ -794,7 +797,7 @@
 				if (conditionEl.value != 'While equipped') effObj.Condition = conditionEl.value;
 				itemEffectArray.push(effObj);
 			});
-			itemObj.Effects = itemEffectArray;
+			if (itemEffectArray.length > 0) itemObj.Effects = itemEffectArray;
 		}
         if (noteEl.value.trim()) itemObj.Notes = noteEl.value.trim();
 		if (!isObjectEmpty(itemObj)) itemsArray.push(itemObj);

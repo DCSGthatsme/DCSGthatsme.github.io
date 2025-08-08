@@ -41,9 +41,8 @@ Each weapon deals a certain amount of basic damage to the target's [[Health]], i
 ![[Quarterstaff]]
 ### [[Macuahuitl]]
 ![[Macuahuitl]]
-### Catchpole
-[[Versatile]], [[Ensnaring]], [[Long]] (two-handed)
-1d6 damage (against its ensnared target)
+### [[Catchpole]]
+![[Catchpole]]
 ## Two-handed Weapons
 ### [[Double-axe]]
 ![[Double-axe]]
@@ -57,8 +56,8 @@ Each weapon deals a certain amount of basic damage to the target's [[Health]], i
 ![[Executioner's Sword]]
 ### [[Warhammer]]
 ![[Warhammer]]
-### Meteor Hammer
-[[Two-handed]], [[Flexible]], [[Thrown]] [[Unwieldy]]<br>1d8+1 damage
+### [[Meteor Hammer]]
+![[Meteor Hammer]]
 ## Projectile Weapons
 ### [[Javelin]]
 ![[Javelin]]
