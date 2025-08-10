@@ -115,6 +115,14 @@
 	  height:20em;
 	  resize: none;
 	}
+	.slidy{
+	  transform: translateY(+45%);
+	  transition: transform 0.75s;
+	}
+	.box:hover .slidy, .slidy:hover{
+	  transform: translateY(-80%);
+	  transition: transform 0.4s
+	}
   </style>
 </head>
 <body>
@@ -192,7 +200,7 @@
 			<div class="box">
 			  <label>Total Corruption</label>
 			  <span class="derived-box-value" id="totalCorruption"></span>
-				<input type="text" id="totalCorruptionFormula" style="display:none">
+			  <input type="text" id="totalCorruptionFormula" style="display:none">
 			</div>
 		  </div>
 		  <div class="derived-row">
@@ -252,7 +260,8 @@
 			</div>
 			<div class="box">
 			  <label for="encumbrance">Encumbrance</label>
-			  <input type="number" min="0" id="encumbrance">
+			  <span class="derived-box-value" id="encumbrance">/span>
+			  <input type="text" id="encumbranceFormula" style="display:none">
 			</div>
 		  </div>
 		</div>
@@ -320,7 +329,6 @@
       { key: 'Wit',        id: 'W' }
     ];
 	const trackedStatData = [
-	  { key: 'Encumbrance',          id: 'encumbrance' },
 	  { key: 'Experience',           id: 'xp' },
 	  { key: 'Health',               id: 'health' },
 	  { key: 'Permanent Corruption', id: 'permCorr'},
@@ -328,15 +336,16 @@
 	  { key: 'Toughness',            id: 'toughness' }
 	];
 	const derivedAttributeData = [
-	  { key: 'Defense',               id: 'defense', formula: 'A-Impedance'},
-	  { key: 'Carrying Limit',        id: 'encumbrLim', formula: 'M*2'},
-	  { key: 'Corruption Limit',      id: 'corruptionLimit', formula: 'R'},
+	  { key: 'Carrying Limit',        id: 'encumbrLim',          formula: 'M*2'},
+	  { key: 'Corruption Limit',      id: 'corruptionLimit',     formula: 'R'},
 	  { key: 'Corruption Tolerance',  id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
-	  { key: 'Encumbrance Threshold', id: 'encumbrThres', formula: 'M'},
-	  { key: 'Impedance',             id: 'impedance', formula: 'max(Encumbrance-EncumbranceThreshold,0)'},
-	  { key: 'Maximum Health',        id: 'maxHealth', formula: 'max(M,10)'},
-	  { key: 'Pain Tolerance',        id: 'painTolerance', formula: 'ceil(M/2)'},
-	  { key: 'Total Corruption',      id: 'totalCorruption', formula: 'PermanentCorruption+TemporaryCorruption'}
+	  { key: 'Defense',               id: 'defense',             formula: 'A-Impedance'},
+	  { key: 'Encumbrance',           id: 'encumbrance',         formula: '0'},
+	  { key: 'Encumbrance Threshold', id: 'encumbrThres',        formula: 'M'},
+	  { key: 'Impedance',             id: 'impedance',           formula: 'max(Encumbrance-EncumbranceThreshold,0)'},
+	  { key: 'Maximum Health',        id: 'maxHealth',           formula: 'max(M,10)'},
+	  { key: 'Pain Tolerance',        id: 'painTolerance',       formula: 'ceil(M/2)'},
+	  { key: 'Total Corruption',      id: 'totalCorruption',     formula: 'PermanentCorruption+TemporaryCorruption'}
 	];
 
 	const allAttributes = new Map();
@@ -406,15 +415,73 @@
 	  const pendingDerivedAttributes = new Map();
 	  var newlyFinishedDerivedAttributes = new Map();
 	  const staticAttrArray = [];
+	  
+	  const effectModifiers = new Map();
+	  effectsTbody.querySelectorAll('tr:has(td:first-child input)').forEach(tr =>{
+        const [sourceEl, modifiesEl, bonusEl] = tr.querySelectorAll('input,select');
+		if (effectModifiers.has(modifiesEl.value)){
+			effectModifiers.get(modifiesEl.value).push(bonusEl.value);
+		} else {
+			effectModifiers.set(modifiesEl.value, [bonusEl.value]);
+		}
+		//console.log(modifiesEl.value + " +" + bonusEl.value);
+	  });
+	  itemEffects.forEach( (effectSet, itemTr) =>{
+		const itemStatus = itemTr.querySelector('select').value;
+		const itemQuantity = Number(itemTr.querySelectorAll('input')[1].value);
+		//console.log(itemTr.querySelector('input').value + ' x ' + itemQuantity);
+		effectSet.forEach( effectTr => {
+			const [modifiesEl, bonusEl, conditionEl] = effectTr.querySelectorAll('input,select');
+			const condition = conditionEl.value;
+			if (condition == 'Always' || (condition == 'While equipped' && itemStatus == 'Equipped') || (condition == 'While carried' && itemStatus == 'Carried')){
+				const bonus = (bonusEl.value < 0) ? Math.floor(bonusEl.value*itemQuantity) : Math.ceil(bonusEl.value*itemQuantity);
+				if (effectModifiers.has(modifiesEl.value)){
+					effectModifiers.get(modifiesEl.value).push(bonus);
+				} else {
+					effectModifiers.set(modifiesEl.value, [bonus]);
+				}
+				//console.log(modifiesEl.value + " +" + bonusEl.value);
+				effectTr.style.backgroundColor = '';
+			}else{
+				effectTr.style.backgroundColor = 'gray';
+			}
+		});
+	  });
+	  document.querySelectorAll('.slidy').forEach(e => e.remove());
 	  primaryAttributes.forEach( (attrData, attr) => {
-		staticAttrArray.push([attrData.abbr,Number(attrData.element.value) || 0]);
-		staticAttrArray.push([attr,Number(attrData.element.value) || 0]);
+		var value = Number(attrData.element.value) || 0;
+		if (effectModifiers.has(attr)){
+			console.log(attr + ' + ' + effectModifiers.get(attr).join('+'));
+			const newElem = document.createElement('div');
+			attrData.element.after(newElem);
+			newElem.className = 'squarebox slidy';
+			newElem.style.position = 'absolute';
+			newElem.style.boxShadow = '0px 0px 7px #7667e1bd';
+			const newSpan = newElem.appendChild(document.createElement('span'));
+			value += tryEval(effectModifiers.get(attr).join('+'));
+			newSpan.textContent = value;
+		}
+		staticAttrArray.push([attrData.abbr,value]);
+		staticAttrArray.push([attr,value]);
 	  });
 	  trackedStats.forEach( (attrData, attr) => {
-		staticAttrArray.push([attr.replace(/\s/g,''),Number(attrData.element.value) || 0]);
+		var value = Number(attrData.element.value) || 0;
+		if (effectModifiers.has(attr)){
+			console.log(attr + ' + ' + effectModifiers.get(attr).join('+'));
+			const newElem = document.createElement('div');
+			attrData.element.after(newElem);
+			newElem.className = 'squarebox slidy';
+			newElem.style.position = 'absolute';
+			newElem.style.boxShadow = '0px 0px 7px #7667e1bd';
+			const newSpan = newElem.appendChild(document.createElement('span'));
+			value += tryEval(effectModifiers.get(attr).join('+'));
+			newSpan.textContent = value;
+		}
+		staticAttrArray.push([attr.replace(/\s/g,''),value]);
 	  });
+	  
 	  derivedAttributes.forEach( (attrData, attr) => {
-		var expr = (attrData.formulaElement.value || attrData.formula);
+		var expr = attrData.formulaElement.value || attrData.formula;
 		if (expr != attrData.formula){
 		  attrData.formulaElement.style.boxShadow = '0px 0px 7px #7667e1bd';
 		} else {
@@ -422,12 +489,23 @@
 		}
 		
 		expr = expr.replace(/\bfloor\(/g, 'Math.floor(').replace(/\bceil\(/g,  'Math.ceil(').replace(/\bmax\(/g,   'Math.max(');
+		
 		attributesReplaceKeywords.forEach( k => expr = expr.replace(new RegExp(`\\b${k}\\b`, 'g'), `\<${k}\>`));
 		staticAttrArray.forEach( i => expr = expr.replace(new RegExp(`\\<${i[0]}\\>`, 'g'), `(${i[1]})`));
-		const result = tryEval(expr);
+		var result = tryEval(expr);
 		if(result || result === 0){
-		  newlyFinishedDerivedAttributes.set(attr, result);
 		  attrData.element.textContent = result;
+		  if (effectModifiers.has(attr)){
+			const newElem = document.createElement('div');
+			attrData.element.after(newElem);
+			newElem.className = 'squarebox slidy';
+			newElem.style.position = 'absolute';
+			newElem.style.boxShadow = '0px 0px 7px #7667e1bd';
+			const newSpan = newElem.appendChild(document.createElement('span'));
+			result += tryEval(effectModifiers.get(attr).join('+'));
+			newSpan.textContent = result;
+		  }
+		  newlyFinishedDerivedAttributes.set(attr, result);
 		} else {
 		  pendingDerivedAttributes.set(attr, expr);
 		}
@@ -437,11 +515,21 @@
 		pendingDerivedAttributes.forEach( (exprSoFar, attr) => {
 		  var expr = exprSoFar;
 		  newlyFinishedDerivedAttributes.forEach( (value, keyword) => expr = expr.replace(new RegExp(`\\<${keyword.replace(/\s/g,'')}\\>`, 'g'), `(${value})`));
-		  const result = tryEval(expr);
+		  var result = tryEval(expr);
 		  if(result || result === 0){
+			derivedAttributes.get(attr).element.textContent = result;
+			if (effectModifiers.has(attr)){
+				const newElem = document.createElement('div');
+				derivedAttributes.get(attr).element.after(newElem);
+				newElem.className = 'squarebox slidy';
+				newElem.style.position = 'absolute';
+				newElem.style.boxShadow = '0px 0px 7px #7667e1bd';
+				const newSpan = newElem.appendChild(document.createElement('span'));
+				result += tryEval(effectModifiers.get(attr).join('+'));
+				newSpan.textContent = result;
+			}
 		    tempResolvedAttr.set(attr, result);
 			pendingDerivedAttributes.delete(attr);
-			derivedAttributes.get(attr).element.textContent = result;
 		  } else {
 			pendingDerivedAttributes.set(attr, expr);
 		  }
@@ -455,16 +543,18 @@
 	  }
 	  
 	  //corrupted state
-      if (Number(derivedAttributes.get("Total Corruption").element.textContent) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
-        if (Number(trackedStats.get("Permanent Corruption").element.value) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
-            derivedAttributes.get("Total Corruption").element.style.backgroundColor = 'red';
+	  const totalCorruptionElem = derivedAttributes.get("Total Corruption").element;
+	  const permCorruptionElem = derivedAttributes.get("Permanent Corruption").element;
+      if (Number(totalCorruptionElem.textContent) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
+        if (Number(permCorruptionElem.value) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
+            totalCorruptionElem.style.backgroundColor = 'red';
         } else {
-            derivedAttributes.get("Total Corruption").element.style.backgroundColor = 'yellow';
+            totalCorruptionElem.style.backgroundColor = 'yellow';
         }
         derivedAttributes.get("Corruption Tolerance").element.style.backgroundColor = 'gray';
         derivedAttributes.get("Corruption Tolerance").element.textContent = 0;
       } else {
-        derivedAttributes.get("Total Corruption").element.style.backgroundColor = '';
+        totalCorruptionElem.style.backgroundColor = '';
         derivedAttributes.get("Corruption Tolerance").element.style.backgroundColor = '';
       }
 
@@ -476,14 +566,14 @@
 		}
 
 	  //encumbrance states
-		if (Number(trackedStats.get("Encumbrance").element.value) > Number(derivedAttributes.get("Encumbrance Threshold").element.textContent)) {
-		  if (Number(trackedStats.get("Encumbrance").element.value) > Number(derivedAttributes.get("Carrying Limit").element.textContent)) {
-			trackedStats.get("Encumbrance").element.style.backgroundColor = 'red';
+		if (Number(derivedAttributes.get("Encumbrance").element.textContent) > Number(derivedAttributes.get("Encumbrance Threshold").element.textContent)) {
+		  if (Number(derivedAttributes.get("Encumbrance").element.textContent) > Number(derivedAttributes.get("Carrying Limit").element.textContent)) {
+			derivedAttributes.get("Encumbrance").element.style.backgroundColor = 'red';
 		  } else {
-			trackedStats.get("Encumbrance").element.style.backgroundColor = 'yellow';
+			derivedAttributes.get("Encumbrance").element.style.backgroundColor = 'yellow';
 		  }
 		} else {
-		  trackedStats.get("Encumbrance").element.style.backgroundColor = '';
+		  derivedAttributes.get("Encumbrance").element.style.backgroundColor = '';
 		}
 	}
 	
@@ -508,6 +598,7 @@
 		inpQuant.type = 'number';
 		inpQuant.min = '0';
 		inpQuant.value = quantity;
+		inpQuant.addEventListener('input', updateAll);
 		tdQuant.appendChild(inpQuant);
 		
 		const tdStatus = document.createElement('td');
@@ -518,6 +609,7 @@
 			opt.innerHTML=t;
 			if (status == t) opt.selected = true;
 		});
+		tdStatus.addEventListener('change', updateAll);
 		tdStatus.appendChild(selectStatus);
 
 		const tdNote = document.createElement('td');
@@ -558,6 +650,7 @@
 					itemEffects.delete(tr);
 				}
 				tr.remove();
+				updateAll();
 			});
 
 		tr.append(tdName, tdQuant, tdStatus, tdNote, tdCtrl);
@@ -645,7 +738,10 @@
 			delBtn.type = 'button';
 			delBtn.textContent = '×';
 			delBtn.className = 'deleteButton';
-			delBtn.addEventListener('click', () => tr.remove());
+			delBtn.addEventListener('click', () => {
+				tr.remove();
+				updateAll();
+			});
 			tdCtrl.appendChild(delBtn);
 
 		tr.append(tdName, tdLvl, tdNote, tdCtrl);
@@ -679,7 +775,7 @@
 				opt.innerHTML = attr;
 				if (modifies == attr) opt.selected = true;
 			});
-			tdEffect.addEventListener('change', () => allAttributes.get(selectEff.value).element.style.boxShadow = '0px 0px 7px #7667e1bd');
+			tdEffect.addEventListener('change', updateAll);
 			tdEffect.appendChild(selectEff);
 			
 			const plus = tdEffect.appendChild(document.createElement('span'));
@@ -689,6 +785,7 @@
 			inpBonus.type = 'number';
 			inpBonus.value = bonus;
 			inpBonus.style.width = "4em";
+			inpBonus.addEventListener('input', updateAll);
 			tdEffect.appendChild(inpBonus);
 			
 			if (typeof source != "string") {
@@ -699,6 +796,7 @@
 					opt.innerHTML = c;
 					if (condition == c) opt.selected = true;
 				});
+				selectCond.addEventListener('change', updateAll);
 			}
 
 		const tdCtrl = document.createElement('td');
@@ -709,6 +807,7 @@
 			delBtn.addEventListener('click', () => {
 				if(typeof source != "string") itemEffects.get(source).delete(tr);
 				tr.remove();
+				updateAll();
 			});
 			tdCtrl.appendChild(delBtn);
 

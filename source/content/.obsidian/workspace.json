@@ -76,9 +76,26 @@
               "icon": "lucide-file",
               "title": "Qualities"
             }
+          },
+          {
+            "id": "dccb1efb41e39bd0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Test.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Test"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,16 +272,18 @@
       "command-palette:Open command palette": false,
       "cmdr:Git: Commit-and-sync": false,
       "broken-links:View broken links": true,
-      "recent-notes:Recent notes": true
+      "recent-notes:Recent notes": true,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "079105876225ccb1",
+  "active": "dccb1efb41e39bd0",
   "lastOpenFiles": [
+    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
+    "Test.canvas",
     "Contention of Principles/Mechanics/Abilities/Rituals/Tale of Ashes.md",
     "Contention of Principles/Mechanics/NPC Archetypes/Elves.md",
     "Contention of Principles/return_of_the_lazy_dungeon_master.epub",
     "Contention of Principles/Mechanics/NPC Archetypes/Humans.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
     "Contention of Principles/Mechanics/Items/Weapons/Catchpole.md",
     "Contention of Principles/Mechanics/Items/Weapons/Weapons.md",
     "Contention of Principles/Mechanics/Abilities/Maneuvers/Maneuvers.md",
@@ -287,7 +306,6 @@
     "Contention of Principles/Mechanics/Items/Qualities/Unwieldy.md",
     "Contention of Principles/Mechanics/Distance.md",
     "Contention of Principles/Mechanics/Items/Qualities/Flexible.md",
-    "Contention of Principles/Mechanics/Encumbrance.md",
     "Contention of Principles/Mechanics/Abilities/Maneuvers",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
