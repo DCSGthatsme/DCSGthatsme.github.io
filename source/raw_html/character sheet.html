@@ -260,8 +260,8 @@
 			</div>
 			<div class="box">
 			  <label for="encumbrance">Encumbrance</label>
-			  <span class="derived-box-value" id="encumbrance">/span>
-			  <input type="text" id="encumbranceFormula" style="display:none">
+			  <span class="derived-box-value" id="encumbrance"></span>
+			  <input type="text" id="encumbranceFormula" style="display:none"/>
 			</div>
 		  </div>
 		</div>
@@ -279,6 +279,11 @@
 	</div>
   </div>
   <div style="display:flex; justify-content:space-around;">
+		<div class="box">
+		  <label for="actingPrec">Acting Precedence</label>
+		  <span class="derived-box-value" id="actingPrec"></span>
+		  <input type="text" id="actingPrecFormula"/>
+		</div>
 	  <div class="box">
 		<label for="xp">Experience</label>
 		<input type="number" min="0" id="xp">
@@ -336,6 +341,7 @@
 	  { key: 'Toughness',            id: 'toughness' }
 	];
 	const derivedAttributeData = [
+	  { key: 'Acting Precedence',     id: 'actingPrec',          formula: 'A'},
 	  { key: 'Carrying Limit',        id: 'encumbrLim',          formula: 'M*2'},
 	  { key: 'Corruption Limit',      id: 'corruptionLimit',     formula: 'R'},
 	  { key: 'Corruption Tolerance',  id: 'corruptionTolerance', formula: 'ceil((R-5)/4)'},
