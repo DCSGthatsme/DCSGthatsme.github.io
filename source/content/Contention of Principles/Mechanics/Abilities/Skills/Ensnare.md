@@ -1,5 +1,5 @@
 # Ability
-Using weapons like bolas, nets, or the long whip, many fighters and hunters learn to limit the movement of enemies or prey. The character is trained in the ensnaring techniques used to gain Advantage in melee or to capture prey alive.
+Using weapons like bolas, nets, or the long whip, many fighters and hunters learn to limit the movement of enemies or prey. The character is trained in the ensnaring techniques used to gain [[Advantage]] in melee or to capture prey alive.
 
 Novice<br>Active. The character gains a second chance to ensnare a target (requires a weapon with the quality [[Ensnaring]]).
 

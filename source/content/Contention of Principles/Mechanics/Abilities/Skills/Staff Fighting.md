@@ -5,6 +5,6 @@ Novice<br>Reaction. The character is proficient in parrying incoming attacks and
 
 Adept<br>Reaction. The character uses the back end of the Long weapon to gain a Free Attack if the opponent defends against the initial attack. The Free Attack is rolled separately and the damage is 1D6. If armed with a simple light staff, this may also be done after every successful Defense against melee attacks while holding the weapon – the staff fighter makes a quick riposte after having parried.
 
-Master<br>Active. The character targets the legs and attacks the fallen enemy in a single motion. The initial attack sends the enemy to the ground if the attacker succeeds with a \[[[Exactitude]]←[[Agility]]\] test and the follow-up is performed as a Free Attack with Advantage on the opponent.
+Master<br>Active. The character targets the legs and attacks the fallen enemy in a single motion. The initial attack sends the enemy to the ground if the attacker succeeds with a \[[[Exactitude]]←[[Agility]]\] test and the follow-up is performed as a Free Attack with [[Advantage]] on the opponent.
 # Notes
 * From the Symbaroum Advanced Player's Guide.
