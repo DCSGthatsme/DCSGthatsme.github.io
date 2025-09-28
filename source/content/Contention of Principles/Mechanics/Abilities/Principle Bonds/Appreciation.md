@@ -1,6 +1,3 @@
----
-draft: "true"
----
 > One who appreciates principles, magic, and the unknown demonstrates cognizance and understanding of the true nature of things.
 
 Novice

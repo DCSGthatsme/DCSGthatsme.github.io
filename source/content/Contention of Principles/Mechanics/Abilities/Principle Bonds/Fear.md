@@ -1,6 +1,3 @@
----
-draft: "true"
----
 > One who fears the principles, magic, and the unknown acquiesces to the immensity of nature and bends its purpose.
 
 Novice
