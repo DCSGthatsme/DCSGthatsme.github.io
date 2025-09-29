@@ -1,0 +1,1 @@
+The Consortium of Man (often simply the Consortium) is a world-spanning philanthropic organization founded and operated in [[Accord]]. They are to thank for spreading literacy, encouraging and facilitating trade between tribes, and the construction of a road.

@@ -22,147 +22,133 @@
             }
           },
           {
-            "id": "59e88f22fa8d6b37",
+            "id": "0f56f097600a6cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Attributes/Health.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health"
+              "title": "Mystical Power"
             }
           },
           {
-            "id": "688931d4e41dc11f",
+            "id": "c75cdd74f6131f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Travel.md",
+                "file": "Contention of Principles/Mechanics/Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Travel"
+              "title": "Mechanics"
             }
           },
           {
-            "id": "7d9b35266e054041",
+            "id": "ad71f6c35fa27247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Distance.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Ritualist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distance"
+              "title": "Ritualist"
             }
           },
           {
-            "id": "d4bb2cf92602918c",
+            "id": "7a1ec6533914faf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Advantage.md",
+                "file": "Contention of Principles/Mechanics/Abilities/Abilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advantage"
+              "title": "Abilities"
             }
           },
           {
-            "id": "7d30b868155a9468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Skills/Two-handed Force.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two-handed Force"
-            }
-          },
-          {
-            "id": "29e6df90d76ee136",
+            "id": "c719927752bd53b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Contention of Principles/Mechanics/Abilities/Principle Bonds/Principle Bonds.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Principle Bonds"
             }
           },
           {
-            "id": "db77be5347c597a0",
+            "id": "7d20176f465d4f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Principle Bonds/Appreciation.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Appreciation"
-            }
-          },
-          {
-            "id": "adec95da3697d144",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Principle Bonds/Captivation.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Captivation"
-            }
-          },
-          {
-            "id": "5dd987d1a12cc887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Principle Bonds/Exaltation.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Exaltation"
-            }
-          },
-          {
-            "id": "4d6c5d9ad27b20ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Principle Bonds/Fear.md",
+                "file": "Contention of Principles/World/Heed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fear"
+              "title": "Heed"
+            }
+          },
+          {
+            "id": "e96956b3380b8091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/World/Party.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Party"
+            }
+          },
+          {
+            "id": "94f9a5c5355b259e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/World/Consortium of Man.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consortium of Man"
+            }
+          },
+          {
+            "id": "ad8bd44e80fc672c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/World/Ardent Hearts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ardent Hearts"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "advantage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -344,34 +330,34 @@
       "recent-notes:Recent notes": true
     }
   },
-  "active": "4d6c5d9ad27b20ab",
+  "active": "ad8bd44e80fc672c",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Exaltation.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Captivation.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Appreciation.md",
+    "Contention of Principles/World/World Guidance.md",
+    "Contention of Principles/World/Ardent Hearts.md",
+    "Contention of Principles/World/Consortium of Man.md",
+    "Contention of Principles/World/Party.md",
+    "Contention of Principles/World/Heed.md",
     "Contention of Principles/Mechanics/Abilities/Principle Bonds/Principle Bonds.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Two-handed Force.md",
+    "Contention of Principles/Mechanics/Abilities/Features.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Abilities/Ritualist.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Power.md",
     "Contention of Principles/Mechanics/Abilities/Maneuvers/Maneuvers.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Acrobatics.md",
-    "Contention of Principles/Mechanics/Attributes/Health.md",
+    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+    "Contention of Principles/Mechanics/Travel.md",
     "Contention of Principles/Mechanics/Distance.md",
+    "Contention of Principles/Mechanics/Advantage.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Two-handed Force.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Appreciation.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Captivation.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Exaltation.md",
+    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Fear.md",
+    "Contention of Principles/Mechanics/Attributes/Health.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Acrobatics.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Wrestling.md",
     "Contention of Principles/Dominate.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Twin Attack.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Sword Devotee.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Staff Fighting.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Quick Draw.md",
-    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Mantle Dance.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Long.md",
-    "Contention of Principles/Mechanics/Abilities/Maneuvers/Knock Out.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Feint.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Fear.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Ensnare.md",
-    "Contention of Principles/Mechanics/Items/Armor.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Backstab.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Blood Combat.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Con Artist.md",
     "Test.canvas",
     "Contention of Principles/return_of_the_lazy_dungeon_master.epub",
     "Contention of Principles/Mechanics/NPC Archetypes",

@@ -1,13 +1,6 @@
 ---
 draft: "true"
 ---
-Healing Wounds
-Healing can happen naturally, by the use of alchemy and medicine or with the help of mystical powers. Performing first aid on a Powerless character requires the Medicus ability, an herbal cure or powers of healing.
-* Natural healing happens at a rate of one (1) point of Health per day.
-* Alchemical herbal cures heal one (1) point of Health immediately.
-* The Medicus ability heals 1D4 Health, even more when combined with herbal cures.
-* Mystical powers, such as Lay on Hands, and the Recovery ability both heal Health; see their respective descriptions for details.
-
 Special Actions
 The conditions of the combat situation and the weapons of the combatants will affect the course of events. Special rules for line of sight, the use of shields as well as different kinds of advantages are covered in this section.
 

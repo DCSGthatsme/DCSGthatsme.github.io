@@ -16,5 +16,11 @@ When a player character becomes Powerless, they fall prone and may be considered
  This test is repeated unless another character intervenes in some way (i.e. an herbal cure, the [[Medic]] ability, or mystical healing).
 
 The Tragedy may simply be death, or it may be some other extreme outcome depending on the situation.
+
+Healing can happen naturally, by the use of alchemy and medicine or with the help of mystical powers. Performing first aid on a Powerless character requires the Medicus ability, an herbal cure or powers of healing.
+* Natural healing happens at a rate of one (1) point of Health per day.
+* Alchemical herbal cures heal one (1) point of Health immediately.
+* The [[Medic]] ability heals 1D4 Health, even more when combined with herbal cures.
+* Mystical powers, such as [[Lay on Hands]], and the [[Recovery]] skill both heal Health.
 ## Notes
 * Originally "Toughness", which is now [[Health]].

@@ -1,6 +1,6 @@
 The character has learned how mystical powers can be channeled through [[Rituals|rituals]] – powerful but time-consuming magical practices.
 
-The character suffers one (1) permanent Corruption from each ritual they learn.
+The character suffers one (1) permanent Corruption from each ritual they learn, except if the ritual has a Crux for which the character has a [[Principle Bonds|Principle Bond]]. In the latter case the character is spared the blight of Corruption.
 
 When it comes to performing rituals, the character suffers 1D4 temporary Corruption, unless under relevant Principle Bonds. Performing rituals covered by the character's Bond only gives one (1) point of temporary Corruption.
 

@@ -1,0 +1,1 @@
+The Ardent Hearts are a militant order. The fighters among them are knights ranked as Tusk, Horn, Claw, and Quill (in descending status order). They wear distinctive, dark plate armor which bears the crest of their rank on their chest.
