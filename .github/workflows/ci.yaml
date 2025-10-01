@@ -63,7 +63,7 @@ jobs:
         run: |
           npm install
           npx quartz build
-          npx quarts update
+          npx quartz update
         working-directory: ./source
 
       - name: Copy raw HTML folder
