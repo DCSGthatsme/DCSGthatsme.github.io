@@ -459,11 +459,11 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   document.addEventListener("keydown", shortcutHandler)
-  window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
+  //window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
   searchButton?.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton?.removeEventListener("click", () => showSearch("basic")))
+  //window.addCleanup(() => searchButton?.removeEventListener("click", () => showSearch("basic")))
   searchBar?.addEventListener("input", onType)
-  window.addCleanup(() => searchBar?.removeEventListener("input", onType))
+  //window.addCleanup(() => searchBar?.removeEventListener("input", onType))
 
   registerEscapeHandler(container, hideSearch)
   await fillDocument(data)
