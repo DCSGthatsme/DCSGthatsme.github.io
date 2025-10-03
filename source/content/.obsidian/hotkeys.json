@@ -17,5 +17,13 @@
       ],
       "key": "H"
     }
+  ],
+  "unicode-search:search-unicode-chars": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "U"
+    }
   ]
 }

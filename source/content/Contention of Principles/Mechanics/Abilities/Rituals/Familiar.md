@@ -1,3 +1,4 @@
+This [[Rituals|Ritual]] can be acquired via the [[Ritualist]] Ability.
 ## Ability
 Crux: [[Appreciation]]
 

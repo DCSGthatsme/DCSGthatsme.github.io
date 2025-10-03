@@ -1,3 +1,4 @@
+This [[Rituals|Ritual]] can be acquired via the [[Ritualist]] Ability.
 ## Ability
 Only available if [[Might]] + [[Vigilance]] > 22<br>Crux: [[Exaltation]]
 
