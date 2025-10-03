@@ -28,12 +28,16 @@ __export(main_exports, {
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
+var RE_ANCHOR_NO_DISPLAY = /!?\[\[([^\]]+#[^|\n\r\]]+)\]\]$/;
+var RE_ANCHOR_DISPLAY = /(\[\[([^\]]+#[^\n\r\]]+)\]\])$/;
+var RE_DISPLAY = /\|([^\]]+)/;
 var DEFAULT_SETTINGS = {
   includeNoteName: "headersOnly",
   whichHeadings: "allHeaders",
   includeNotice: false,
   sep: " ",
-  suggest: true
+  suggest: true,
+  ignoreEmbedded: true
 };
 var AnchorDisplayText = class extends import_obsidian.Plugin {
   constructor() {
@@ -53,12 +57,12 @@ var AnchorDisplayText = class extends import_obsidian.Plugin {
         const cursor = editor.getCursor();
         const currentLine = editor.getLine(cursor.line);
         const lastChars = currentLine.slice(cursor.ch - 2, cursor.ch);
-        if (lastChars !== "]]") {
+        if (lastChars !== "]]")
           return;
-        }
-        const headerLinkPattern = /\[\[([^\]]+#[^|\n\r\]]+)\]\]/;
-        const match = currentLine.slice(0, cursor.ch + 2).match(headerLinkPattern);
+        const match = currentLine.slice(0, cursor.ch).match(RE_ANCHOR_NO_DISPLAY);
         if (match) {
+          if (this.settings.ignoreEmbedded && match[0].charAt(0) === "!")
+            return;
           const headings = match[1].split("#");
           let displayText = "";
           if (this.settings.whichHeadings === "lastHeader") {
@@ -116,9 +120,11 @@ var AnchorDisplaySuggest = class extends import_obsidian.EditorSuggest {
     const lastChars = currentLine.slice(cursor.ch - 2, cursor.ch);
     if (lastChars !== "]]")
       return null;
-    const headerLinkPattern = /(\[\[([^\]]+#[^\n\r\]]+)\]\])$/;
-    const match = currentLine.slice(0, cursor.ch).match(headerLinkPattern);
+    const slice = currentLine.slice(0, cursor.ch);
+    const match = slice.match(RE_ANCHOR_DISPLAY);
     if (!match)
+      return null;
+    if (this.plugin.settings.ignoreEmbedded && slice.charAt(match.index - 1) === "!")
       return null;
     return {
       start: {
@@ -172,8 +178,7 @@ var AnchorDisplaySuggest = class extends import_obsidian.EditorSuggest {
   }
   selectSuggestion(value, evt) {
     const editor = this.context.editor;
-    const displayTextPattern = /\|([^\]]+)/;
-    const match = this.context.query.match(displayTextPattern);
+    const match = this.context.query.match(RE_DISPLAY);
     if (match) {
       this.context.start.ch = this.context.start.ch - match[0].length;
     }
@@ -252,6 +257,13 @@ var AnchorDisplayTextSettingTab = class extends import_obsidian.PluginSettingTab
           this.plugin.registerEditorSuggest(new AnchorDisplaySuggest(this.plugin));
           this.plugin.suggestionsRegistered = true;
         }
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Ignore embedded files").setDesc("Don't add or change display text for embedded files.").addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.ignoreEmbedded);
+      toggle.onChange((value) => {
+        this.plugin.settings.ignoreEmbedded = value;
+        this.plugin.saveSettings();
       });
     });
   }
