@@ -11,13 +11,46 @@
             "id": "84a0b471bed86e19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Skills/Pyrotechnics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pyrotechnics"
+            }
+          },
+          {
+            "id": "5e4686e4fca486ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rituals"
+            }
+          },
+          {
+            "id": "128896a60ed25e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alchemical Substances"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,34 +232,34 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "128896a60ed25e01",
   "lastOpenFiles": [
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Worldly Egress.md",
     "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Wild Chew.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/War Paint.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Thunder Ball.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sleep Syrup.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sangfroid Salve.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Magic Concentrate.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Herbal Cure.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Haze Distillate.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Flash Powder.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Fire Sap.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Elemental Essence.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Antidote.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Pyrotechnics.md",
+    "Contention of Principles/Mechanics/Items/Traps/Alchemical Trap.md",
+    "Contention of Principles/Mechanics/Items/Artifacts/Artifacts.md",
+    "Contention of Principles/Mechanics/Items/Artifacts/Thorn Beasties.md",
+    "Contention of Principles/Mechanics/Abilities/Sophistry.md",
     "Contention of Principles/Mechanics/Items/Alchemical Substances/Lightning Grease.md",
     "Contention of Principles/Mechanics/Distance.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Pyrotechnics.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Fire Sap.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Haze Distillate.md",
     "Contention of Principles/Mechanics/Items/Alchemical Substances/Bat's Diligence.md",
     "Contention of Principles/Mechanics/Abilities/Monstrous Features/Invisibility.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Ethereal Shift.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Elucidating Candle.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Waybread.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Wild Chew.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/War Paint.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Transforming Draught.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Thunder Ball.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Thorn Beasties.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Agile Combat.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Choking Spores.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Herbal Cure.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Worldly Egress.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Spirit Form.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Mongoose's Magnanimity.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sangfroid Salve.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Peaceable Oil.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Viper's Patience.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Flash Powder.md",
     "Contention of Principles/Mechanics/Items/Traps",
     "Contention of Principles/Mechanics/Items/Alchemical Substances",
     "Contention of Principles/Mechanics/Items/Armor",

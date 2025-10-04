@@ -38,6 +38,8 @@
 ![[Spell Trap#Effect]]
 ## [[Staff Charm]]
 ![[Staff Charm#Effect]]
+## [[Thorn Beasties]]
+![[Thorn Beasties#Effect]]
 ## [[Transcendental Weapon]]
 ![[Transcendental Weapon#Effect]]
 ## [[Unyielding Staff]]

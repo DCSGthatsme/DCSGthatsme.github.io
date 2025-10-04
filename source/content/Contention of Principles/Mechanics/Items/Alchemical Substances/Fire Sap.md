@@ -1,5 +1,5 @@
 ## Effect
-[[Volatile]] (Adept [[Pyrotechnics]] or \[Wit-7\])<br>Fire Sap is a sticky substance that explodes when spread thin and exposed to open air.
+[[Volatile]] (Adept [[Pyrotechnics]] or \[[[Wit]]-7\])<br>Fire Sap is a sticky substance that explodes when spread thin and exposed to open air.
 
 Weak<br>The explosion deals 1d8 damage, after which the substance keeps burning for 1d4 turns, dealing 1d4 damage per turn.
 

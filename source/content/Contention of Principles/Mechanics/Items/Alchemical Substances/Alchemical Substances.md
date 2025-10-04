@@ -37,8 +37,6 @@ To scrape off a sticky substance requires a Primary Action and a passed \[Agilit
 ![[Sight Dew#Effect]]
 ## [[Sleep Syrup]]
 ![[Sleep Syrup#Effect]]
-## [[Thorn Beasties]]
-![[Thorn Beasties#Effect]]
 ## [[Thunder Ball]]
 ![[Thunder Ball#Effect]]
 ## [[Transforming Draught]]

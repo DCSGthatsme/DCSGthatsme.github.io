@@ -5,7 +5,7 @@ Alchemical development in Ekklesbraght gave rise to new combat utilities. The ch
 
 Note that a master of the [[Sixth Sense]] ability may act normally despite being blinded.
 
-Novice<br>Active. The character can effectively handle [[Flash Powder]], alchemical grenades, and alchemical traps without risking a catastrophic failure.
+Novice<br>Active. The character can effectively handle [[Flash Powder]] and [[Alchemical Trap|Alchemical Traps]].
 
 Adept<br>Active. The character can effectively handle [[Fire Sap]] and [[Haze Distillate]].
 

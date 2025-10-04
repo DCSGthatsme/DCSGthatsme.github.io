@@ -1,5 +1,5 @@
 ## Effect
-Made from the rare purple Lily of the Valley. The Alchemical Substance has no effect on permanent [[Corruption]] or [[Stigmas]] which have already appeared on the user.
+Made from the rare purple Lily of the Valley. Sangfroid Salve has no effect on permanent [[Corruption]] or [[Stigmas]] which have already appeared on the user.
 
 Weak<br>Immediately removes 1d4 temporary Corruption from the user.
 
