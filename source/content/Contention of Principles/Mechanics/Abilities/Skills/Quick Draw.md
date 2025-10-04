@@ -5,4 +5,4 @@ Novice<br>Free. With a successful test against [[Agility]], the character may un
 
 Adept<br>Free. With a successful Agility test, the character may switch weapons as a Free Action, meaning that the character can sheathe one weapon and draw another in one fluid motion.
 
-Master<br>Free. The character handles elixirs swiftly and may with a successful Agility test pour one dose down their own or a nearby ally's throat as a Free Action.
+Master<br>Free. The character handles [[Alchemical Substances]] swiftly and may with a successful Agility test apply one dose to themself or an ally as a Free Action.

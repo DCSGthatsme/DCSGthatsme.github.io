@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Sublime Sight"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: Glass beads<br>Crux: [[Captivation]]
+Crux: [[Captivation]]<br>Material: Glass beads
 
 By way of the shadows surrounding creatures, the world’s deeper conflicts are apparent to a character with Sublime Sight. Opening up one's mind in order to examine the world of shadows can provide invaluable insights, but it also entails great risk.
-
-![[Sophistry]]
 
 Novice<br>Active. The character can make a roll against \[[[Vigilance]]←[[Subtlety]]\] in an attempt to see insights into the target's [[Corruption]]: if they have ever encountered it, if they have any now, and if they are suffering from a stigma.
 

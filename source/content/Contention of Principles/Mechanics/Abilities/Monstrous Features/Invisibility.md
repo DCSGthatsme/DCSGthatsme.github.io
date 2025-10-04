@@ -1,5 +1,5 @@
 ## Ability
-The creature can make itself invisible. Enemies can still use other senses besides sight to locate it. The creature makes sounds and leaves tracks, and it can be made partially visible by creatively using dust, sand, flour or similar means. Some elixirs, such as Ghost Candles (see page 153 in the Core Rulebook), counteract this feature, just as the mystical power True Form can make the creature observable.
+The creature can make itself invisible. Enemies can still use other senses besides sight to locate it. The creature makes sounds and leaves tracks, and it can be made partially visible by creatively using dust, sand, flour or similar means. Some Alchemical Substances, such as [[Bat's Diligence]], counteract this feature, just as the mystical power True Form can make the creature observable.
 
 I<br>Active. The creature can become invisible and hence impossible to hit with direct attacks. In order to attack with area effects, like alchemical grenades, the attacker must pass a test against \[Vigilance←Subtlety\]; the same applies when trying to hit the creature with improvised weapons aimed at exposing it – sand, dust, flour or similar, making the creature partially visible for the rest of the scene. Attacking a partially visible creature first requires a \[Vigilance←Subtlety\] test; if the test succeeds the attack can be made as usual.
 

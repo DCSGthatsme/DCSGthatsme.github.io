@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a188b2640376af61",
+        "id": "95ca9d7b364b0efa",
         "type": "tabs",
         "children": [
           {
-            "id": "8288e904d6ca49de",
+            "id": "84a0b471bed86e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Items/Alchemical Elixirs/Alchemical Elixirs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alchemical Elixirs"
-            }
-          },
-          {
-            "id": "e2e35fcf804cb35e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Skills/Trapper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trapper"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "craft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -219,34 +201,35 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Sophistry.md",
-    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Weapons.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Artifacts.md",
-    "Contention of Principles/Mechanics/Items/Armor/Armor.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Elixirs/Alchemical Elixirs.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Trapper.md",
-    "Contention of Principles/Mechanics/Traps.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Volatile.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Lightning Grease.md",
+    "Contention of Principles/Mechanics/Distance.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Pyrotechnics.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
-    "Contention of Principles/Mechanics/Mechanics.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Spell Trap.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Elixirs",
-    "Contention of Principles/Mechanics/Items/Miscellaneous Items.md",
-    "Contention of Principles/Mechanics/Items/Armor/Padded Robes.md",
-    "Contention of Principles/Mechanics/Items/Armor/Full Plate Armor.md",
-    "Contention of Principles/Mechanics/Items/Armor/Scale Armor.md",
-    "Contention of Principles/Mechanics/Items/Armor/Leather Armor.md",
-    "Contention of Principles/Mechanics/Items/Armor/Fur Armor.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Fire Sap.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Haze Distillate.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Bat's Diligence.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Invisibility.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Ethereal Shift.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Elucidating Candle.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Waybread.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Wild Chew.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/War Paint.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Transforming Draught.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Thunder Ball.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Thorn Beasties.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Agile Combat.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Choking Spores.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Herbal Cure.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Worldly Egress.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Spirit Form.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Mongoose's Magnanimity.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sangfroid Salve.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Peaceable Oil.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Viper's Patience.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Flash Powder.md",
+    "Contention of Principles/Mechanics/Items/Traps",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances",
     "Contention of Principles/Mechanics/Items/Armor",
-    "Contention of Principles/Mechanics/Items/Artifacts/Vivacious Braid.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Unyielding Staff.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Transcendental Weapon.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Staff Charm.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Reliquary Stone.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Spell Scroll.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Ruler's Right.md",
     "Contention of Principles/Mechanics/Items/Artifacts",
     "Contention of Principles/Mechanics/Abilities/monstrous feature temp",
     "Base.base",
@@ -256,7 +239,6 @@
     "Contention of Principles/Mechanics/NPC Archetypes",
     "Contention of Principles/Mechanics/Abilities/Maneuvers",
     "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits",
-    "HomeBrew/Ruins of Symbaroum/Rules & Mechanics",
     "Images/Spider Principle.png",
     "Images/Slain Principle.png",
     "Images/Large Humanoid Principles.png",

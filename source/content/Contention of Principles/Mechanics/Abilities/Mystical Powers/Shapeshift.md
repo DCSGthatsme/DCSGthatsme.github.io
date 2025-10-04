@@ -1,10 +1,7 @@
----
-title: "Mystical Power: Shapeshift"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A bit of fur or skin from the beast in question<br>Crux: [[Appreciation]]
-
-![[Sophistry]]
+Crux: [[Appreciation]]<br>Material: A bit of fur or skin from the beast in question
 
 Novice<br>Active. With a successful [[Resolve]] test, the mystic can take the form of a small beast (mammal or reptile); practical when wanting to escape or when scouting, but useless in combat. The mystic's Attributes remain unchanged but they may re-roll all [[Subtlety]] and [[Agility]] tests (including [[Defense]]). Also, enemies do not get any Free Attacks against the mystic when in beast form, even if it withdraws from melee combat or hurries past an enemy. The mystic does not have to test Resolve to remain in beast form, but has to pass a Resolve test to change back. For the duration of the transformation, the mystic counts as a beast. If the mystic becomes the victim of powers that affect beasts, then it may choose to remain in beast form – and hence suffer the effect of the power – or revert back to their original form.
 

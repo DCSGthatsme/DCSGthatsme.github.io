@@ -1,0 +1,6 @@
+## Effect
+Moderate<br>A handful of seeds are thrown to the ground and one round later 1d4 thorn beasties appear to serve the user. The thorn beasties are small, vaguely humanoid creatures made of thorns; they do not speak but squeak and crack as twigs that are bent and rubbed together. The beasties live during a single scene before drying up to look like thorny dolls. The summoning of the thorn beasties is a clear violation of the natural order, meaning that the one using the seeds suffers 1d6 temporary [[Corruption]].
+
+`Thorn BeasTy Manner Rustling and crackling Race Creeper Features Natural Weapon (I), Poisonous (I) Exactitude 13 (–3), Wit 10 (0), Subtlety 11 (–1), Charisma 5 (+5), Agility 15 (–5), Resolve 9 (+1), Might 7 (+3), Vigilance 10 (0) Abilities None Weapons Razor sharp thorns 3 Armor None Defense –5 Health 10 Pain Tolerance 3 Equipment None Shadow Same as the mystic Tactics: Moves lightning fast with jerky motions towards the appointed goal or task.`
+## Notes
+* From the Symbaroum Advanced Player's Guide.

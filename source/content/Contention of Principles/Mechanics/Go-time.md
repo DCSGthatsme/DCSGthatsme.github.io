@@ -14,7 +14,7 @@ A Movement Action represents a meaningful motion in go-time. Typically, the exac
 * Create a clear line of sight to an obscured enemy. Instead of moving, the Movement Action can be used to perform other kinds of Actions:
 * Switch weapons (draw, put away, or both)
 * Stand up from a prone position (requires an Agility test).
-* Drink/apply an elixir to yourself.
+* Consume/apply an [[Alchemical Substances|Alchemical Substance]] to yourself.
 ## Combat
 When go-time combat begins, it is important to know whether the actors have their weapons drawn or not.
 

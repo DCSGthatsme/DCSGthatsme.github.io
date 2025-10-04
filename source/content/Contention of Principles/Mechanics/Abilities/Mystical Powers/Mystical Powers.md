@@ -1,4 +1,4 @@
-Mystical powers are magical [[Abilities]]. Human characters can only acquire a Mystical Power via the [[Sophistry]] ability:
+Mystical powers are magical [[Abilities]]. Human characters can only acquire a Mystical Power by observing the rules of [[Sophistry]]:
 ![[Sophistry#Mystical Powers]]
 
 ---
@@ -76,10 +76,14 @@ Mystical powers are magical [[Abilities]]. Human characters can only acquire a M
 ![[Protective Runes#Ability]]
 ## [[Psychic Thrust]]
 ![[Psychic Thrust#Ability]]
+## [[Shapeshift]]
+![[Shapeshift#Ability]]
 ## [[Storm Arrow]]
 ![[Storm Arrow#Ability]]
 ## [[Subjugate]]
 ![[Subjugate#Ability]]
+## [[Sublime Sight]]
+![[Sublime Sight#Ability]]
 ## [[Teleport]]
 ![[Teleport#Ability]]
 ## [[Thorn Cloak]]

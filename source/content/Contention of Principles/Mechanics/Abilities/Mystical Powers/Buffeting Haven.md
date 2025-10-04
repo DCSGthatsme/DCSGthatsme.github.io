@@ -9,6 +9,6 @@ Novice<br>Active. The haven lets the mystic choose to defend using [[Resolve]] i
 
 Adept<br>Active. The haven automatically defends against an unlimited number of melee and ranged attacks as long as it is active. However, it does not provide any protection against mystical powers and area effects like explosions, smoke bombs or similar.
 
-Master<br>Active. The master can make a weapon form a haven without having to touch it. That way, they may include an ally inside the sphere. Also, this leaves the hands of the mystic free for other actions, such as drinking an elixir, bandage an ally's wounds, or unrolling a spell scroll – i.e. such actions that can replace a movement action. The mystic cannot affect the world outside the sphere, but can maintain mystical effects which are already active – the same goes for any ally the mystic protects inside the sphere.
+Master<br>Active. The master can make a weapon form a haven without having to touch it. That way, they may include an ally inside the sphere. Also, this leaves the hands of the mystic free for other actions, such as consuming an Alchemical Substance, bandage an ally's wounds, or unrolling a spell scroll – i.e. such actions that can replace a movement action. The mystic cannot affect the world outside the sphere, but can maintain mystical effects which are already active – the same goes for any ally the mystic protects inside the sphere.
 ## Notes
 * Originally "Sphere" from the Symbaroum Advanced Player's Guide.

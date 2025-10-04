@@ -20,6 +20,8 @@
 ![[Lucky Token#Effect]]
 ## [[Mystical Focus]]
 ![[Mystical Focus#Effect]]
+## [[Puck]]
+![[Puck#Effect]]
 ## [[Reliquary Stone]]
 ![[Reliquary Stone#Effect]]
 ## [[Ritual Codex]]

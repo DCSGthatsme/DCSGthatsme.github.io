@@ -1,4 +1,4 @@
-Rituals are time-consuming [[Abilities]] that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Human characters can only acquire a Ritual via the [[Sophistry]] Ability:
+Rituals are time-consuming magical [[Abilities]] that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Human characters can only acquire a Ritual by observing the rules of [[Sophistry]]:
 ![[Sophistry#Rituals]]
 
 ---

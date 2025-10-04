@@ -1,0 +1,4 @@
+## Effect
+Weak<br>The red chewing resin called Wild Chew is a strong stimulant that makes the chewer more alert, less cautious and much more aggressive. One dose of Wild Chew moves 2 points in Subtlety, Wit, and Resolve to Agility, Might and Exactitude for the rest of the scene. During the upcoming scene, the user feels weak and has -2 on all attributes. With time, Wild Chew is highly addictive and severe withdrawal symptoms will occur unless the user consumes one dose each week, with the risk of permanent madness or death. No known drugs can counteract this.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

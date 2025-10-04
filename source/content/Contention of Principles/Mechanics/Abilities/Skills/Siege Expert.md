@@ -3,7 +3,7 @@ This ability covers the use of ballistae, siege towers, and catapults, and also 
 
 All siege and battlefield weapons are described in the Weapons' section, starting on page 110APG.
 
-Novice<br>Special. The character is trained to use a ballista and to construct siege towers on location. The character can handle alchemical grenades and does not risk them detonating by mistake, like an inexperienced user must worry about.
+Novice<br>Special. The character is trained to use a ballista and to construct siege towers on location. The character gets a +3 bonus on rolls to handle [[Volatile]] items.
 
 Adept<br>Special. The character can lead the work when building and then effectively use more advanced siege weapons, like the catapult and its bigger cousin, the trebuchet. At the site of a siege, the character can plan and lead the work of digging protective trenches and undermining tunnels. The character has learned the deeper secrets regarding the art of siege weapons – alchemical smoke screens hiding attacking troops from hostile archers; the use of the alchemical breaching pot that blasts holes in the enemy's fortifications; and the alchemical fire tube, spewing fire and death at anyone passing in front of it. Also, the portable version of the alchemical fire tube can safely be handled under stress, without risking catastrophic failures.
 

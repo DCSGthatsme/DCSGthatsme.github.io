@@ -12,8 +12,8 @@ To fight blinded is hard, and the same goes for fighting under bad lighting cond
 Disengage From Melee Combat
 Disengaging from a melee combat is done on the character's Initiative and costs a Movement Action. The enemy is allowed a Free Attack against the character. This also applies to situations when the character is facing multiple opponents, in which case each opponent is allowed a Free Attack against the character when they choose to disengage.
 
-Use/Apply Elixir
-To use or apply an elixir on either yourself or your equipment counts as a Movement Action. To use or apply it on somebody else counts as a Combat Action.
+Use/Apply Alchemical Substances
+To use or apply an Alchemical Substance on either yourself or your equipment counts as a Movement Action. To use or apply it on somebody else counts as a Combat Action.
 
 First Aid
 To perform first aid on a wounded person counts as a Combat Action and requires a herbal cure, the Medicus ability or other healing powers. The effect of first aid is described in Damage & Healing.
