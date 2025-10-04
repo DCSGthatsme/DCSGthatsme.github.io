@@ -1,2 +1,4 @@
-`previously Stiletto where Stiletto now refers to what was previously "Assassin's Blade"`
+## Effect
 [[Single-handed]], [[Short]]<br>1d6+1 damage
+## Notes
+* Originally "Stiletto", whereas [[Stiletto]] was originally "Assassin's Blade".

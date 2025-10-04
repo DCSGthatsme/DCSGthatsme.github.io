@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 ## Ability
 The creature carries a contagious disease and those harmed by its natural weapons are at risk of being infected. The higher the level of the feature, the worse the disease.
 

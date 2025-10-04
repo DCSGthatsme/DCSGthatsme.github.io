@@ -1,4 +1,4 @@
-Sophistry is the [[Abilities|Ability]] of a human to acquire [[Mystical Powers]] and [[Rituals]] as Sophisms. Doing so carries an inherent risk of [[Corruption]].
+Sophistry is the [[Abilities|Ability]] of a human to acquire and use [[Mystical Powers]] and [[Rituals]]. Sophistry carries an inherent risk of [[Corruption]].
 ## Mystical Powers
 To acquire a new Mystical Power at novice level, the Sophist must suffer 1 point of Permanent Corruption and spend 10 [[Experience]], denoting the Ability as "Sophism: `Power Name`". To increase a novice Sophistic Power the adept level costs 20 Experience. To increase an adept Sophistic Power to the master level costs 30 Experience.
 

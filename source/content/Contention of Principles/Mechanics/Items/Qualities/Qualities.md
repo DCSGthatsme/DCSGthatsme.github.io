@@ -37,6 +37,8 @@
 ![[Short#Effect]]
 ## [[Unwieldy]]
 ![[Unwieldy#Effect]]
+## [[Volatile]]
+![[Volatile]]
 ## [[Wrecking]]
 ![[Wrecking#Effect]]
 

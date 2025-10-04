@@ -1,0 +1,1 @@
++1d6 [[Toughness]]<br>[[Impedance]] (4)
