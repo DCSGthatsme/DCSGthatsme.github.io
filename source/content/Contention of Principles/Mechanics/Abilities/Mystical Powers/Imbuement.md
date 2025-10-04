@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Imbuement"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Only available if Resolve + Wit > 22<br>Material: `Relevant materials`<br>Crux: [[Captivation]]
+Only available if Resolve + Wit > 22<br>Crux: [[Captivation]]<br>Material: `Relevant materials`
 
 The character can imbue objects with mystical power, turning them into [[Artifacts]]. [[Alchemy]] is also a form of Imbuement specializing in objects with latent, non-mystical power.
-
-![[Mystical Power]]
 
 Novice<br>Once per adventure. With a passed [[Wit]] test, the character can craft one novice level artifact.
 

@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Larvae Boil"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A handful of larvae<br>Crux: [[Appreciation]], [[Fear]]
+Crux: [[Fear]]<br>Material: A handful of larvae
 
 Drawing from the force of wrath the mystic can infuse an enemy's body with larvae that then start to eat their way out.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic plants larvae inside the body of their enemy, which then start to eat their way out. The poor target suffers 1D4 damage each round, ignoring [[Toughness]]. The effect is automatic the first round and continues until the mystic fails a \[[[Resolve]]←[[Might]]\] test.
 

@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Black Bolt"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Fear]]<br>Material: A shard of volcanic glass
 
 The mystic extends their tainted soul and uses it as a whip that traps and corrodes the enemy. The mystic cannot cast a new Black Bolt as long as at least one enemy is ensnared by the power, but they are free to make use of other mystical powers.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a passed \[[[Resolve]]←[[Agility]]\] test, the character casts a black bolt at an enemy. If successful, the target is hit and suffers 1D6 damage, ignoring [[Toughness]]. Also, the target is trapped and may not act until it manages to break free, which requires a passed Resolve test (one roll is made each round after the first) or happens automatically if the mystic loses concentration, \[Resolve –Damage\].
 

@@ -31,10 +31,8 @@ Note that Attributes can be increased via the [[Abilities#Exceptional Attribute|
 Minor abilities costing less XP.
 ### [[Burdens]]
 Detrimental abilities that grant an XP cost reduction to an ability, rather than costing XP.
-### [[Mystical Powers]]
-Mystical powers are magical abilities. Each mystical power is a variant of the [[Abilities#Mystical Power|Mystical Power]] ability.
-### [[Rituals]]
-Rituals are magical abilities. Learning rituals requires the [[Ritualist]] ability.
+### [[Mystical Powers]] & [[Rituals]]
+Mystical Powers and Rituals are magical abilities. Human characters may acquire them by observing the rules of [[Sophistry]].
 ### [[Principle Bonds]]
 Principle Bonds are abilities that are highly suggested for characters who intend to learn and use many Mystical Powers.
 ## [[Experience]]

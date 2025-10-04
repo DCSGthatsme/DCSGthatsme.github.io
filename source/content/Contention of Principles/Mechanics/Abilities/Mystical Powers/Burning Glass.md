@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Burning Glass"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A glass shard<br>Crux: [[Exaltation]]
+Crux: [[Exaltation]]<br>Material: A glass shard
 
 The mystic can focus the light of their soul into a burning ray, which damages most beings and destroys the loathsome.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a [[Resolve]] test, the mystic steers the light towards a target, dealing 1D6 damage. The damage increases to 1D8 if the target has [[Corruption]].
 

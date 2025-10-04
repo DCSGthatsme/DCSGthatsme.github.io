@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Heroic Hymn"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Crux: [[Captivation]]<br>Material: None, but the mystic must sing out loud
+Crux: [[Appreciation]]<br>Material: None, but the mystic must sing out loud
 
 There is power in the heroic hymns of old. The mystic can sing while fighting, thereby filling their allies with courage and vigor. The song is interrupted if the mystic uses another mystical power or if concentration is lost by taking damage \[[[Resolve]] –Damage\].
-
-![[Mystical Power]]
 
 Novice<br>Free. The character gives himself and all allies a +1 bonus to either [[Charisma]], Resolve, or [[Wit]] (each ally chooses what attribute will be affected) for as long as the singing continues.
 

@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Enervating Throes"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Only available if [[Charisma]] + [[Subtlety]] > 22<br>Crux: [[Fear]]<br>Material: Quills
 
 The enemy is beset with a harrowing miasma which tears at their clothes, equipment, and flesh. At best, the target cannot act. At worst, they are driven mad or die.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic calls forth transparent needles to attack an enemy. The target automatically fails all tests for concentration while using mystical powers; all other tests have a second chance to fail. The mystic must pass a [[Resolve]] test each round in order for the spirits to continue their attacks.
 

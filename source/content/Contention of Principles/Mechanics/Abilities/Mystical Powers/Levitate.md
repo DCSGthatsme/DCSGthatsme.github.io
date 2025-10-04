@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Levitate"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A handful of feathers<br>Crux: [[Captivation]], [[Exaltation]]
+Crux: [[Captivation]]<br>Material: A handful of feathers
 
 The binding force of the world can be manipulated, and with that insight the mystic has gained the capability to levitate, using nothing but the power of the mind.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a successful [[Resolve]] test the mystic can soar over the battlefield, out of reach of melee weapons. The mystic can move a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic stays floating in the air until the mystic breaks concentration or the scene ends. If concentration is broken the mystic falls to the ground and suffers 1D6 damage, ignoring [[Toughness]].
 

@@ -1,0 +1,10 @@
+## Ability
+Under special circumstances, the natural armor of the creature gives it the option to double its [[Toughness]] – when and to what extent is decided by the level of the feature. Note that a creature needs to have at least level I in [[Armored]] to have the feature Carapace.
+
+I<br>Passive. At any time, the creature can hunker down and curl up under its carapace – the Toughness of its natural armor is doubled, but it cannot perform any active actions during the turn.
+
+II<br>Passive. The creature is protected by its carapace when moving, but is exposed as soon as it performs an active action. This gives the creature double the effect of its natural armor if it does nothing other than move during the turn, and against free attacks triggered when it passes enemies, moves into melee range or retreats from melee.
+
+III<br>Reaction. The creature can use its carapace reactively against all attacks. When hit by an attack, the attacker rolls a new success test; if the second test fails, the attack still hits but the creature manages to make use of its carapace, doubling the protection from its natural armor against that particular attack.
+## Notes
+* From the Monster Codex.

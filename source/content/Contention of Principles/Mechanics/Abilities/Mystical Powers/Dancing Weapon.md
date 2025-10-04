@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Dancing Weapon"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Captivation]]<br>Material: A melee weapon
 
 By willpower alone, the mystic makes a weapon soar and fight, with the speed and agility of a thought. The weapon in question does not have to be special in any way; if it has qualities or powers, these may be used by the mystic according to standard rules of combat. However, the mystic cannot use other abilities related to melee combat while using this power.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic lets a weapon dance and uses [[Resolve]] instead of both [[Exactitude]] (attack) and [[Agility]] (defense). Other than that, normal combat rules apply. The novice must focus on the weapon while fighting, which prevents them from using other abilities while the weapon dances.
 

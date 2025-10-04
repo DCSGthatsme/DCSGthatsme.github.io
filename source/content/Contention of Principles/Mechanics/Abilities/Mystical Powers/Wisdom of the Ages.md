@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Wisdom of the Ages"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Only available if [[Vigilance]] + [[Wit]] > 22<br>Crux: [[Exaltation]]<br>Material: An heirloom
 
 The character is one of those who may use the know-how of previous generations to solve problems at hand.
-
-![[Mystical Power]]
 
 Novice<br>Whole Turn. The character gets lost in a short trance. With a passed [[Resolve]] test, they gain access to the novice level of an optional [[Skills|Skill]]. The Skill can be used for the rest of the scene, before fading from memory.
 

@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Curse"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: None, a dark glare is enough<br>Crux: [[Appreciation]], [[Fear]]
+Crux: [[Fear]]<br>Material: None, a dark glare is enough
 
 The mystic masters a stare which can curse enemies on the battlefield.
-
-![[Mystical Power]]
 
 Novice<br>Free. Once per round, the mystic's dark glare automatically gives an enemy a second chance to fail all success tests meant to affect the mystic (roll twice, the action fails if one of the tests is a failure). This effect is ongoing until the mystic fails a [[Resolve]] test.
 

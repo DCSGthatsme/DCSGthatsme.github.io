@@ -103,8 +103,8 @@ Resistance: Strong
 Abilities:
 * [[Loremaster]] (master)
 * [[Medic]] (master)
-* [[Mystical Power]] (Bend Will, master)
-* [[Mystical Power]] (Larvae Boil, master)
+* [[Sophistry]] (Bend Will, master)
+* [[Sophistry]] (Larvae Boil, master)
 * [[Ritualist]] (master)
 Weapons (Exactitude):
 * Sword 4

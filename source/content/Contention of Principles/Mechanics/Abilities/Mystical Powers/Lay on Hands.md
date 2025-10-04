@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Lay on Hands"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A discarded scrap of cloth<br>Crux: [[Appreciation]], [[Exaltation]]
+Crux: [[Appreciation]]<br>Material: A discarded scrap of cloth
 
 The secrets of life lay bare for the mystic and with them follows the coveted power of healing.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic can through touch, and by passing a [[Resolve]] test, heal 1D6 points of a target's [[Health]]. This power also works on the mystic themself.
 

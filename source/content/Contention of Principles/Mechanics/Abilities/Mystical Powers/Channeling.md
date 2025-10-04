@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Channeling"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: `?`<br>Crux: [[Fear]]
+Crux: [[Fear]]<br>Material: `?`
 
 Some have developed a capacity to endure [[Corruption]] and to attract Corruption that would have affected others. With practice, Channeling may also be used for passing Corruption on to others, as a brutal weapon.
-
-![[Mystical Power]]
 
 Novice<br>Reaction. The character can choose to receive temporary Corruption that will otherwise affect someone else within sight.
 

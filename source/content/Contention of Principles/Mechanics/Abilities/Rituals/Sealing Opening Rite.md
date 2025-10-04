@@ -1,7 +1,8 @@
 ---
 title: Sealing Rite / Opening Rite
 ---
-This [[Rituals|Ritual]] can be acquired via the [[Ritualist]] Ability.
+This [[Abilities|Ability]] is a [[Rituals|Ritual]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Rituals]]
 ## Ability
 Crux: [[Captivation]]
 

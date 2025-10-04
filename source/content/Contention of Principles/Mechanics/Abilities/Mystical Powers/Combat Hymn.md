@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Combat Hymn"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Crux: [[Captivation]]<br>Material: None, but the mystic must sing out loud
+Crux: [[Appreciation]]<br>Material: None, but the mystic must sing out loud
 
 There is a raw and untamed power in singing, and some mystics learn to sing while fighting to gain considerable extra strength when battling the enemy. The character is one of those who have learned to sing combat hymns to increase their chances in combat. The song is interrupted if the mystic uses another mystical power or if concentration is lost due to taking damage \[[[Resolve]] –Damage\].
-
-![[Mystical Power]]
 
 Novice<br>Free. The character gives himself and all allies a +1 bonus to either [[Agility]], [[Exactitude]], or [[Might]] (each ally chooses what attribute will be affected) for as long as the singing continues.
 

@@ -73,7 +73,7 @@ Resistance: Ordinary
 Abilities:
 * [[Contacts]]
 * [[Leader]] (novice)
-* [[Mystical Power]] (Curse, adept)
+* [[Sophistry]] (Curse, adept)
 * [[Ritualist]] (novice, Possess)
 Weapons (Exactitude):
 * Sword 4

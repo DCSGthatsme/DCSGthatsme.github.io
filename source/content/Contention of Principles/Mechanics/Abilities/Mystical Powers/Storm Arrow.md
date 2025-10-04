@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Storm Arrow"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Material: Arrows or crossbow bolts<br>Crux: [[Appreciation]]
 
 The mystic can ask the wind to lift and carry arrows towards their enemies.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic enchants a handful of arrows (up to five) with a successful Resolve test. The arrows then float next to the mystic for the rest of the scene and can be fired, once per turn, as a Free Action (one arrow can be fired the same turn that the power is activated). The arrows hit their target automatically. Any quality or special ability that the arrow might have is added to the effect. The arrow normally deals 1D6 damage.
 

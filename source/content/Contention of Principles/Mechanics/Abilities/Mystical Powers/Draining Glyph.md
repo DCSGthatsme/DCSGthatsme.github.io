@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Draining Glyph"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Fear]]<br>Material: A carefully crafted glyph
 
 The mystic creates a glyph that upon activation becomes a whirling vortex, sucking the life-force from the enemy. The glyph affects all enemies who can see the symbol and are in front of it.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a \[[[Resolve]]←[[Might]]\] test the mystic can damage every enemy in the vicinity (one test per target). The damage is 1D4, ignoring [[Toughness]]. The effect lasts until the mystic fails a Resolve test or loses concentration \[Resolve –Damage\].
 

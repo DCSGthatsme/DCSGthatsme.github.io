@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Brimstone Cascade"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A fistful of pure brimstone<br>Crux: [[Captivation]]
+Crux: [[Captivation]]<br>Material: A fistful of pure brimstone
 
 The mystic can unleash the rampaging spirit of fire and burn their enemies to cinders, or at least scorch them severely.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic lashes out with fire and brimstone against a target. If the mystic succeeds with a \[[[Resolve]]←[[Agility]]\] test, the cascade deals 1D12 points of damage. If the mystic fails the test the cascade deals only 1D6 damage.
 

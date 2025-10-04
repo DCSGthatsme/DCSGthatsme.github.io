@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Black Breath"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Fear]]<br>Material: The mystic's own corruption
 
 A mystic with permanent [[Corruption]] can spew out its inner darkness and infect others with Corruption, or heal already tainted creatures.
-
-![[Mystical Power]]
 
 Novice<br>Active. One (1) creature is hit; roll 1D4 against its total Corruption. If the roll is equal to or lower than the Corruption value, the creature heals an amount equal to the outcome of the roll; if higher, the creature suffers the outcome in temporary Corruption.
 

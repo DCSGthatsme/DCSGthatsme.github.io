@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Entomb"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A fistful of soil<br>Crux: [[Appreciation]]
+Crux: [[Appreciation]]<br>Material: A fistful of soil
 
 The deep soil of the world is a safe place for the mystic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from their enemies.
-
-![[Mystical Power]]
 
 Novice<br>Active. The mystic is able to sink into the earth if a successful [[Resolve]] test is made. There, the mystic is invulnerable but also unable to take any Actions. The mystic must succeed with another Resolve test each round to remain in the safe bosom of the earth. If the mystic fails the test, then they are returned to the surface.
 

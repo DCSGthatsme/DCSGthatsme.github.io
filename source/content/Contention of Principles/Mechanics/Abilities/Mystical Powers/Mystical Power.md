@@ -1,1 +1,0 @@
-The character suffers one point (1) of Permanent [[Corruption]] when they learn the Mystical Power anew and when they increase the level of the Power. The character also suffers 1D4 Temporary Corruption each time the Power is used. Either instance of Corruption can be reduced if the power has a Crux for which the mystic has a [[Principle Bonds|Principle Bond]].

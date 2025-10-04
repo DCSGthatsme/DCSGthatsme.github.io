@@ -24,7 +24,7 @@ Things are illuminated via flame. Metallurgy and other kinds of artisanry exist 
 
 Innovations tend to be pragmatic and rarely is luxury an objective. Artisans are always innovating their crafts, improving efficiency and adapting to availability.
 ## Magic
-Principles realize mystical power as an innate characteristic. When a human performs magic, it is called Sophistry. Though Sophistry is accessible to anyone with sufficient audacity, every sophistic act is a perilous brush with [[Corruption]]. This makes Sophistry an inherently dangerous endeavor and more than simply taboo. It is commonly viewed as a senseless risk to safety both private and public, it is solemnly warned against, it is rarely undertaken, and the losses it incurs are never geographically or temporally distant for its gravity to go unappreciated for long.
+Principles realize mystical power as an innate characteristic. When a human performs magic, it is called [[Sophistry]]. Though Sophistry is accessible to anyone with sufficient audacity, every sophistic act is a perilous brush with [[Corruption]]. This makes Sophistry an inherently dangerous endeavor and more than simply taboo. It is commonly viewed as a senseless risk to safety both private and public, it is solemnly warned against, it is rarely undertaken, and the losses it incurs are never geographically or temporally distant for its gravity to go unappreciated for long.
 
 It should come as no surprise that methods to avoid and abate Corruption is the most coveted of sophistic mysteries. Only the rare few resolute sophists who are able to manage their Corruption can shift their focus to the mysteries of the possibilities of magic.
 

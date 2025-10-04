@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Protective Runes"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Appreciation]]<br>Material: A depiction of the runes
 
 The mystic's runes emit protective energies that surround the mystic and at higher levels also their allies.
-
-![[Mystical Power]]
 
 Novice<br>Active. The power of the runes offers +1D4 [[Toughness]] until the mystic fails a [[Resolve]] test or loses concentration \[Resolve – Damage\].
 

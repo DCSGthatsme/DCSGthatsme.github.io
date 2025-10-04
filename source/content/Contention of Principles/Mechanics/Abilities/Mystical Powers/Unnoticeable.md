@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Unnoticeable"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A strip from a thin veil<br>Crux: [[Captivation]], [[Exaltation]]
+Crux: [[Captivation]]<br>Material: A strip from a thin veil
 
 The mystic can remain undetected by subtly turning the enemy's attention elsewhere.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a successful \[[[Resolve]]← Resolve\] test, the mystic can fade from one creature's perception. The mystic remains invisible to this creature until the mystic makes an attack or takes any kind of damage.
 

@@ -1,4 +1,4 @@
-The creature is gifted with a well-developed natural weapon, such as sharp claws, teeth or a tail stinger. The Natural Warrior ability (see page 119) can be used to enhance the creature's Natural Weapon even further.
+The creature is gifted with a well-developed natural weapon, such as sharp claws, teeth or a tail stinger. The [[Natural Warrior]] Ability can be used to enhance the creature's Natural Weapon even further.
 
 I<br>Passive. The creature is equipped with some kind of natural weapon which deals 3 points of damage, instead of the usual 2 for unarmed attacks.
 

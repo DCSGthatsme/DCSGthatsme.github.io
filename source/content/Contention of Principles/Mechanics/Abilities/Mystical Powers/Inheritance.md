@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Inheritance"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A splash of blood<br>Crux: [[Appreciation]], [[Exaltation]]
+Crux: [[Exaltation]]<br>Material: A splash of blood
 
 The mystic has closely studied the spirits of creation and death, and can use this knowledge to redistribute damage between themself, their allies, and their enemies.
-
-![[Mystical Power]]
 
 Novice<br>Free. By making a successful die roll against [[Resolve]] the mystic can attract the spirits of damage from another creature. The target heals 1D6 points of [[Health]] while the mystic suffers an equal amount of damage.
 

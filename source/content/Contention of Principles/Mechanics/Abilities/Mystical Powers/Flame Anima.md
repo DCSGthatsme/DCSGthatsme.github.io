@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Flame Anima"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Only available if [[Resolve]] + [[Might]] > 22<br>Crux: [[Exaltation]]<br>Material: None, but those with Flame Anima often display physical signs of their attraction to fire; a burning gaze, red hair or heat that radiates from the body
 
 Pyromancers have found that those who dedicate their lives to the study of fire in time learn to instinctively use it as a shield and a weapon. It is even said that the most devoted learn to manipulate the force of hostile fires and paradoxically enough use these burning powers to heal themselves when wounded.
-
-![[Mystical Power]]
 
 Novice<br>Reaction. When the mystic is hit in melee combat, flames strike out at the attacker, dealing 1D6 damage. Also, the mystic suffers less damage from fire, meaning that they have +1D6 [[Toughness]] against damage from that element.
 

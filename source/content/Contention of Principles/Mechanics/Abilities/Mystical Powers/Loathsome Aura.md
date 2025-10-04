@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Loathsome Aura"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: Ill-gotten treasure<br>Crux: [[Fear]]
+Crux: [[Fear]]<br>Material: Ill-gotten treasure
 
 The mystic can surround themself with an aura of energy that harms living enemies but heals corrupted targets.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a successful [[Resolve]] test the mystic can send out an aura of energy that harms both cultural beings and beasts. It deals 1D6 damage, ignoring [[Toughness]]. The aura affects all creatures within sight of the mystic, whether they are friend or foe, and remains active until the mystic fails a Resolve test or breaks concentration.
 

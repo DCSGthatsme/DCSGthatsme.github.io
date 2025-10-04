@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Entangling Vines"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A handful of seeds or a tangle of roots<br>Crux: [[Appreciation]]
+Crux: [[Appreciation]]<br>Material: A handful of seeds or a tangle of roots
 
 The earth is bound by roots, while objects above ground are often covered by vines. All that the mystic does is uses its will to stimulate the already ongoing processes of nature.
-
-![[Mystical Power]]
 
 Novice<br>Active. By rolling a successful [[Resolve]] test, the mystic calls forth entangling vines or roots from out of the earth and can ensnare an enemy. The ensnared creature cannot move but can use ranged weapons and powers. The creature is ensnared until the mystic fails a \[Resolve←[[Might]]\] test, starting the following round.
 

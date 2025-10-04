@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Authorship"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A shard of a mirror<br>Crux: [[Captivation]]
+Crux: [[Captivation]]<br>Material: A shard of a mirror
 
 There is a gap between the world and the perception of it. The mystic can use this gap to evade a potentially horrible fate or to make alterations to the flow and perception of reality.
-
-![[Mystical Power]]
 
 Novice<br>Reaction. The mystic can make a [[Resolve]] test once per round to make a correction of reality – if successful the mystic may re-roll a failed [[Defense]] test.
 

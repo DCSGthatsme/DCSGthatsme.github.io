@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Maltransformation"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A pupa or an egg<br>Crux: [[Appreciation]]
+Crux: [[Appreciation]]<br>Material: A pupa or an egg
 
 The mystic has grasped that physical appearance is a dynamic concept, and knows how to use that insight to transform their enemies into weaker forms.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a successful roll against [[Resolve]] the mystic can turn a target into a harmless beast (mammal or reptile, the mystic decides which). The target stays in that form until the mystic breaks concentration or fails a \[Resolve←Resolve\] test. This test is made each of the mystic's turns. The harmless animal keeps the target's original Attributes but none of their abilities or powers and can neither attack nor use items.
 

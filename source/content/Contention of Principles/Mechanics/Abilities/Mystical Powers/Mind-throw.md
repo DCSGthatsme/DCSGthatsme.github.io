@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Mind-throw"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A glass pearl<br>Crux: [[Captivation]]
+Crux: [[Captivation]]<br>Material: A glass pearl
 
 The mystic can use their mind to move and throw loose objects, or even enemies.
-
-![[Mystical Power]]
 
 Novice<br>Active/Reaction. The mystic can actively hurl objects in the surrounding area as weapons or use them reactively, to block incoming attacks. The mystic will have to make a \[[[Resolve]]←[[Agility]]\] test to attack this way and deals 1D8 damage if successful. If an object is used as a temporary shield, make a \[Resolve←[[Exactitude]]\] test to block incoming physical attacks or a \[Resolve←Resolve\] test for magic projectiles. The object is destroyed after one hit, either dealt or blocked.
 

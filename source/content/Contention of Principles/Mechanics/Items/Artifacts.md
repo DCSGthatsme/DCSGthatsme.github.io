@@ -31,7 +31,7 @@ Strong<br>Imbues any item<br>A Crux-specific focus gives a +1 bonus on all tests
 Strong<br>Imbues <br>A Reliquary Stone is the item required to perform [[Reliquary Decantation]].
 `originally Soul Stone`
 ## Ritual Codex
-Weak<br>Imbues an art piece<br>A [[Rituals|Ritual]] is penned down in a codex so that another ritualist can perform it without having previously learned the ritual. The artifact's power is spent on the first use.
+Weak<br>Imbues an art piece<br>A [[Rituals|Ritual]] is penned down in a codex so that another Sophist can perform it without having previously learned the ritual. The artifact's power is spent on the first use.
 ## Ritual Focus
 Moderate<br>Imbues any item<br>A Crux-specific focus gives a +1 bonus on all tests related to all [[Rituals]] of a certain Crux while the focus is equipped or worn.
 ## Ritual Seal

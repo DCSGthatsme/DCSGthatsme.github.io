@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Buffeting Haven"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Exaltation]]<br>Material: Melee weapon
 
 The mystic has their melee weapon spin around at such velocity that it forms a protective haven which effectively parries most attacks. Unfortunately, the mystic cannot perform attacks or use other powers without dispelling the haven. The haven is active until it is willingly aborted, until the mystic uses another power, or until it is dispelled by some other mystic using the power [[Anathema]].
-
-![[Mystical Power]]
 
 Novice<br>Active. The haven lets the mystic choose to defend using [[Resolve]] instead of [[Agility]]. It can protect the mystic from melee and ranged attacks but not from mystical powers. Only movement is allowed while within the sphere – not even actions which normally can replace movement are possible while maintaining the sphere.
 

@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Ethereal Shield"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A shard of glass<br>Crux: [[Exaltation]]
+Crux: [[Exaltation]]<br>Material: A shard of glass
 
 The mystic raises an ethereal shield against the weapons of their enemies. The shield is invisible until attacked, at which time it glitters as if struck by sunlight.
-
-![[Mystical Power]]
 
 Novice<br>Active. With a successful roll against [[Resolve]] the mystic surrounds themself with a warm glow. This glow provides +1D4 [[Toughness]]. Also, any creatures with Corruption who attack the mystic with a melee attack suffer 1D4 damage from the glow, ignoring Toughness. The ethereal shield lasts until the end of the scene.
 

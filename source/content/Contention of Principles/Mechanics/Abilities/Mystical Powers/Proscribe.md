@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Proscribe"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Only available if [[Resolve]] + [[Subtlety]] > 22<br>Crux: [[Fear]]<br>Material: A sharp weapon to cut the world's fabric
 
 A fearful mystic's lack of respect for the laws of nature lends them the astounding ability to tear at and bend apparent constants like time and space. One way to make use of this is to temporarily banish creatures from the world of the living. This poses a danger since every failed attempt to use the power risks summoning a violent [[Phantasms|phantasm]]. If this happens, the phantasm attacks a random victim, though not someone who is protected by a [[Loathsome Aura]] or who is already thoroughly corrupt. The kind of phantasm that comes is determined by the Game Master based upon the target's characteristics.
-
-![[Mystical Power]]
 
 Novice<br>Active. The character sends an enemy beyond existence. The enemy returns one round later with the mystic's acting precedence, in the same location, and having suffered 1D4 Damage (ignoring [[Toughness]]) and 1D4 temporary Corruption. If the mystic fails a \[[[Resolve]]←Resolve\] test, a phantasm is automatically summoned the enemy's place.
 

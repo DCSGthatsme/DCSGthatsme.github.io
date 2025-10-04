@@ -1,12 +1,9 @@
----
-title: "Mystical Power: Derision"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
 Crux: [[Fear]]<br>Material: None, only harmful words
 
 Some dark-minded mystics can use their anger and vindictiveness to amass dark energies around a creature they want to hurt. In fact, at the higher levels the effect of this ability becomes instinctive, and all pain that the mystic suffers will undoubtedly be transferred to any enemies in the vicinity.
-
-![[Mystical Power]]
 
 Novice<br>Active. If the character utters words of doom and passes a \[[[Resolve]]←Resolve\] test, misfortune gathers in a dense cloud around an enemy. All who attack the target get a second chance to pass their attack tests during the rest of the scene. Only one enemy at a time can suffer the mystic's Derision this way; changing the target counts as a Primary Action.
 

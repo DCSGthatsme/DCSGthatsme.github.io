@@ -1,8 +1,5 @@
-Rituals are time-consuming [[Abilities]] that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Like mystical powers, rituals cause [[Corruption]]; first when they are learned and then each time they are used. 
-
-A ritual can only be taken via the [[Ritualist]] ability. Note that each ritual is an ability taken at no cost to [[Experience]] except what is spent on Ritualist: 10xp to acquire at novice level, 20xp to increase from novice to adept, and 30xp to increase from adept to master.
-## Ritualist
-![[Ritualist]]
+Rituals are time-consuming [[Abilities]] that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Human characters can only acquire a Ritual via the [[Sophistry]] Ability:
+![[Sophistry#Rituals]]
 
 ---
 ## [[Anoint]]
@@ -23,6 +20,8 @@ A ritual can only be taken via the [[Ritualist]] ability. Note that each ritual 
 ![[Clairvoyance#Ability]]
 ## [[Command Confession]]
 ![[Command Confession#Ability]]
+## [[Denigrate]]
+![[Denigrate#Ability]]
 ## [[Desecrating Rite]]
 ![[Desecrating Rite#Ability]]
 ## [[Enslave]]
@@ -47,8 +46,6 @@ A ritual can only be taken via the [[Ritualist]] ability. Note that each ritual 
 ![[Illusion#Ability]]
 ## [[Inconsequence]]
 ![[Inconsequence#Ability]]
-## [[Judging Bonds]]
-![[Judging Bonds#Ability]]
 ## [[Magic Circle]]
 ![[Magic Circle#Ability]]
 ## [[Patron]]
@@ -83,8 +80,6 @@ A ritual can only be taken via the [[Ritualist]] ability. Note that each ritual 
 ![[Spellbinding Oasis#Ability]]
 ## [[Summoning]]
 ![[Summoning#Ability]]
-## [[Tale of Ashes]]
-![[Tale of Ashes#Ability]]
 ## [[Telepathic Interrogation]]
 ![[Telepathic Interrogation#Ability]]
 ## [[Traceless]]

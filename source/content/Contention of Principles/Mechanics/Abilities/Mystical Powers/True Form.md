@@ -1,12 +1,9 @@
----
-title: "Mystical Power: True Form"
----
+This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
+![[Sophistry#Mystical Powers]]
 ## Ability
-Material: A pupa<br>Crux: [[Captivation]], [[Exaltation]]
+Crux: [[Exaltation]]<br>Material: A pupa
 
 The mystic has spent many long nights closely studying lies and false guises, and is capable of making the surrounding world reveal its true nature.
-
-![[Mystical Power]]
 
 Novice<br>Reaction. With a \[[[Resolve]]←Resolve\] test, the mystic's clarity allows them to see through every illusion, transformation or any other effect within sight that hides the true form of things. Revealed illusions disappear, while transformations remain intact, although the mystic can see what is behind them.
 

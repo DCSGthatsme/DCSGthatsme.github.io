@@ -1,4 +1,4 @@
-The creature is equipped with wings of some kind (either bird or insect-like) and has a more or less developed ability to fly.
+The creature is equipped with wings of some kind and has a more or less developed ability to fly.
 
 I<br>Passive. The creature can fly during its Movement Action, and therefore avoid Free Attacks when passing over an enemy.
 

@@ -1,4 +1,7 @@
-Mystical powers are magical [[Abilities]]. Each mystical power is a variant of the [[Mystical Power]] ability, inheriting its rules. A new power at novice level costs 10 [[Experience]]. To increase a novice power to the adept level costs 20 Experience. To increase an adept ability to the master level costs 30 Experience.
+Mystical powers are magical [[Abilities]]. Human characters can only acquire a Mystical Power via the [[Sophistry]] ability:
+![[Sophistry#Mystical Powers]]
+
+---
 ## [[Alchemy]]
 ![[Alchemy#Ability]]
 ## [[Anathema]]
