@@ -28,7 +28,7 @@ Principles realize mystical power as an innate characteristic. When a human perf
 
 It should come as no surprise that methods to avoid and abate Corruption is the most coveted of sophistic mysteries. Only the rare few resolute sophists who are able to manage their Corruption can shift their focus to the mysteries of the possibilities of magic.
 
-A great limitation to magic would seem to be its inherent impermanence; objects [[Imbuement|imbued]] with power do not keep their power for long. Sophistic powers reflect their user and cannot be codified into a method to replicate its effects. Magical institutions would be a foreign concept to the people of this world. Magic is not believed to come *from* anywhere.
+A great limitation to magic would seem to be its inherent impermanence; objects [[Artifice|imbued]] with power do not keep their power for long. Sophistic powers reflect their user and cannot be codified into a method to replicate its effects. Magical institutions would be a foreign concept to the people of this world. Magic is not believed to come *from* anywhere.
 ## Geography
 ![[World Map]]
 Cartography is not a very advanced or valued field of study in this world. The biomes present are many and varied. To the west is a harsh desert - the Expanse. In all other directions, you will reach the sea. If there is anything beyond the sea or beyond the Expanse, it is not known.
