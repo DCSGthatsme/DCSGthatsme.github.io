@@ -1,4 +1,4 @@
-# Ability
+## Ability
 A special fighting technique to be employed wherever combat is waged in restricted spaces.
 
 Knife Connoisseur may only be performed with knife-like weapons, i.e. sticking or cutting weapons with the quality Short.
@@ -12,5 +12,5 @@ Master<br>Reaction. The character can fight effectively with a knife at very sho
 … win the initiative next round (see Quick Strike on page 99 or Take the Initiative on page 104) and then continue attacking until the knife-fighter hits again.
 
 … use a movement action to withdraw from melee, and then suffer a Free Attack from the knife-fighter. If the Free Attack deals damage, the enemy once again finds themself at too short of a distance to attack effectively.
-# Notes
+## Notes
 * Originally "Knife Play" from the Symbaroum Advanced Player's Guide.

@@ -1,4 +1,4 @@
-# Ability
+## Ability
 As one of the most important societal roles, a blacksmith can be found in most every tribe.
 
 The cost of crafting objects is half of the listed price. If the blacksmith later sells the item, they get the list price in payment.
@@ -11,5 +11,5 @@ Adept<br>Special. With a passed Wit test, the character can make an adept item, 
 
 Master`?`
 Special. With a passed Wit test, the character can make a master item. Master Blacksmiths have the capability to add several qualities to weapons and armor, and also to remove negative qualities. Adding to that, they may instill mystical qualities into all kinds of weapons and armor. For each added or removed quality, the list price of the item is cumulatively increased by ×5. Mystical qualities increase the value by ×10.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

@@ -1,4 +1,3 @@
-# Ability
 The character can inflict serious damage on their enemies with a projectile weapon, hoping to either bring them down or at least make sure that they do not reach those of the character's allies that are equipped for melee combat.
 
 Novice<br>Passive. Thanks to the character's skill, their damage dealt with projectile weapons is increased by one die tier.

@@ -1,4 +1,3 @@
-# Ability
 Only available if [[Charisma]] + [[Might]] > 22
 
 There are many who fight their way to a position of leadership, but there are few who are recognized as true leaders by the people they are meant to lead. If equipped with this ability, the character is an inspiring, charismatic, and eloquent person whom others listen to and follow, sometimes to their death.

@@ -9,6 +9,6 @@ Novice<br>Active. One (1) creature is hit; roll 1D4 against its total Corruption
 
 Adept<br>Active. Like Novice, but the roll is 1D6.
 
-Master<br>Active. Same as Adept level, but the attack is made in a chain, where another target is hit if the previous one suffered Corruption. As soon as someone is healed, the chain is broken.
+Master<br>Active. As Adept, but the attack is made in a chain, where another target is hit if the previous one suffered Corruption. As soon as someone is healed, the chain is broken.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

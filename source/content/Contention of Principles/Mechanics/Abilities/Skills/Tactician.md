@@ -1,4 +1,3 @@
-# Ability
 The character is learned and meticulous in the maxims and calculations of combat.
 
 Novice<br>Passive. The character has studied the tactics of warfare and grasped its fundamentals. The character may use [[Wit]] instead of [[Agility]] when calculating their acting precedence.

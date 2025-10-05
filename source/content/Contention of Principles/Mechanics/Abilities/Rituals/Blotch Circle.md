@@ -10,5 +10,5 @@ It is hard to find a Blotch Circle, even if you know where to look for it. It re
 A mystic with both the Blotch Circle ritual and the [[Alchemy]] ability can make an extra attempt at Alchemy tests when using the ability inside their circle. A mystic with Growth, Blotch Circle, and Alchemy can make two extra attempts when using Alchemy.
 
 A mystic who performs [[Borrow Beast]] and lets their body rest inside a Blotch Circle has no limitation as to how long it can maintain the trance, since their body gets all the nutrition it needs from the ground inside the circle.
-# Notes
+## Notes
 * Originally "Witch Circle".

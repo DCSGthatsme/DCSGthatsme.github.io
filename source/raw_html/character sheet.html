@@ -457,7 +457,7 @@
 	  primaryAttributes.forEach( (attrData, attr) => {
 		var value = Number(attrData.element.value) || 0;
 		if (effectModifiers.has(attr)){
-			console.log(attr + ' + ' + effectModifiers.get(attr).join('+'));
+			//console.log(attr + ' + ' + effectModifiers.get(attr).join('+'));
 			const newElem = document.createElement('div');
 			attrData.element.after(newElem);
 			newElem.className = 'squarebox slidy';
@@ -473,7 +473,7 @@
 	  trackedStats.forEach( (attrData, attr) => {
 		var value = Number(attrData.element.value) || 0;
 		if (effectModifiers.has(attr)){
-			console.log(attr + ' + ' + effectModifiers.get(attr).join('+'));
+			//console.log(attr + ' + ' + effectModifiers.get(attr).join('+'));
 			const newElem = document.createElement('div');
 			attrData.element.after(newElem);
 			newElem.className = 'squarebox slidy';
@@ -550,7 +550,7 @@
 	  
 	  //corrupted state
 	  const totalCorruptionElem = derivedAttributes.get("Total Corruption").element;
-	  const permCorruptionElem = derivedAttributes.get("Permanent Corruption").element;
+	  const permCorruptionElem = trackedStats.get("Permanent Corruption").element;
       if (Number(totalCorruptionElem.textContent) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
         if (Number(permCorruptionElem.value) > Number(derivedAttributes.get("Corruption Limit").element.textContent)) {
             totalCorruptionElem.style.backgroundColor = 'red';
@@ -739,6 +739,28 @@
 			downBtn.className = 'miscCtrlButton';
 			downBtn.addEventListener('click',() => moveDown(tr));
 			tdCtrl.appendChild(downBtn);
+			
+			const importTextBtn = document.createElement('button');
+			importTextBtn.type = 'button';
+			importTextBtn.textContent = 'Import Text';
+			importTextBtn.addEventListener('click', async () => {
+				console.log("ran!");
+				let abilityPath = prompt("Input the page's relative path in the Abilities folder. E.g.:\nSkills/Backstab\nMystical Powers/Alchemy\nRituals/Speak", "Skills/" + inpName.value)
+				if(abilityPath){
+					const url = 'https://raw.githubusercontent.com/DCSGthatsme/DCSGthatsme.github.io/refs/heads/main/source/content/Contention%20of%20Principles/Mechanics/Abilities/' + abilityPath + '.md';
+					const response = await fetch(url);
+					let data = await response.text();
+					data = data.replace(/\[\[(.*?)\|(.*?)\]\]/gm, `$2`).replace(/\[\[(.*?)\]\]/gm, `$1`).replaceAll("<br>", '\n').replace(/\n\#\#\ Notes(.*)/s, "");
+					console.log(data);
+					if(txtVal.textContent){
+						txtVal.textContent += '\n\n' + data;
+					}else{
+						txtVal.textContent = data;
+					}
+					autoHeight(txtVal);
+				}
+			});
+			tdCtrl.appendChild(importTextBtn);
 
 			const delBtn = document.createElement('button');
 			delBtn.type = 'button';

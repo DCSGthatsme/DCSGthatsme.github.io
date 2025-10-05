@@ -1,4 +1,3 @@
-# Ability
 The character is familiar with the effective use of poisoned weapons in combat.
 
 The Poisoner ability can be used to identify different poisons or the effect of a poison on a wounded or dead person.

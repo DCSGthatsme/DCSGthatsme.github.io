@@ -1,4 +1,3 @@
-# Ability
 The character is trained to use their strength for maximum effect on a target in melee combat.
 
 Novice<br>Passive. The character can fully utilize their strength and therefore uses [[Might]] instead of [[Exactitude]] when making melee attacks.

@@ -1,4 +1,3 @@
-# Ability
 The character is talented in the precepts of longshafted weapons. The spear is a simple weapon and anyone can quickly learn how to make good use of its length. The character's advanced skill with long weapons shows that a simple shaft of hardened wood can be a fearsome weapon in the hands of a trained warrior.
 
 Novice<br>Passive. The damage dealt by [[Long]] weapons is increased one die tier (to 1D10 for spears and halberds and to 1D8 for staves).

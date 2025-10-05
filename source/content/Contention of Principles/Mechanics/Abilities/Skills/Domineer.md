@@ -1,4 +1,4 @@
-# Ability
+## Ability
 With nothing but presence, gaze, and voice, strong personalities can force weaker minds to bend in the mid of a raging battle. The character is trained in this art of subjugation.
 
 In social situations, this ability can also be used to scare someone into obedience or force secrets out of them.

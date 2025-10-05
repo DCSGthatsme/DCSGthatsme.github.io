@@ -4,5 +4,5 @@ The weapon makes other weapons look puny in comparison. The wielder has a second
 If a Massive weapon is used against a player character, the player instead rolls for [[Toughness]] twice and the lowest total determines the level of protection.
 
 The item also incurs +2 [[Encumbrance]] while carried.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

@@ -1,3 +1,5 @@
+Alchemical Substances are the product of [[Alchemy]] Imbuement.
+
 To throw an item to a target location requires a Primary Action and a passed \[[[Exactitude]]\] test. To strike or spatter a target with it requires a Primary Action and a passed \[Exactitude←[[Agility]]\] test, observing the rules of [[Distance]].
 
 To scrape off a sticky substance requires a Primary Action and a passed \[Agility←[[Wit]]\] test. Allies trying to help the target may make separate tests in order to scrape off substance.

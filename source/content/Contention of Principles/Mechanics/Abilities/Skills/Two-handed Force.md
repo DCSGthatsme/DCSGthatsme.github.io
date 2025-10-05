@@ -1,4 +1,3 @@
-# Ability
 Large weapons rest comfortably in the character's callused hands and can have an astoundingly destructive effect on all sorts of targets.
 
 Novice<br>Passive. The damage dealt by [[Two-handed]] weapons and [[Versatile]] weapons (excluding [[Long]] weapons) used in both hands is increased by one die tier.

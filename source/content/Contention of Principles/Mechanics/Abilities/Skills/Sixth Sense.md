@@ -1,4 +1,3 @@
-# Ability
 When moving through dark forests and deep caves, one's eyes are no longer very useful. Lighting a lantern or torch can summon danger, so the explorer ought to learn to rely on their other senses. With dedicated training, it is possible to awaken these other senses and sharpen them to the brink of eeriness. The Sixth Sense ability provides the character with unique capabilities when fighting at a distance or in situations where eyesight can no longer be trusted.
 
 A character with Sixth Sense may - under calm circumstances - navigate unhindered in dim light, as well as maintain a sense of direction in complete darkness, though at a pace of only a quarter of their normal, daytime speed. 

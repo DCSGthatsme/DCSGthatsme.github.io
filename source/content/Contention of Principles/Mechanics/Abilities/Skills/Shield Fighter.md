@@ -1,4 +1,3 @@
-# Ability
 The character is trained in how to make good use of a shield, and how to actively fight using the shield as a weapon. Behind the protection of the shield, the character can generate great momentum to fuel their attacks, as well as strike with the shield itself.
 
 The buckler, a kind of light shield usually utilized by archers, is too light to be used with the Shield Fighter ability. The Shield Fighter has to carry a sturdy, weighty shield to deliver the necessary impact.

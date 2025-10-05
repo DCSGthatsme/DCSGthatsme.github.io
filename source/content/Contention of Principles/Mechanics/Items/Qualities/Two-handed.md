@@ -1,4 +1,4 @@
 ## Effect
 The weapon can only be wielded in two hands.
-# Notes
+## Notes
 * Not originally an equipment quality.

@@ -1,3 +1,4 @@
+Artifacts are the product of [[Artifice]] Imbuement.
 ## [[Animal Mask]]
 ![[Animal Mask#Effect]]
 ## [[Bantam Guard]]

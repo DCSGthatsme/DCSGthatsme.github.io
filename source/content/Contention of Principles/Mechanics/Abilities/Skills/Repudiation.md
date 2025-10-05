@@ -1,4 +1,4 @@
-# Ability
+## Ability
 Only available if [[Resolve]] + [[Wit]] > 22
 
 Repudiation provides a singular resistance against [[Corruption]]. It also endows the mystic with the ability to use improvised [[Mystical Powers]], at a high cost in Corruption.
@@ -8,5 +8,5 @@ Novice<br>Special. Repudiation allows the mystic to choose a signature [[Abiliti
 Adept<br>Passive. A character with the adept level in Repudiation uses [[Resolve]]+[[Health]] as the basis for their [[Corruption Limit]].
 
 Master<br>Special. The master may cast ANY *novice* mystical power. When casting powers granted by this ability, the character takes 1D8 Temporary Corruption and must succeed each success test necessitated by the power a second time.
-# Notes
+## Notes
 * Originally "Strong Gift" from the Symbaroum Advanced Player's Guide.

@@ -8,5 +8,5 @@ Weak<br>The trap deals 1d8 damage.
 Moderate<br>The trap deals 1d10 damage.
 
 Strong<br>The trap deals 1d12 damage.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

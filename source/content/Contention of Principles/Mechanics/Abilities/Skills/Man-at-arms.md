@@ -1,4 +1,3 @@
-# Ability
 Whatever the material armors the character, the Man-at-arms ability gives them increased protection against hostile strikes and blows.
 
 Novice<br>Passive. The character knows how to use their armor for maximum effect, which increases the armor's [[Toughness]] bonus by one die tier.

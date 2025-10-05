@@ -1,4 +1,4 @@
 ## Effect
 The weapon can be used to snare a target, which is done with a passed \[[[Exactitude]]←[[Agility]]\] test. An ensnared target cannot move and gets a second chance to fail all success tests. Every attempt to get free requires spending a combat action; this forces the attacker to test \[Exactitude←Agility\] again in order to keep the target in check. Ensnaring melee weapons can be used to try to knock a target prone. The attempt counts as a combat action and requires a passed \[[[Might]]←Might\] to succeed. A fallen target cannot get up until it has been freed from the ensnaring effect. Also, note that an Ensnaring weapon may be used with the [[Ensnare]] skill to perform more advanced maneuvers.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

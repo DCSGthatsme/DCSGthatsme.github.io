@@ -1,4 +1,4 @@
-# Ability
+## Ability
 Only available if [[Exactitude]] + [[Wit]] > 22
 
 Trick archers are not many, since most people lack the patience for honing their skills to such an astounding degree. The character is one of few who have dedicated their lives to mastering the bow or the crossbow.
@@ -10,5 +10,5 @@ Adept<br>Active. The archer can cause projectiles to ricochet off floors, walls,
 Master<br>Reaction. Once per round, the character can parry a successful attack at range. This ranged parrying maneuver can be of two types:
 * Versus a melee attack targeting at an ally: The master archer fires a projectile that deflects an attack which otherwise would have hit one of their allies. This parrying maneuver requires a passed \[Exactitude←[[Agility]]\] test; if successful, the attack misses the ally without dealing any damage.
 * Versus a physical projectile targeting the archer or an ally: The parrying maneuver requires a passed \[Exactitude←Agility\] test; if successful, the incoming projectile is deflected and misses its target.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.

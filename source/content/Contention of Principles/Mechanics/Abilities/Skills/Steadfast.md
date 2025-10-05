@@ -1,4 +1,3 @@
-# Ability
 The character has a mind as hard as steel, inspiring them to endure even against insurmountable odds. Mystics rarely succeed when trying to hurt or seize control of the character's senses, and sometimes a truly steadfast character manages to defend themself mentally and even redirect the magic back upon the mystical attacker.
 
 Novice<br>Reaction. The character can make a second attempt to succeed with a [[Might]] or [[Resolve]] test when trying to break an ongoing physical effect from, for instance, traps or [[Alchemical Substances]]. This includes energies from mystical powers, as long as these are manifested physically in the forms of fire, acid, or similar.

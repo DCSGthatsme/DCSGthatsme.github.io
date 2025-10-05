@@ -1,4 +1,3 @@
-# Ability
 All the character's senses, as well as their physical and mental capacity, can be improved. By practicing a little bit each day, the muscles can grow stronger, the eyes sharper, and intellect vaster. This ability enhances the character's basic capabilities.
 
 A version of this Ability may be chosen for each primary [[Attributes|Attribute]]. (ie Exceptional Resolve, Exceptional Wit)

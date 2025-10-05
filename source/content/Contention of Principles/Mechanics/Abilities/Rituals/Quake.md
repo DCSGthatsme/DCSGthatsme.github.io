@@ -10,5 +10,5 @@ No matter if the Quake is directed into the ground or towards an object, the mag
 * Towards an object: The Quake is powerful enough to crush bridges, walls and doors. The damage dealt is rolled as a usual hit with the weapon, but with one lower tier of damage die and the [[Wrecking]] quality thanks to the ritual; the staff damages structures as if it is a battering ram. See the rule Damage on Buildings, page 106APG, for more information.
 
 Doors turn to splinters while floors and bridges crumble to dust. If the mystic crushes a floor, they remain standing on the edge of the rupture, but before them a hole big enough to require two movement actions to get around opens up. Naturally, if it instead is a bridge that is crushed, anyone wanting to pass must climb or swim to the other side.
-# Notes
+## Notes
 * From the Symbaroum Advanced Player's Guide.
