@@ -1,1 +1,3 @@
+Repeatable
+
 The character is trained to cheat in games and knows how to avoid detection. They get a +1 bonus on [[Wit]] tests when gambling, and to get away with it the cheat must pass a \[[[Subtlety]]←[[Vigilance]]\] test versus the opponent with the highest Vigilance, a test that the cheat gets a second chance to succeed on. Cheat can be combined with [[Gambler]] for additional bonuses. Cheat can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

@@ -1,1 +1,3 @@
+Repeatable
+
 The character has always seen signs others have missed, and has a +1 bonus on tests dealing with fate or hidden information (e.g. [[Soothsay]]). Augur can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

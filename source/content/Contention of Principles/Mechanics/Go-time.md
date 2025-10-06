@@ -1,8 +1,8 @@
 When go-time begins, the character with the highest [[Agility]] can choose to either act first or to wait. If two characters have the same Agility value, then compare [[Vigilance]]. If they still share the same value, the GM splits ties.
 ## Surprise
-It usually requires a successful \[Subtlety←Vigilance\] test to surprise someone or a \[Vigilance←Subtlety\] test to avoid being surprised. If a group tries to surprise another group, instead of individual against individual, use the surpriser's lowest Subtlety modified by the target's highest Vigilance. If a surprise is successful, the surpriser(s) get a Free Attack against the target at the start of Go-time. After that, follow the regular acting order as described above.
+It usually requires a successful \[[[Subtlety]]←Vigilance\] test to surprise someone or a \[Vigilance←Subtlety\] test to avoid being surprised. If a group tries to surprise another group, instead of individual against individual, use the surpriser's lowest Subtlety modified by the target's highest Vigilance. If a surprise is successful, the surpriser(s) get a Free Attack against the target at the start of Go-time. After that, follow the regular acting order as described above.
 ## Actions
-In go-time all Actions, except Reactions, are performed on the actor's acting precedence. Primary Actions and Movement Actions are limited. They may either perform one Primary Action and one Movement Action XOR perform two Movement Actions. Additionally, they may perform Free Actions without limit.
+In Go-time all Actions, except Reactions, are performed on the actor's acting precedence. Primary Actions and Movement Actions are limited. They may either perform one Primary Action and one Movement Action XOR perform two Movement Actions. Additionally, they may perform Free Actions without limit.
 ### Primary Action
 Primary Actions represent the main accomplishment of the turn. Active Abilities use a Primary Action. Passive abilities always act in conjunction with Active ones.
 ### Movement Action
@@ -16,11 +16,11 @@ A Movement Action represents a meaningful motion in go-time. Typically, the exac
 * Stand up from a prone position (requires an Agility test).
 * Consume/apply an [[Alchemical Substances|Alchemical Substance]] to yourself.
 ## Combat
-When go-time combat begins, it is important to know whether the actors have their weapons drawn or not.
+When Go-time combat begins, it is important to know whether the actors have their weapons drawn or not.
 
 When an combat encounter suggests a quantity of opponents based on the number of player characters (e.g. \[PC+2\] Robbers), companions such as a [[Familiar]], [[Flaming Servant]], or [[Patron]] should be counted among the characters. This also pertains to longstanding NPCs who are effectively members of the adventuring party, so long as they are equipped to affect the outcome of the fight.
 
-In go-time combat, each attack is a Primary Action. The attack is made with \[Exactitude←Defense\]. Note that some abilities can allow you to attack using other Attributes besides Exactitude, and calculate Defense using something else than Agility.
+In go-time combat, each attack is a Primary Action. The attack is made with \[[[Exactitude]]←[[Defense]]\]. Note that some abilities can allow you to attack using other Attributes besides Exactitude, and calculate Defense using something else than Agility.
 
 If any of the combatants are surprised at the start of combat, they must draw their weapons. All Short weapons can be unsheathed as a Free Action. To unsheathe a weapon is otherwise considered a Movement Action. Another option is of course to not draw any weapons and instead choose to use unarmed attacks; an individual's or creature's natural weapons are always considered ready.
 ### Reaction

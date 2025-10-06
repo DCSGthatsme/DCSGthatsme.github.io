@@ -1,1 +1,1 @@
-Strong<br>Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of [[Health]] during 1D6 rounds, on the character's turns. Sadly, the character also suffers 1 temporary [[Corruption]] for each round the elixir is in effect.
+Strong<br>A thin fluid that gives the one who ingests it regenerative powers that heal 1D6 points of [[Health]] during 1D6 rounds, on the character's turns. Sadly, the character also suffers 1 temporary [[Corruption]] for each round the elixir is in effect.

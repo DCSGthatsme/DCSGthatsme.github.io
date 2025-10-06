@@ -1,1 +1,3 @@
+Repeatable
+
 The character is a skilled impressionist, whether trying to impersonate a type of person belonging to his own race or imitating a specific individual. They gain a +1 bonus on [[Subtlety]] tests when trying to impersonate others. If the character only aims to act as a type of person (for instance a town guardsman) rather than a specific individual, they also get a second chance to pass the test. Impersonating a type of person with a markedly different physical characteristic is harder; the impressionist may try but gets a second chance to fail the test. Specific individuals with a major difference in physicality are impossible to imitate in a credible way. Impressionist can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

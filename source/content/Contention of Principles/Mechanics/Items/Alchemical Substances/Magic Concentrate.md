@@ -1,1 +1,1 @@
-Moderate<br>A dose of mystical essence, which gives a mystic a second chance to succeed with a [[Resolve]] test the next time they attempt to use a [[Mystical Powers|Mystical Power]].
+Moderate<br>A thin liquid that, when ingested, gives a mystic a second chance to succeed with a [[Resolve]] test the next time they attempt to use a [[Mystical Powers|Mystical Power]].
