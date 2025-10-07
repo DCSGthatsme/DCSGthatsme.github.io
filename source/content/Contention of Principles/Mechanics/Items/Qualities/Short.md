@@ -1,2 +1,2 @@
 ## Effect
-The weapon can be drawn as a Free Action and can be used with the [[Feint]] ability.
+The weapon can be readied as a Free Action. Melee Short weapons can be used with the [[Feint]] ability.

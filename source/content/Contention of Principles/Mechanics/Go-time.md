@@ -22,7 +22,7 @@ When an combat encounter suggests a quantity of opponents based on the number of
 
 In go-time combat, each attack is a Primary Action. The attack is made with \[[[Exactitude]]←[[Defense]]\]. Note that some abilities can allow you to attack using other Attributes besides Exactitude, and calculate Defense using something else than Agility.
 
-If any of the combatants are surprised at the start of combat, they must draw their weapons. All Short weapons can be unsheathed as a Free Action. To unsheathe a weapon is otherwise considered a Movement Action. Another option is of course to not draw any weapons and instead choose to use unarmed attacks; an individual's or creature's natural weapons are always considered ready.
+If any of the combatants are surprised at the start of combat, they must draw their weapons. All Short weapons can be readied as a Free Action. To ready a weapon is otherwise considered a Movement Action. Another option is of course to not draw any weapons and instead choose to use unarmed attacks; an individual's or creature's natural weapons are always considered ready.
 ### Reaction
 Reactions are quick responses or follow-ups to other Actions or circumstances. They can be performed in any moment during go-time. The character can perform as many Reactions as is called for per turn, as long as there are triggers to react to. Reactions can use the effect of passive abilities, but not of active ones.
 ### Free Actions
