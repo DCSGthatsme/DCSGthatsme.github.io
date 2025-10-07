@@ -1,1 +1,3 @@
 [[Two-handed]], [[Flexible]], [[Thrown]], [[Unwieldy]]<br>1d8+1 damage
+
+![[Meteor Hammer.jpg|300]]
