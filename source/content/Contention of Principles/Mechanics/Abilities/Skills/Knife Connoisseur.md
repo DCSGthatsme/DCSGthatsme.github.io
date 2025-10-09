@@ -1,9 +1,9 @@
 ## Ability
 A special fighting technique to be employed wherever combat is waged in restricted spaces.
 
-Knife Connoisseur may only be performed with knife-like weapons, i.e. sticking or cutting weapons with the quality Short.
+Knife Connoisseur may only be performed with knife-like weapons, i.e. sticking or cutting weapons with the quality [[Short]].
 
-Novice<br>Passive. The character can choose to attack with [[Agility]] instead of [[Exactitude]] when attacking with a short, knife-like weapon.
+Novice<br>Passive. The character can choose to attack with [[Agility]] instead of [[Exactitude]] when performing a melee attack with a Short, knife-like weapon.
 
 Adept<br>Passive. The character makes two separate knife-attacks at the same target with every combat action. If the character also has Twin Attack, this ability only affects one of the attacks, for a total of three attacks (two with the main hand and one with the other).
 

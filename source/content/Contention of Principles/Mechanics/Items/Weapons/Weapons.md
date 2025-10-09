@@ -56,11 +56,11 @@ Each weapon deals a certain amount of basic damage to the target's [[Health]], i
 ![[Executioner's Sword#Effect]]
 ### [[Warhammer]]
 ![[Warhammer#Effect]]
-### [[Meteor Hammer]]
-![[Meteor Hammer]]
 ## Projectile Weapons
 ### [[Javelin]]
 ![[Javelin]]
+### [[Meteor Hammer]]
+![[Meteor Hammer]]
 ### [[Yanzifei]]
 ![[Yanzifei]]
 ### [[Bagakay]]

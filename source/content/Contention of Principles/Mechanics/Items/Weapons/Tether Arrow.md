@@ -1,5 +1,5 @@
 ## Effect
-1d6 damage (when fired from a bow)
+[[Short]], [[Single-handed]]<br>1D6 damage when fired from a bow, 1D4 damage otherwise
 
 A barbed arrowhead and a thin silk thread attached to the arrow make it possible to tether a target using this projectile. Pulling it out takes a Movement Action and requires a passed \[[[Might]] –Damage\] test; if successful the target suffers 1d4 damage but the arrow is out.
 

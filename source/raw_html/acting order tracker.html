@@ -1,0 +1,279 @@
+\<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Acting Order</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+    body {
+      padding: 20px;
+    }
+    span, input, label, textarea {
+      font-family: "Roboto Slab", sans-serif;
+    }
+    h1, tr, button {
+      font-family: "Cabin", sans-serif;
+    }
+    .listTable {
+      width: 100%;
+	  min-width: 25em;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    .listTable th,
+    .listTable td {
+      border: 1px solid #ccc;
+      padding: 6px;
+    }
+    .listTable input:not(.miscCtrlButton):not(.singleHand) {
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .singleHand {
+      width: 50%;
+      box-sizing: border-box;
+    }
+    .listTable .notesText {
+      width: 100%;
+	  font-size: 12px;
+	  resize: none;
+    }
+    .miscCtrlButton {
+      font-size: 1rem;
+      width: 1.6rem;
+      height: 1.6rem;
+	  font-family: "Arial", sans-serif;
+    }
+    .deleteButton {
+      background: none;
+      border: none;
+      color: crimson;
+      font-size: 1.2rem;
+      width: 1.6rem;
+      height: 1.6rem;
+      cursor: pointer;
+    }
+	#roundEnd {
+	  width: 80%;
+	  max-width:75em;
+	  resize: none;
+	}
+	.hiddenToPlayers{
+		filter: contrast(0%) brightness(60%);
+		pointer-events: none;
+	}
+  </style>
+</head>
+<body>
+  <div style="position: fixed; right: 2em;">
+	  <button id="mode">Player Mode</button>
+  </div>
+  <h1>Acting Order</h1>
+	<div>
+	  <table id="actingOrderTable" class="listTable">
+		<thead>
+		  <tr><th></th><th>Name</th><th>Precedence</th><th>Health</th><th>Readied Items</th><th>Notes</th><th></th></tr>
+		</thead>
+		<tbody><!-- dynamically created rows --></tbody>
+	  </table>
+	  <button type="button" id="addActorBtn" class="miscCtrlButton">+</button>
+	</div>
+  <h1>End of Round</h1>
+  <center><textarea id="roundEnd"></textarea></center>
+  <script>
+    const addActorBtn = document.getElementById('addActorBtn');
+    const modeBtn = document.getElementById('mode');
+    const actingOrderTbody = document.querySelector('#actingOrderTable tbody');
+	const roundEndTxt = document.getElementById('roundEnd');
+	
+	function moveDown(elem) {
+	  var parentElem = elem.parentElement;
+	  var elemIndex = Array.prototype.indexOf.call(parentElem.children, elem);
+	  if (elemIndex < parentElem.childElementCount - 1) parentElem.insertBefore(elem, parentElem.children[elemIndex + 2]);
+	}
+	function moveUp(elem) {
+	  var parentElem = elem.parentElement;
+	  var elemIndex = Array.prototype.indexOf.call(parentElem.children, elem);
+	  if (elemIndex > 0) parentElem.insertBefore(elem, parentElem.children[elemIndex - 1]);
+	}
+	function autoHeight(elem, buffer = 0) {
+	  /* let the textarea grow to the required size */
+	  elem.style.height = "auto";
+	  /* save the original border/padding values */
+	  const padding = elem.style.padding;
+	  const border = elem.style.border;
+	  /* without this rows="1" resizes when you start typing */
+	  elem.style.padding = 0;
+	  elem.style.border = "medium solid black";
+	  /* adjust the height of the textarea */
+	  elem.style.height = (elem.scrollHeight + buffer) + "px";
+	  /* restore the original border/padding values */
+	  elem.style.padding = padding;
+	  elem.style.border = border;
+	}
+	
+	function createActorRow(name = '', precedence = 0, notes = '') {
+		const tr = document.createElement('tr');
+
+		const tdColor = document.createElement('td');
+			const inpColor = document.createElement('input');
+			inpColor.type = 'color';
+			inpColor.value = '#FFFFFF';
+			inpColor.addEventListener('change', () => {
+				tr.style.backgroundColor = inpColor.value;
+			});
+			inpColor.className = 'miscCtrlButton';
+			tdColor.appendChild(inpColor);
+		
+		const tdName = document.createElement('td');
+			const nameInpElem = document.createElement('input');
+			nameInpElem.value = name;
+			nameInpElem.setAttribute('placeholder', "Actor");
+			tdName.appendChild(nameInpElem);
+
+		const tdPrecedence = document.createElement('td');
+			const inpPrecedence = document.createElement('input');
+			inpPrecedence.type = 'number';
+			inpPrecedence.value = precedence;
+			inpPrecedence.addEventListener('change', sortRows);
+			tdPrecedence.appendChild(inpPrecedence);
+			
+			inpPrecedence.className = 'gameMasterOnly';
+			if(modeBtn.textContent == 'Game Master Mode'){ inpPrecedence.classList.add('hiddenToPlayers'); }
+
+		const tdHealth = document.createElement('td');
+			const inpHealth = document.createElement('input');
+			inpHealth.type = 'number';
+			inpHealth.value = 10;
+			inpHealth.setAttribute('min', 0);
+			inpHealth.addEventListener('change', sortRows);
+			tdHealth.appendChild(inpHealth);
+			
+			inpHealth.className = 'gameMasterOnly';
+			if(modeBtn.textContent == 'Game Master Mode'){ inpHealth.classList.add('hiddenToPlayers'); }
+
+		const tdReadied = document.createElement('td');
+			const inpLeftHand = document.createElement('input');
+			inpLeftHand.type = 'text';
+			inpLeftHand.setAttribute('placeholder', "Left Hand");
+			inpLeftHand.className = 'singleHand';
+			tdReadied.appendChild(inpLeftHand);
+
+			const inpRightHand = document.createElement('input');
+			inpRightHand.type = 'text';
+			inpRightHand.setAttribute('placeholder', "Right Hand");
+			inpRightHand.className = 'singleHand';
+			tdReadied.appendChild(inpRightHand);
+
+			const inpBothHands = document.createElement('input');
+			inpBothHands.type = 'text';
+			inpBothHands.setAttribute('placeholder', "Both Hands");
+			inpBothHands.style.display = 'none';
+			tdReadied.appendChild(inpBothHands);
+			
+			const handednessBtn = document.createElement('button');
+			handednessBtn.type = 'button';
+			handednessBtn.textContent = '2';
+			handednessBtn.className = 'miscCtrlButton';
+			handednessBtn.addEventListener('click',() => {
+				if(handednessBtn.textContent == '2'){
+					handednessBtn.textContent = '1+1';
+					inpBothHands.style.display = 'unset';
+					inpLeftHand.style.display = 'none';
+					inpRightHand.style.display = 'none';
+					if(inpRightHand.value && inpLeftHand.value){
+						inpBothHands.value = inpLeftHand.value + ' ' + inpRightHand.value;
+					}else if(inpRightHand.value || inpLeftHand.value){
+						inpBothHands.value = inpRightHand.value || inpLeftHand.value;
+					}else{
+						inpBothHands.value = '';
+					}
+				}else{
+					handednessBtn.textContent = '2';
+					inpLeftHand.style.display = 'unset';
+					inpRightHand.style.display = 'unset';
+					inpBothHands.style.display = 'none';
+					inpRightHand.value = inpBothHands.value;
+					inpLeftHand.value = '';
+				}
+			});
+			tdReadied.appendChild(handednessBtn);
+
+		const tdNote = document.createElement('td');
+			const txtVal = document.createElement('textarea');
+			txtVal.className = 'notesText';
+			txtVal.addEventListener('input', (event) => autoHeight(event.target));
+			txtVal.textContent = notes;
+			tdNote.appendChild(txtVal);
+
+		const tdCtrl = document.createElement('td');
+			const upBtn = document.createElement('button');
+			upBtn.type = 'button';
+			upBtn.textContent = '↑';
+			upBtn.className = 'miscCtrlButton';
+			upBtn.addEventListener('click',() => {
+				moveUp(tr);
+				sortRows();
+			});
+			tdCtrl.appendChild(upBtn);
+			
+			const downBtn = document.createElement('button');
+			downBtn.type = 'button';
+			downBtn.textContent = '↓';
+			downBtn.className = 'miscCtrlButton';
+			downBtn.addEventListener('click',() => {
+				moveDown(tr);
+				sortRows();
+			});
+			tdCtrl.appendChild(downBtn);
+			
+			const delBtn = document.createElement('button');
+			delBtn.type = 'button';
+			delBtn.textContent = '×';
+			delBtn.className = 'deleteButton';
+			delBtn.addEventListener('click', () => {
+				tr.remove();
+			});
+			tdCtrl.appendChild(delBtn);
+
+		tr.append(tdColor, tdName, tdPrecedence, tdHealth, tdReadied, tdNote, tdCtrl);
+		actingOrderTbody.appendChild(tr);
+		return tr;
+		
+    }
+
+	function sortRows() {
+	  // get all the rows in this table:
+	  let rows = Array.from(actingOrderTbody.querySelectorAll(`tr`));
+
+	  // set up the queryselector for getting the indicated
+	  // column from a row, so we can compare using its value:
+	  let qs = `td:nth-child(2) input`;
+	  
+
+	  // and then just... sort the rows:
+	  rows.sort( (r1,r2) => r2.querySelector(qs).value - r1.querySelector(qs).value);
+
+	  // and then the magic part that makes the sorting appear on-page:
+	  rows.forEach(row => actingOrderTbody.appendChild(row));
+	}
+	
+    // initialize events
+	addActorBtn.addEventListener('click', () => createActorRow());
+	modeBtn.addEventListener('click',() => {
+		if(modeBtn.textContent == 'Player Mode'){
+			modeBtn.textContent = 'Game Master Mode';
+			document.querySelectorAll('.gameMasterOnly').forEach((elem) => elem.classList.add('hiddenToPlayers'));
+		}else{
+			modeBtn.textContent = 'Player Mode';
+			document.querySelectorAll('.gameMasterOnly').forEach((elem) => elem.classList.remove('hiddenToPlayers'));
+		}
+	});
+	roundEndTxt.addEventListener('input', (event) => autoHeight(event.target, 10));
+	
+	//finish
+	createActorRow();
+  </script>
+</body>
+</html>

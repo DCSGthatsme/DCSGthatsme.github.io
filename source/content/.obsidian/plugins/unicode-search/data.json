@@ -66098,6 +66098,12 @@
     "version": "0.7.0",
     "codepoints": [
       {
+        "firstUsed": "2025-10-07T07:21:03.836Z",
+        "lastUsed": "2025-10-07T07:21:27.115Z",
+        "useCount": 3,
+        "codepoint": "×"
+      },
+      {
         "firstUsed": "2025-10-03T22:11:07.402Z",
         "lastUsed": "2025-10-03T22:11:07.402Z",
         "useCount": 1,
@@ -66115,6 +66121,11 @@
     "initialized": true,
     "version": "0.7.0",
     "codepoints": [
+      {
+        "codepoint": "×",
+        "added": "2025-10-07T07:21:57.100Z",
+        "hotkey": false
+      },
       {
         "codepoint": "≥",
         "added": "2025-10-03T02:24:48.149Z",
