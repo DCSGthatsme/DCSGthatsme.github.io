@@ -1,7 +1,7 @@
 ## Ability
 In the chaos of the battlefield, a ranged weapon may need to be used in unorthodox ways.
 
-Novice<br>Reaction. As a Reaction to a melee attack against them, the character can retaliate with a readied [[Short]] projectile weapon. The character makes a normal melee attack roll against the enemy.
+Novice<br>Reaction. As a Reaction to a melee attack against them, the character can retaliate with a Free Attack using a readied [[Short]] projectile weapon as a melee weapon.
 
 Adept<br>Reaction. As Novice, but such attacks now deal a die tier greater damage.
 
