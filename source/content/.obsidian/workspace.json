@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Alchemical Substances"
             }
+          },
+          {
+            "id": "c1e02cacc8cd60a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contention of Principles/Mechanics/Abilities/Skills/Polearm Mastery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polearm Mastery"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +218,21 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8e07ef0b8389fe98",
+  "active": "c1e02cacc8cd60a6",
   "lastOpenFiles": [
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Elemental Corrective.md",
+    "Contention of Principles/Mechanics/Items/Artifacts/Artifacts.md",
+    "Contention of Principles/Mechanics/Items/Artifacts/Puck.md",
+    "Contention of Principles/Mechanics/Items/Artifacts/Denigrating Bonds.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
+    "Contention of Principles/Mechanics/Items/Artifacts/Camouflage Cape.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Purging Fire.md",
+    "Contention of Principles/Mechanics/Items/Alchemical Substances/Acrimony.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Polearm Mastery.md",
     "Contention of Principles/Mechanics/Go-time.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Improvised Jab.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Polearm Mastery.md",
     "Contention of Principles/Mechanics/Items/Qualities/Long.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Knife Connoisseur.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
     "Contention of Principles/Mechanics/Items/Weapons/Weapons.md",
@@ -223,14 +246,6 @@
     "Contention of Principles/Mechanics/Items/Weapons/Flame Arrow.md",
     "Contention of Principles/Mechanics/Abilities/Skills/Sword Devotee.md",
     "Contention of Principles/Mechanics/Items/Weapons/Bolas.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Skills.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Primed.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Meteor Hammer.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Returning.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Pack-mule.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Ensnaring.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Flailer.md",
     "Images/Javelin.jpg",
     "Images/Meteor Hammer.jpg",
     "Images/Catchpole.jpg",

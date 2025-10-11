@@ -20,8 +20,6 @@ Rituals are time-consuming magical [[Abilities]] that take at least one hour to 
 ![[Clairvoyance#Ability]]
 ## [[Command Confession]]
 ![[Command Confession#Ability]]
-## [[Denigrate]]
-![[Denigrate#Ability]]
 ## [[Desecrating Rite]]
 ![[Desecrating Rite#Ability]]
 ## [[Enslave]]

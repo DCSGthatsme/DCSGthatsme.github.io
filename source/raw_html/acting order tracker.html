@@ -9,7 +9,7 @@
     body {
       padding: 20px;
     }
-    span, input, label, textarea {
+    span, input, label, textarea, select, option, button:not(.miscCtrlButton) {
       font-family: "Roboto Slab", sans-serif;
     }
     h1, tr, button {
@@ -60,32 +60,47 @@
 	  resize: none;
 	}
 	.hiddenToPlayers{
-		filter: contrast(0%) brightness(60%);
+		/* filter: contrast(0%) brightness(60%); */
+		filter: contrast(90%) blur(1vh);
 		pointer-events: none;
 	}
   </style>
 </head>
 <body>
   <div style="position: fixed; right: 2em;">
-	  <button id="mode">Player Mode</button>
+	  <button id="mode">Game Master Mode</button>
   </div>
   <h1>Acting Order</h1>
 	<div>
 	  <table id="actingOrderTable" class="listTable">
 		<thead>
-		  <tr><th></th><th>Name</th><th>Precedence</th><th>Health</th><th>Readied Items</th><th>Notes</th><th></th></tr>
+		  <tr><th>Name</th><th>Precedence</th><th>Health</th><th>Readied Items</th><th>Faction</th><th>Notes</th><th></th></tr>
 		</thead>
 		<tbody><!-- dynamically created rows --></tbody>
 	  </table>
 	  <button type="button" id="addActorBtn" class="miscCtrlButton">+</button>
 	</div>
+  <h1>Factions</h1>
+  <table id="factionsTable" class="listTable">
+	<thead>
+	  <tr><th>Name</th><th>Color</th><th>GM Only?</th><th></th></tr>
+	</thead>
+	<tbody><!-- dynamically created rows --></tbody>
+  </table>
+	<button type="button" id="addFactionBtn" class="miscCtrlButton">+</button>
   <h1>End of Round</h1>
   <center><textarea id="roundEnd"></textarea></center>
+  <script type="text/javascript" src="https://raw.githack.com/insomnious0x01/ntc-js/refs/heads/master/ntc.js"></script>
   <script>
     const addActorBtn = document.getElementById('addActorBtn');
+    const addFactionBtn = document.getElementById('addFactionBtn');
     const modeBtn = document.getElementById('mode');
     const actingOrderTbody = document.querySelector('#actingOrderTable tbody');
+    const factionsTbody = document.querySelector('#factionsTable tbody');
 	const roundEndTxt = document.getElementById('roundEnd');
+	
+	const factionOptionsArr = [];
+	const factionSensitivity = new Map();
 	
 	function moveDown(elem) {
 	  var parentElem = elem.parentElement;
@@ -113,18 +128,8 @@
 	  elem.style.border = border;
 	}
 	
-	function createActorRow(name = '', precedence = 0, notes = '') {
+	function createActorRow(name = '', precedence = 0, health = 10, notes = '') {
 		const tr = document.createElement('tr');
-
-		const tdColor = document.createElement('td');
-			const inpColor = document.createElement('input');
-			inpColor.type = 'color';
-			inpColor.value = '#FFFFFF';
-			inpColor.addEventListener('change', () => {
-				tr.style.backgroundColor = inpColor.value;
-			});
-			inpColor.className = 'miscCtrlButton';
-			tdColor.appendChild(inpColor);
 		
 		const tdName = document.createElement('td');
 			const nameInpElem = document.createElement('input');
@@ -138,20 +143,14 @@
 			inpPrecedence.value = precedence;
 			inpPrecedence.addEventListener('change', sortRows);
 			tdPrecedence.appendChild(inpPrecedence);
-			
-			inpPrecedence.className = 'gameMasterOnly';
-			if(modeBtn.textContent == 'Game Master Mode'){ inpPrecedence.classList.add('hiddenToPlayers'); }
 
 		const tdHealth = document.createElement('td');
 			const inpHealth = document.createElement('input');
 			inpHealth.type = 'number';
-			inpHealth.value = 10;
+			inpHealth.value = health;
 			inpHealth.setAttribute('min', 0);
 			inpHealth.addEventListener('change', sortRows);
 			tdHealth.appendChild(inpHealth);
-			
-			inpHealth.className = 'gameMasterOnly';
-			if(modeBtn.textContent == 'Game Master Mode'){ inpHealth.classList.add('hiddenToPlayers'); }
 
 		const tdReadied = document.createElement('td');
 			const inpLeftHand = document.createElement('input');
@@ -175,7 +174,7 @@
 			const handednessBtn = document.createElement('button');
 			handednessBtn.type = 'button';
 			handednessBtn.textContent = '2';
-			handednessBtn.className = 'miscCtrlButton';
+			handednessBtn.style = 'font-size: 15px; width:3em; display:block; text-align:center; margin:auto;';
 			handednessBtn.addEventListener('click',() => {
 				if(handednessBtn.textContent == '2'){
 					handednessBtn.textContent = '1+1';
@@ -200,10 +199,15 @@
 			});
 			tdReadied.appendChild(handednessBtn);
 
+		const tdFaction = document.createElement('td');
+			const selectFaction = document.createElement('select');
+			tdFaction.appendChild(selectFaction);
+			selectFaction.addEventListener('change', () => updateSelects());
+
 		const tdNote = document.createElement('td');
 			const txtVal = document.createElement('textarea');
 			txtVal.className = 'notesText';
-			txtVal.addEventListener('input', (event) => autoHeight(event.target));
+			txtVal.addEventListener('input', (event) => autoHeight(event.target, 8));
 			txtVal.textContent = notes;
 			tdNote.appendChild(txtVal);
 
@@ -237,10 +241,76 @@
 			});
 			tdCtrl.appendChild(delBtn);
 
-		tr.append(tdColor, tdName, tdPrecedence, tdHealth, tdReadied, tdNote, tdCtrl);
+		tr.append(tdName, tdPrecedence, tdHealth, tdReadied, tdFaction, tdNote, tdCtrl);
 		actingOrderTbody.appendChild(tr);
 		return tr;
+    }
+	
+	function createFactionRow(name = '', color = '#FFFFFF', GMOnly = false) {
+		const tr = document.createElement('tr');
 		
+		const tdName = document.createElement('td');
+			const nameInpElem = document.createElement('input');
+			nameInpElem.value = name;
+			nameInpElem.setAttribute('placeholder', "Faction");
+			nameInpElem.addEventListener('change', () => {
+				updateSelects();
+			});
+			tdName.appendChild(nameInpElem);
+
+		const tdColor = document.createElement('td');
+			const inpColor = document.createElement('input');
+			inpColor.type = 'color';
+			inpColor.value = color;
+			tr.style.backgroundColor = color;
+			inpColor.addEventListener('change', () => {
+				tr.style.backgroundColor = inpColor.value;
+				colorNameSpan.textContent = ntc.name(inpColor.value)[1];
+				updateSelects();
+			});
+			inpColor.className = 'miscCtrlButton';
+			
+			const colorNameSpan = document.createElement('span');
+			colorNameSpan.style.marginLeft = '1em';
+			colorNameSpan.textContent = ntc.name(color)[1];
+			
+			tdColor.appendChild(inpColor);
+			tdColor.appendChild(colorNameSpan);
+
+		const tdGMOnly = document.createElement('td');
+			const inpGMOnly = document.createElement('input');
+			inpGMOnly.type = 'checkbox';
+			inpGMOnly.checked = GMOnly;
+			inpGMOnly.addEventListener('input', () => updateSelects());
+			tdGMOnly.appendChild(inpGMOnly);
+
+		const tdCtrl = document.createElement('td');
+			const upBtn = document.createElement('button');
+			upBtn.type = 'button';
+			upBtn.textContent = '↑';
+			upBtn.className = 'miscCtrlButton';
+			upBtn.addEventListener('click',() => moveUp(tr));
+			tdCtrl.appendChild(upBtn);
+			
+			const downBtn = document.createElement('button');
+			downBtn.type = 'button';
+			downBtn.textContent = '↓';
+			downBtn.className = 'miscCtrlButton';
+			downBtn.addEventListener('click',() => moveDown(tr));
+			tdCtrl.appendChild(downBtn);
+			
+			const delBtn = document.createElement('button');
+			delBtn.type = 'button';
+			delBtn.textContent = '×';
+			delBtn.className = 'deleteButton';
+			delBtn.addEventListener('click', () => {
+				tr.remove();
+			});
+			tdCtrl.appendChild(delBtn);
+
+		tr.append(tdName, tdColor, tdGMOnly, tdCtrl);
+		factionsTbody.appendChild(tr);
+		return tr;
     }
 
 	function sortRows() {
@@ -259,8 +329,61 @@
 	  rows.forEach(row => actingOrderTbody.appendChild(row));
 	}
 	
+	function updateSelects(){
+		while (factionOptionsArr.length > 0){
+			factionOptionsArr.pop().remove();
+		}
+		factionSensitivity.clear();
+		factionsTbody.querySelectorAll('tr').forEach(tr => {
+			const opt = document.createElement('option');
+			factionOptionsArr.push(opt);
+			const inputs = tr.querySelectorAll('td input')
+			const name = inputs[0].value;
+			opt.value=name;
+			opt.innerHTML=name;
+			opt.style.backgroundColor = inputs[1].value;
+			factionSensitivity.set(name, inputs[2].checked);
+		});
+		actingOrderTbody.querySelectorAll('tr').forEach(tr => {
+			let n = 1;
+			[...tr.querySelectorAll('option')].some(opt => {
+				if(opt.selected) return true;
+				n++;
+				return false;
+			});
+			
+			const selectElem = tr.querySelector('select');
+			selectElem.replaceChildren(...factionOptionsArr.map((elem) => elem.cloneNode(true)));
+			const selectedOption = tr.querySelector("select option:nth-child(" + n + ")");
+			selectedOption.selected = true;
+			//selectElem.style.backgroundColor = selectedOption.style.backgroundColor;
+			tr.style.backgroundColor = selectedOption.style.backgroundColor;
+			
+			const health = tr.querySelector('td:nth-child(2) input');
+			const precedence = tr.querySelector('td:nth-child(3) input');
+			
+			if(factionSensitivity.get(selectElem.value)){
+				if(modeBtn.textContent == 'Game Master Mode'){
+					health.classList.add('gameMasterOnly', 'hiddenToPlayers');
+					precedence.classList.add('gameMasterOnly', 'hiddenToPlayers');
+				} else {
+					health.classList.add('gameMasterOnly');
+					health.classList.remove('hiddenToPlayers');
+					precedence.classList.remove('hiddenToPlayers');
+					precedence.classList.add('gameMasterOnly');
+				}
+			} else {
+				health.classList.remove('gameMasterOnly', 'hiddenToPlayers');
+				precedence.classList.remove('gameMasterOnly', 'hiddenToPlayers');
+			}
+		});
+	}
+	
     // initialize events
-	addActorBtn.addEventListener('click', () => createActorRow());
+	addActorBtn.addEventListener('click', () => {
+		createActorRow();
+		updateSelects();
+	});
 	modeBtn.addEventListener('click',() => {
 		if(modeBtn.textContent == 'Player Mode'){
 			modeBtn.textContent = 'Game Master Mode';
@@ -270,10 +393,23 @@
 			document.querySelectorAll('.gameMasterOnly').forEach((elem) => elem.classList.remove('hiddenToPlayers'));
 		}
 	});
+	addFactionBtn.addEventListener('click', () => {
+		createFactionRow();
+		updateSelects();
+	});
 	roundEndTxt.addEventListener('input', (event) => autoHeight(event.target, 10));
 	
 	//finish
-	createActorRow();
+	createFactionRow("Enemy", "#FF8080", true);
+	createFactionRow("Ally", "#80FF80");
+	createActorRow("Bodin", 10, 21);
+	createActorRow("Marko", 16, 10);
+	createActorRow("Heka", 10, 10);
+	createActorRow("Kaelen", 13, 10);
+	createActorRow("Owen", 9, 10);
+	createActorRow("Scarlet", 15, 11);
+	sortRows();
+	updateSelects();
   </script>
 </body>
 </html>

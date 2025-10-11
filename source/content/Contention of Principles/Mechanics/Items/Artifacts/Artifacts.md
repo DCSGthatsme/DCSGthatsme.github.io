@@ -1,4 +1,6 @@
 Artifacts are the product of [[Artifice]] Imbuement.
+
+An unavoidable outcome of Imbuement is the eventual dissipation of the item's mystical power. The delay before an Artifact becomes inert is at most 2 weeks.
 ## [[Animal Mask]]
 ![[Animal Mask#Effect]]
 ## [[Bantam Guard]]
@@ -11,6 +13,8 @@ Artifacts are the product of [[Artifice]] Imbuement.
 ![[Blackened Crown#Effect]]
 ## [[Camouflage Cape]]
 ![[Camouflage Cape#Effect]]
+## [[Denigrating Bonds]]
+![[Denigrating Bonds#Effect]]
 ## [[Flame Pact]]
 ![[Flame Pact#Effect]]
 ## [[Flawless Record]]

@@ -750,7 +750,7 @@
 					const url = 'https://raw.githubusercontent.com/DCSGthatsme/DCSGthatsme.github.io/refs/heads/main/source/content/Contention%20of%20Principles/Mechanics/Abilities/' + abilityPath + '.md';
 					const response = await fetch(url);
 					let data = await response.text();
-					data = data.replace(/\[\[(.*?)\|(.*?)\]\]/gm, `$2`).replace(/\[\[(.*?)\]\]/gm, `$1`).replaceAll("<br>", '\n').replace(/\n\#\#\ Notes(.*)/s, "");
+					data = data.replace(/\[\[(.*?)\|(.*?)\]\]/gm, `$2`).replace(/\[\[(.*?)\]\]/gm, `$1`).replace(/\\(.)/gm, `$1`).replaceAll("<br>", '\n').replace(/\n\#\#\ Notes(.*)/s, "");
 					console.log(data);
 					if(txtVal.textContent){
 						txtVal.textContent += '\n\n' + data;
