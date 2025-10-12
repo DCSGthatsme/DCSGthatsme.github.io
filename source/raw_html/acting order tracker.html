@@ -1,4 +1,4 @@
-\<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -128,7 +128,7 @@
 	  elem.style.border = border;
 	}
 	
-	function createActorRow(name = '', precedence = 0, health = 10, notes = '') {
+	function createActorRow(name = '', precedence = 0, health = 10, faction = '', notes = '') {
 		const tr = document.createElement('tr');
 		
 		const tdName = document.createElement('td');
@@ -202,6 +202,8 @@
 		const tdFaction = document.createElement('td');
 			const selectFaction = document.createElement('select');
 			tdFaction.appendChild(selectFaction);
+			selectFaction.replaceChildren(...factionOptionsArr.map((elem) => opt = elem.cloneNode(true)));
+			if(faction) selectFaction.value = faction;
 			selectFaction.addEventListener('change', () => updateSelects());
 
 		const tdNote = document.createElement('td');
@@ -401,13 +403,25 @@
 	
 	//finish
 	createFactionRow("Enemy", "#FF8080", true);
-	createFactionRow("Ally", "#80FF80");
-	createActorRow("Bodin", 10, 21);
-	createActorRow("Marko", 16, 10);
-	createActorRow("Heka", 10, 10);
-	createActorRow("Kaelen", 13, 10);
-	createActorRow("Owen", 9, 10);
-	createActorRow("Scarlet", 15, 11);
+	createFactionRow("Ally", "#90FF90");
+	createFactionRow("Neutral", "#FFFF80", true);
+	createFactionRow("Bodin", "#8080FF");
+	createFactionRow("Marko", "#808080");
+	createFactionRow("Heka", "#00C000");
+	createFactionRow("Kaelen", "#EEEEEE");
+	createFactionRow("Owen", "#FF9950");
+	createFactionRow("Scarlet", "#A060FF");
+	updateSelects();
+	createActorRow("Bodin", 10, 21, "Bodin");
+	createActorRow("Marko", 16, 10, "Marko");
+	createActorRow("Heka", 10, 10, "Heka");
+	createActorRow("Kaelen", 13, 10, "Kaelen");
+	createActorRow("Owen", 9, 10, "Owen");
+	createActorRow("Scarlet", 15, 11, "Scarlet");
+	createActorRow("Katla", 13, 15, "Bodin");
+	createActorRow("Violet", 10, 11, "Scarlet");
+	createActorRow("Scarlet's Donkey", 7, 10, "Scarlet");
+	createActorRow("Marko's Donkey", 7, 10, "Marko");
 	sortRows();
 	updateSelects();
   </script>
