@@ -46,7 +46,7 @@ Monstrous [[Features]] are typically used by NPCs and are not directly available
 ## [[Invisibility]]
 ![[Invisibility#Ability]]
 ## [[Languid]]
-![[Languid]]
+![[Languid#Ability]]
 ## [[Life Sense]]
 ![[Life Sense#Ability]]
 ## [[Manifestation]]
