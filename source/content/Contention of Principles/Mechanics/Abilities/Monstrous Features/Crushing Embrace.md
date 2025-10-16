@@ -7,4 +7,4 @@ II<br>Reaction. As I, but the damage is 3 per turn.
 
 III<br>Reaction. As I, but the damage is 4 per turn.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

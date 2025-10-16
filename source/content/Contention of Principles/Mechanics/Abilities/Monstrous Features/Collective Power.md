@@ -12,4 +12,4 @@ The collective gains mystical powers when enough members are gathered closely to
 
 The collective can perform one mystical power per turn, in addition to the actions of its individual members. This action is activated on the turn of the individual of the collective with the highest acting precedence. The power works as usual, but its collective origin makes it harder for the enemy to break the concentration of the caster – three of the collective have to lose concentration during the same turn for it to have an effect on the ongoing power.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

@@ -1,69 +1,41 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "ee0897cee68641e3",
     "type": "split",
     "children": [
       {
-        "id": "b082cda910a8617e",
+        "id": "6955f88dc6ce4fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "8e07ef0b8389fe98",
+            "id": "a99db1214196b0da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
+                "file": "Contention of Principles/Adapting Symbaroum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemical Substances"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "c1e02cacc8cd60a6",
-=======
-            "id": "16c192863c0e8d48",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Contention of Principles/Mechanics/Abilities/Skills/Polearm Mastery.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polearm Mastery"
-=======
-                "file": "Contention of Principles/Mechanics/Abilities/Monstrous Features/Monstrous Features.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Monstrous Features"
->>>>>>> Stashed changes
+              "title": "Adapting Symbaroum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "89ca0d73882499d0",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "eb41fc2adacd104d",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "77b1fffaad4a607b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,14 +48,14 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "2c23904574380850",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -93,17 +65,7 @@
             }
           },
           {
-            "id": "2a5d046a48066c00",
-            "type": "leaf",
-            "state": {
-              "type": "recent-notes-view",
-              "state": {},
-              "icon": "clock-10",
-              "title": "Recent notes"
-            }
-          },
-          {
-            "id": "464dbcc6d6d52894",
+            "id": "b6322fc1004488f7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,7 +75,7 @@
             }
           },
           {
-            "id": "7b083147bd451f98",
+            "id": "4d8b09efbb9de162",
             "type": "leaf",
             "state": {
               "type": "broken-links-view",
@@ -121,33 +83,66 @@
               "icon": "unlink",
               "title": "Broken links"
             }
+          },
+          {
+            "id": "5045edc9407d200f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-notes-view",
+              "state": {},
+              "icon": "clock-10",
+              "title": "Recent notes"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 344.50281143188477
+    "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "5f015c9dc592e62d",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "24416ae2bf1792ac",
         "type": "tabs",
         "children": [
           {
-            "id": "d1c6e237c303e6fb",
+            "id": "0bc83af8ae686e05",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "backlink",
+              "state": {
+                "file": "Contention of Principles/Adapting Symbaroum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Adapting Symbaroum"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "71990340fe2b7b53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contention of Principles/Adapting Symbaroum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adapting Symbaroum"
+            }
+          },
+          {
+            "id": "06a223779f0cf25e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -162,154 +157,68 @@
             }
           },
           {
-            "id": "f29c79a14bf0a194",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Items/Alchemical Elixirs/Alchemical Elixirs.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Alchemical Elixirs"
-            }
-          },
-          {
-            "id": "4646463e573b9dcb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Contention of Principles/Mechanics/Abilities/Monstrous Features/Monstrous Features.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Monstrous Features"
-            }
-          },
-          {
-            "id": "e44dcb603de60919",
+            "id": "ef06e7cd609428ad",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
+                "file": "Contention of Principles/Adapting Symbaroum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alchemical Substances"
+              "title": "Outline of Adapting Symbaroum"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 416.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": true,
-      "bases:Create new base": true,
-      "templates:Insert template": true,
-      "switcher:Open quick switcher": false,
+      "broken-links:View broken links": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "cmdr:Git: Commit-and-sync": false,
-      "broken-links:View broken links": true,
-      "recent-notes:Recent notes": true,
-      "obsidian-git:Open Git source control": true
+      "recent-notes:Recent notes": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "c1e02cacc8cd60a6",
+  "active": "a99db1214196b0da",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Elemental Corrective.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Artifacts.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Puck.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Denigrating Bonds.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Camouflage Cape.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Purging Fire.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Acrimony.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Polearm Mastery.md",
-    "Contention of Principles/Mechanics/Go-time.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Improvised Jab.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Long.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Knife Connoisseur.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Weapons.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Yanzifei.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Bagakay.md",
-    "Contention of Principles/Digital Tools.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Arrow.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Bolt.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Tether Arrow.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Hammerhead Arrow.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Flame Arrow.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Sword Devotee.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Bolas.md",
-    "Images/Javelin.jpg",
-    "Images/Meteor Hammer.jpg",
-    "Images/Catchpole.jpg",
-    "Images/Macuahuitl.png",
-    "Images/Cestus.jpg",
-    "Images/Parrying Dagger.jpg",
-    "Images/Buckler.jpg",
-    "Images/Stiletto.jpg",
-    "Images/Flail.jpg",
-    "Images/Lohar.jpeg",
-=======
-  "active": "16c192863c0e8d48",
-  "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Artifice.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Monstrous Features.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Combat Hymn.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Growth.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Languid.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Infectious.md",
     "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Wild Chew.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/War Paint.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Waybread.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Artifacts.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Transcendental Weapon.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Spell Trap.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Spell Scroll.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Flawless Record.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Beacon.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Bantam Guard.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Transforming Draught.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sleep Syrup.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Acrimony.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sight Dew.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sangfroid Salve.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Viper's Patience.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Elemental Essence.md",
->>>>>>> Stashed changes
-    "Contention of Principles/Mechanics/Items/Traps",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances",
-    "Contention of Principles/Mechanics/Items/Armor",
-    "Contention of Principles/Mechanics/Items/Artifacts",
-    "Contention of Principles/Mechanics/Abilities/monstrous feature temp",
-    "Base.base",
-    "Test.canvas",
-    "Contention of Principles/return_of_the_lazy_dungeon_master.epub",
-    "Contention of Principles/Mechanics/NPC Archetypes",
-    "Contention of Principles/Mechanics/Abilities/Maneuvers",
-    "HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits"
+    "Contention of Principles/Adapting Symbaroum.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Inconsequence.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Sword Devotee.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Loremaster.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Repudiation.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Rapid Reflexes.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Pyrotechnics.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Mantle Dance.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Knife Connoisseur.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Hunter's Instinct.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Feat of Strength.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Channeling.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Blood Combat.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Artifice.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Armored Mystic.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Agile Combat.md",
+    "Contention of Principles/Mechanics/Attributes/Attributes.md",
+    "Contention of Principles/Mechanics/Attributes/Toughness.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Sublime Sight.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Sealing Opening Rite.md",
+    "Contention of Principles/Mechanics/Attributes/Carrying Limit.md",
+    "Contention of Principles/Mechanics/Attributes/Encumbrance Threshold.md"
   ]
 }

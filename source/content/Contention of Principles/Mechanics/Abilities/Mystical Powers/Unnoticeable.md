@@ -10,3 +10,5 @@ Novice<br>Active. With a successful \[[[Resolve]]← Resolve\] test, the mystic 
 Adept<br>Active. With a successful Resolve test, the mystic can fade from the perception of all nearby enemies and remain invisible until the mystic makes an attack or takes any kind of damage.
 
 Master<br>Active. With a successful Resolve test, the mystic can make themself as well as an ally fade from the perception of their enemies. The mystic and the ally remain invisible separately and can be detected or remain hidden separately, until they make an attack or take any kind of damage.
+## Notes
+* From the Symbaroum Core Rulebook.

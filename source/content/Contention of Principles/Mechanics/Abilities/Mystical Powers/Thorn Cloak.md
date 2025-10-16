@@ -1,7 +1,7 @@
 This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
 ![[Sophistry#Mystical Powers]]
 ## Ability
-Only available if [[Exactitude]] + [[Vigilance]] > 22<br>Crux: [[Appreciation]]<br>Material: A thorn bush branch
+Only available if [[Exactitude]] + [[Vigilance]] ≥ 23<br>Crux: [[Appreciation]]<br>Material: A thorn bush branch
 
 The plants in nature are usually seen as still and reactive rather than aggressive and active. Experienced green weavers know better and can use surrounding vines, thorns and roots to defend themselves and their allies.
 

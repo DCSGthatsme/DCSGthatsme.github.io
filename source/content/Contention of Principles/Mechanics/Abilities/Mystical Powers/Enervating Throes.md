@@ -1,7 +1,7 @@
 This [[Abilities|Ability]] is a [[Mystical Powers|Mystical Power]]. For a human character to acquire it, they must observe the rules of [[Sophistry]]:
 ![[Sophistry#Mystical Powers]]
 ## Ability
-Only available if [[Charisma]] + [[Subtlety]] > 22<br>Crux: [[Fear]]<br>Material: Quills
+Only available if [[Charisma]] + [[Subtlety]] ≥ 23<br>Crux: [[Fear]]<br>Material: Quills
 
 The enemy is beset with a harrowing miasma which tears at their clothes, equipment, and flesh. At best, the target cannot act. At worst, they are driven mad or die.
 

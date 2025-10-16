@@ -11,4 +11,4 @@ Adept<br>Free. As novice, but the effect heals 1D8 points of Health and also dra
 
 Master<br>Active. The target heals 1D8 points of Health while the mystic suffers half as much damage. The mystic may also pass the other half of the damage on to another creature in sight. The chosen target's [[Toughness]] is ignored and it cannot attempt a [[Defense]].
 ## Notes
-* Originally "Inherit Wound".
+* Originally "Inherit Wound" from the Symbaroum Core Rulebook.

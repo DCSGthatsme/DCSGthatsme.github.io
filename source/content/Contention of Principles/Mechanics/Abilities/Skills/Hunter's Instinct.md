@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Exactitude]] + [[Vigilance]] > 22
+Only available if [[Exactitude]] + [[Vigilance]] ≥ 23
 
 Hunters have a finely tuned instinct. There are few targets who can avoid a hunter's projectiles.
 

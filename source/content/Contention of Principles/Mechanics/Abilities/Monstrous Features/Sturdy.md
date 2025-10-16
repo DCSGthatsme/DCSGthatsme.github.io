@@ -7,4 +7,4 @@ II<br>Passive. The creature's Health is based on its Might × 2.
 
 III<br>Passive. The creature's Health is based on its Might × 3.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

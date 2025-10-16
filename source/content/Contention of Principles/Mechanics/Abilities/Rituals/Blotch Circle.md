@@ -11,4 +11,4 @@ A mystic with both the Blotch Circle ritual and the [[Alchemy]] ability can make
 
 A mystic who performs [[Borrow Beast]] and lets their body rest inside a Blotch Circle has no limitation as to how long it can maintain the trance, since their body gets all the nutrition it needs from the ground inside the circle.
 ## Notes
-* Originally "Witch Circle".
+* Originally "Witch Circle" from the Symbaroum Core Rulebook.

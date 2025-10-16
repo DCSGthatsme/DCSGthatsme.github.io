@@ -11,4 +11,4 @@ Adept<br>Active. With a successful Resolve test, the mystic can let the light pa
 
 Master<br>Active. With a Resolve test the mystic can let their inner light shine over all nearby enemies, dealing 1D8 damage, increased to 1D12 on corrupted targets. The mystic can also stun all Corrupted characters on their next turn if they succeed with a \[Resolve←Resolve\] test.
 ## Notes
-* Originally "Prios' Burning Glass".
+* Originally "Prios' Burning Glass" from the Symbaroum Core Rulebook.

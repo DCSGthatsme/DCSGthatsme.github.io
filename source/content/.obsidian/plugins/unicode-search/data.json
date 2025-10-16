@@ -66098,6 +66098,12 @@
     "version": "0.7.0",
     "codepoints": [
       {
+        "firstUsed": "2025-10-14T19:13:09.818Z",
+        "lastUsed": "2025-10-14T19:13:09.818Z",
+        "useCount": 1,
+        "codepoint": "≥"
+      },
+      {
         "firstUsed": "2025-10-07T07:21:03.836Z",
         "lastUsed": "2025-10-07T07:21:27.115Z",
         "useCount": 3,

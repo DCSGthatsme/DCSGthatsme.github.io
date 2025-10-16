@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Resolve]] + [[Wit]] > 22
+Only available if [[Resolve]] + [[Wit]] ≥ 23
 
 Repudiation provides a singular resistance against [[Corruption]]. It also endows the mystic with the ability to use improvised [[Mystical Powers]], at a high cost in Corruption.
 

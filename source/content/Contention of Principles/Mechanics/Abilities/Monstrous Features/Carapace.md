@@ -7,4 +7,4 @@ II<br>Passive. The creature is protected by its carapace when moving, but is exp
 
 III<br>Reaction. The creature can use its carapace reactively against all attacks. When hit by an attack, the attacker rolls a new success test; if the second test fails, the attack still hits but the creature manages to make use of its carapace, doubling the protection from its natural armor against that particular attack.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

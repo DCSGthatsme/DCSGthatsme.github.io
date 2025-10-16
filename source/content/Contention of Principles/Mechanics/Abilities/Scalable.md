@@ -1,0 +1,1 @@
+An [[Abilities|Ability]] that is Scalable may be gained multiple times, paying the same cost each time, for an increased, cumulative effect. It cannot be gained more than three times.

@@ -1,3 +1,6 @@
-Repeatable
+## Effect
+[[Scalable]]
 
-The character is skilled with opening locks, latches, and bolts, and gets a +1 bonus on all tests to pick locks – the test is made against [[Agility]] if the burglar is in a hurry or against [[Subtlety]] when the challenge is to not alert anyone on the other side of the door. A Subtlety test is also rolled to conceal that the lock has been picked, should someone investigate later on. Cat Burglar can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
+The character is skilled with opening locks, latches, and bolts, and gets a +1 bonus on all tests to pick locks – the test is made against [[Agility]] if the burglar is in a hurry or against [[Subtlety]] when the challenge is to not alert anyone on the other side of the door. A Subtlety test is also rolled to conceal that the lock has been picked, should someone investigate later on.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

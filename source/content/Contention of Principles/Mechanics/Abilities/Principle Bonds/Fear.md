@@ -1,4 +1,7 @@
-> One who fears the principles, magic, and the unknown acquiesces to the immensity of nature and bends its purpose.
+## Ability
+[[Feature]]
+
+> One who fears the Principles, magic, and the unknown acquiesces to the immensity of nature and bends its purpose.
 
 Novice
 > The novice fearful mystic has a certain dread and diffident ambition that typifies a wont of abstruse effectiveness.
@@ -14,3 +17,5 @@ Master
 > A dense fog of boiling shadow seems to seep from the master fearful mystic; the onerous immensity of imperfection and injustice harries the world through the mystic.
 
 Special. Each time the fearful mystic attempts to affect the [[Resolve]] attribute of another creature, they may choose to roll against the creature's Resolve –Total Corruption instead. Thoroughly corrupted creatures are strangely immune to this; it is as if they feed off the darkness of the world to carry on with their dark calling.
+## Notes
+* Originally "Sorcery" from the Symbaroum Core Rulebook.

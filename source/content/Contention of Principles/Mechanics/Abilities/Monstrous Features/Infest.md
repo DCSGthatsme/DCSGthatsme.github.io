@@ -7,4 +7,4 @@ II<br>Reaction. The parasite invades the host directly after an attack that deal
 
 III<br>Reaction. As II, but each attempt to remove the parasite deals 1D20 damage to the victim, ignoring Toughness.
 ## Notes
-* Originally "Infestation" from the Monster Codex.
+* Originally "Infestation" from the Symbaroum Monster Codex.

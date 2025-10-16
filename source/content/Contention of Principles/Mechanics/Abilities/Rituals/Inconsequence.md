@@ -9,4 +9,4 @@ Note that choosing sight does not make the target transparent; they will appear 
 
 Note that choosing touch does not make the target incorporeal; they will still affect the physicality of things. The target will simply not trigger a sense of physical contact within others. This does not prevent the target from inflicting the sense of pain.
 ## Notes
-* Replaced "Nature's Lullaby".
+* Replaced "Nature's Lullaby" from the Symbaroum Core Rulebook.

@@ -7,4 +7,4 @@ II<br>Active. As I, but if the creature is made partially visible, this effect o
 
 III<br>Free. The creature is invisible by default; it does not have to spend an active action to become invisible. Also, this means that it only becomes partially visible for one turn, if revealed as on level I; after this turn, it becomes invisible again without having to spend any actions.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

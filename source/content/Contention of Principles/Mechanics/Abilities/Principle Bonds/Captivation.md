@@ -1,4 +1,7 @@
-> One who captivates principles, magic, and the unknown piques interest through their own actions and nature.
+## Ability
+[[Feature]]
+
+> One who captivates Principles, magic, and the unknown piques interest through their own actions and nature.
 
 Novice
 > The novice captivating mystic has a certain unmistakable peculiarity, a distinct predilection for imbroglio and spectacle.
@@ -14,3 +17,5 @@ Master
 > An unspoken invitation of mystery surrounds the master captivating mystic; their cachet leaves a patent impression upon everything around them.
 
 Special. The captivating mystic may re-roll one (1) failed test each round when attempting to establish a Chain of mystical effects. The mystic no longer suffers permanent Corruption from learning the master level of the powers with a crux of Captivation.
+## Notes
+* Originally "Wizardry" from the Symbaroum Core Rulebook.

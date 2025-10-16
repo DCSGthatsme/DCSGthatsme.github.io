@@ -9,4 +9,4 @@ III<br>Active. If at least one claw hits, and the target fails a \[Might←Might
 
 Attacking Claws It is possible to attack one or both of the creature's claws to try and stop its attacks, get free from its grip or rescue a gripped ally. If so, expect that the claw can withstand a fourth of the creature's full Health before it is rendered useless. If someone is gripped by the claw, all attacks except those with Short weapons must be made with extra care, modifying both the chance to hit and any damage dealt by –2. Weapons with the quality Short function as usual, without modifications.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

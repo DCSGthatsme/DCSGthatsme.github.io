@@ -7,4 +7,4 @@ II<br>Active. The creature exhales a continuous cascade. Should the first target
 
 III<br>Active. The creature spews forth a veritable storm. As II, but even if one target succeeds with the \[Agility←Exactitude\] test, the chain continues and is not broken until a second target succeeds.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

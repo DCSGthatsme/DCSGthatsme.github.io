@@ -61,12 +61,24 @@
     }
   ],
   "macros": [],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "broken-links:list",
+      "icon": "broken-link",
+      "name": "Broken Links: View broken links",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [
       "backlink"
     ],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Open Git source control",
+      "Advanced Tables Toolbar",
+      "Recent notes",
+      "View broken links"
+    ]
   },
   "spacing": "8",
   "advancedToolbar": {

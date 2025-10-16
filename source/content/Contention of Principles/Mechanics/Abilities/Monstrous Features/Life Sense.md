@@ -7,4 +7,4 @@ II<br>Passive. As I, but the perception is so precise that the creature can atta
 
 III<br>Passive. At this level, the creature with the Life Sense can even use mystical powers against detected enemies in the vicinity, as if they were in its line of sight.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

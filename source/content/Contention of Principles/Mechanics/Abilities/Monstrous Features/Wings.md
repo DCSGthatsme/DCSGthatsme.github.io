@@ -1,7 +1,10 @@
+## Ability
 The creature is equipped with wings of some kind and has a more or less developed ability to fly.
 
 I<br>Passive. The creature can fly during its Movement Action, and therefore avoid Free Attacks when passing over an enemy.
 
 II<br>Passive. The creature can hover, meaning it can stand still in midair, out of reach from any melee attacks. To hover does not count as an Action.
 
-III<br>Passive. The creature can make sweeping attacks; it can use a part of its movement before an attack, and the rest afterwards. This way, it does not become bogged down in melee combat, while still being able to perform melee attacks itself
+III<br>Passive. The creature can make sweeping attacks; it can use a part of its movement before an attack, and the rest afterwards. This way, it does not become bogged down in melee combat, while still being able to perform melee attacks itself.
+## Notes
+* From the Symbaroum Core Rulebook.

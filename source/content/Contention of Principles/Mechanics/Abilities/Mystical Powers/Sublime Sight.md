@@ -13,4 +13,5 @@ Master<br>Free. As Adept, except no roll is required.
 
 Active. The character can roll against \[[[Resolve]]←Subtlety\] to make the target's Corruption apparent to other observers for a day. It is as though characters nearby the target involuntarily get Sublime Sight at the Novice level with respect to the target.
 ## Notes
-* Originally "Witchsight", a non-mystical ability. Heavily altered.
+* Originally "Witchsight", a non-mystical Ability from the Symbaroum Core Rulebook.
+* This version is changed drastically from what it was originally.

@@ -9,4 +9,4 @@ Adept<br>Free. The character can, as a Free Action and with a successful \[Chari
 
 Master<br>Active. The character can subdue an enemy with a passed \[Charisma←Resolve\] test. A subdued enemy can be forced to stand down and negotiate, to flee from an ongoing battle (if possible), or surrender if it is impossible to flee. When already in combat, the enemy must first be wounded. The enemy's [[Health]] must have been reduced by 1D4 quarters (rounded down) by the character or by one of the character's allies before it can be subdued.
 ## Notes
-* Originally "Dominate".
+* Originally "Dominate" from the Symbaroum Core Rulebook.

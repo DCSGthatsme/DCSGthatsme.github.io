@@ -4,3 +4,5 @@ This [[Abilities|Ability]] is a [[Rituals|Ritual]]. For a human character to acq
 Crux: [[Fear]]
 
 The mystic can use this ritual to enslave a creature. The enslavement is linked to a slave rune, carved into the skin somewhere on the victim (usually forehead, chest or neck). The slave rune and its effect can be revealed by someone using the [[Sublime Sight]] ability. The power of the slave rune may be broken with either [[Break Link]] or [[Exorcism]]. It is also possible to physically remove the rune from the victim, but not without inflicting 1D6 points of damage and 1D4 points of permanent [[Corruption]]. The slave will fight to remain in slavery. The creature is not controlled by the mystic in every detail, but it will obey the mystic blindly to the best of its ability. The slave can partially reflect upon their situation, cry when it acts against their old nature and so on, but can in no way resist the mystic's latest command.
+## Notes
+* From the Symbaroum Core Rulebook.

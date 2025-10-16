@@ -7,4 +7,4 @@ II<br>Active. The creature can adopt two of the listed features corresponding to
 
 III<br>Active. The creature can adopt two of the listed features corresponding to level II, or one corresponding to level III.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

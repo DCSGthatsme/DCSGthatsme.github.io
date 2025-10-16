@@ -7,4 +7,4 @@ II<br>Passive. As I, but the damage is 3 per turn.
 
 III<br>Passive. As I, but the damage is 4 per turn.
 ## Notes
-* Originally "Harmful Aura" from the Monster Codex.
+* Originally "Harmful Aura" from the Symbaroum Monster Codex.

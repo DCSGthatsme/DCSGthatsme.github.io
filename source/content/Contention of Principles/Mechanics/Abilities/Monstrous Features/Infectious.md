@@ -15,4 +15,4 @@ III<br>Reaction. As I, but the disease is Strong.
 `Table 7: Alchemy and Medicine alChemy level vigor of the disease & number of doses Novice Weak: 1D4; Moderate: 1; Strong: 0 Adept Weak: 2D4; Moderate: 1D4; Strong: 1 Master Weak: 3D4; Moderate: 2D4; Strong: 1D4`
 
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

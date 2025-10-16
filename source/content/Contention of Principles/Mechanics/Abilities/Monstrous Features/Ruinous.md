@@ -7,4 +7,4 @@ II<br>Reaction. As I, but enemies that take damage are at risk of being thrown. 
 
 III<br>Passive. The brutal attacks of the creature gain the quality [[Wrecking]].
 ## Notes
-* Originally "Wrecker" from the Monster Codex.
+* Originally "Wrecker" from the Symbaroum Monster Codex.

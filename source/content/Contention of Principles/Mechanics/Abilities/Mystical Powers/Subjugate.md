@@ -11,4 +11,4 @@ Adept<br>Active. The mystic can seize control of a creature's will by making a s
 
 Master<br>Active. The mystic can seize control of a creature's will by making a successful \[Resolve←Resolve\] test. The mystic does not have to concentrate to sustain the control; it is ongoing and considered active until the mystic fails a \[Resolve←Resolve\] test. The controlled creature can be forced to perform its two usual Actions each turn.
 ## Notes
-* Originally "Bend Will".
+* Originally "Bend Will" from the Symbaroum Core Rulebook.

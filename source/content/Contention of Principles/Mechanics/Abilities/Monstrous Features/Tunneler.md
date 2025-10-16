@@ -7,4 +7,4 @@ II<br>Passive. The creature moves below ground at normal speed and with such agi
 
 III<br>Active. The creature can undermine a small area in order to create a sinkhole under an enemy group's feet. Up to five individuals standing next to each other can be caught by the trap; those who fail a test against Agility fall into the pit where the tunneler gets a free attack against each and every one of them. To get out of the hole requires a successful Agility test and a movement action; targets with the Acrobatics ability get a second chance to succeed.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

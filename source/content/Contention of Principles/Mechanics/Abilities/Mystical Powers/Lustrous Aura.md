@@ -11,4 +11,4 @@ Adept<br>Active. The aura now deals 1D8 damage to corrupted creatures, while oth
 
 Master<br>Active. Same effect as at adept level, but the effect against corrupted creatures is increased to 1D10. Living allies now heal 1D6 points of Health each round.
 ## Notes
-* Originally "Holy Aura".
+* Originally "Holy Aura" from the Symbaroum Core Rulebook.

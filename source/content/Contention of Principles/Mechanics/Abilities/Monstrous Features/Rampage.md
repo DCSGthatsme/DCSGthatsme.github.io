@@ -7,4 +7,4 @@ II<br>Movement Action. As I, but deals 3 damage.
 
 III<br>Movement Action. As I, but deals 4 damage.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

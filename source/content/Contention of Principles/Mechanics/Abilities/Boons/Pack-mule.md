@@ -1,1 +1,4 @@
+## Effect
 The character is used to carrying heavy loads. The basis for calculating their [[Encumbrance Threshold]] is [[Might]] ×1.5, rounded down.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

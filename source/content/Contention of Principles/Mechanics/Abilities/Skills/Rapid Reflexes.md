@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Agility]] + [[Vigilance]] > 22
+Only available if [[Agility]] + [[Vigilance]] ≥ 23
 
 Novice<br>Reaction. In situations when the character suffers from an effect which may result in full or half damage, they suffer half damage instead of full and no damage instead of half. As an example, if hit by a [[Brimstone Cascade]] that normally deals 1D12 with a hit and 1D6 with a miss, this is transformed into 1D6 with a hit and no damage at all with a miss.
 

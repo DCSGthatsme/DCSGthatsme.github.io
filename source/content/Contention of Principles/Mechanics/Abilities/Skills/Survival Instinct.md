@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Agility]] + [[Resolve]] > 22
+Only available if [[Agility]] + [[Resolve]] ≥ 23
 
 The character has a powerful life-force and an equally powerful will to survive.
 
@@ -9,4 +9,4 @@ Adept<br>Reaction. The character trusts their instincts and has learned that rol
 
 Master<br>Free. There resides a powerful fighting spirit within the character, and that spirit can show itself when they are backed into a corner. The character may sacrifice a Movement Action once per scene to perform an extra Primary Action.
 ## Notes
-* Originally a [[Features|Feature]] (originally "Traits").
+* Originally a [[Feature]] (originally "Traits") from the Symbaroum Core Rulebook.

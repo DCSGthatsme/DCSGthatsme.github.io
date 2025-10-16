@@ -5,4 +5,4 @@ II<br>Passive. The walking corpse suffers only half damage from ordinary physica
 
 III<br>Passive. The walking corpse suffers only half damage from alchemical and mystical effects as well, but takes full damage from magical weapons and holy effects.
 ## Notes
-* Originally "Undead".
+* Originally "Undead" from the Symbaroum Core Rulebook.

@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Exactitude]] + [[Wit]] > 22
+Only available if [[Exactitude]] + [[Wit]] ≥ 23
 
 Trick archers are not many, since most people lack the patience for honing their skills to such an astounding degree. The character is one of few who have dedicated their lives to mastering the bow or the crossbow.
 

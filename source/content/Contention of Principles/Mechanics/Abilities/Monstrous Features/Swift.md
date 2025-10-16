@@ -7,4 +7,4 @@ II<br>Reaction. As I, but if the initial attack deals damage, the creature may i
 
 III<br>Reaction. When the creature performs an attack, it may also perform two free attacks against enemies within melee range, whether or not the first attack hits.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

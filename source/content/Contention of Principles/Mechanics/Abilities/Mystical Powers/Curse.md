@@ -10,3 +10,5 @@ Novice<br>Free. Once per round, the mystic's dark glare automatically gives an e
 Adept<br>Free. Like novice, but the enemy has a second chance to fail all their success tests regardless of target. The effect is ongoing until the mystic fails a Resolve test.
 
 Master<br>Active. The mystic puts a curse of death upon an enemy. The enemy suffers 1D6 damage, ignoring [[Toughness]], for all actions it tries to perform. The target suffers no damage if it remains still and passive. This effect is active until the mystic fails a Resolve test.
+## Notes
+* From the Symbaroum Core Rulebook.

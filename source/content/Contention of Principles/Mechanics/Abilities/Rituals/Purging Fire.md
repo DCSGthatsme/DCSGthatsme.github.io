@@ -4,3 +4,5 @@ This [[Abilities|Ability]] is a [[Rituals|Ritual]]. For a human character to acq
 Crux: [[Exaltation]]
 
 [[Corruption]] is dreadful to the exalting Sophist, since it represents the foremost proof of their weakness. Most exalting Sophists do their utmost to not be tainted by Corruption, and should they fail they can always learn the ritual [[Purging Fire]]. When performing the ritual, the mystic prepares themself with song and prayers before climbing onto a burning pyre to cleanse their body of Corruption. For each round the exalting mystic stands in the fire, they suffer 1D6 damage, and if a \[[[Resolve]] –Damage\] test is passed, one (1) point of permanent Corruption is removed. If the test fails, the mystic throws themself from the pyre and the ritual is interrupted. Performing the ritual costs one (1) point of [[Experience]], whether it is successful or not. The mystic cannot perform the ritual for someone else; only they who performs the ritual may benefit from the purifying effect.
+## Notes
+* From the Symbaroum Core Rulebook.

@@ -9,4 +9,4 @@ III<br>Free. Once per turn, the creature can roll a test against Resolve to summ
 
 `Intruder Manner Fiercely loyal Race Abomination Resistance Challenging Traits Armored (III), Natural Weapon (III) Accurate 15 (–5), Cunning 10 (0), Discreet 13 (–3), Persuasive 5 (+5), Agility 11 (–1), Resolute 7 (+3), Strong 9 (+1), Vigilant 10 (0) Abilities Natural Warrior (adept) Weapons Accurate Claws 6 (long), two attacks at the same target Armor Tough daemon hide 4 Defense –1 Health 10 Pain Threshold 5 Shadow Like a black shadow against a deep blue backdrop (thoroughly corrupt) Tactics: The daemon obeys its master with lust and frenzy`
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

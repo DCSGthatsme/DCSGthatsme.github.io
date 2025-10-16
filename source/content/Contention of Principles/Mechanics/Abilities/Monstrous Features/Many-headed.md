@@ -7,4 +7,4 @@ II<br>Passive. The creature has four limbs or heads and may act with them separa
 
 III<br>Passive. The creature has eight limbs or heads and may act with them separately; the creature has eight combat actions per turn. The features Armored and Robust count as two levels lower for the creature.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

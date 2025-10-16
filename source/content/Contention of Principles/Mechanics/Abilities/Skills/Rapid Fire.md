@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Agility]] + [[Might]] > 22
+Only available if [[Agility]] + [[Might]] ≥ 23
 
 Truly dedicated archers have techniques for rapid firing. If one can master the ability knock, aim, and fire in a single fluid motion, they can launch arrows one after another. This ability requires some kind of bow.
 

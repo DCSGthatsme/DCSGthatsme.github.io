@@ -7,4 +7,4 @@ II<br>Passive. As I, but the massive body of the creature makes it unable to per
 
 III<br>Passive. As II, with the addition that the enormous bulk of the creature cannot be harmed by ordinary weapons or projectiles. The creature can only be damaged by mystical weapons or powers.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

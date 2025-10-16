@@ -11,4 +11,4 @@ Adept<br>Active. As novice level, but the mystic can choose to exclude living al
 
 Master<br>Active. As adept, but the effect is increased to 1D8 and any nearby allied corrupted creatures heal 1D8 points of [[Health]] due to the spell's energies.
 ## Notes
-* Originally "Unholy Aura".
+* Originally "Unholy Aura" from the Symbaroum Core Rulebook.

@@ -1,1 +1,4 @@
+## Effect
 The character was born beneath a glowing celestial phenomenon or was the only one to survive a devastating fire. They have a mystical +1 [[Toughness]] against fire and has also a +1 bonus on all success tests related to the use of, or resistance to, fire and flames.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

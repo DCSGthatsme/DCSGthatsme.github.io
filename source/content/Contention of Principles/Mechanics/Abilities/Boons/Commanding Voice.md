@@ -1,3 +1,6 @@
-Repeatable
+## Effect
+[[Scalable]]
 
-The character has a well-tuned and loud voice, able to rise above the clamor of combat. This provides a +1 bonus to [[Charisma]] tests in situations when the character gives direct orders to allies. The boon Commanding Voice can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.
+The character has a well-tuned and loud voice, able to rise above the clamor of combat. This provides a +1 bonus to [[Charisma]] tests in situations when the character gives direct orders to allies.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

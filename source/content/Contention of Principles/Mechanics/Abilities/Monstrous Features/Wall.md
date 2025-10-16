@@ -7,4 +7,4 @@ II<br>Active. As I, but enemies that come close to the wall must pass a \[Agilit
 
 III<br>Free. As II, but the wall deals 5 damage. If it hits and if the target fails a \[Might←Might\] test, the target is also gripped until it passes a \[Might←Might\] test, or the wall is destroyed or moved. A gripped target is not attacked by the wall again until the moment when it succeeds in getting free.
 ## Notes
-* Originally "Root Wall" from the Monster Codex.
+* Originally "Root Wall" from the Symbaroum Monster Codex.

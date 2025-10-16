@@ -8,4 +8,4 @@ II<br>Reaction. As I, but two creatures are detached or manifested.
 
 III<br>Reaction. As I, but three creatures are detached or manifested.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

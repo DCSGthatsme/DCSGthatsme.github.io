@@ -7,4 +7,4 @@ II<br>Passive. The attack has a damage value of 5.
 
 III<br>Passive. The attack has a damage value of 6.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

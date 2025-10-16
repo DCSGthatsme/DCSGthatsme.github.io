@@ -8,3 +8,5 @@ Novice<br>Active. With a successful [[Resolve]] test, the mystic can take the fo
 Adept<br>Active. The mystic can assume the form of a battle beast (wild boar or wolf are most common). The beast form has the Attributes of the mystic but also gains the [[Armored]] (I) and [[Natural Weapon]] (I) [[Monstrous Features]].
 
 Master<br>Active. The mystic can now assume the form of a truly imposing battle beast, gaining the [[Regeneration]] (I) and [[Robust]] (I) Monstrous Features in addition to those gained at the adept level.
+## Notes
+* From the Symbaroum Core Rulebook.

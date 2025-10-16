@@ -1,1 +1,4 @@
+## Ability
 The character acts before thinking. This means that as soon as the player opens their mouth and says that the character does something, it does – and the player cannot have second thoughts. The only way to restrain the character is to sacrifice an [[Experience]] point or accept one (1) permanent [[Corruption]].
+## Notes
+* From the Symbaroum Advanced Player's Guide.

@@ -1,4 +1,7 @@
-> One who exalts the principles, magic, and the unknown regards power as zenith of being and takes pride in their influences.
+## Ability
+[[Feature]]
+
+> One who exalts the Principles, magic, and the unknown regards power as zenith of being and takes pride in their influences.
 
 Novice
 > The novice exalting mystic has a certain zeal, the will and vigor to exact their conceits.
@@ -14,3 +17,5 @@ Master
 > An effulgence shines from the master exalting mystic with the fervency of the sun; each gesture of theirs a sublime decree of unquestionable propriety.
 
 Special. The exalting mystic gains +1D4 in effect when using healing and lustrous powers, including when these damage corrupted targets. Adding to this, the exalting mystic suffers no permanent Corruption when learning powers at master level with a crux of Exaltation.
+## Notes
+* Originally "Theurgy" from the Symbaroum Core Rulebook.

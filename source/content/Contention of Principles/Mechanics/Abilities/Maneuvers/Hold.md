@@ -1,1 +1,4 @@
+## Ability
 Active<br>You attack with a wrestling maneuver aimed at stopping the target from moving. You must succeed a \[[[Might]]←Might\] test to grab onto the target and again each round if you wish to maintain the hold. If the test fails, the target gets to make a Free Attack. You cannot perform any other actions while maintaining the hold.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

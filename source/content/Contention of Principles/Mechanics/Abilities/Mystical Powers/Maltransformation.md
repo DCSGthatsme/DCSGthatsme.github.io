@@ -10,3 +10,5 @@ Novice<br>Active. With a successful roll against [[Resolve]] the mystic can turn
 Adept<br>Active. The mystic no longer has to concentrate to keep the Maltransformation active; it is ongoing until the mystic fails a \[Resolve←Resolve\] test.
 
 Master<br>Active. The mystic can trigger a Chain of Maltransformations. If the mystic succeeds in transforming one target, they may attempt to transform another one, and so on until a transformation attempt fails. The Maltransformation is ongoing until the mystic fails a Resolve test, made each round for each target.
+## Notes
+* From the Symbaroum Core Rulebook.

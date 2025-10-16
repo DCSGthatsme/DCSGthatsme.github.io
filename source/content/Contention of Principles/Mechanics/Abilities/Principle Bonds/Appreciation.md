@@ -1,4 +1,7 @@
-> One who appreciates principles, magic, and the unknown demonstrates cognizance and understanding of the true nature of things.
+## Ability
+[[Feature]]
+
+> One who appreciates Principles, magic, and the unknown demonstrates cognizance and understanding of the true nature of things.
 
 Novice
 > The novice appreciative mystic has a certain surreal wisdom, an esteem for existence and its many intricacies.
@@ -14,3 +17,5 @@ Master
 > The every action of the master appreciative mystic seems a note to an ode to the tapestry of creation; their deeds and experience demonstrate a profound clarity.
 
 Special. The appreciative mystic suffers no Corruption from learning powers with a crux of Appreciation at the master level.
+## Notes
+* Originally "Witchcraft" from the Symbaroum Core Rulebook.

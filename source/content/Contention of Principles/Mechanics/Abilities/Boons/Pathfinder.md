@@ -1,1 +1,4 @@
+## Effect
 The character has well-tuned senses for spotting and following tracks, both below ground and on the surface. They get a second chance to pass all [[Vigilance]] tests when trying to follow a trail or find the way to, or back from, a place.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

@@ -9,7 +9,6 @@ Novice<br>Special. With a passed [[Wit]] test, the character can make a novice i
 
 Adept<br>Special. With a passed Wit test, the character can make an adept item, featuring one quality besides Short or Long. All weapons and armor mentioned in the rules can be crafted by the adept, except items with mystical qualities and those that have more than one quality besides Short or Long. Note that the adept cannot remove negative qualities from items.
 
-Master`?`
-Special. With a passed Wit test, the character can make a master item. Master Blacksmiths have the capability to add several qualities to weapons and armor, and also to remove negative qualities. Adding to that, they may instill mystical qualities into all kinds of weapons and armor. For each added or removed quality, the list price of the item is cumulatively increased by ×5. Mystical qualities increase the value by ×10.
+Master<br>Special. `?` With a passed Wit test, the character can make a master item. Master Blacksmiths have the capability to add several qualities to weapons and armor, and also to remove negative qualities. Adding to that, they may instill mystical qualities into all kinds of weapons and armor. For each added or removed quality, the list price of the item is cumulatively increased by ×5. Mystical qualities increase the value by ×10.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

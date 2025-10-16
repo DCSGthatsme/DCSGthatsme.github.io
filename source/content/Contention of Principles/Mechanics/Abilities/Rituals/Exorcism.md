@@ -4,3 +4,5 @@ This [[Abilities|Ability]] is a [[Rituals|Ritual]]. For a human character to acq
 Crux: [[Exaltation]]
 
 The mystic can banish a spirit possessing a creature or person. The mystic gets three attempts to succeed with a \[[[Resolve]]←Resolve\] test; the test's resistance being the Resolve of the possessing spirit. It only takes one successful test to banish the possessing force. If all three tests should fail, the spirit possesses the mystic instead.
+## Notes
+* From the Symbaroum Core Rulebook.

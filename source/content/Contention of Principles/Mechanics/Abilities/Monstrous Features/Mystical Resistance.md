@@ -7,4 +7,4 @@ II<br>Passive. As I, but if the success test fails, the power is redirected towa
 
 III<br>Passive. As II, but the resilient creature has such control that it may choose which target the power is reflected towards.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

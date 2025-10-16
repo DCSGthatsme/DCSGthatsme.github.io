@@ -7,4 +7,4 @@ II<br>Active. As I, but the bite only needs to hit (not deal damage) for the tar
 
 III<br>Reaction. As II, but the attempt to swallow is made as part of the initial attack – if the bite hits, the test to avoid being devoured is rolled immediately, the same turn.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

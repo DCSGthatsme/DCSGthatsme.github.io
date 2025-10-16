@@ -7,4 +7,4 @@ II<br>Passive. As I, but if the victim fails the test, it can only perform react
 
 III<br>Passive. The target must pass a \[Might −5\] test. If the test is successful, the victim can only perform reactive actions for the next 1D4 turns, with two chances to fail; if the test fails, the victim is completely paralyzed for 1D8 turns.
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

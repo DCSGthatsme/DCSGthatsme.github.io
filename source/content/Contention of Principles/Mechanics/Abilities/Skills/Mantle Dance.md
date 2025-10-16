@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Exactitude]] + [[Subtlety]] > 22
+Only available if [[Exactitude]] + [[Subtlety]] ≥ 23
 
 Among fencers, a parrying dagger is regarded as a more reasonable tool for defense than a shield. The character may use their free hand along with a mantle or similar sheet of cloth for defense. When used by the character, the sheet becomes a sweeping and hypnotic shield that can confuse or temporarily blind the opponent.
 

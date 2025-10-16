@@ -33,5 +33,15 @@
       ],
       "key": "S"
     }
+  ],
+  "global-search-and-replace:search-and-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }

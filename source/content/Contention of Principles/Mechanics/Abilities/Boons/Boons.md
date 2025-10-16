@@ -1,71 +1,69 @@
-Boons are [[Abilities]] which cost 5XP. Boons marked with a `+` may be purchased more than once. Boons marked with a `*` are [[Features]].
+Boons are minor [[Abilities]] which cost 5XP.
 ## [[Absolute Memory]]*
-![[Absolute Memory]]
-## [[Archivist]]+
-![[Archivist]]
+![[Absolute Memory#Effect]]
 ## [[Augur]]+
-![[Augur]]
+![[Augur#Effect]]
 ## [[Bloodhound]]+
-![[Bloodhound]]
+![[Bloodhound#Effect]]
 ## [[Bushcraft]]
-![[Bushcraft]]
+![[Bushcraft#Effect]]
 ## [[Cartographer]]+
-![[Cartographer]]
+![[Cartographer#Effect]]
 ## [[Cat Burglar]]+
-![[Cat Burglar]]
+![[Cat Burglar#Effect]]
 ## [[Cheat]]+
-![[Cheat]]
+![[Cheat#Effect]]
 ## [[Commanding Voice]]+
-![[Commanding Voice]]
+![[Commanding Voice#Effect]]
 ## [[Con Artist]]+
-![[Con Artist]]
+![[Con Artist#Effect]]
 ## [[Connections]]*
 ![[Connections#Effect]]
 ## [[Dexterous]]+
-![[Dexterous]]
+![[Dexterous#Effect]]
 ## [[Doyen]]*
 ![[Doyen#Effect]]
 ## [[Enduring March]]
-![[Enduring March]]
+![[Enduring March#Effect]]
 ## [[Enterprise]]*
-![[Enterprise]]
+![[Enterprise#Effect]]
 ## [[Escape Artist]]
-![[Escape Artist]]
+![[Escape Artist#Effect]]
 ## [[Fire Forged]]
-![[Fire Forged]]
+![[Fire Forged#Effect]]
 ## [[Forbidden Knowledge]]
-![[Forbidden Knowledge]]
+![[Forbidden Knowledge#Effect]]
 ## [[Gambler]]+
-![[Gambler]]
+![[Gambler#Effect]]
 ## [[Green Thumb]]+
-![[Green Thumb]]
+![[Green Thumb#Effect]]
 ## [[Heirloom]]*
-![[Heirloom]]
+![[Heirloom#Effect]]
 ## [[Horrifying]]+
-![[Horrifying]]
+![[Horrifying#Effect]]
 ## [[Impressionist]]+
-![[Impressionist]]
+![[Impressionist#Effect]]
 ## [[Loremaster]]+
 ![[Loremaster#Effect]]
 ## [[Manipulator]]+
-![[Manipulator]]
+![[Manipulator#Effect]]
 ## [[Musician]]+
-![[Musician]]
+![[Musician#Effect]]
 ## [[Pathfinder]]
-![[Pathfinder]]
+![[Pathfinder#Effect]]
 ## [[Pack-mule]]
-![[Pack-mule]]
+![[Pack-mule#Effect]]
 ## [[Pet]]*
-![[Pet]]
+![[Pet#Effect]]
 ## [[Poison Resilient]]
-![[Poison Resilient]]
+![[Poison Resilient#Effect]]
 ## [[Servant]]*
-![[Servant]]
+![[Servant#Effect]]
 ## [[Shadow Spawn]]+
-![[Shadow Spawn]]
+![[Shadow Spawn#Effect]]
 ## [[Storyteller]]+
-![[Storyteller]]
+![[Storyteller#Effect]]
 ## [[Telltale]]+
-![[Telltale]]
+![[Telltale#Effect]]
 ## [[Tough]]
-![[Tough]]
+![[Tough#Effect]]

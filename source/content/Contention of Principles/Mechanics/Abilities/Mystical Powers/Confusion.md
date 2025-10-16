@@ -10,3 +10,5 @@ Novice<br>Active. The mystic can confuse an enemy with a successful \[[[Resolve]
 Adept<br>Active. The mystic can confuse an enemy without having to concentrate. The Confusion is ongoing until the mystic fails a \[Resolve←Resolve\] test. A new test must be made each round.
 
 Master<br>Active. The mystic creates a Chain of Confusion. If the mystic manages to confuse a target with a \[Resolve←Resolve\] test, then it may continue with another target and so on, until the mystic fails a test. Resolve is then tested each round for each target to decide which of them remain confused.
+## Notes
+* From the Symbaroum Core Rulebook.

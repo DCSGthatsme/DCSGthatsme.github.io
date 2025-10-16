@@ -1,4 +1,4 @@
 ## Ability
 The physical or supernatural senses of the creature give it a perfect view in all directions. This means that the creature cannot be flanked, or rather that those flanking it do not gain Advantage against the creature.
 ## Notes
-* Originally "Observant" from the Monster Codex.
+* Originally "Observant" from the Symbaroum Monster Codex.

@@ -10,3 +10,5 @@ Novice<br>Active. By making a successful roll against \[[[Resolve]]←Resolve\] 
 Adept<br>Active. The mystic can disperse ongoing effects on a Chain of creatures; tests are made for one target at a time, until one test fails.
 
 Master<br>Active. By making a successful Resolve test the mystic is now powerful enough to dispel all currently ongoing mystical effects, including summoned effects and creatures.
+## Notes
+* From the Symbaroum Core Rulebook.

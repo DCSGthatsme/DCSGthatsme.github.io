@@ -1,1 +1,4 @@
+## Ability
 The character has adopted a very strict code of honor, applicable in all situations but especially burdensome in combat. The effect of the code is that the player character never runs from a fight which has begun. Sure, sometimes combat can be avoided, but when the fight is on, all enemies must fall!
+## Notes
+* From the Symbaroum Advanced Player's Guide.

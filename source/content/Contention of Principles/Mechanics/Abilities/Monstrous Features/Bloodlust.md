@@ -7,4 +7,4 @@ II<br>Active. As I, but the bloodsucking creature also heals as much [[Health]] 
 
 III<br>Active. As II, but damage and healing is 3 per turn. Also, the victim itself cannot break the trance; someone else has to attack and damage the bloodsucker for the control to be lost, \[Resolve –Damage\].
 ## Notes
-* From the Monster Codex.
+* From the Symbaroum Monster Codex.

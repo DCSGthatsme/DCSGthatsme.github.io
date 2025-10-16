@@ -11,4 +11,4 @@ Adept<br>Active. As at the novice level, but the Toughness and the damage dealt 
 
 Master<br>Active. As at the novice level, but the Toughness and the damage dealt are 1D8. Two of the mystic's allies can be included in the effect of the ethereal shield.
 ## Notes
-* Originally "Blessed Shield".
+* Originally "Blessed Shield" from the Symbaroum Core Rulebook.

@@ -1,1 +1,4 @@
+## Effect
 By carefully exposing himself to toxins, the character has built up a remarkable resilience. Poisons affect the character at one tier lower than normal – a strong poison has the effect of a moderate dose; moderate becomes weak and a weak dose only inflicts 1 point of damage each round it is active. The time-frame is not affected, only the amount of damage per round. Regarding toxins that have other negative effects than damage, the character has instead a second chance on tests to resist them.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

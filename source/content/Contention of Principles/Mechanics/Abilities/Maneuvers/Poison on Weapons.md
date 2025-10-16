@@ -1,1 +1,4 @@
+## Ability
 Movement Action<br>With a passed [[Wit]] test, you may apply poison to your weapon. If the outcome of the d20 is 20, the test automatically fails; something goes wrong and you become poisoned. The poison is enough for one attack, then a new dose must be applied.
+## Notes
+* From the Symbaroum Advanced Player's Guide.

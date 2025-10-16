@@ -4,7 +4,7 @@ Some abilities are gained at character creation. Abilities are typically gained 
 	* [[Skills]] (observe [[Attributes|Attribute]] requirements)
 	* [[Mystical Powers]] (observe [[Sophistry]] and Attribute requirements)
 	* [[Rituals]] (observe Sophistry and Attribute requirements)
-	* [[Boons]] (observe [[Features|Feature]] limitations)
+	* [[Boons]] (observe [[Feature]] limitations)
 	* [[Burdens]] (observe Feature limitations)
 	* [[Principle Bonds]] (Feature)
 	* [[Maneuvers]]

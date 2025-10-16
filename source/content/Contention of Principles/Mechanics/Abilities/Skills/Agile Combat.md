@@ -1,5 +1,5 @@
 ## Ability
-Only available if [[Agility]] + [[Exactitude]] > 22
+Only available if [[Agility]] + [[Exactitude]] ≥ 23
 
 During combat in wooded areas and hilly terrain the distance between opponents can shift rapidly. The character has developed techniques for quickly handling shifts between weapons, and at their most skilled among can dance through the battlefield, seamlessly alternating between melee and ranged weapons and using every hostile attack for making counter-strikes.
 
