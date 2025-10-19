@@ -75,8 +75,6 @@ Skills are a character's primary [[Abilities]]. A new Skill at Novice level cost
 ![[Rider#Ability]]
 ## [[Shield Fighter]]
 ![[Shield Fighter#Ability]]
-## [[Siege Expert]]
-![[Siege Expert#Ability]]
 ## [[Sixth Sense]]
 ![[Sixth Sense#Ability]]
 ## [[Staff Fighting]]

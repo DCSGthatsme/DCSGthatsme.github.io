@@ -1,11 +1,11 @@
 ## Ability
 Only available if [[Resolve]] + [[Wit]] ≥ 23
 
-Repudiation provides a singular resistance against [[Corruption]]. It also endows the mystic with the ability to use improvised [[Mystical Powers]], at a high cost in Corruption.
+Repudiation provides a singular resistance against [[Corruption]]. It also endows the Sophist with the ability to use improvised [[Mystical Powers]], at a high cost in Corruption.
 
-Novice<br>Special. Repudiation allows the mystic to choose a signature [[Abilities|Ability]] among the ones they know. Once per instance in which the mystic uses their signature Ability, they may take 1 temporary Corruption instead of 1D4 temporary Corruption. The mystic may instead choose to make [[Rituals]] their signature, in which case every Ritual benefits. The mystic may spend 5 [[Experience]] to change their signature.
+Novice<br>Special. Repudiation allows the Sophist to choose a signature [[Sophistry|Sophism]] among the ones they know. Once per instance in which the Sophist uses their signature Sophism, they may take 1 Temporary Corruption instead of 1D4 temporary Corruption. The Sophist may instead choose to make [[Rituals]] their signature, in which case every Ritual benefits. The Sophist may spend 5 [[Experience]] to change their signature.
 
-Adept<br>Passive. A character with the adept level in Repudiation uses [[Resolve]]+[[Health]] as the basis for their [[Corruption Limit]].
+Adept<br>Passive. The Sophist uses [[Resolve]]+[[Health]] as the basis for their [[Corruption Limit]].
 
 Master<br>Special. The master may cast ANY *novice* mystical power. When casting powers granted by this ability, the character takes 1D8 Temporary Corruption and must succeed each success test necessitated by the power a second time.
 ## Notes
