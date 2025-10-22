@@ -90,7 +90,9 @@
 	<button type="button" id="addFactionBtn" class="miscCtrlButton">+</button>
   <h1>End of Round</h1>
   <center><textarea id="roundEnd"></textarea></center>
-  <script type="text/javascript" src="https://raw.githack.com/insomnious0x01/ntc-js/refs/heads/master/ntc.js"></script>
+  <!--<script type="text/javascript" src="https://raw.githack.com/insomnious0x01/ntc-js/refs/heads/master/ntc.js"></script>-->
+  <script src="colors.js"></script>
+  <script src="nearest color name.js"></script>
   <script>
     const addActorBtn = document.getElementById('addActorBtn');
     const addFactionBtn = document.getElementById('addFactionBtn');
@@ -267,14 +269,16 @@
 			tr.style.backgroundColor = color;
 			inpColor.addEventListener('change', () => {
 				tr.style.backgroundColor = inpColor.value;
-				colorNameSpan.textContent = ntc.name(inpColor.value)[1];
+				//colorNameSpan.textContent = ntc.name(inpColor.value)[1];
+				colorNameSpan.textContent = findNearestColor(inpColor.value);
 				updateSelects();
 			});
 			inpColor.className = 'miscCtrlButton';
 			
 			const colorNameSpan = document.createElement('span');
 			colorNameSpan.style.marginLeft = '1em';
-			colorNameSpan.textContent = ntc.name(color)[1];
+			//colorNameSpan.textContent = ntc.name(color)[1];
+			colorNameSpan.textContent = findNearestColor(color);
 			
 			tdColor.appendChild(inpColor);
 			tdColor.appendChild(colorNameSpan);
