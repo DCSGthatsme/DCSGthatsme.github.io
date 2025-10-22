@@ -9,7 +9,7 @@
     body {
       padding: 20px;
     }
-    span, input, label, textarea {
+    span, output, input, label, textarea {
       font-family: "Roboto Slab", sans-serif;
     }
     /* .modifier, h1, tr, button, .derived-box-value+input, #Name { */
@@ -199,31 +199,31 @@
 			</div>
 			<div class="box">
 			  <label>Total Corruption</label>
-			  <span class="derived-box-value" id="totalCorruption"></span>
+			  <output class="derived-box-value" id="totalCorruption"></output>
 			  <input type="text" id="totalCorruptionFormula" style="display:none">
 			</div>
 		  </div>
 		  <div class="derived-row">
 			<div class="box">
-			  <label>Corruption Tolerance</label>
-			  <span class="derived-box-value" id="corruptionTolerance"></span>
+			  <label for="corruptionToleranceFormula">Corruption Tolerance</label>
+			  <output for="corruptionToleranceFormula" class="derived-box-value" id="corruptionTolerance" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="corruptionToleranceFormula">
 			</div>
 			<div class="box">
-			  <label>Corruption Limit</label>
-			  <span class="derived-box-value" id="corruptionLimit"></span>
+			  <label for="corruptionLimitFormula">Corruption Limit</label>
+			  <output for="corruptionLimitFormula" class="derived-box-value" id="corruptionLimit" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="corruptionLimitFormula">
 			</div>
 		  </div>
 		  <div class="derived-row">
 			<div class="box">
-			  <label>Pain Tolerance</label>
-			  <span class="derived-box-value" id="painTolerance"></span>
+			  <label for="painToleranceFormula">Pain Tolerance</label>
+			  <output for="painToleranceFormula" class="derived-box-value" id="painTolerance" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="painToleranceFormula">
 			</div>
 			<div class="box">
-			  <label>Maximum Health</label>
-			  <span class="derived-box-value" id="maxHealth"></span>
+			  <label for="maxHealthFormula">Maximum Health</label>
+			  <output for="maxHealthFormula" class="derived-box-value" id="maxHealth" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="maxHealthFormula">
 			</div>
 			<div class="box">
@@ -233,13 +233,13 @@
 		  </div>
 		  <div class="derived-row">
 			<div class="box">
-			  <label>Defense</label>
-			  <span class="derived-box-value" id="defense"></span>
+			  <label for="defenseFormula">Defense</label>
+			  <output for="defenseFormula" class="derived-box-value" id="defense" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="defenseFormula">
 			</div>
 			<div class="box">
-			  <label>Impedance</label>
-			  <span class="derived-box-value" id="impedance"></span>
+			  <label for="impedanceFormula">Impedance</label>
+			  <output for="impedanceFormula" class="derived-box-value" id="impedance" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="impedanceFormula">
 			</div>
 			<div class="box">
@@ -249,18 +249,18 @@
 		  </div>
 		  <div class="derived-row">
 			<div class="box">
-			  <label>Encumbrance Threshold</label>
-			  <span class="derived-box-value" id="encumbrThres"></span>
+			  <label for="encumbrThresFormula">Encumbrance Threshold</label>
+			  <output for="encumbrThresFormula" class="derived-box-value" id="encumbrThres" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="encumbrThresFormula">
 			</div>
 			<div class="box">
-			  <label>Carrying Limit</label>
-			  <span class="derived-box-value" id="encumbrLim"></span>
+			  <label for="encumbrLimFormula">Carrying Limit</label>
+			  <output for="encumbrLimFormula" class="derived-box-value" id="encumbrLim" onclick="document.getElementById(this.getAttribute('for')).select()"></output>
 			  <input type="text" id="encumbrLimFormula">
 			</div>
 			<div class="box">
-			  <label for="encumbrance">Encumbrance</label>
-			  <span class="derived-box-value" id="encumbrance"></span>
+			  <label>Encumbrance</label>
+			  <output class="derived-box-value" id="encumbrance"></output>
 			  <input type="text" id="encumbranceFormula" style="display:none"/>
 			</div>
 		  </div>

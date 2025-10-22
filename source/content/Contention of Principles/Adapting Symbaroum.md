@@ -301,7 +301,7 @@ Now referred to as [[Skills]] to be a distinct "other" Ability category.
 | [[Storyteller]]         |                                      |
 | [[Telltale]]            |                                      |
 | [[Tough]]               |                                      |
-### Burdens
+## Burdens
 
 | Burden            | Fate  |
 | ----------------- | ----- |
@@ -320,7 +320,7 @@ Now referred to as [[Skills]] to be a distinct "other" Ability category.
 | [[Sickly]]        |       |
 | [[Slow]]          |       |
 | [[Wanted]]        |       |
-### Weapons
+## Weapons
 
 | Weapon                                      | Fate                 |
 | ------------------------------------------- | -------------------- |
@@ -342,7 +342,7 @@ Now referred to as [[Skills]] to be a distinct "other" Ability category.
 | [[Buckler]]                                 |                      |
 | [[Steel Shield]]                            |                      |
 | [[Parrying Dagger]]                         |                      |
-| [[Stiletto]]                                |                      |
+| Stiletto                                    | [[Karambit]]         |
 | Spear Sling                                 | *Cut*                |
 | Battle Claw                                 | [[Cestus]]           |
 | Alchemical Firetube, Portable               | *Cut*                |
@@ -380,7 +380,7 @@ Now referred to as [[Skills]] to be a distinct "other" Ability category.
 | Throwing Wing                               | *Cut*                |
 | Trebuchet                                   | *Cut*                |
 | [[Warhammer]]                               |                      |
-### Armor
+## Armor
 
 | Armor                                          | Fate                 |
 | ---------------------------------------------- | -------------------- |
@@ -389,7 +389,8 @@ Now referred to as [[Skills]] to be a distinct "other" Ability category.
 | Crow Armor                                     | [[Scale Armor]]      |
 | Lacquered Silk Cuirass                         | [[Leather Armor]]    |
 | Full Plate                                     | [[Full Plate Armor]] |
-### Alchemical Elixirs
+## Alchemical Elixirs
+Now [[Alchemical Substances]]
 
 | Elixir                   | Fate                                    |
 | ------------------------ | --------------------------------------- |
@@ -426,7 +427,8 @@ Now referred to as [[Skills]] to be a distinct "other" Ability category.
 | Twilight Tincture        | *Cut*                                   |
 | [[War Paint]]            |                                         |
 | [[Wild Chew]]            |                                         |
-### Lesser Artifacts
+## Lesser Artifacts
+Now [[Artifacts]]
 
 | Artifact                  | Fate                 |
 | ------------------------- | -------------------- |
