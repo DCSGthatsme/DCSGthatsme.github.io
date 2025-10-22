@@ -271,7 +271,7 @@
 	  <h1>Effects</h1>
 	  <table id="effectsTable" class="listTable">
 		<thead>
-		  <tr><th>Source</th><th>Effect</th><th></th></tr>
+		  <tr><th>Source</th><th>Effect</th><th>Notes</th><th></th></tr>
 		</thead>
 		<tbody><!-- dynamically created rows --></tbody>
 	  </table>
@@ -777,7 +777,7 @@
 		autoHeight(txtVal);
     }
 	
-	function createEffectRow(source = '', modifies = '', bonus = 0, condition) {
+	function createEffectRow(source = '', modifies = '', bonus = 0, condition, notes = '') {
 		const tr = document.createElement('tr');
 		
 		const tdSource = document.createElement('td');
@@ -827,6 +827,13 @@
 				selectCond.addEventListener('change', updateAll);
 			}
 
+		const tdNote = document.createElement('td');
+			const txtVal = document.createElement('textarea');
+			txtVal.className = 'notesText';
+			txtVal.addEventListener('input', (event) => autoHeight(event.target));
+			txtVal.textContent = notes;
+			tdNote.appendChild(txtVal);
+
 		const tdCtrl = document.createElement('td');
 			const delBtn = document.createElement('button');
 			delBtn.type = 'button';
@@ -839,7 +846,7 @@
 			});
 			tdCtrl.appendChild(delBtn);
 
-		tr.append(tdSource, tdEffect, tdCtrl);
+		tr.append(tdSource, tdEffect, tdNote, tdCtrl);
 		effectsTbody.appendChild(tr);
 		return tr;
 		
@@ -870,7 +877,7 @@
 		if(Array.isArray(i.Effects)){
 			const effDataSet = new Set([]);
 			i.Effects.forEach(eff => {
-			  effDataSet.add(createEffectRow(itemElem, eff.Modifies, eff.Bonus, eff.Condition||'While equipped'));
+			  effDataSet.add(createEffectRow(itemElem, eff.Modifies, eff.Bonus, eff.Condition||'While equipped', eff.Notes||''));
 			});
 			itemEffects.set(itemElem, effDataSet);
 		}
@@ -884,7 +891,7 @@
 
 	  // manual effects
 	  
-	  if(Array.isArray(obj.Effects)) obj.Effects.forEach(eff => createEffectRow(eff.Name, eff.Modifies, eff.Bonus));
+	  if(Array.isArray(obj.Effects)) obj.Effects.forEach(eff => createEffectRow(eff.Name, eff.Modifies, eff.Bonus, eff.Condition||'', eff.Notes||''));
 
       updateAll();
     }
@@ -919,8 +926,9 @@
 		if (itemEffects.has(tr)) {
 			const itemEffectArray = [];
 			itemEffects.get(tr).forEach(effElem =>{
-				const [modifiesEl, bonusEl, conditionEl] = effElem.querySelectorAll('input,select');
+				const [modifiesEl, bonusEl, conditionEl, effNoteEl] = effElem.querySelectorAll('input,select,textarea');
 				const effObj = {Modifies: modifiesEl.value, Bonus: Number(bonusEl.value)}
+				if (effNoteEl.value.trim()) effObj.Notes = effNoteEl.value.trim();
 				if (conditionEl.value != 'While equipped') effObj.Condition = conditionEl.value;
 				itemEffectArray.push(effObj);
 			});
@@ -946,8 +954,11 @@
 	  // manual Effects
 	  const manualEffectsArray = [];
 	  effectsTbody.querySelectorAll('tr:has(td:first-child input)').forEach(tr =>{
-        const [sourceEl, modifiesEl, bonusEl] = tr.querySelectorAll('input,select');
-		manualEffectsArray.push({Name: sourceEl.value, Modifies: modifiesEl.value, Bonus: Number(bonusEl.value)});
+        const [sourceEl, modifiesEl, bonusEl, noteEl] = tr.querySelectorAll('input,select, textarea');
+		effObj = {Name: sourceEl.value, Modifies: modifiesEl.value, Bonus: Number(bonusEl.value)};
+        if (noteEl.value.trim()) effObj.Notes = noteEl.value.trim();
+		manualEffectsArray.push(effObj);
+		
 	  });
 	  if (manualEffectsArray.length != 0) cfg.Effects = manualEffectsArray;
 	  

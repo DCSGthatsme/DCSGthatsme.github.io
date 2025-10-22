@@ -8,4 +8,4 @@ The distance categories modify damage and the chance to hit, and correspond to t
 | Long              | -2 on attack test                                                                                                 | 50 meters        | 5                   |
 | Extreme           | -5 on attack test                                                                                                 | 100 meters       | 10                  |
 ## Fall Damage
-A character that falls from a high altitude may suffers damage: 1D6 per Movement Action's distance. A successful \[[[Agility]]\] roll allows the character to land better, or even manage to break the fall. They gain 5 [[Toughness]] for the fall. Water or other soft surfaces provide some cushioning effect as well, granting 5 Toughness as well.
+A character that falls from a high place may suffer damage: 1D6 for every Movement Action's distance fallen. A successful \[[[Agility]]\] roll allows the character to land better, or even manage to break the fall. They gain 5 [[Toughness]] for the fall. Water or other soft surfaces provide some cushioning effect as well, granting 5 Toughness as well.

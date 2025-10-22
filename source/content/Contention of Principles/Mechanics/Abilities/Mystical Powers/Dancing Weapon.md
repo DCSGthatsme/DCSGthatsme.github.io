@@ -7,7 +7,7 @@ By willpower alone, the mystic makes a weapon soar and fight, with the speed and
 
 Novice<br>Active. The mystic lets a weapon dance and uses [[Resolve]] instead of both [[Exactitude]] (attack) and [[Agility]] (defense). Other than that, normal combat rules apply. The novice must focus on the weapon while fighting, which prevents them from using other abilities while the weapon dances.
 
-Adept<br>Active. The mystic must take control of the weapon by spending a combat action to activate the power, but then the weapon fights on its own while the mystic is free to use other abilities. Both attack and defense rolls are made against Resolve.
+Adept<br>Active. The mystic must take control of the weapon by spending a Primary Action to activate the power, but then the weapon fights on its own while the mystic is free to use other abilities. Both attack and defense rolls are made against Resolve.
 
 Master<br>Free. The weapon dances out of the scabbard when the master needs it, attacks once per round and defends the character by itself, leaving the mystic free to use other powers and abilities. Both attack and defense rolls are made against Resolve.
 ## Notes

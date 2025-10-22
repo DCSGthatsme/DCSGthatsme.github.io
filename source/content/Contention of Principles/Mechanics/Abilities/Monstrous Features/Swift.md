@@ -1,7 +1,7 @@
 ## Ability
-The creature is lightning fast, and can do extra attacks as part of its combat action. The initial attack may be an attack in melee, at range or with mystical powers, but the extra attacks cannot involve active abilities.
+The creature is lightning fast, and can do extra attacks as part of its Primary Action. The initial attack may be an attack in melee, at range or with mystical powers, but the extra attacks cannot involve active abilities.
 
-I<br>Reaction. When the creature hits with a combat action, it may immediately perform a free attack against an enemy within melee range, whether or not the first attack dealt any damage.
+I<br>Reaction. When the creature hits with a Primary Action, it may immediately perform a free attack against an enemy within melee range, whether or not the first attack dealt any damage.
 
 II<br>Reaction. As I, but if the initial attack deals damage, the creature may immediately perform two free attacks against enemies within melee range.
 

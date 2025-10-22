@@ -4,7 +4,7 @@ When the creature dies, its accumulated wrath is unleashed in attacks against th
 I
 Reaction. The creature's death struggle lets it perform a free attack against an enemy within melee range, as a reaction to the attack that killed it.
 
-II<br>Reaction. As I, but the attack is any normal combat action.
+II<br>Reaction. As I, but the attack is any normal Primary Action.
 
 III<br>Reaction. As II, but the creature may attack up to five enemies that it can reach without moving.
 ## Notes

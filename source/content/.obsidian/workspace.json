@@ -10,6 +10,7 @@
           {
             "id": "a99db1214196b0da",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,23 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Adapting Symbaroum"
             }
+          },
+          {
+            "id": "2a277ae747323d6c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principle bonds",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,33 +206,33 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "a99db1214196b0da",
+  "active": "77b1fffaad4a607b",
   "lastOpenFiles": [
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Principle Bonds.md",
     "Contention of Principles/Adapting Symbaroum.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Fear.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Exaltation.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Captivation.md",
-    "Contention of Principles/Mechanics/Abilities/Principle Bonds/Appreciation.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Denigrating Bonds.md",
-    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Monstrous Features.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Ethereal Shield.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Skills.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Repudiation.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Weapons.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Warhammer.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Bastard Sword.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Totokia.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Precise.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Flame Pact.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Siege Expert.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Mystical Focus.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Thorn Beasties.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Puck.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Bat's Diligence.md",
-    "Contention of Principles/Mechanics/Items/Armor/Armor.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Alchemical Substances.md"
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Swift.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Storm Arrow.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Rapid Fire.md",
+    "Contention of Principles/Mechanics/Miscellaneous Mechanics.md",
+    "Contention of Principles/Mechanics/Items/Traps/Mechanical Trap.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Knife Connoisseur.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Ensnaring.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Death Throe.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Dancing Weapon.md",
+    "Contention of Principles/Mechanics/Items/Weapons/Bolas.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Agile Combat.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Area Effect.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Wings.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Wall.md",
+    "Contention of Principles/Mechanics/Items/Qualities/Unwieldy.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Tunneler.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Trick Archery.md",
+    "Contention of Principles/Mechanics/Items/Traps/Traps.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mind-throw.md",
+    "Contention of Principles/Mechanics/Distance.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Marksman.md",
+    "Contention of Principles/Mechanics/Abilities/Monstrous Features/Manifestation.md",
+    "Contention of Principles/Mechanics/Abilities/Maneuvers/Take the Initiative.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Hunter's Instinct.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Buffeting Haven.md"
   ]
 }

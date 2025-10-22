@@ -1,7 +1,7 @@
 ## Ability
 The creature is equipped with wings of some kind and has a more or less developed ability to fly.
 
-I<br>Passive. The creature can fly during its Movement Action, and therefore avoid Free Attacks when passing over an enemy.
+I<br>Passive. The creature can fly during its movement, and therefore avoid Free Attacks when passing over an enemy.
 
 II<br>Passive. The creature can hover, meaning it can stand still in midair, out of reach from any melee attacks. To hover does not count as an Action.
 

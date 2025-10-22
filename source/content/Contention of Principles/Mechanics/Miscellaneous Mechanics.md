@@ -13,19 +13,19 @@ Disengage From Melee Combat
 Disengaging from a melee combat is done on the character's Initiative and costs a Movement Action. The enemy is allowed a Free Attack against the character. This also applies to situations when the character is facing multiple opponents, in which case each opponent is allowed a Free Attack against the character when they choose to disengage.
 
 Use/Apply Alchemical Substances
-To use or apply an Alchemical Substance on either yourself or your equipment counts as a Movement Action. To use or apply it on somebody else counts as a Combat Action.
+To use or apply an Alchemical Substance on either yourself or your equipment counts as a Movement Action. To use or apply it on somebody else counts as a Primary Action.
 
 First Aid
-To perform first aid on a wounded person counts as a Combat Action and requires a herbal cure, the Medicus ability or other healing powers. The effect of first aid is described in Damage & Healing.
+To perform first aid on a wounded person counts as a Primary Action and requires a herbal cure, the Medicus ability or other healing powers. The effect of first aid is described in Damage & Healing.
 
 Stand
-Fighting while lying down is possible, but not recommended, because each enemy that has engaged the character in close combat gets an [[Advantage]] against a prone character. See rules for Advantage below. If the character makes a successful test against Agility it only takes a Movement Action for the character to get back on their feet. Otherwise, it takes an entire turn, meaning that the character cannot perform a Combat Action while getting up.
+Fighting while lying down is possible, but not recommended, because each enemy that has engaged the character in close combat gets an [[Advantage]] against a prone character. See rules for Advantage below. If the character makes a successful test against Agility it only takes a Movement Action for the character to get back on their feet. Otherwise, it takes an entire turn, meaning that the character cannot perform a Primary Action while getting up.
 
 Line of Sight
 Ranged weapons cannot shoot past other combat- ants, meaning that the shooter (or the mystic) may need to use Movement Actions to maneuver for them to have line of sight. A rule of thumb is that if a shooter or a mystic stands behind an ally so that the targeted enemy is forced to trigger a Free Attack to reach the shooter, then the target is obscured from view by the shooter's ally.
 
 Flank
-To surround the enemy is an effective combat strategy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of their allies retreats or goes down. Terrain and the movement of the combatant decide what is possible to achieve. Doors, corridors and narrow passages can be used to prevent enemies from flanking. Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade their Combat Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee.
+To surround the enemy is an effective combat strategy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of their allies retreats or goes down. Terrain and the movement of the combatant decide what is possible to achieve. Doors, corridors and narrow passages can be used to prevent enemies from flanking. Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade their Primary Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee.
 
 Surprised
 To sneak up on an enemy or prepare an ambush is an active Action and requires a successful \[Subtlety←Vigilance\] test. Attacking an enemy that is unaware of the incoming attack allows the attacker to make a Free Attack in the first turn of combat. Then the combat follows the usual turn order, based on the combatants' Agility.

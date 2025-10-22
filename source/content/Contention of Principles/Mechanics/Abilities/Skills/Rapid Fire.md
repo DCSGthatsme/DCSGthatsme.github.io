@@ -7,6 +7,6 @@ Novice<br>Active. The character can spend their Movement Action to fire a second
 
 Adept<br>Active. The character may fire two arrows with a single Primary Action, at one or two different targets.
 
-Master<br>Active. The character fires three arrows with a single combat action, at one or two different targets.
+Master<br>Active. The character fires three arrows with a single Primary Action, at one or two different targets.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

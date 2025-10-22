@@ -5,6 +5,6 @@ I<br>Passive. The creature can move at half speed below ground, and hence avoid 
 
 II<br>Passive. The creature moves below ground at normal speed and with such agility that it can make part of its movement before and the rest after an attack. That way, the creature can appear to make an attack and then disappear, out of range from counter attacks. The only way to avoid the attacks of the tunneler is to sneak, \[Subtlety←Vigilance\], or move up on solid rock, a building or a tree.
 
-III<br>Active. The creature can undermine a small area in order to create a sinkhole under an enemy group's feet. Up to five individuals standing next to each other can be caught by the trap; those who fail a test against Agility fall into the pit where the tunneler gets a free attack against each and every one of them. To get out of the hole requires a successful Agility test and a movement action; targets with the Acrobatics ability get a second chance to succeed.
+III<br>Active. The creature can undermine a small area in order to create a sinkhole under an enemy group's feet. Up to five individuals standing next to each other can be caught by the trap; those who fail a test against Agility fall into the pit where the tunneler gets a free attack against each and every one of them. To get out of the hole requires a successful Agility test and a Movement Action; targets with the Acrobatics ability get a second chance to succeed.
 ## Notes
 * From the Symbaroum Monster Codex.
