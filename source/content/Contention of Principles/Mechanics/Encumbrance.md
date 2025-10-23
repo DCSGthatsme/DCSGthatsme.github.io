@@ -8,4 +8,4 @@ There are limits to how much a character can carry. Each item incurs +1 Encumbra
 
 If the character bears an Encumbrance greater than their [[Encumbrance Threshold]], they get +1 [[Impedance]] *for each Encumbrance above their Encumbrance Threshold*.
 
-If a character bears an Encumbrance greater than their [[Carrying Limit]], they cannot move more than short distances at a time. They are forced to suffer the detriments of a Hasty March during a Cautious March and cannot partake in a Hasty March. Furthermore, the heavy load gives a -1 detriment to the [[Might]] roll for a Hasty March to see if they take an extra 1d6 damage *for each Encumbrance above their Carrying Limit*.
+If a character bears an Encumbrance greater than their [[Carrying Limit]], they cannot move more than short distances at a time. They are forced to suffer the detriments of a Hasty March during a Cautious March and cannot partake in a Hasty March. Furthermore, the heavy load gives a -1 detriment to the [[Might]] roll for a Hasty March to see if they take an extra 1D6 damage *for each Encumbrance above their Carrying Limit*.

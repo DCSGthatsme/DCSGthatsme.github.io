@@ -1,7 +1,7 @@
 ## [[Attributes]]
 Attributes represent a character's basic aptitudes. The main attributes are Agility, Charisma, Exactitude, Resolve, Might, Subtlety, Vigilance, and Wit. Other attributes are derived from the main attributes.
 
-Used in a "success test". The test is successful if 1d20 ≤ (tester's attribute score + modifier).
+Used in a "success test". The test is successful if 1D20 ≤ (tester's attribute score + modifier).
 
 Difficulty Modifier: +5 (very easy) to -5 (very hard)
 Opposition Modifier: Based on the relevant attribute score of the opposition. Calculated: 10 - the opposition's attribute score.

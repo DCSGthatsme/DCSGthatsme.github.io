@@ -1,3 +1,3 @@
-[[Single-handed]], [[Flexible]], [[Unwieldy]], [[Concealed]]<br>1d8 damage
+[[Single-handed]], [[Flexible]], [[Unwieldy]], [[Concealed]]<br>1D8 damage
 
 ![[Urumi.jpg|300]]

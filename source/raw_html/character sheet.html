@@ -899,6 +899,7 @@
     function saveToLocal() {
       const cfg = {};
       cfg.Name = document.getElementById('Name').value.trim();
+	  cfg["Saved On"] = (new Date()).toLocaleString('en-US', {timeZone: 'America/Los_Angeles'});
 
 	  // Attributes
       primaryAttributes.forEach(function(attrData,attr){

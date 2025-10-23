@@ -1,1 +1,1 @@
-+1d4 [[Toughness]]
++1D4 [[Toughness]]

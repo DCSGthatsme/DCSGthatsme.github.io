@@ -1,4 +1,4 @@
-[[Single-handed]], [[Short]]<br>1d6 damage, +1 Defense
+[[Single-handed]], [[Short]]<br>1D6 damage, +1 Defense
 
 The parrying dagger, with its wide quillons, is often wielded together with a [[Rapier]].
 

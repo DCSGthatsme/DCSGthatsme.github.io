@@ -1,5 +1,5 @@
 ## Effect
-[[Two-handed]], [[Flexible]]<br>1d10 damage
+[[Two-handed]], [[Flexible]]<br>1D10 damage
 
 The battle flail is a jointed weapon, where a metal ball – often spiked – attached to a two-handed shaft by a chain is swung against the enemy. It is not easy to parry a flail since the metal ball often strikes around the parrying weapon or shield to find its target.
  

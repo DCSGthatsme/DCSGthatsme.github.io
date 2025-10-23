@@ -1,5 +1,5 @@
 ## Effect
-[[Single-handed]], [[Short]]<br>1d6+1 damage
+[[Single-handed]], [[Short]]<br>1D6+1 damage
 
 ![[Karambit.jpg|300]]
 ## Notes

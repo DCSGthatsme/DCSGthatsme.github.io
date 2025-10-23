@@ -1,1 +1,1 @@
-+1d6 [[Toughness]]<br>[[Impedance]] (1)
++1D6 [[Toughness]]<br>[[Impedance]] (1)

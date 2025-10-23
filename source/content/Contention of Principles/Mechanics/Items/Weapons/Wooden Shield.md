@@ -1,1 +1,1 @@
-[[Single-handed]], [[Short]], [[Unarmed]]<br>1d4 damage, +1 Defense
+[[Single-handed]], [[Short]], [[Unarmed]]<br>1D4 damage, +1 Defense
