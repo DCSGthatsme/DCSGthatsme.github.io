@@ -24,7 +24,7 @@ Opposition Modifier: Based on the relevant attribute score of the opposition. Ca
 `[Atr1<-Atr2] read "tester's Atr1 score modified by opposition's Atr2 modifier"`
 `[Attribute-Difficulty] read "tester's Attribute score modified by -Difficulty"`
 
-Note that Attributes can be increased via the [[Abilities#Exceptional Attribute|Exceptional Attribute]] Ability.
+Note that Attributes can be increased via the [[Exceptional Attribute]] Ability.
 ## [[Abilities]]
 ![[Abilities]]
 ### [[Boons]] 

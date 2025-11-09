@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "Adapting Symbaroum"
             }
-          },
-          {
-            "id": "c42e2b7cb9dfa38a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -206,12 +195,20 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "c42e2b7cb9dfa38a",
+  "active": "a99db1214196b0da",
   "lastOpenFiles": [
-    "Contention of Principles/Adapting Symbaroum.md",
-    "Contention of Principles/Mechanics/Abilities/Boons/Enterprise.md",
-    "Contention of Principles/Mechanics/Abilities/Skills/Exceptional Attribute.md",
+    "Contention of Principles/Mechanics/Mechanics.md",
     "Contention of Principles/Mechanics/Attributes/Attributes.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mystical Powers.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Exceptional Attribute.md",
+    "Contention of Principles/Mechanics/Abilities/Abilities.md",
+    "Contention of Principles/Adapting Symbaroum.md",
+    "Contention of Principles/Mechanics/Abilities/Skills/Ensnare.md",
+    "Contention of Principles/Mechanics/Abilities/Rituals/Rituals.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Alchemy.md",
+    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Flame Anima.md",
+    "Contention of Principles/Mechanics/Attributes/Health.md",
+    "Contention of Principles/Mechanics/Abilities/Boons/Enterprise.md",
     "Contention of Principles/Mechanics/Items/Alchemical Substances/Worldly Egress.md",
     "Contention of Principles/Mechanics/Items/Weapons/Wooden Shield.md",
     "Contention of Principles/Mechanics/Items/Weapons/Warhammer.md",
@@ -225,14 +222,6 @@
     "Contention of Principles/Mechanics/Items/Weapons/Tether Arrow.md",
     "Contention of Principles/Mechanics/Items/Weapons/Stiletto.md",
     "Contention of Principles/Mechanics/Items/Weapons/Steel Shield.md",
-    "Contention of Principles/Mechanics/Items/Armor/Scale Armor.md",
-    "Contention of Principles/Mechanics/Items/Alchemical Substances/Sangfroid Salve.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Rapier.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Quarterstaff.md",
-    "Contention of Principles/Mechanics/Items/Qualities/Qualities.md",
-    "Contention of Principles/Mechanics/Abilities/Rituals/Quake.md",
-    "Contention of Principles/Mechanics/Items/Artifacts/Puck.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Pike.md",
-    "Contention of Principles/Mechanics/Items/Weapons/Parrying Dagger.md"
+    "Contention of Principles/Mechanics/Items/Armor/Scale Armor.md"
   ]
 }

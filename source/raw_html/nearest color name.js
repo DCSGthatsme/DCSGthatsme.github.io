@@ -11,7 +11,7 @@ function hexToRgb(hex) {
   ];
 }
 
-function rgbToXyz([r, g, b]) {
+function rgbToLab([r, g, b]) {
   r /= 255; g /= 255; b /= 255;
 
   r = r > 0.04045 ? Math.pow((r + 0.055) / 1.055, 2.4) : r / 12.92;
@@ -19,16 +19,12 @@ function rgbToXyz([r, g, b]) {
   b = b > 0.04045 ? Math.pow((b + 0.055) / 1.055, 2.4) : b / 12.92;
 
   r *= 100; g *= 100; b *= 100;
-  return [
-    r * 0.4124 + g * 0.3576 + b * 0.1805,
-    r * 0.2126 + g * 0.7152 + b * 0.0722,
-    r * 0.0193 + g * 0.1192 + b * 0.9505
-  ];
-}
+  
+  let x = r * 0.4124 + g * 0.3576 + b * 0.1805;
+  let y = r * 0.2126 + g * 0.7152 + b * 0.0722;
+  let z = r * 0.0193 + g * 0.1192 + b * 0.9505;
 
-function xyzToLab([x, y, z]) {
-  const refX = 95.047, refY = 100.0, refZ = 108.883;
-  x /= refX; y /= refY; z /= refZ;
+  x /= 95.047; y /= 100.0; z /= 108.883;
 
   const f = t => (t > 0.008856 ? Math.cbrt(t) : (7.787 * t) + (16 / 116));
 
@@ -39,10 +35,6 @@ function xyzToLab([x, y, z]) {
     500 * (fx - fy),   // a*
     200 * (fy - fz)    // b*
   ];
-}
-
-function rgbToLab(rgb) {
-  return xyzToLab(rgbToXyz(rgb));
 }
 
 // --- CIEDE2000 ΔE formula ---
