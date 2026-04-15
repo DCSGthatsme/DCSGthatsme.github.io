@@ -33,6 +33,7 @@ var RE_ANCHOR_DISPLAY = /(\[\[([^\]]+#[^\n\r\]]+)\]\])$/;
 var RE_DISPLAY = /\|([^\]]+)/;
 var DEFAULT_SETTINGS = {
   includeNoteName: "headersOnly",
+  titleProperty: "",
   whichHeadings: "allHeaders",
   includeNotice: false,
   sep: " ",
@@ -64,6 +65,10 @@ var AnchorDisplayText = class extends import_obsidian.Plugin {
           if (this.settings.ignoreEmbedded && match[0].charAt(0) === "!")
             return;
           const headings = match[1].split("#");
+          let notename = headings[0];
+          if (this.settings.titleProperty) {
+            notename = this.getTitleFromFile(notename);
+          }
           let displayText = "";
           if (this.settings.whichHeadings === "lastHeader") {
             displayText = headings[headings.length - 1];
@@ -77,9 +82,9 @@ var AnchorDisplayText = class extends import_obsidian.Plugin {
           }
           const startIndex = ((_a = match.index) != null ? _a : 0) + match[0].length - 2;
           if (this.settings.includeNoteName === "noteNameFirst") {
-            displayText = `${headings[0]}${this.settings.sep}${displayText}`;
+            displayText = `${notename}${this.settings.sep}${displayText}`;
           } else if (this.settings.includeNoteName === "noteNameLast") {
-            displayText = `${displayText}${this.settings.sep}${headings[0]}`;
+            displayText = `${displayText}${this.settings.sep}${notename}`;
           }
           if (displayText.startsWith("^")) {
             displayText = displayText.slice(1);
@@ -93,6 +98,23 @@ var AnchorDisplayText = class extends import_obsidian.Plugin {
     );
   }
   onunload() {
+  }
+  /**
+   * Get title property value from file's frontmatter
+   * @param filename - The filename to look up
+   * @returns The title property value if found, otherwise returns the original filename
+   */
+  getTitleFromFile(filename) {
+    if (this.settings.titleProperty) {
+      const file = this.app.metadataCache.getFirstLinkpathDest(filename, "");
+      if (file) {
+        const cache = this.app.metadataCache.getFileCache(file);
+        if (cache && cache.frontmatter && cache.frontmatter[this.settings.titleProperty]) {
+          return String(cache.frontmatter[this.settings.titleProperty]);
+        }
+      }
+    }
+    return filename;
   }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
@@ -141,6 +163,10 @@ var AnchorDisplaySuggest = class extends import_obsidian.EditorSuggest {
   }
   getSuggestions(context) {
     const headings = context.query.split("|")[0].split("#");
+    let notename = headings[0];
+    if (this.plugin.settings.titleProperty) {
+      notename = this.plugin.getTitleFromFile(notename);
+    }
     let displayText = headings[1];
     if (displayText.startsWith("^")) {
       displayText = displayText.slice(1);
@@ -153,11 +179,11 @@ var AnchorDisplaySuggest = class extends import_obsidian.EditorSuggest {
       source: "Don't include note name"
     };
     const suggestion2 = {
-      displayText: `${headings[0]}${this.plugin.settings.sep}${displayText}`,
+      displayText: `${notename}${this.plugin.settings.sep}${displayText}`,
       source: "Note name and than heading(s)"
     };
     const suggestion3 = {
-      displayText: `${displayText}${this.plugin.settings.sep}${headings[0]}`,
+      displayText: `${displayText}${this.plugin.settings.sep}${notename}`,
       source: "Heading(s) and than note name"
     };
     return [suggestion1, suggestion2, suggestion3];
@@ -221,6 +247,13 @@ var AnchorDisplayTextSettingTab = class extends import_obsidian.PluginSettingTab
       dropdown.setValue(this.plugin.settings.includeNoteName);
       dropdown.onChange((value) => {
         this.plugin.settings.includeNoteName = value;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Title property").setDesc("If set, use the value of this property as the note name. (Leave blank to use file name)").addText((text) => {
+      text.setValue(this.plugin.settings.titleProperty);
+      text.onChange((value) => {
+        this.plugin.settings.titleProperty = value;
         this.plugin.saveSettings();
       });
     });

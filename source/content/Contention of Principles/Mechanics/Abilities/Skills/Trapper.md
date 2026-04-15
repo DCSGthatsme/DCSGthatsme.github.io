@@ -7,6 +7,6 @@ Novice<br>Active. The character can effectively handle [[Mechanical Trap|Mechani
 
 Adept<br>Active. The character can effectively handle [[Alchemical Trap|Alchemical Traps]]. An improvised trap made by the character now deals 1D8 damage.
 
-Master<br>Active. The character is a renowned trapper who knows how to utilize any kind of trap. Traps are counted as one tier higher: Weak becomes Moderate, Moderate becomes Strong, and Strong traps allow the Trapper a second chance on success tests. The enemies' attempts to discover, disarm, or get free become more difficult; the damage dice are rolled twice and the higher outcome stands. For Alchemical Traps, the damage reroll only pertains to the initial reaction, not any ongoing effects. Improvised traps now deal 1D10 damage.
+Master<br>Active. The character is a renowned trapper who knows how to utilize any kind of trap. Traps are counted as one tier higher: Weak becomes Moderate, Moderate becomes Strong, and Strong traps allow the Trapper a second chance on success tests. The enemies' attempts to discover, disarm, or get free become more difficult; the damage dice are rolled twice and the higher outcome stands. For Alchemical Traps, the damage re-roll only pertains to the initial reaction, not any ongoing effects. Improvised traps now deal 1D10 damage.
 ## Notes
 * From the Symbaroum Advanced Player's Guide.

@@ -9,3 +9,5 @@ When a character incurs more Corruption in a single instance than their [[Corrup
 A character is **Corrupted** if their Total Corruption surpasses their [[Corruption Limit]]. While a character is Corrupted, they incur one additional point (+1) of Permanent Corruption whenever they incur an instance of Corruption (applies to the instance that puts them past their Limit). Additionally, their Corruption Tolerance is equal to 0. At the end of the scene (before Temporary Corruption subsides), if they are still Corrupted, they will receive a Major Stigma.
 
 A fate worse than death surely awaits a character whose Permanent Corruption alone exceeds their Corruption Limit.
+
+Most rolls can be re-rolled at the cost of 1 Permanent Corruption and 1D4 Temporary Corruption. Only one re-roll per Action is allowed.

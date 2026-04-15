@@ -29,13 +29,18 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var DEFAULT_PLUGIN_SETTINGS = {
-  overrideAppTitle: "override-app-title:file-first"
+  overrideAppTitle: "override-app-title:file-first",
+  /// Whether to save an additional .vault-nickname in the vault's root (for
+  /// backwards compatibility with plugins before 1.1.9).
+  ///
+  enableBackwardsCompatibilty: false
 };
 var DEFAULT_SHARED_SETTINGS = {
   nickname: "My Vault Nickname"
 };
 var PATH_SEPARATOR = import_obsidian.Platform.isWin ? "\\" : "/";
-var VAULT_LOCAL_SHARED_SETTINGS_FILE_PATH = ".vault-nickname";
+var VAULT_SHARED_SETTINGS_FILE_PATH = "data-shared.json";
+var VAULT_LOCAL_LEGACY_SHARED_SETTINGS_FILE_PATH = ".vault-nickname";
 var VaultNicknamePlugin = class extends import_obsidian.Plugin {
   constructor() {
     super(...arguments);
@@ -49,18 +54,40 @@ var VaultNicknamePlugin = class extends import_obsidian.Plugin {
     this.isEnabled = true;
     this.vaultItemRenamedCallback = this.onVaultItemRenamed.bind(this);
     this.activeLeafChangeCallback = this.onActiveLeafChange.bind(this);
-    await this.loadSettings();
-    const settingsFilePath = this.getSharedSettingsFilePath();
-    let saveSettingsExist = false;
-    await this.app.vault.adapter.exists(settingsFilePath).then(
-      (exists) => {
-        saveSettingsExist = exists;
-      },
-      (rejectReason) => {
-        saveSettingsExist = false;
+    const sharedSettingsFilePath = this.getSharedSettingsFilePath();
+    const legacySettingsFilePath = this.getLegacySharedSettingsFilePath();
+    let sharedSettingsExists = false;
+    try {
+      sharedSettingsExists = this.filePathExistsSync(sharedSettingsFilePath);
+    } catch (e) {
+      console.error("Could not determine if settings file exists: " + sharedSettingsFilePath);
+    }
+    let legacySettingsExists = false;
+    try {
+      legacySettingsExists = this.filePathExistsSync(legacySettingsFilePath);
+    } catch (e) {
+      console.error("Could not determine if legacy settings file exists: " + legacySettingsFilePath);
+    }
+    let migratedFromLegacySettings = false;
+    if (legacySettingsExists && !sharedSettingsExists) {
+      try {
+        this.copyUtf8FileSync(
+          legacySettingsFilePath,
+          sharedSettingsFilePath
+        );
+        console.log("Migrated a legacy shared settings file into the plugin's install directory: " + sharedSettingsFilePath);
+        sharedSettingsExists = true;
+        migratedFromLegacySettings = true;
+      } catch (e) {
+        console.error("Failed to migrate the legacy nickname settings file.");
       }
-    );
-    if (!saveSettingsExist) {
+    }
+    await this.loadSettings();
+    if (migratedFromLegacySettings) {
+      this.settings.enableBackwardsCompatibilty = true;
+    }
+    const needsLegacySettingsSaved = this.settings.enableBackwardsCompatibilty && !legacySettingsExists;
+    if (!sharedSettingsExists || needsLegacySettingsSaved) {
       await this.saveSettings();
     }
     this.addSettingTab(new VaultNicknameSettingTab(this.app, this));
@@ -165,13 +192,29 @@ var VaultNicknamePlugin = class extends import_obsidian.Plugin {
     const menu = new import_obsidian.Menu();
     for (let vaultKey in vaults) {
       const vault = vaults[vaultKey];
-      const vaultPath = (0, import_obsidian.normalizePath)(vault.path);
+      const vaultPath = this.safeNormalizePath(vault.path);
       let vaultName = vaultPath.substring(vaultPath.lastIndexOf("/") + 1);
-      const vaultPluginSettingsFilePath = (0, import_obsidian.normalizePath)([
-        vault.path,
-        VAULT_LOCAL_SHARED_SETTINGS_FILE_PATH
+      let pluginInstallDir = this.manifest.dir;
+      const vaultConfigFolderName = import_obsidian.App.getOverrideConfigDir(vaultKey);
+      if (vaultConfigFolderName) {
+        const parts = pluginInstallDir.split(PATH_SEPARATOR);
+        parts[0] = vaultConfigFolderName;
+        pluginInstallDir = parts.join(PATH_SEPARATOR);
+      }
+      let vaultPluginSettingsFilePath = this.safeNormalizePath([
+        vaultPath,
+        pluginInstallDir,
+        VAULT_SHARED_SETTINGS_FILE_PATH
       ].join(PATH_SEPARATOR));
-      if (this.filePathExistsSync(vaultPluginSettingsFilePath)) {
+      let settingsFileExists = this.filePathExistsSync(vaultPluginSettingsFilePath);
+      if (!settingsFileExists) {
+        vaultPluginSettingsFilePath = this.safeNormalizePath([
+          vaultPath,
+          VAULT_LOCAL_LEGACY_SHARED_SETTINGS_FILE_PATH
+        ].join(PATH_SEPARATOR));
+        settingsFileExists = this.filePathExistsSync(vaultPluginSettingsFilePath);
+      }
+      if (settingsFileExists) {
         const vaultPluginSettingsJson = this.readUtf8FileSync(vaultPluginSettingsFilePath);
         if (vaultPluginSettingsJson) {
           const vaultPluginSettings = JSON.parse(vaultPluginSettingsJson);
@@ -311,9 +354,8 @@ var VaultNicknamePlugin = class extends import_obsidian.Plugin {
       ].join(titleSeparator);
     }
   }
-  /// Load the vault's nickname. Currently, a hidden file in the root of the
-  /// vault is used because it simplifies sharing vault nicknames between
-  /// other instances of the plugin.
+  /// Load the vault's nickname. A file in the vault's nickname plugin folder
+  /// is used. If no settings file exists, default values will be applied.
   ///
   async loadSettings() {
     const loadedSharedSettings = Object.assign({}, DEFAULT_SHARED_SETTINGS);
@@ -331,15 +373,19 @@ var VaultNicknamePlugin = class extends import_obsidian.Plugin {
     this.settings = Object.assign({}, DEFAULT_PLUGIN_SETTINGS, await this.loadData());
     this.refreshVaultDisplayName();
   }
-  /// Write the vault's nickname to disk. Currently, a hidden file in the
-  /// root of the vault is used because it simplifies sharing vault nicknames
-  /// between other instances of the plugin.
+  /// Write the vault's nickname to disk. We write a separate "shared
+  /// settings" file which is intended to be accessed by other instances of
+  /// the plugin installed in other vaults. This shared file may exist in
+  /// the plugin's install folder and/or in the vault's root (to support older
+  /// versions of the app).
   ///
   async saveSettings() {
+    const sharedSettingsJson = JSON.stringify(this.sharedSettings, null, 2);
     const sharedSettingsFilePath = this.getSharedSettingsFilePath();
-    if (sharedSettingsFilePath) {
-      const sharedSettingsJson = JSON.stringify(this.sharedSettings, null, 2);
-      this.writeUtf8FileSync(sharedSettingsFilePath, sharedSettingsJson);
+    this.writeUtf8FileSync(sharedSettingsFilePath, sharedSettingsJson);
+    if (this.settings.enableBackwardsCompatibilty) {
+      const legacySettingsFilePath = this.getLegacySharedSettingsFilePath();
+      this.writeUtf8FileSync(legacySettingsFilePath, sharedSettingsJson);
     }
     await this.saveData(this.settings);
     this.refreshVaultDisplayName();
@@ -366,19 +412,43 @@ var VaultNicknamePlugin = class extends import_obsidian.Plugin {
     }
     return explodedVaultPath[indexOfParentFolder].trim();
   }
-  /// Get the absolute path to this vault's nickname settings. This is a
-  /// hidden file in the root of the vault. Ideally, we would have this file
-  /// in the plugin's install folder but it is currently tricky to access
-  /// files in other vaults' config folder.
+  /// Get the absolute path to this vault's nickname settings file. This file
+  /// exists in the plugin's install folder.
   ///
   getSharedSettingsFilePath() {
-    return [
+    return this.safeNormalizePath([
       this.app.vault.adapter.getBasePath(),
-      VAULT_LOCAL_SHARED_SETTINGS_FILE_PATH
-    ].join(PATH_SEPARATOR);
+      this.manifest.dir,
+      VAULT_SHARED_SETTINGS_FILE_PATH
+    ].join(PATH_SEPARATOR));
+  }
+  /// Get the absolute path to this vault's legacy nickname settings file.
+  /// This is a hidden file in the root of the vault. This file has since been
+  /// migrated to the plugin's install folder but may still exist for
+  /// backwards compatibility reasons.
+  ///
+  getLegacySharedSettingsFilePath() {
+    return this.safeNormalizePath([
+      this.app.vault.adapter.getBasePath(),
+      VAULT_LOCAL_LEGACY_SHARED_SETTINGS_FILE_PATH
+    ].join(PATH_SEPARATOR));
+  }
+  /// Ensure a path is that was prepended with a leading slash stays prepended
+  /// with a slash (only necessary on Linux). This is intended to resolve an
+  /// inconsistency with how paths are normalized between Mac and Linux.
+  ///
+  safeNormalizePath(path) {
+    const needsPathSeparatorPrepended = path.startsWith(PATH_SEPARATOR);
+    path = (0, import_obsidian.normalizePath)(path);
+    if (needsPathSeparatorPrepended) {
+      path = PATH_SEPARATOR + path;
+    }
+    return path;
   }
   // Using synchronous calls because they prevent momentary flicker when
-  // vault nicknames are applied.
+  // vault nicknames are applied. These methods call directly into the file
+  // system API because the adapter does not allow us to view hidden files
+  // or files inside the plugin's install folder.
   filePathExistsSync(absoluteFilePath) {
     return this.app.vault.adapter.fs.existsSync(absoluteFilePath);
   }
@@ -387,6 +457,9 @@ var VaultNicknamePlugin = class extends import_obsidian.Plugin {
   }
   writeUtf8FileSync(absoluteFilePath, content) {
     this.app.vault.adapter.fs.writeFileSync(absoluteFilePath, content, "utf8");
+  }
+  copyUtf8FileSync(originalAbsoluteFilePath, newAbsoluteFilePath) {
+    this.app.vault.adapter.fs.copyFileSync(originalAbsoluteFilePath, newAbsoluteFilePath);
   }
 };
 var VaultNicknameSettingTab = class extends import_obsidian.PluginSettingTab {
@@ -429,6 +502,25 @@ var VaultNicknameSettingTab = class extends import_obsidian.PluginSettingTab {
         });
       });
     }
+    new import_obsidian.Setting(containerEl).setName("Backwards compatibility").setDesc("Support other vaults that use a plugin version older than 1.1.9.").setTooltip(
+      "When enabled, a hidden .vault-nickname file is saved in the vault's root. This allows other vaults that are using a version earlier than 1.1.9 to properly display this vault's nickname."
+    ).addToggle((toggleComponent) => {
+      toggleComponent.setValue(this.plugin.settings.enableBackwardsCompatibilty);
+      toggleComponent.onChange(async (newValue) => {
+        this.plugin.settings.enableBackwardsCompatibilty = newValue;
+        await this.plugin.saveSettings();
+        if (!newValue) {
+          const legacySettingsFilePath = this.plugin.getLegacySharedSettingsFilePath();
+          try {
+            this.plugin.app.vault.adapter.fs.unlinkSync(legacySettingsFilePath);
+          } catch (err) {
+            if (err.code !== "ENOENT") {
+              throw err;
+            }
+          }
+        }
+      });
+    });
   }
 };
 
