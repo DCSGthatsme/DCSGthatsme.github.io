@@ -1,0 +1,1 @@
+Bodin is a sturdy man in his late twenties, frequently wearing padded robes and a face wrap. He is known as a tenacious hunter of Principles and a highly determined fighter. He is accompanied by his young protégé, Katla.

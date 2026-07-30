@@ -1,0 +1,1 @@
+Marko is a merchant and trader in his late twenties. He is a traveler, a barterer, and a survivalist.

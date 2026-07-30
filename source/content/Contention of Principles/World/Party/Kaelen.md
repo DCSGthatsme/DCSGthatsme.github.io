@@ -1,0 +1,1 @@
+Kaelen of Accord is a charismatic traveling storyteller and musician in their early thirties. They are usually seen smiling and carrying a flute at their belt. They collect stories and rumors and provide entertainment.

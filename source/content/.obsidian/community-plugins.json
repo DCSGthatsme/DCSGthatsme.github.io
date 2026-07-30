@@ -4,7 +4,6 @@
   "table-editor-obsidian",
   "obsidian-auto-link-title",
   "remember-cursor-position",
-  "folder-notes",
   "note-refactor-obsidian",
   "vault-nickname",
   "cmdr",
@@ -14,5 +13,6 @@
   "recent-notes",
   "cmd-search",
   "unicode-search",
-  "image-darkmodifier"
+  "image-darkmodifier",
+  "folder-notes"
 ]

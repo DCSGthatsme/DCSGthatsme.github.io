@@ -1,0 +1,1 @@
+Owen of Gonaparted is a 26-year-old man with a wiry build who appears alert, meek, and restless. He is employed under Scarlet as a farmhand.

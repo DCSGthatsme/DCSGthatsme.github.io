@@ -1,0 +1,1 @@
+Scarlet Cress is a petite, lean woman of 27 with red hair and silken clothes. She is a fighter who owns and works a watermelon farm on the outskirts of [[Brio]], specializing in evergreen watermelons which she uses for bartering. Scarlet is accompanied by her Great Dane, Violet.

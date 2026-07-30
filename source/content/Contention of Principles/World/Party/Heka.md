@@ -1,0 +1,1 @@
+Heka Griseo is a combat-trained healer in their early thirties wearing bulky armor and equipment. They have a large, calloused scar running from their right eyebrow to their lower jaw, and turquoise eyes.
