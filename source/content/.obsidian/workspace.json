@@ -24,22 +24,9 @@
             }
           },
           {
-            "id": "f732f38866e895dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contention of Principles/World/Sessions/Session 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 7"
-            }
-          },
-          {
             "id": "6f08433eae198697",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,12 +34,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Sessions"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,9 +212,19 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "77b1fffaad4a607b",
+  "active": "6f08433eae198697",
   "lastOpenFiles": [
     "Contention of Principles/World/Sessions/Session 7.md",
+    "Base.base",
+    "Contention of Principles/Mechanics/NPC Archetypes/Elves.md",
+    "index.md",
+    "Test.canvas",
+    "Contention of Principles/Adapting Symbaroum.md",
+    "Contention of Principles/World/Sessions/Sessions.md",
+    "Contention of Principles/Primer.md",
+    "Contention of Principles/World/World Guidance.md",
+    "Contention of Principles/World/Sessions/Session 6.md",
+    "Contention of Principles/World/Sessions/Session 1.md",
     "Contention of Principles/World/Party/Party.md",
     "Contention of Principles/Mechanics/Items/Weapons/Weapons.md",
     "Contention of Principles/Mechanics/Items/Weapons/Totokia.md",
@@ -236,7 +234,6 @@
     "Contention of Principles/Mechanics/Abilities/Skills/Trapper.md",
     "Contention of Principles/Mechanics/Abilities/Rituals/Familiar.md",
     "Contention of Principles/Mechanics/Items/Artifacts/Flawless Record.md",
-    "Contention of Principles/World/Sessions/Session 6.md",
     "Contention of Principles/Mechanics/Abilities/Rituals/Clairvoyance.md",
     "Contention of Principles/Mechanics/Abilities/Monstrous Features/Deadly Breath.md",
     "Contention of Principles/World/Sessions/Session 5.md",
@@ -244,14 +241,6 @@
     "Contention of Principles/World/Sessions/Session 4.md",
     "Contention of Principles/World/Sessions/Session 3.md",
     "Contention of Principles/World/Sessions/Session 2.md",
-    "Contention of Principles/Mechanics/Abilities/Mystical Powers/Mirroring.md",
-    "Contention of Principles/World/Sessions/Session 1.md",
-    "Contention of Principles/World/Sessions/Sessions.md",
-    "Contention of Principles/World/Party/Scarlet.md",
-    "Contention of Principles/World/Party/Owen.md",
-    "Contention of Principles/World/Party/Marko.md",
-    "Contention of Principles/World/Party/Kaelen.md",
-    "Contention of Principles/World/Party/Heka.md",
     "Contention of Principles/World/Party",
     "Contention of Principles/World/Sessions"
   ]
