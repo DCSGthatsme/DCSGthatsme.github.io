@@ -1,0 +1,3 @@
+Yaku was the chronicler for [[Heed]]. As the keeper of the village's history, he shared a local legend with the [[Party|party]] which told of ancient heroes who defended against a swarm of winged serpents and a massive subterranean serpent. This legend served as the origin for Heed's annual Festival of Dousing, an event Yaku took pride in.
+
+Tragically, Yaku perished during the disaster that destroyed Heed. According to a survivor, Yaku was seen attempting to start a bonfire, likely in a desperate attempt to invoke the protection of the Principle described in his tale. His body was later identified in the rubble and buried by the party.
